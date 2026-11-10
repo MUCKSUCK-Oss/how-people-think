@@ -1,0 +1,1807 @@
+{
+ "model": "haiku",
+ "people": 30,
+ "rows": [
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, 300 jobs guaranteed is way better than gambling and losing everything for 900 people. I make quick decisions, but this isn't a hard choice – Plan B is basically a 2 in 3 chance of zero jobs, which is just sad. Plan A isn't flashy, but it actually saves people's livelihoods.",
+   "raw": "CHOICE: A\n\nREASON: Look, 300 jobs guaranteed is way better than gambling and losing everything for 900 people. I make quick decisions, but this isn't a hard choice – Plan B is basically a 2 in 3 chance of zero jobs, which is just sad. Plan A isn't flashy, but it actually saves people's livelihoods."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Plan A sucks but at least 300 jobs are definitely saved. Plan B is basically gambling with people's livelihoods — yeah, there's a small chance nothing bad happens, but 2/3 odds that everyone loses their job? That's too risky. I'd rather take the guaranteed bad outcome than roll the dice and potentially make it way worse.",
+   "raw": "CHOICE: A\n\nREASON: Plan A sucks but at least 300 jobs are definitely saved. Plan B is basically gambling with people's livelihoods — yeah, there's a small chance nothing bad happens, but 2/3 odds that everyone loses their job? That's too risky. I'd rather take the guaranteed bad outcome than roll the dice and potentially make it way worse."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Honestly, I'm just trying to finish signing up quickly. It's not something I've thought much about, and I can always come back to it later if I want to. Right now I just want to get this done.",
+   "raw": "BOX: unticked\n\nREASON: Honestly, I'm just trying to finish signing up quickly. It's not something I've thought much about, and I can always come back to it later if I want to. Right now I just want to get this done."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already checked, na, so I'm just leaving it as is. Feels like a good thing to do and I'm not going to waste time unchecking it.",
+   "raw": "BOX: ticked\nREASON: It's already checked, na, so I'm just leaving it as is. Feels like a good thing to do and I'm not going to waste time unchecking it."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 7,
+   "reason": "Look, I already bought the ticket and IPL matches are the best—nothing beats being there live when everyone's going crazy. The rain and traffic are annoying, but ₹2,500 is done anyway, so might as well go. I'll just grab an umbrella and push through.",
+   "raw": "LIKELY: 7\n\nREASON: Look, I already bought the ticket and IPL matches are the best—nothing beats being there live when everyone's going crazy. The rain and traffic are annoying, but ₹2,500 is done anyway, so might as well go. I'll just grab an umbrella and push through."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Honestly, heavy rain and jammed roads sounds like too much hassle when I can just watch it on TV at home and stay dry. It's free so there's no guilt about wasting money, and I'll still get to see all the action without the headache.",
+   "raw": "LIKELY: 3\n\nREASON: Honestly, heavy rain and jammed roads sounds like too much hassle when I can just watch it on TV at home and stay dry. It's free so there's no guilt about wasting money, and I'll still get to see all the action without the headache."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, 300 jobs saved is something concrete - those families will have their livelihoods. With Plan B, there's a big chance we end up with nothing at all, and I can't ask 900 families to bet everything on those odds. Plan A is the safe choice, and in a situation like this, I'd rather guarantee something real than gamble with people's futures.",
+   "raw": "CHOICE: A\n\nREASON: Look, 300 jobs saved is something concrete - those families will have their livelihoods. With Plan B, there's a big chance we end up with nothing at all, and I can't ask 900 families to bet everything on those odds. Plan A is the safe choice, and in a situation like this, I'd rather guarantee something real than gamble with people's futures."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Plan A guarantees that 300 jobs will be saved, which is better than Plan B where there's a big 2/3 chance we lose everything anyway. I'm comfortable taking risks with money, but risking people's entire livelihoods like that doesn't make sense to me—better to have something certain rather than gamble with those odds.",
+   "raw": "CHOICE: A\n\nREASON: Plan A guarantees that 300 jobs will be saved, which is better than Plan B where there's a big 2/3 chance we lose everything anyway. I'm comfortable taking risks with money, but risking people's entire livelihoods like that doesn't make sense to me—better to have something certain rather than gamble with those odds."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I haven't really thought about this much, and honestly it's not something I feel strongly about either way. I'll just leave it as it is and move on - maybe I'll think about it properly later if it comes up again.",
+   "raw": "BOX: unticked\n\nREASON: I haven't really thought about this much, and honestly it's not something I feel strongly about either way. I'll just leave it as it is and move on - maybe I'll think about it properly later if it comes up again."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already checked and seems like a good thing anyway. I'm not against it, so no reason to untick. Let me just finish and move on.",
+   "raw": "BOX: ticked\n\nREASON: It's already checked and seems like a good thing anyway. I'm not against it, so no reason to untick. Let me just finish and move on."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Heavy rain and jammed roads? At 57, that's not worth the trouble when I can see the match perfectly fine on my TV at home. The money is already spent anyway, so no point sitting in traffic and getting soaked for it.",
+   "raw": "LIKELY: 3\n\nREASON: Heavy rain and jammed roads? At 57, that's not worth the trouble when I can see the match perfectly fine on my TV at home. The money is already spent anyway, so no point sitting in traffic and getting soaked for it."
+  },
+  {
+   "person": 1,
+   "name": "Rahul",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 2,
+   "reason": "The free ticket is nice, but at 57, I'm not going to sit in heavy rain and deal with jammed roads when I can watch the match comfortably at home on TV. The match will happen either way, so why put myself through all that hassle?",
+   "raw": "LIKELY: 2\nREASON: The free ticket is nice, but at 57, I'm not going to sit in heavy rain and deal with jammed roads when I can watch the match comfortably at home on TV. The match will happen either way, so why put myself through all that hassle?"
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I would vote for Plan A. When money and jobs are tight, you cannot afford to gamble - I know this from managing my own household. Saving 300 jobs for certain is much better than risking everything on a plan that has a two-thirds chance of saving nothing at all. Those families need reliable income, not false hope.",
+   "raw": "CHOICE: A\n\nREASON: I would vote for Plan A. When money and jobs are tight, you cannot afford to gamble - I know this from managing my own household. Saving 300 jobs for certain is much better than risking everything on a plan that has a two-thirds chance of saving nothing at all. Those families need reliable income, not false hope."
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I would rather lose 600 jobs for certain than gamble with Plan B. The odds are very bad - two out of three times we lose all 900 jobs anyway. As someone who watches every paisa, I know it's better to have something sure than to hope for the 1/3 chance. At least 300 families keep their work with Plan A.",
+   "raw": "CHOICE: A\n\nREASON: I would rather lose 600 jobs for certain than gamble with Plan B. The odds are very bad - two out of three times we lose all 900 jobs anyway. As someone who watches every paisa, I know it's better to have something sure than to hope for the 1/3 chance. At least 300 families keep their work with Plan A."
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not sure about all this organ donor business - it's not something people around me usually do, and I don't want to tick a box on a government form without thinking it through properly. Better to leave it blank for now; if I decide later, I can always change it.",
+   "raw": "BOX: unticked\n\nREASON: I'm not sure about all this organ donor business - it's not something people around me usually do, and I don't want to tick a box on a government form without thinking it through properly. Better to leave it blank for now; if I decide later, I can always change it."
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "I'll untick it. Such an important decision shouldn't be made just because it's already checked by default. I need to think about this properly and talk to my family about it first before I decide.",
+   "raw": "BOX: unticked\n\nREASON: I'll untick it. Such an important decision shouldn't be made just because it's already checked by default. I need to think about this properly and talk to my family about it first before I decide."
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Arrey, I paid ₹2,500 which is no small amount for us, so that part hurts. But heavy rain, jammed roads, and my age—I'm not keen on sitting in wet clothes and traffic for hours when I can watch the match comfortably at home on the TV. The money is already gone, and my health and comfort matter more than that.",
+   "raw": "LIKELY: 3\n\nREASON: Arrey, I paid ₹2,500 which is no small amount for us, so that part hurts. But heavy rain, jammed roads, and my age—I'm not keen on sitting in wet clothes and traffic for hours when I can watch the match comfortably at home on the TV. The money is already gone, and my health and comfort matter more than that."
+  },
+  {
+   "person": 2,
+   "name": "Ananya",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Haan, the ticket is free and worth good money, but at my age, sitting in heavy rain for hours while the traffic is so bad? My knees will hurt, I'll catch a cold, and the roads are jammed yaar. I can watch it properly on TV at home with chai and no headache. The free ticket is nice, but not worth all this trouble when I have a comfortable option right here.",
+   "raw": "LIKELY: 3\n\nREASON: Haan, the ticket is free and worth good money, but at my age, sitting in heavy rain for hours while the traffic is so bad? My knees will hurt, I'll catch a cold, and the roads are jammed yaar. I can watch it properly on TV at home with chai and no headache. The free ticket is nice, but not worth all this trouble when I have a comfortable option right here."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I'm used to counting every rupee I earn, and when something is uncertain, I don't take the gamble. Plan A guarantees 300 families won't lose their jobs—that's 300 people with food on the table. Plan B sounds attractive with that 1/3 chance, but 2/3 of the time we end up with zero jobs saved? That's too big a risk when people's livelihoods are at stake. I'll take what's certain.",
+   "raw": "CHOICE: A\n\nREASON: Look, I'm used to counting every rupee I earn, and when something is uncertain, I don't take the gamble. Plan A guarantees 300 families won't lose their jobs—that's 300 people with food on the table. Plan B sounds attractive with that 1/3 chance, but 2/3 of the time we end up with zero jobs saved? That's too big a risk when people's livelihoods are at stake. I'll take what's certain."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I research everything before deciding, and I can't risk a 2/3 chance of losing all 900 jobs completely. Plan A guarantees at least 300 jobs survive - that gives people something to rebuild their lives from. When money is tight like mine, you don't gamble when there's a certain path.",
+   "raw": "CHOICE: A\n\nREASON: I research everything before deciding, and I can't risk a 2/3 chance of losing all 900 jobs completely. Plan A guarantees at least 300 jobs survive - that gives people something to rebuild their lives from. When money is tight like mine, you don't gamble when there's a certain path."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not ticking this without doing proper research first. I need to understand what happens after I register — will it affect my treatment if something happens to me? What exactly is the government storing? I'll look into this properly later, but I'm not making any decision just because a form is asking me to.",
+   "raw": "BOX: unticked\n\nREASON: I'm not ticking this without doing proper research first. I need to understand what happens after I register — will it affect my treatment if something happens to me? What exactly is the government storing? I'll look into this properly later, but I'm not making any decision just because a form is asking me to."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "Yaar, I'm not the type to tick boxes without thinking things through properly. Organ donation is a big decision—I need to understand what it actually means, when they would take organs, and what happens to my body. I'll research this properly first, then come back and make the decision.",
+   "raw": "BOX: unticked\n\nREASON: Yaar, I'm not the type to tick boxes without thinking things through properly. Organ donation is a big decision—I need to understand what it actually means, when they would take organs, and what happens to my body. I'll research this properly first, then come back and make the decision."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "That ₹2,500 is already gone—I can't get it back by sitting in rain and traffic. But throwing more money on transport or fuel to fight my way through jammed roads for a match I can watch dry at home? That's just burning rupees for stubbornness. Money is too tight for that kind of nonsense.",
+   "raw": "LIKELY: 3\n\nREASON: That ₹2,500 is already gone—I can't get it back by sitting in rain and traffic. But throwing more money on transport or fuel to fight my way through jammed roads for a match I can watch dry at home? That's just burning rupees for stubbornness. Money is too tight for that kind of nonsense."
+  },
+  {
+   "person": 3,
+   "name": "Vikram",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The ticket is free, but I'm losing money on fuel and time stuck in traffic when I could be earning during peak evening hours. Heavy rain means I'll be soaked and uncomfortable getting there, and jammed roads mean I waste hours just traveling. I can watch the same match clearly on TV at home without any hassle—that's the practical choice.",
+   "raw": "LIKELY: 3\n\nREASON: The ticket is free, but I'm losing money on fuel and time stuck in traffic when I could be earning during peak evening hours. Heavy rain means I'll be soaked and uncomfortable getting there, and jammed roads mean I waste hours just traveling. I can watch the same match clearly on TV at home without any hassle—that's the practical choice."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, 300 jobs saved for sure is better than gambling with people's livelihoods. That plan B thing sounds nice in theory, but 2 out of 3 times it fails completely? As someone who watches her money carefully, I know that's how you lose everything. I'll take the certain 300.",
+   "raw": "CHOICE: A\n\nREASON: Look, 300 jobs saved for sure is better than gambling with people's livelihoods. That plan B thing sounds nice in theory, but 2 out of 3 times it fails completely? As someone who watches her money carefully, I know that's how you lose everything. I'll take the certain 300."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, 600 jobs lost is bad, but it's definite and we can plan for it. Plan B could wipe out all 900 jobs - that's way worse. I'm careful with planning, and I'd rather deal with a certain loss than gamble and lose everything.",
+   "raw": "CHOICE: A\n\nREASON: Look, 600 jobs lost is bad, but it's definite and we can plan for it. Plan B could wipe out all 900 jobs - that's way worse. I'm careful with planning, and I'd rather deal with a certain loss than gamble and lose everything."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I don't like it when these apps try to slide things past you on sign-up forms. If I ever decide to be a donor, I'll do it properly on my own, not because the government form is nudging me into it.",
+   "raw": "BOX: unticked\n\nREASON: I don't like it when these apps try to slide things past you on sign-up forms. If I ever decide to be a donor, I'll do it properly on my own, not because the government form is nudging me into it."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "Why is it already ticked? The government shouldn't be deciding this for me—I'll make my own choice about organ donation, not just accept what they've pre-filled.",
+   "raw": "BOX: unticked\n\nREASON: Why is it already ticked? The government shouldn't be deciding this for me—I'll make my own choice about organ donation, not just accept what they've pre-filled."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "I'm not sitting in heavy rain and jammed roads for hours when I can watch it perfectly fine at home on TV. The money's already spent—no point making myself miserable in this weather.",
+   "raw": "LIKELY: 3\n\nREASON: I'm not sitting in heavy rain and jammed roads for hours when I can watch it perfectly fine at home on TV. The money's already spent—no point making myself miserable in this weather."
+  },
+  {
+   "person": 4,
+   "name": "Sneha",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Free ticket or not, sitting in heavy rain and traffic jam sounds like too much hassle when I can watch the match comfortably at home with a cup of chai. The match will be the same either way, and I'm not getting drenched just for that.",
+   "raw": "LIKELY: 3\n\nREASON: Free ticket or not, sitting in heavy rain and traffic jam sounds like too much hassle when I can watch the match comfortably at home with a cup of chai. The match will be the same either way, and I'm not getting drenched just for that."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "When money is tight, you can't gamble with people's livelihoods. 300 jobs guaranteed is better than risking all 900 and ending up with nothing two times out of three. I've been working long enough to know - a sure thing in hand beats a risky bet when families are depending on that income.",
+   "raw": "CHOICE: A\n\nREASON: When money is tight, you can't gamble with people's livelihoods. 300 jobs guaranteed is better than risking all 900 and ending up with nothing two times out of three. I've been working long enough to know - a sure thing in hand beats a risky bet when families are depending on that income."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "B",
+   "reason": "With Plan A, we lose 600 jobs for sure — that's certain disaster. Plan B is risky, yes, but there's a one-third chance we keep all 900 jobs working. When money is tight like mine, you have to take the shot at full recovery, even if the odds are rough.",
+   "raw": "CHOICE: B\n\nREASON: With Plan A, we lose 600 jobs for sure — that's certain disaster. Plan B is risky, yes, but there's a one-third chance we keep all 900 jobs working. When money is tight like mine, you have to take the shot at full recovery, even if the odds are rough."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Arey, this is not something to decide in a hurry just to finish signing up. Let me think about it properly and maybe ask my family first - these things need family discussion, no? I can always register later if I decide to do it.",
+   "raw": "BOX: unticked\n\nREASON: Arey, this is not something to decide in a hurry just to finish signing up. Let me think about it properly and maybe ask my family first - these things need family discussion, no? I can always register later if I decide to do it."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already checked, and it's a decent thing. If something happens to me, better my organs help someone than go to waste, no? No reason to untick it.",
+   "raw": "BOX: ticked\n\nREASON: It's already checked, and it's a decent thing. If something happens to me, better my organs help someone than go to waste, no? No reason to untick it."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Look, the ₹2,500 is already gone—staying home won't get that back. But heavy rain and jammed roads? At 51, I'd rather not spend hours stuck in traffic getting soaked just to sit in a wet stadium when I can watch the same match dry and comfortable on my TV at home.",
+   "raw": "LIKELY: 3\n\nREASON: Look, the ₹2,500 is already gone—staying home won't get that back. But heavy rain and jammed roads? At 51, I'd rather not spend hours stuck in traffic getting soaked just to sit in a wet stadium when I can watch the same match dry and comfortable on my TV at home."
+  },
+  {
+   "person": 5,
+   "name": "Arjun",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 2,
+   "reason": "Heavy rain and jammed roads mean I'm wasting time and money on transport when I could watch the match at home dry and comfortable. At my age, sitting in wet traffic isn't worth it, and I lose work hours I can't afford to lose. The ticket is free, but my time isn't.",
+   "raw": "LIKELY: 2\n\nREASON: Heavy rain and jammed roads mean I'm wasting time and money on transport when I could watch the match at home dry and comfortable. At my age, sitting in wet traffic isn't worth it, and I lose work hours I can't afford to lose. The ticket is free, but my time isn't."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I'd rather guarantee that 300 families keep their livelihoods than gamble with Plan B where two out of three times everyone loses everything. Yes, Plan B has a chance to save all 900 jobs, but I've run a shop long enough to know that a sure thing is worth more than a risky bet with those odds.",
+   "raw": "CHOICE: A\n\nREASON: I'd rather guarantee that 300 families keep their livelihoods than gamble with Plan B where two out of three times everyone loses everything. Yes, Plan B has a chance to save all 900 jobs, but I've run a shop long enough to know that a sure thing is worth more than a risky bet with those odds."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Both plans lose roughly the same number of jobs if you do the math—600 either way. But Plan A guarantees 300 jobs survive, so we know what we're working with to rebuild. Plan B is mostly likely to destroy everything, and I can't bet my community's future on 1 in 3 odds when there's a sure option that preserves at least some of the fishing industry.",
+   "raw": "CHOICE: A\n\nREASON: Both plans lose roughly the same number of jobs if you do the math—600 either way. But Plan A guarantees 300 jobs survive, so we know what we're working with to rebuild. Plan B is mostly likely to destroy everything, and I can't bet my community's future on 1 in 3 odds when there's a sure option that preserves at least some of the fishing industry."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I haven't thought much about organ donation until now, so I'd rather not tick something without being sure. If I decide it's something I want to do later, I can probably update it in the app.",
+   "raw": "BOX: unticked\n\nREASON: I haven't thought much about organ donation until now, so I'd rather not tick something without being sure. If I decide it's something I want to do later, I can probably update it in the app."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "I don't see any reason to untick it. If something happens to me, my organs can help someone else—it's a good thing to do. I'm comfortable with the decision and I don't need to overthink every little option on a form.",
+   "raw": "BOX: ticked\n\nREASON: I don't see any reason to untick it. If something happens to me, my organs can help someone else—it's a good thing to do. I'm comfortable with the decision and I don't need to overthink every little option on a form."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "I already have the ticket, but heavy rain and jammed roads are too much hassle for what I can watch comfortably at home. The match will be the same on TV, and I'm practical enough not to get drenched just because I bought a ticket weeks ago—the money's already spent either way.",
+   "raw": "LIKELY: 3\n\nREASON: I already have the ticket, but heavy rain and jammed roads are too much hassle for what I can watch comfortably at home. The match will be the same on TV, and I'm practical enough not to get drenched just because I bought a ticket weeks ago—the money's already spent either way."
+  },
+  {
+   "person": 6,
+   "name": "Fatima",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Heavy rain and jammed roads? No, that's too much hassle for me. The ticket is free, but I'm not losing money if I stay home—I can watch the match perfectly fine on my TV with a cup of chai, no traffic stress. If the weather was clear I'd probably go just for the experience, but not like this.",
+   "raw": "LIKELY: 3\n\nREASON: Heavy rain and jammed roads? No, that's too much hassle for me. The ticket is free, but I'm not losing money if I stay home—I can watch the match perfectly fine on my TV with a cup of chai, no traffic stress. If the weather was clear I'd probably go just for the experience, but not like this."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I've done the math on this—both plans have the same expected value of 300 jobs saved, but Plan A delivers certainty while Plan B is a gamble where two-thirds of the time we get nothing. As an engineer, I know you can't build a recovery plan on hope. Plan A is the responsible choice because those 300 families will actually have their livelihoods secured, and the district can properly plan around that number.",
+   "raw": "CHOICE: A\n\nREASON: I've done the math on this—both plans have the same expected value of 300 jobs saved, but Plan A delivers certainty while Plan B is a gamble where two-thirds of the time we get nothing. As an engineer, I know you can't build a recovery plan on hope. Plan A is the responsible choice because those 300 families will actually have their livelihoods secured, and the district can properly plan around that number."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I've seen enough construction projects go wrong to know that certainty is worth a lot. Plan A saves 300 jobs guaranteed—we can work with that, plan real recovery measures around it. Plan B is essentially a coin flip that's weighted toward disaster (2/3 chance we lose everything), and I'm not gambling with 900 people's livelihoods. The math might show they're equivalent on paper, but in practice, having a known baseline to rebuild from beats hoping for a miracle.",
+   "raw": "CHOICE: A\n\nREASON: I've seen enough construction projects go wrong to know that certainty is worth a lot. Plan A saves 300 jobs guaranteed—we can work with that, plan real recovery measures around it. Plan B is essentially a coin flip that's weighted toward disaster (2/3 chance we lose everything), and I'm not gambling with 900 people's livelihoods. The math might show they're equivalent on paper, but in practice, having a known baseline to rebuild from beats hoping for a miracle."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not going to decide something this important on the spot just to finish a form. This is a decision that deserves proper thought—I'll research the implications first and update my preferences later in the app settings when I've made up my mind properly.",
+   "raw": "BOX: unticked\n\nREASON: I'm not going to decide something this important on the spot just to finish a form. This is a decision that deserves proper thought—I'll research the implications first and update my preferences later in the app settings when I've made up my mind properly."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "I don't like the trick of pre-ticking this box. If they want me to be an organ donor, they should ask me to actively choose it, not assume I agree by default. I'll research the organ donation policies properly later and make a conscious decision, not sign up for something just because the government defaulted it that way.",
+   "raw": "BOX: unticked\n\nREASON: I don't like the trick of pre-ticking this box. If they want me to be an organ donor, they should ask me to actively choose it, not assume I agree by default. I'll research the organ donation policies properly later and make a conscious decision, not sign up for something just because the government defaulted it that way."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already spent, so that's not coming back either way. As a civil engineer, I know these jammed roads in rain — I'm looking at easily 2+ hours to get there, maybe arriving mid-match, and extra money wasted on transport and overpriced stadium food. I'd rather watch comfortably at home where I can actually see the match properly and not risk it getting rained out anyway. The inconvenience just doesn't match the benefit here.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already spent, so that's not coming back either way. As a civil engineer, I know these jammed roads in rain — I'm looking at easily 2+ hours to get there, maybe arriving mid-match, and extra money wasted on transport and overpriced stadium food. I'd rather watch comfortably at home where I can actually see the match properly and not risk it getting rained out anyway. The inconvenience just doesn't match the benefit here."
+  },
+  {
+   "person": 7,
+   "name": "Rohan",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Look, free ticket is free, but I'm not an idiot about it. Heavy rain means I'll be soaked and miserable, the roads are already jammed so I could waste 2-3 hours just getting there, and there's no guarantee the match even happens. I'll watch it comfortably at home with a cup of tea, and save myself the headache and the wear on my clothes. The ticket was nice of my friend, but the actual logistics don't add up right now.",
+   "raw": "LIKELY: 3\n\nREASON: Look, free ticket is free, but I'm not an idiot about it. Heavy rain means I'll be soaked and miserable, the roads are already jammed so I could waste 2-3 hours just getting there, and there's no guarantee the match even happens. I'll watch it comfortably at home with a cup of tea, and save myself the headache and the wear on my clothes. The ticket was nice of my friend, but the actual logistics don't add up right now."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I know money and jobs are everything—when you're struggling, you can't afford to gamble. Plan A saves 300 jobs guaranteed. Plan B is basically a coin flip where most likely nobody gets saved. I'd take the sure thing every time.",
+   "raw": "CHOICE: A\n\nREASON: Look, I know money and jobs are everything—when you're struggling, you can't afford to gamble. Plan A saves 300 jobs guaranteed. Plan B is basically a coin flip where most likely nobody gets saved. I'd take the sure thing every time."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, I know 600 jobs lost sounds terrible, but at least it's certain—300 families keep their work. Plan B is basically a coin flip where we could lose everything. When money is already tight, you don't gamble with people's livelihoods like that. Give me the sure outcome over a 2/3 chance of total disaster.",
+   "raw": "CHOICE: A\n\nREASON: Look, I know 600 jobs lost sounds terrible, but at least it's certain—300 families keep their work. Plan B is basically a coin flip where we could lose everything. When money is already tight, you don't gamble with people's livelihoods like that. Give me the sure outcome over a 2/3 chance of total disaster."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "These government forms always want something from you, no? I'm just here for my medical records. I'll leave it as it is—not my problem if they're trying to get people to tick these boxes. Besides, nobody I know has ever mentioned doing this, so I'm not about to be the first.",
+   "raw": "BOX: unticked\n\nREASON: These government forms always want something from you, no? I'm just here for my medical records. I'll leave it as it is—not my problem if they're trying to get people to tick these boxes. Besides, nobody I know has ever mentioned doing this, so I'm not about to be the first."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "This is pre-ticked, which means they want me to be a donor by default. I don't like when forms try to push me into something—reminds me of shops that assume you want their expensive extras. If I decide to be a donor, it should be my active choice, not theirs.",
+   "raw": "BOX: unticked\n\nREASON: This is pre-ticked, which means they want me to be a donor by default. I don't like when forms try to push me into something—reminds me of shops that assume you want their expensive extras. If I decide to be a donor, it should be my active choice, not theirs."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already spent—throwing my body into heavy rain and traffic won't change that. I'll watch the match at home on TV, comfortable and dry. No point suffering just because I already bought the ticket.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already spent—throwing my body into heavy rain and traffic won't change that. I'll watch the match at home on TV, comfortable and dry. No point suffering just because I already bought the ticket."
+  },
+  {
+   "person": 8,
+   "name": "Meera",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "It's free but honestly, I'm not paying ₹300-400 for an auto ride there and back in this rain, plus ₹500+ for overpriced stadium food when I can watch it properly at home on a good screen. The traffic alone will waste two hours. Not worth the headache.",
+   "raw": "LIKELY: 3\n\nREASON: It's free but honestly, I'm not paying ₹300-400 for an auto ride there and back in this rain, plus ₹500+ for overpriced stadium food when I can watch it properly at home on a good screen. The traffic alone will waste two hours. Not worth the headache."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I'm careful with money and I know what it means when a job disappears. Plan A guarantees 300 people keep their livelihoods - that's certain. Plan B is just gambling with people's futures, and there's a two-thirds chance everyone loses everything. I'll take the sure thing over a risky bet when it's other people's jobs on the line.",
+   "raw": "CHOICE: A\n\nREASON: Look, I'm careful with money and I know what it means when a job disappears. Plan A guarantees 300 people keep their livelihoods - that's certain. Plan B is just gambling with people's futures, and there's a two-thirds chance everyone loses everything. I'll take the sure thing over a risky bet when it's other people's jobs on the line."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, Plan A is guaranteed - 300 jobs will survive, that's certain. Plan B has a 2/3 chance we lose everything, and I'm not betting 900 people's livelihoods on those odds. I'm careful with money and I don't like gambling with what I can't afford to lose - same logic applies here.",
+   "raw": "CHOICE: A\n\nREASON: Look, Plan A is guaranteed - 300 jobs will survive, that's certain. Plan B has a 2/3 chance we lose everything, and I'm not betting 900 people's livelihoods on those odds. I'm careful with money and I don't like gambling with what I can't afford to lose - same logic applies here."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Look, I don't just tick boxes without thinking, especially on government forms. I'm not against donation, but this seems like they're nudging me to do it right here on the last screen. I'd rather discuss it with my family first and come back to update it later if we decide yes.",
+   "raw": "BOX: unticked\n\nREASON: Look, I don't just tick boxes without thinking, especially on government forms. I'm not against donation, but this seems like they're nudging me to do it right here on the last screen. I'd rather discuss it with my family first and come back to update it later if we decide yes."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "Look, I don't like it when they pre-tick these boxes - feels like they're trying to push me into something without properly asking. I'll make my own decision about my body, not just accept what the government defaults me to. If I want to be a donor, I'll tick it myself next time.",
+   "raw": "BOX: unticked\n\nREASON: Look, I don't like it when they pre-tick these boxes - feels like they're trying to push me into something without properly asking. I'll make my own decision about my body, not just accept what the government defaults me to. If I want to be a donor, I'll tick it myself next time."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Look, I already spent ₹2,500, and that bothers me—but sitting in heavy rain for hours and dealing with jammed roads at my age? Not worth it. I can watch the match comfortably at home with a cup of chai, and I won't catch a cold either.",
+   "raw": "LIKELY: 3\n\nREASON: Look, I already spent ₹2,500, and that bothers me—but sitting in heavy rain for hours and dealing with jammed roads at my age? Not worth it. I can watch the match comfortably at home with a cup of chai, and I won't catch a cold either."
+  },
+  {
+   "person": 9,
+   "name": "Karan",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Look, the ticket is free—that's ₹2,500 saved, I know. But in this rain and traffic jam, I'll be spending extra on auto fare, wasting two hours stuck, and come home soaking wet. At 50, I'm not as keen on these headaches. I'll watch it properly on TV at home with some chai, na—same match, much less trouble.",
+   "raw": "LIKELY: 3\n\nREASON: Look, the ticket is free—that's ₹2,500 saved, I know. But in this rain and traffic jam, I'll be spending extra on auto fare, wasting two hours stuck, and come home soaking wet. At 50, I'm not as keen on these headaches. I'll watch it properly on TV at home with some chai, na—same match, much less trouble."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Plan A guarantees that 300 families will have their livelihoods protected after the cyclone hits. Plan B is too risky—there's a 2 in 3 chance that people lose everything. As a nurse, I see what happens when people lose their jobs and security, and I cannot vote to gamble with that. Better to save 300 jobs for certain than risk losing all 900.",
+   "raw": "CHOICE: A\n\nREASON: Plan A guarantees that 300 families will have their livelihoods protected after the cyclone hits. Plan B is too risky—there's a 2 in 3 chance that people lose everything. As a nurse, I see what happens when people lose their jobs and security, and I cannot vote to gamble with that. Better to save 300 jobs for certain than risk losing all 900."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I would rather have 300 jobs definitely saved than risk losing everything. Yes, Plan B has a small chance of saving all jobs, but 2 out of 3 times we would lose everything—that's too much of a gamble for our community. As a nurse, I've seen how important stable livelihoods are for people's health and wellbeing, so I'd choose the certain outcome.",
+   "raw": "CHOICE: A\n\nREASON: I would rather have 300 jobs definitely saved than risk losing everything. Yes, Plan B has a small chance of saving all jobs, but 2 out of 3 times we would lose everything—that's too much of a gamble for our community. As a nurse, I've seen how important stable livelihoods are for people's health and wellbeing, so I'd choose the certain outcome."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "As a nurse, I see every day how organ donation saves lives. It's something I believe in strongly, and I want to help others if something happens to me. The medical benefits are clear to me.",
+   "raw": "BOX: ticked\n\nREASON: As a nurse, I see every day how organ donation saves lives. It's something I believe in strongly, and I want to help others if something happens to me. The medical benefits are clear to me."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "As a nurse, I see every day how organ donation saves lives. I'm leaving it ticked because it's the right thing to do, and I trust that this government app is handling it responsibly.",
+   "raw": "BOX: ticked\n\nREASON: As a nurse, I see every day how organ donation saves lives. I'm leaving it ticked because it's the right thing to do, and I trust that this government app is handling it responsibly."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Honestly, the rain and traffic are just too much hassle at my age—I'd rather be comfortable at home with a cup of tea watching it on TV. Yes, I've already paid for the ticket, but I'm not going to sit in wet clothes in traffic for hours just to prove a point when I can enjoy the match perfectly well from my sofa. The money is spent either way.",
+   "raw": "LIKELY: 3\n\nREASON: Honestly, the rain and traffic are just too much hassle at my age—I'd rather be comfortable at home with a cup of tea watching it on TV. Yes, I've already paid for the ticket, but I'm not going to sit in wet clothes in traffic for hours just to prove a point when I can enjoy the match perfectly well from my sofa. The money is spent either way."
+  },
+  {
+   "person": 10,
+   "name": "Ayesha",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The heavy rain and jammed roads mean I'd waste hours getting there and risk catching a cold, which isn't worth it at my age. I'm comfortable enough not to feel like I must use a free ticket, and honestly, I can watch the match just fine from my comfortable home with a cup of chai.",
+   "raw": "LIKELY: 3\n\nREASON: The heavy rain and jammed roads mean I'd waste hours getting there and risk catching a cold, which isn't worth it at my age. I'm comfortable enough not to feel like I must use a free ticket, and honestly, I can watch the match just fine from my comfortable home with a cup of chai."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I am not a gambling man, and with my 900 families depending on me, I cannot take a 2/3 chance of losing everything when I can guarantee 300 jobs today. The math may be the same, but in real life, certainty puts food on the table while gambles put families on the street.",
+   "raw": "CHOICE: A\n\nREASON: I am not a gambling man, and with my 900 families depending on me, I cannot take a 2/3 chance of losing everything when I can guarantee 300 jobs today. The math may be the same, but in real life, certainty puts food on the table while gambles put families on the street."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, I am not the type to gamble with people's livelihoods. Plan A guarantees that 300 families will still have their jobs and can feed themselves - that is certain. Plan B is too risky; two out of three times it destroys everything, and I cannot ask 900 families to accept those odds when I can promise at least partial safety.",
+   "raw": "CHOICE: A\n\nREASON: Look, I am not the type to gamble with people's livelihoods. Plan A guarantees that 300 families will still have their jobs and can feed themselves - that is certain. Plan B is too risky; two out of three times it destroys everything, and I cannot ask 900 families to accept those odds when I can promise at least partial safety."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not going to tick this without doing proper research first - I need to understand exactly what registering on a government database means and what the actual procedure would be. This isn't something to decide hastily while filling out a form.",
+   "raw": "BOX: unticked\n\nREASON: I'm not going to tick this without doing proper research first - I need to understand exactly what registering on a government database means and what the actual procedure would be. This isn't something to decide hastily while filling out a form."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "This pre-ticked box is trying to slip something past me without proper thought. I don't like when forms assume what I should do - I'd rather research organ donation properly and make a conscious choice, not just accept whatever the government app has already checked for me.",
+   "raw": "BOX: unticked\n\nREASON: This pre-ticked box is trying to slip something past me without proper thought. I don't like when forms assume what I should do - I'd rather research organ donation properly and make a conscious choice, not just accept whatever the government app has already checked for me."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already spent, so that's not the deciding factor anymore. At my age, sitting in heavy rain and traffic for hours is not appealing, and with the roads jammed, I could lose half the day just getting there. The match will probably happen, but \"probably\" is not certain, and I get a perfectly good view on TV at home. Better to be comfortable and avoid this unnecessary headache.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already spent, so that's not the deciding factor anymore. At my age, sitting in heavy rain and traffic for hours is not appealing, and with the roads jammed, I could lose half the day just getting there. The match will probably happen, but \"probably\" is not certain, and I get a perfectly good view on TV at home. Better to be comfortable and avoid this unnecessary headache."
+  },
+  {
+   "person": 11,
+   "name": "Siddharth",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 4,
+   "reason": "The ticket is free, so there's no money wasted, but at my age I don't fancy sitting in heavy rain for three hours with all that traffic hassle. I can watch the match perfectly well on TV at home, stay dry, and still enjoy it properly. The friend will understand – they gave me the ticket knowing I might not use it.",
+   "raw": "LIKELY: 4\n\nREASON: The ticket is free, so there's no money wasted, but at my age I don't fancy sitting in heavy rain for three hours with all that traffic hassle. I can watch the match perfectly well on TV at home, stay dry, and still enjoy it properly. The friend will understand – they gave me the ticket knowing I might not use it."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, 300 jobs for sure is better than gambling that 2/3 of the time you get zero. Plan B sounds like one of those schemes someone tries to sell you – nice theory, but when it fails, people suffer. I'd rather have something guaranteed in hand.",
+   "raw": "CHOICE: A\n\nREASON: Look, 300 jobs for sure is better than gambling that 2/3 of the time you get zero. Plan B sounds like one of those schemes someone tries to sell you – nice theory, but when it fails, people suffer. I'd rather have something guaranteed in hand."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "B",
+   "reason": "Look, Plan A guarantees we lose 600 jobs—that's done, finished. Plan B at least gives us a one-in-three shot that nobody loses their job. Yeah, there's risk, but I'm not going to vote to throw away 600 livelihoods when there's a chance we come out clean. I'll take the gamble.",
+   "raw": "CHOICE: B\n\nREASON: Look, Plan A guarantees we lose 600 jobs—that's done, finished. Plan B at least gives us a one-in-three shot that nobody loses their job. Yeah, there's risk, but I'm not going to vote to throw away 600 livelihoods when there's a chance we come out clean. I'll take the gamble."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Yaar, I don't trust government forms asking me to sign up for things like this. Leave it as it is, no need to tick unnecessary boxes. I'll decide about donation some other time if I want to.",
+   "raw": "BOX: unticked\n\nREASON: Yaar, I don't trust government forms asking me to sign up for things like this. Leave it as it is, no need to tick unnecessary boxes. I'll decide about donation some other time if I want to."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "Yaar, it's already checked and it's a government app, not some shop trying to sell me something. I'll just finish the sign-up and move on—organ donation is a decent thing anyway.",
+   "raw": "BOX: ticked\n\nREASON: Yaar, it's already checked and it's a government app, not some shop trying to sell me something. I'll just finish the sign-up and move on—organ donation is a decent thing anyway."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 7,
+   "reason": "I've already paid for the ticket and money doesn't bother me. IPL live is always better than TV, and honestly, I deal with traffic and rain every day as a driver—it's annoying but I'll manage. Let me just go enjoy the match.",
+   "raw": "LIKELY: 7\n\nREASON: I've already paid for the ticket and money doesn't bother me. IPL live is always better than TV, and honestly, I deal with traffic and rain every day as a driver—it's annoying but I'll manage. Let me just go enjoy the match."
+  },
+  {
+   "person": 12,
+   "name": "Lakshmi",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Yaar, free ticket is nice but why torture myself? Heavy rain, roads jam to stadium, I deal with enough traffic every day in this auto. Better to sit at home with chai, watch it on TV, stay dry. Match is match, stadium or home.",
+   "raw": "LIKELY: 3\n\nREASON: Yaar, free ticket is nice but why torture myself? Heavy rain, roads jam to stadium, I deal with enough traffic every day in this auto. Better to sit at home with chai, watch it on TV, stay dry. Match is match, stadium or home."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, Plan B sounds good on paper with that 1/3 chance of saving everyone, but 2/3 of the time we get nothing? That's a losing gamble when people's livelihoods are at stake. Plan A guarantees 300 jobs saved—that's solid and realistic. I've seen enough government schemes to know we should lock in what we can count on rather than betting the whole thing on optimistic promises.",
+   "raw": "CHOICE: A\n\nREASON: Look, Plan B sounds good on paper with that 1/3 chance of saving everyone, but 2/3 of the time we get nothing? That's a losing gamble when people's livelihoods are at stake. Plan A guarantees 300 jobs saved—that's solid and realistic. I've seen enough government schemes to know we should lock in what we can count on rather than betting the whole thing on optimistic promises."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, Plan A is guaranteed—600 jobs gone, but 300 people still have work. Plan B is a gamble where we could lose everyone's jobs outright. I work in government and deal with real people's situations; I'd rather take the certain hit than bet the whole district on a 1-in-3 chance. That's just sense.",
+   "raw": "CHOICE: A\n\nREASON: Look, Plan A is guaranteed—600 jobs gone, but 300 people still have work. Plan B is a gamble where we could lose everyone's jobs outright. I work in government and deal with real people's situations; I'd rather take the certain hit than bet the whole district on a 1-in-3 chance. That's just sense."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "It's not something I'll decide on the spot while filling a form. I should talk to my family first about this — it's a bigger thing than just signing up for an app. Can always enable it later if I decide.",
+   "raw": "BOX: unticked\n\nREASON: It's not something I'll decide on the spot while filling a form. I should talk to my family first about this — it's a bigger thing than just signing up for an app. Can always enable it later if I decide."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already checked, and I don't have any problem with organ donation. Seems like a good thing to do, so I'll leave it as is.",
+   "raw": "BOX: ticked\n\nREASON: It's already checked, and I don't have any problem with organ donation. Seems like a good thing to do, so I'll leave it as is."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The rain and jammed roads are too much hassle for a match that's still uncertain anyway. I've already paid for the ticket, so that money's gone either way—no point sitting in traffic for hours when I can watch it comfortably at home with a good meal. If the match gets postponed, I'll be stuck on the road for nothing.",
+   "raw": "LIKELY: 3\n\nREASON: The rain and jammed roads are too much hassle for a match that's still uncertain anyway. I've already paid for the ticket, so that money's gone either way—no point sitting in traffic for hours when I can watch it comfortably at home with a good meal. If the match gets postponed, I'll be stuck on the road for nothing."
+  },
+  {
+   "person": 13,
+   "name": "Imran",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The ticket was free so I'm not throwing away money, and honestly, sitting in heavy rain stuck in traffic to reach a stadium seems pointless when I can watch the match on TV comfortably at home. I'd rather not deal with the hassle.",
+   "raw": "LIKELY: 3\n\nREASON: The ticket was free so I'm not throwing away money, and honestly, sitting in heavy rain stuck in traffic to reach a stadium seems pointless when I can watch the match on TV comfortably at home. I'd rather not deal with the hassle."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I would vote for Plan A. When it comes to something this important—people's jobs and families' survival—I cannot take such a big risk. A 2/3 chance of losing everything is too much to gamble with. Better to save 300 jobs for certain than to hope for luck and end up with nothing.",
+   "raw": "CHOICE: A\n\nREASON: I would vote for Plan A. When it comes to something this important—people's jobs and families' survival—I cannot take such a big risk. A 2/3 chance of losing everything is too much to gamble with. Better to save 300 jobs for certain than to hope for luck and end up with nothing."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I may not be from the fishing industry, but I know numbers - Plan A loses 600 jobs for certain, while Plan B has a 2/3 chance of losing all 900. Why would we gamble with people's entire livelihoods when we can limit the damage? I prefer what I know will happen over what might go terribly wrong.",
+   "raw": "CHOICE: A\n\nREASON: I may not be from the fishing industry, but I know numbers - Plan A loses 600 jobs for certain, while Plan B has a 2/3 chance of losing all 900. Why would we gamble with people's entire livelihoods when we can limit the damage? I prefer what I know will happen over what might go terribly wrong."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "This is not something I should decide hastily on a form. I would want to think about it properly or discuss with my family first before marking something so important.",
+   "raw": "BOX: unticked\n\nREASON: This is not something I should decide hastily on a form. I would want to think about it properly or discuss with my family first before marking something so important."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "The government app has already marked it this way, and it seems like a responsible thing to do. Why would I remove it? If the experts think this is the right option to suggest, then I'll leave it as it is.",
+   "raw": "BOX: ticked\n\nREASON: The government app has already marked it this way, and it seems like a responsible thing to do. Why would I remove it? If the experts think this is the right option to suggest, then I'll leave it as it is."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 4,
+   "reason": "I've already spent the money, so that's gone either way. But honestly, at my age I don't want to sit in heavy rain and traffic for hours just to end up wet and uncomfortable at the stadium when I can watch the same match on my TV at home, nice and dry with a cup of chai. The match will still happen, so there's no rush.",
+   "raw": "LIKELY: 4\n\nREASON: I've already spent the money, so that's gone either way. But honestly, at my age I don't want to sit in heavy rain and traffic for hours just to end up wet and uncomfortable at the stadium when I can watch the same match on my TV at home, nice and dry with a cup of chai. The match will still happen, so there's no rush."
+  },
+  {
+   "person": 14,
+   "name": "Neha",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Arre, the ticket is free, yes, but look at this rain and these jammed roads! At my age, I'd rather sit comfortably at home, stay dry and warm, and watch the match properly on TV. Why waste the whole day sitting in traffic and getting soaked when I can see everything clearly from my sofa? The match will be fine either way.",
+   "raw": "LIKELY: 3\n\nREASON: Arre, the ticket is free, yes, but look at this rain and these jammed roads! At my age, I'd rather sit comfortably at home, stay dry and warm, and watch the match properly on TV. Why waste the whole day sitting in traffic and getting soaked when I can see everything clearly from my sofa? The match will be fine either way."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I'd vote for Plan A because it guarantees 300 jobs will be saved—that's concrete and certain. Plan B might sound better on paper with the potential to save all 900 jobs, but there's a 2/3 chance it fails completely and saves zero jobs, which is a huge risk when people's livelihoods are at stake. I'm someone who researches things carefully before deciding, and when the expected outcomes are basically the same, I'd rather go with the sure thing than gamble with people's futures.",
+   "raw": "CHOICE: A\n\nREASON: I'd vote for Plan A because it guarantees 300 jobs will be saved—that's concrete and certain. Plan B might sound better on paper with the potential to save all 900 jobs, but there's a 2/3 chance it fails completely and saves zero jobs, which is a huge risk when people's livelihoods are at stake. I'm someone who researches things carefully before deciding, and when the expected outcomes are basically the same, I'd rather go with the sure thing than gamble with people's futures."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I know both plans mathematically save around 300 jobs on average, but Plan A guarantees it while Plan B has a 2/3 chance of destroying everything. Since money is tight for people like me, I understand how fragile financial security is—these families need certainty they can rebuild with at least some jobs remaining, not a gamble that could wipe them out completely.",
+   "raw": "CHOICE: A\n\nREASON: I know both plans mathematically save around 300 jobs on average, but Plan A guarantees it while Plan B has a 2/3 chance of destroying everything. Since money is tight for people like me, I understand how fragile financial security is—these families need certainty they can rebuild with at least some jobs remaining, not a gamble that could wipe them out completely."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not going to tick something this important without thinking it through properly first. I want to research India's organ donation policies, maybe talk to my parents about it, and understand what I'm actually committing to—this isn't the kind of decision I'll rush just because a form is asking me to make it right now.",
+   "raw": "BOX: unticked\n\nREASON: I'm not going to tick something this important without thinking it through properly first. I want to research India's organ donation policies, maybe talk to my parents about it, and understand what I'm actually committing to—this isn't the kind of decision I'll rush just because a form is asking me to make it right now."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "I'm not ticking this without doing some research first. Organ donation is a big decision and I want to understand how it actually works, what happens if something goes wrong, and whether there are any catches before I commit to it. I can always come back and enable it after I've looked into it properly.",
+   "raw": "BOX: unticked\n\nREASON: I'm not ticking this without doing some research first. Organ donation is a big decision and I want to understand how it actually works, what happens if something goes wrong, and whether there are any catches before I commit to it. I can always come back and enable it after I've looked into it properly."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already spent, so I shouldn't throw good money after bad by sitting in traffic for hours getting soaked just to feel like I'm using it. Between heavy rain, jammed roads, and probably arriving exhausted and wet, I'd honestly have a better time watching on TV at home where I can actually enjoy the match in comfort. Yeah, I'll feel some FOMO about missing the stadium atmosphere, but practically, it doesn't make sense today.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already spent, so I shouldn't throw good money after bad by sitting in traffic for hours getting soaked just to feel like I'm using it. Between heavy rain, jammed roads, and probably arriving exhausted and wet, I'd honestly have a better time watching on TV at home where I can actually enjoy the match in comfort. Yeah, I'll feel some FOMO about missing the stadium atmosphere, but practically, it doesn't make sense today."
+  },
+  {
+   "person": 15,
+   "name": "Harpreet",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Yeah, the ticket's free so that's nice, but getting to the stadium in this rain and traffic will cost me money for an auto or cab, and I'll waste hours stuck on the roads. Honestly, I can watch the match perfectly fine on TV at home without spending extra and without the hassle. Since money's tight, it just doesn't make sense when I've got a comfortable option right here.",
+   "raw": "LIKELY: 3\n\nREASON: Yeah, the ticket's free so that's nice, but getting to the stadium in this rain and traffic will cost me money for an auto or cab, and I'll waste hours stuck on the roads. Honestly, I can watch the match perfectly fine on TV at home without spending extra and without the hassle. Since money's tight, it just doesn't make sense when I've got a comfortable option right here."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, 300 jobs saved for sure is better than gambling with 900 people's futures when there's a 2/3 chance they get nothing. I work with numbers and real things – I know you don't bet with people's livelihoods when money is already tight. Plan B sounds like wishful thinking.",
+   "raw": "CHOICE: A\n\nREASON: Look, 300 jobs saved for sure is better than gambling with 900 people's futures when there's a 2/3 chance they get nothing. I work with numbers and real things – I know you don't bet with people's livelihoods when money is already tight. Plan B sounds like wishful thinking."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, with Plan A, we lose 600 jobs - that's bad, but we know exactly what we're dealing with. We can plan the recovery, rebuild gradually, 300 people still have work. Plan B is gambling with people's lives - a 2/3 chance everything gets destroyed? That's madness. As an engineer, I know you work with what you can predict and control, not gambles where you're likely to lose everything.",
+   "raw": "CHOICE: A\n\nREASON: Look, with Plan A, we lose 600 jobs - that's bad, but we know exactly what we're dealing with. We can plan the recovery, rebuild gradually, 300 people still have work. Plan B is gambling with people's lives - a 2/3 chance everything gets destroyed? That's madness. As an engineer, I know you work with what you can predict and control, not gambles where you're likely to lose everything."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Yaar, why should I tick a box just because the government puts it there? I haven't thought about this properly, and honestly, I don't trust them with extra information. Let me ask my family first if they want this—it's not something to decide in two seconds on a form.",
+   "raw": "BOX: unticked\n\nREASON: Yaar, why should I tick a box just because the government puts it there? I haven't thought about this properly, and honestly, I don't trust them with extra information. Let me ask my family first if they want this—it's not something to decide in two seconds on a form."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "Why is it already ticked? When they pre-check something like this, it means they want me to agree without thinking. I don't like that. If I decide to be a donor later, I can always come back and tick it myself.",
+   "raw": "BOX: unticked\n\nREASON: Why is it already ticked? When they pre-check something like this, it means they want me to agree without thinking. I don't like that. If I decide to be a donor later, I can always come back and tick it myself."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already gone, so that's not getting me there in this weather. Rain, traffic, and at my age? I'll end up sitting in wet clothes for hours while I can watch the same match perfectly fine from my couch with tea. I'd rather not waste my day getting soaked and stuck in jam just because I already bought the ticket.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already gone, so that's not getting me there in this weather. Rain, traffic, and at my age? I'll end up sitting in wet clothes for hours while I can watch the same match perfectly fine from my couch with tea. I'd rather not waste my day getting soaked and stuck in jam just because I already bought the ticket."
+  },
+  {
+   "person": 16,
+   "name": "Divya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Free ticket is good, but at my age I'm not sitting in heavy rain and getting stuck in traffic for hours just to watch the same match I can see comfortable at home. The practical problems are too much—roads jammed, weather bad, and I'm already tired. TV pe dekh lunga, much better.",
+   "raw": "LIKELY: 3\n\nREASON: Free ticket is good, but at my age I'm not sitting in heavy rain and getting stuck in traffic for hours just to watch the same match I can see comfortable at home. The practical problems are too much—roads jammed, weather bad, and I'm already tired. TV pe dekh lunga, much better."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I live in a coastal city and I know how these things work. A guaranteed 300 jobs saved means 300 families still have income and the community has a foundation to rebuild from. Plan B is just too risky—two-thirds of the time it fails completely and we're back to zero. I'm careful with what I have, and this district should be too.",
+   "raw": "CHOICE: A\n\nREASON: Look, I live in a coastal city and I know how these things work. A guaranteed 300 jobs saved means 300 families still have income and the community has a foundation to rebuild from. Plan B is just too risky—two-thirds of the time it fails completely and we're back to zero. I'm careful with what I have, and this district should be too."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, at least 300 jobs are saved for sure with Plan A. Plan B gives false hope with that one-third chance—the two-thirds risk of losing everyone is too much to gamble on when I can guarantee some families keep working. I've seen enough uncertainty with cyclones already.",
+   "raw": "CHOICE: A\n\nREASON: Look, at least 300 jobs are saved for sure with Plan A. Plan B gives false hope with that one-third chance—the two-thirds risk of losing everyone is too much to gamble on when I can guarantee some families keep working. I've seen enough uncertainty with cyclones already."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "It's not something I've decided about beforehand, and since it's optional, I'll leave it unchecked. If I ever feel strongly about it later, I can probably change it in my profile settings.",
+   "raw": "BOX: unticked\n\nREASON: It's not something I've decided about beforehand, and since it's optional, I'll leave it unchecked. If I ever feel strongly about it later, I can probably change it in my profile settings."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "I glanced at what it said and didn't see any reason to untick it. It's a good thing to help someone if something happens to me, so I'll leave it checked and move on.",
+   "raw": "BOX: ticked\n\nREASON: I glanced at what it said and didn't see any reason to untick it. It's a good thing to help someone if something happens to me, so I'll leave it checked and move on."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Look, I already spent ₹2,500 on this ticket, so that hurts to just throw away. But honestly, at 48, dealing with heavy rain and jammed roads to sit in wet stadium clothes? I'll watch the match properly on TV at home where it's comfortable. If the roads weren't so bad I might have gone anyway, but that's the real deal-breaker here.",
+   "raw": "LIKELY: 3\n\nREASON: Look, I already spent ₹2,500 on this ticket, so that hurts to just throw away. But honestly, at 48, dealing with heavy rain and jammed roads to sit in wet stadium clothes? I'll watch the match properly on TV at home where it's comfortable. If the roads weren't so bad I might have gone anyway, but that's the real deal-breaker here."
+  },
+  {
+   "person": 17,
+   "name": "Aditya",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The rain and jammed roads are too much hassle for my age, and honestly, I can watch the match just as well from home with a cup of coffee and no traffic stress. It's free, sure, but not worth sitting in wet clothes for hours when I have a comfortable alternative.",
+   "raw": "LIKELY: 3\n\nREASON: The rain and jammed roads are too much hassle for my age, and honestly, I can watch the match just as well from home with a cup of coffee and no traffic stress. It's free, sure, but not worth sitting in wet clothes for hours when I have a comfortable alternative."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I drive a taxi - I know what it means when money dries up. Plan B is too much of a gamble. Yes, it *could* save everyone, but 2/3 chance we get nothing? That's like betting your whole month's earnings on a coin toss. Plan A guarantees 300 families will have work, which is better than risking all 900 jobs on a maybe. When things are tight, you take what you can get for sure.",
+   "raw": "CHOICE: A\n\nREASON: Look, I drive a taxi - I know what it means when money dries up. Plan B is too much of a gamble. Yes, it *could* save everyone, but 2/3 chance we get nothing? That's like betting your whole month's earnings on a coin toss. Plan A guarantees 300 families will have work, which is better than risking all 900 jobs on a maybe. When things are tight, you take what you can get for sure."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, I drive an auto in Patna - I know what it's like when money is uncertain and you have nothing saved up. Plan A is bad, losing 600 jobs, but at least 300 families will still eat. Plan B is like gambling with people's bellies - if it goes wrong, everyone loses everything, and I've seen what happens to people when they have zero income. I'll take the guaranteed loss over that risk.",
+   "raw": "CHOICE: A\n\nREASON: Look, I drive an auto in Patna - I know what it's like when money is uncertain and you have nothing saved up. Plan A is bad, losing 600 jobs, but at least 300 families will still eat. Plan B is like gambling with people's bellies - if it goes wrong, everyone loses everything, and I've seen what happens to people when they have zero income. I'll take the guaranteed loss over that risk."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Yaar, I'm not ticking this without asking around first. Government forms always have some catch, and I don't trust what they're telling me to do. I need to know where my organs actually go and if some hospital can use them without asking me again - better to leave it blank and ask the other drivers what they're doing.",
+   "raw": "BOX: unticked\n\nREASON: Yaar, I'm not ticking this without asking around first. Government forms always have some catch, and I don't trust what they're telling me to do. I need to know where my organs actually go and if some hospital can use them without asking me again - better to leave it blank and ask the other drivers what they're doing."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "This box is already ticked, na? Why is the government pre-checking this without asking me first? I don't like when they decide things for me. If I want to be an organ donor, I will tick it myself – but I need to think about it properly, not just accept whatever they've already marked.",
+   "raw": "BOX: unticked\n\nREASON: This box is already ticked, na? Why is the government pre-checking this without asking me first? I don't like when they decide things for me. If I want to be an organ donor, I will tick it myself – but I need to think about it properly, not just accept whatever they've already marked."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Arrey, that ₹2,500 is already gone, I can't get it back. But if I go, I'll waste more money on petrol and food, and I'll lose a whole day of auto earnings—the rain and jam mean I can't work properly anyway. Better to sit at home, watch on TV for free, and save what I still have. The match will probably get delayed in this rain anyway.",
+   "raw": "LIKELY: 3\n\nREASON: Arrey, that ₹2,500 is already gone, I can't get it back. But if I go, I'll waste more money on petrol and food, and I'll lose a whole day of auto earnings—the rain and jam mean I can't work properly anyway. Better to sit at home, watch on TV for free, and save what I still have. The match will probably get delayed in this rain anyway."
+  },
+  {
+   "person": 18,
+   "name": "Pooja",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 2,
+   "reason": "Free ticket is good, but rain means I'm losing work time as an auto driver, and jammed roads mean I'll sit stuck for hours getting soaked. TV at home is dry and free, and I can't afford to lose a whole day's earnings just to watch cricket at the stadium.",
+   "raw": "LIKELY: 2\n\nREASON: Free ticket is good, but rain means I'm losing work time as an auto driver, and jammed roads mean I'll sit stuck for hours getting soaked. TV at home is dry and free, and I can't afford to lose a whole day's earnings just to watch cricket at the stadium."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I don't have much money, so I understand what it means when people lose their jobs. Plan A guarantees 300 families will keep eating - that's certain. Plan B is just gambling with people's futures. Sure, maybe all 900 get saved, but there's a 2 in 3 chance everybody loses everything? No, no - I'm not risking that. When money is tight, you don't gamble, you take what you know you'll get.",
+   "raw": "CHOICE: A\n\nREASON: Look, I don't have much money, so I understand what it means when people lose their jobs. Plan A guarantees 300 families will keep eating - that's certain. Plan B is just gambling with people's futures. Sure, maybe all 900 get saved, but there's a 2 in 3 chance everybody loses everything? No, no - I'm not risking that. When money is tight, you don't gamble, you take what you know you'll get."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, losing 600 jobs is terrible, I won't sugarcoat it. But Plan B is asking people to gamble with their livelihoods - two-thirds chance of losing everything? I've driven taxis long enough to know that a sure loss you can plan for is better than a dice roll where most people end up with nothing. At least Plan A keeps some steady work happening.",
+   "raw": "CHOICE: A\n\nREASON: Look, losing 600 jobs is terrible, I won't sugarcoat it. But Plan B is asking people to gamble with their livelihoods - two-thirds chance of losing everything? I've driven taxis long enough to know that a sure loss you can plan for is better than a dice roll where most people end up with nothing. At least Plan A keeps some steady work happening."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Arre, I'm not ticking anything without talking to my family first. These government apps, who knows what happens with this information? I've heard stories about organs and all. Let me ask my wife and do some proper research before deciding something this serious—it's not like buying a spare part for my auto where I can change my mind later.",
+   "raw": "BOX: unticked\n\nREASON: Arre, I'm not ticking anything without talking to my family first. These government apps, who knows what happens with this information? I've heard stories about organs and all. Let me ask my wife and do some proper research before deciding something this serious—it's not like buying a spare part for my auto where I can change my mind later."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "I don't like accepting what these forms suggest by default. This is a big decision - I need to think about it properly and talk to my family first. I'm not rushing into anything, especially with government forms.",
+   "raw": "BOX: unticked\n\nREASON: I don't like accepting what these forms suggest by default. This is a big decision - I need to think about it properly and talk to my family first. I'm not rushing into anything, especially with government forms."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Saab, two thousand five hundred rupees is already gone—watching it on TV won't bring that back. But more rain and traffic jams mean wasting fuel money and three-four hours stuck in my auto. At my age, getting soaked and sitting in stadium mud is not worth the headache when I can watch the same match comfortably at home. The money lesson has already been learned—no point throwing good rupees after bad.",
+   "raw": "LIKELY: 3\n\nREASON: Saab, two thousand five hundred rupees is already gone—watching it on TV won't bring that back. But more rain and traffic jams mean wasting fuel money and three-four hours stuck in my auto. At my age, getting soaked and sitting in stadium mud is not worth the headache when I can watch the same match comfortably at home. The money lesson has already been learned—no point throwing good rupees after bad."
+  },
+  {
+   "person": 19,
+   "name": "Joseph",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The ticket is free, but this rain and traffic jam means I'll be spending extra money on fuel, food, and who knows what else just to get there—and the match might not even happen anyway. I've driven through enough Nagpur monsoons to know when it's not worth the risk. Better to watch safely at home for free and save those rupees.",
+   "raw": "LIKELY: 3\n\nREASON: The ticket is free, but this rain and traffic jam means I'll be spending extra money on fuel, food, and who knows what else just to get there—and the match might not even happen anyway. I've driven through enough Nagpur monsoons to know when it's not worth the risk. Better to watch safely at home for free and save those rupees."
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Plan A guarantees 300 jobs are saved, which is real and certain. Plan B sounds too risky – a 2/3 chance of losing everything? That's basically a gamble, and I'm not betting with people's livelihoods. The safe choice here is obvious.",
+   "raw": "CHOICE: A\n\nREASON: Plan A guarantees 300 jobs are saved, which is real and certain. Plan B sounds too risky – a 2/3 chance of losing everything? That's basically a gamble, and I'm not betting with people's livelihoods. The safe choice here is obvious."
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "B",
+   "reason": "Plan A guarantees 600 jobs are gone—that's just accepting defeat. Plan B at least gives us a shot where everyone keeps their jobs, and honestly, I'd rather take that chance than settle for losing two-thirds of the jobs anyway. Go big or go home, right?",
+   "raw": "CHOICE: B\n\nREASON: Plan A guarantees 600 jobs are gone—that's just accepting defeat. Plan B at least gives us a shot where everyone keeps their jobs, and honestly, I'd rather take that chance than settle for losing two-thirds of the jobs anyway. Go big or go home, right?"
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "The government app is recommending it, and it seems like a good thing to do. I'm young and healthy anyway, so why not help someone if something happens to me?",
+   "raw": "BOX: ticked\n\nREASON: The government app is recommending it, and it seems like a good thing to do. I'm young and healthy anyway, so why not help someone if something happens to me?"
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already ticked by default and seems like the right thing to do. I trust that the government app has set this up properly, and honestly, organ donation is something I'd want to contribute to anyway.",
+   "raw": "BOX: ticked\nREASON: It's already ticked by default and seems like the right thing to do. I trust that the government app has set this up properly, and honestly, organ donation is something I'd want to contribute to anyway."
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 6,
+   "reason": "I've already paid ₹2,500, so staying home would feel like wasting that money—even with the rain and traffic, it's not enough to stop me. IPL is huge, everyone's talking about it, and seeing it live is way better than on TV. The weather is annoying, but the match will happen anyway, so I'm going.",
+   "raw": "LIKELY: 6\n\nREASON: I've already paid ₹2,500, so staying home would feel like wasting that money—even with the rain and traffic, it's not enough to stop me. IPL is huge, everyone's talking about it, and seeing it live is way better than on TV. The weather is annoying, but the match will happen anyway, so I'm going."
+  },
+  {
+   "person": 20,
+   "name": "Kavya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 7,
+   "reason": "It's a free IPL ticket my friend gave me—I'm not passing that up! Yeah, the rain and traffic suck, but I'll just grab an auto and go. It's too good a vibe to miss, and honestly everyone's talking about this match anyway.",
+   "raw": "LIKELY: 7\n\nREASON: It's a free IPL ticket my friend gave me—I'm not passing that up! Yeah, the rain and traffic suck, but I'll just grab an auto and go. It's too good a vibe to miss, and honestly everyone's talking about this match anyway."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I drive a taxi - some days I earn, some days I don't. I know what it's like when there's nothing coming in. Plan A saves 300 jobs guaranteed, that's 300 families who will still have work. Plan B is a gamble - two out of three times we get zero, and people lose everything. That's too big a risk for people who are already struggling. Better to save 300 for sure than to bet everything and end up with nothing.",
+   "raw": "CHOICE: A\n\nREASON: Look, I drive a taxi - some days I earn, some days I don't. I know what it's like when there's nothing coming in. Plan A saves 300 jobs guaranteed, that's 300 families who will still have work. Plan B is a gamble - two out of three times we get zero, and people lose everything. That's too big a risk for people who are already struggling. Better to save 300 for sure than to bet everything and end up with nothing."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "B",
+   "reason": "See, Plan A means 600 people definitely lose their jobs - that's final, done. But Plan B... there's still a 1/3 chance we lose no jobs at all. Why accept certain disaster when we have a fighting chance? I deal with uncertainties every day driving - sometimes you have to bet on better odds rather than accept defeat for sure.",
+   "raw": "CHOICE: B\n\nREASON: See, Plan A means 600 people definitely lose their jobs - that's final, done. But Plan B... there's still a 1/3 chance we lose no jobs at all. Why accept certain disaster when we have a fighting chance? I deal with uncertainties every day driving - sometimes you have to bet on better odds rather than accept defeat for sure."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "Arre, such matters I cannot decide alone na. This is something my family should know about and discuss - not just tick a box in a hurry. I will talk to them first.",
+   "raw": "BOX: unticked\n\nREASON: Arre, such matters I cannot decide alone na. This is something my family should know about and discuss - not just tick a box in a hurry. I will talk to them first."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "Yaar, it's already ticked by the government, so they must think it's a good thing. Plus, if my organs can help someone after I'm gone, why not? It costs me nothing now and might save someone's life later.",
+   "raw": "BOX: ticked\n\nREASON: Yaar, it's already ticked by the government, so they must think it's a good thing. Plus, if my organs can help someone after I'm gone, why not? It costs me nothing now and might save someone's life later."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Bhai, ₹2,500 to already gaya, but agar main baith kar baithoon to aur paise kaise kamaunga? Heavy rain aur jam mein akela zyada tension aaega, aur TV pe ghar mein baithe dekhlunga na—same match, no hassle.",
+   "raw": "LIKELY: 3\n\nREASON: Bhai, ₹2,500 to already gaya, but agar main baith kar baithoon to aur paise kaise kamaunga? Heavy rain aur jam mein akela zyada tension aaega, aur TV pe ghar mein baithe dekhlunga na—same match, no hassle."
+  },
+  {
+   "person": 21,
+   "name": "Manoj",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Free ticket is nice, but heavy rain means I'll be soaked through and sick for days—I can't afford to miss work. And jammed roads? As an auto driver, I know that traffic will eat up 2-3 hours just to reach there. Better to watch the match comfortable at home with chai, save the travel costs, and keep dry. IPL will be the same on TV anyway.",
+   "raw": "LIKELY: 3\n\nREASON: Free ticket is nice, but heavy rain means I'll be soaked through and sick for days—I can't afford to miss work. And jammed roads? As an auto driver, I know that traffic will eat up 2-3 hours just to reach there. Better to watch the match comfortable at home with chai, save the travel costs, and keep dry. IPL will be the same on TV anyway."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I would vote for Plan A. While it's not perfect, saving 300 jobs for certain is much better than gambling with a plan where two out of three times nobody gets help. When people's livelihoods are at stake, I would rather have a sure thing that helps a good portion of families rather than risk leaving everyone with nothing.",
+   "raw": "CHOICE: A\n\nREASON: I would vote for Plan A. While it's not perfect, saving 300 jobs for certain is much better than gambling with a plan where two out of three times nobody gets help. When people's livelihoods are at stake, I would rather have a sure thing that helps a good portion of families rather than risk leaving everyone with nothing."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I'd vote for Plan A. Yes, losing 600 jobs is hard, but Plan B is too risky—there's a two-thirds chance we lose all 900 jobs instead. As someone who thinks carefully before deciding, I'd rather take the certain outcome than gamble with people's entire livelihoods. Plan A at least saves 300 families from losing everything.",
+   "raw": "CHOICE: A\n\nREASON: I'd vote for Plan A. Yes, losing 600 jobs is hard, but Plan B is too risky—there's a two-thirds chance we lose all 900 jobs instead. As someone who thinks carefully before deciding, I'd rather take the certain outcome than gamble with people's entire livelihoods. Plan A at least saves 300 families from losing everything."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "I trust that the government app is recommending this for a good reason, and organ donation is something many people do these days. It's a way to help others, so I'm comfortable ticking it.",
+   "raw": "BOX: ticked\n\nREASON: I trust that the government app is recommending this for a good reason, and organ donation is something many people do these days. It's a way to help others, so I'm comfortable ticking it."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "This is a government health app, so I trust their recommendation. Organ donation is a good thing to do for society, and since most people seem to support it these days, I'll leave the box as it is. It's the right choice.",
+   "raw": "BOX: ticked\n\nREASON: This is a government health app, so I trust their recommendation. Organ donation is a good thing to do for society, and since most people seem to support it these days, I'll leave the box as it is. It's the right choice."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 5,
+   "reason": "I've already paid for the ticket and IPL is something popular I wanted to experience, so that pulls me to go. But honestly, at my age, sitting in heavy rain with jammed roads seems like unnecessary stress when I can watch the match comfortably at home. The money is spent either way, so I'll probably stay home and enjoy it on the big TV.",
+   "raw": "LIKELY: 5\n\nREASON: I've already paid for the ticket and IPL is something popular I wanted to experience, so that pulls me to go. But honestly, at my age, sitting in heavy rain with jammed roads seems like unnecessary stress when I can watch the match comfortably at home. The money is spent either way, so I'll probably stay home and enjoy it on the big TV."
+  },
+  {
+   "person": 22,
+   "name": "Shreya",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The rain and jammed roads are too much hassle at my age, honestly. I can watch the match comfortably at home with good TV, and since the ticket was free anyway, I'm not losing anything by staying put. The traffic alone would waste my whole evening.",
+   "raw": "LIKELY: 3\n\nREASON: The rain and jammed roads are too much hassle at my age, honestly. I can watch the match comfortably at home with good TV, and since the ticket was free anyway, I'm not losing anything by staying put. The traffic alone would waste my whole evening."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I am a careful man who has farmed for decades, and I know that uncertain harvests are painful. Plan A saves 300 jobs for certain—this is solid ground. Plan B sounds like gambling with people's livelihoods, and there is a 2 in 3 chance of losing everything. I have researched the numbers, and the sensible choice is to secure what we can guarantee, not risk it all on a hope.",
+   "raw": "CHOICE: A\n\nREASON: I am a careful man who has farmed for decades, and I know that uncertain harvests are painful. Plan A saves 300 jobs for certain—this is solid ground. Plan B sounds like gambling with people's livelihoods, and there is a 2 in 3 chance of losing everything. I have researched the numbers, and the sensible choice is to secure what we can guarantee, not risk it all on a hope."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I am a careful man with money and I do not gamble with people's lives. Plan A guarantees 300 jobs survive, but Plan B could wipe out all 900 jobs - the 2/3 chance of total disaster is too risky. I have researched the numbers and both plans lose the same amount on average, so I choose the one with certainty rather than hope.",
+   "raw": "CHOICE: A\n\nREASON: I am a careful man with money and I do not gamble with people's lives. Plan A guarantees 300 jobs survive, but Plan B could wipe out all 900 jobs - the 2/3 chance of total disaster is too risky. I have researched the numbers and both plans lose the same amount on average, so I choose the one with certainty rather than hope."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "This is not something I'll decide quickly without thinking it through properly. I need to discuss this with my family first and understand how it actually works in our system here before I tick any box.",
+   "raw": "BOX: unticked\n\nREASON: This is not something I'll decide quickly without thinking it through properly. I need to discuss this with my family first and understand how it actually works in our system here before I tick any box."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "I cannot decide something this important so quickly without researching first. Organ donation is a serious matter, and I need to understand what it actually means for my body and also discuss with my family before agreeing to anything on a government app.",
+   "raw": "BOX: unticked\n\nREASON: I cannot decide something this important so quickly without researching first. Organ donation is a serious matter, and I need to understand what it actually means for my body and also discuss with my family before agreeing to anything on a government app."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The money is already spent, so I won't throw good sense after bad by sitting in heavy rain and traffic jams at my age. I'll watch it on the TV at home comfortably—the match will be the same, just without the wet clothes and sore joints. I'm disappointed about the ₹2,500, but staying home is the practical choice.",
+   "raw": "LIKELY: 3\n\nREASON: The money is already spent, so I won't throw good sense after bad by sitting in heavy rain and traffic jams at my age. I'll watch it on the TV at home comfortably—the match will be the same, just without the wet clothes and sore joints. I'm disappointed about the ₹2,500, but staying home is the practical choice."
+  },
+  {
+   "person": 23,
+   "name": "Farhan",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The heavy rain and jammed roads are too much hassle at my age—I'll catch pneumonia sitting in traffic, and for what? I can watch the whole match on TV in my own home, dry and comfortable. My friend gave me a nice gift, yes, but he'd understand that a sensible man doesn't risk his health chasing weather like this.",
+   "raw": "LIKELY: 3\n\nREASON: The heavy rain and jammed roads are too much hassle at my age—I'll catch pneumonia sitting in traffic, and for what? I can watch the whole match on TV in my own home, dry and comfortable. My friend gave me a nice gift, yes, but he'd understand that a sensible man doesn't risk his health chasing weather like this."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "300 jobs for sure is better than gambling on a 2/3 chance of losing everything. Yeah, Plan B could save all 900, but two-thirds of the time we get zero. That's not worth the risk when people's livelihoods are on the line.",
+   "raw": "CHOICE: A\n\nREASON: 300 jobs for sure is better than gambling on a 2/3 chance of losing everything. Yeah, Plan B could save all 900, but two-thirds of the time we get zero. That's not worth the risk when people's livelihoods are on the line."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Plan B could wipe out everything with 2/3 probability - that's not a gamble I'd take for the whole district. Plan A at least keeps 300 jobs safe. Better to take the certain loss than risk total disaster.",
+   "raw": "CHOICE: A\n\nREASON: Plan B could wipe out everything with 2/3 probability - that's not a gamble I'd take for the whole district. Plan A at least keeps 300 jobs safe. Better to take the certain loss than risk total disaster."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "Look, it's a quick decision and doesn't cost me anything. If something happens to me and my organs can help someone else, why not? Might as well do it.",
+   "raw": "BOX: ticked\n\nREASON: Look, it's a quick decision and doesn't cost me anything. If something happens to me and my organs can help someone else, why not? Might as well do it."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already ticked and seems like a decent thing to do, so I'm leaving it as is. Not worth the extra click to untick it.",
+   "raw": "BOX: ticked\n\nREASON: It's already ticked and seems like a decent thing to do, so I'm leaving it as is. Not worth the extra click to untick it."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 6,
+   "reason": "I've already paid the ₹2,500 and honestly, I don't stress about that kind of money. Yeah, the rain and traffic are annoying as hell, but I'd rather be there live watching the action than sitting at home on the couch. I'll just go—my gut says to go, and I'm not the type to overthink this stuff anyway.",
+   "raw": "LIKELY: 6\n\nREASON: I've already paid the ₹2,500 and honestly, I don't stress about that kind of money. Yeah, the rain and traffic are annoying as hell, but I'd rather be there live watching the action than sitting at home on the couch. I'll just go—my gut says to go, and I'm not the type to overthink this stuff anyway."
+  },
+  {
+   "person": 24,
+   "name": "Ritu",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 4,
+   "reason": "Free ticket is tempting, but honestly, heavy rain and traffic jams sound like a proper pain. I can watch it just fine on TV at home, stay dry, and not waste hours stuck on the road. Not worth the hassle when I've got a good seat right here on my couch.",
+   "raw": "LIKELY: 4\n\nREASON: Free ticket is tempting, but honestly, heavy rain and traffic jams sound like a proper pain. I can watch it just fine on TV at home, stay dry, and not waste hours stuck on the road. Not worth the hassle when I've got a good seat right here on my couch."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I'm careful with money, so I prefer the guarantee of 300 jobs over the gamble of Plan B. Even though saving all 900 would be better, there's too much risk of getting nothing at all—that's not how I like to make decisions.",
+   "raw": "CHOICE: A\n\nREASON: I'm careful with money, so I prefer the guarantee of 300 jobs over the gamble of Plan B. Even though saving all 900 would be better, there's too much risk of getting nothing at all—that's not how I like to make decisions."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Plan A guarantees 300 jobs survive and people can plan ahead, even though it's painful. Plan B is too risky—2 in 3 odds that everyone loses their job sounds like total disaster for the whole district. I prefer certainty over gambling when people's livelihoods are at stake.",
+   "raw": "CHOICE: A\n\nREASON: Plan A guarantees 300 jobs survive and people can plan ahead, even though it's painful. Plan B is too risky—2 in 3 odds that everyone loses their job sounds like total disaster for the whole district. I prefer certainty over gambling when people's livelihoods are at stake."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm just trying to finish the health app registration quickly, and this box is optional anyway. I can always come back and tick it later if I think about it more carefully - no need to decide this right now when I'm just trying to get my records set up.",
+   "raw": "BOX: unticked\n\nREASON: I'm just trying to finish the health app registration quickly, and this box is optional anyway. I can always come back and tick it later if I think about it more carefully - no need to decide this right now when I'm just trying to get my records set up."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "unticked",
+   "reason": "This feels like a big decision to just leave ticked by default. I'd rather actively choose to be a donor if I decide to, not just go along with what the form has pre-selected. I'll think about it properly later and change it if I want to.",
+   "raw": "BOX: unticked\n\nREASON: This feels like a big decision to just leave ticked by default. I'd rather actively choose to be a donor if I decide to, not just go along with what the form has pre-selected. I'll think about it properly later and change it if I want to."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "I'm disappointed, but honestly, heavy rain plus jammed roads is just too much hassle when I can watch the match comfortably at home. My ₹2,500 is already gone either way, so there's no point sitting soaked and miserable in traffic just to say I was there.",
+   "raw": "LIKELY: 3\n\nREASON: I'm disappointed, but honestly, heavy rain plus jammed roads is just too much hassle when I can watch the match comfortably at home. My ₹2,500 is already gone either way, so there's no point sitting soaked and miserable in traffic just to say I was there."
+  },
+  {
+   "person": 25,
+   "name": "Gaurav",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "The heavy rain and jammed roads sound like a nightmare hassle, and honestly, I can watch the match just fine on TV at home and stay dry. Since the ticket was free, I'm not losing money by skipping it, so there's no real reason to deal with all that traffic and mess.",
+   "raw": "LIKELY: 3\n\nREASON: The heavy rain and jammed roads sound like a nightmare hassle, and honestly, I can watch the match just fine on TV at home and stay dry. Since the ticket was free, I'm not losing money by skipping it, so there's no real reason to deal with all that traffic and mess."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I always think carefully about what I'm choosing, and this is the same – why would I risk 900 people having nothing when I can guarantee 300 jobs are saved? Plan B sounds nice in theory, but 2 out of 3 chances means almost certainly everyone loses. That's too much risk for families depending on fishing work.",
+   "raw": "CHOICE: A\n\nREASON: I always think carefully about what I'm choosing, and this is the same – why would I risk 900 people having nothing when I can guarantee 300 jobs are saved? Plan B sounds nice in theory, but 2 out of 3 chances means almost certainly everyone loses. That's too much risk for families depending on fishing work."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I'm not someone who gambles with important things. Plan A means we lose 600 jobs, which is bad, but we still have 300 left and can build from there. Plan B could wipe out everything—that 2/3 chance of losing all 900 jobs is too risky. I prefer knowing what I'm dealing with rather than hoping for the best when the odds aren't in our favor.",
+   "raw": "CHOICE: A\n\nREASON: I'm not someone who gambles with important things. Plan A means we lose 600 jobs, which is bad, but we still have 300 left and can build from there. Plan B could wipe out everything—that 2/3 chance of losing all 900 jobs is too risky. I prefer knowing what I'm dealing with rather than hoping for the best when the odds aren't in our favor."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "This is a big decision and I don't want to tick it just because it's there. I'd rather think about it properly and maybe discuss with my family first - organ donation isn't something I should decide in a hurry on a form, even if it's a government app.",
+   "raw": "BOX: unticked\n\nREASON: This is a big decision and I don't want to tick it just because it's there. I'd rather think about it properly and maybe discuss with my family first - organ donation isn't something I should decide in a hurry on a form, even if it's a government app."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "I don't see any reason to untick it. Organ donation is a good thing - helps people who need it - and I haven't heard anything against it. I'll leave it as is.",
+   "raw": "BOX: ticked\n\nREASON: I don't see any reason to untick it. Organ donation is a good thing - helps people who need it - and I haven't heard anything against it. I'll leave it as is."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already gone whether I go or stay, so that shouldn't drive my decision. Honestly, with this heavy rain and traffic jam, I'd spend more money on an auto ride at surge prices, and I'd be soaked and exhausted by the time I reach. I can watch the match comfortably at home with a cup of chai, and that's the practical choice. The money's the sunk cost, but my comfort and wallet matter more right now.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already gone whether I go or stay, so that shouldn't drive my decision. Honestly, with this heavy rain and traffic jam, I'd spend more money on an auto ride at surge prices, and I'd be soaked and exhausted by the time I reach. I can watch the match comfortably at home with a cup of chai, and that's the practical choice. The money's the sunk cost, but my comfort and wallet matter more right now."
+  },
+  {
+   "person": 26,
+   "name": "Nandini",
+   "style_level": 2,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "A free ticket is nice, but honestly, at my age I'm not going to sit in heavy rain and deal with jammed roads for hours just to watch a match I can see perfectly well from my comfortable sofa. The friend will understand—I'm sure they wouldn't expect me to struggle through this weather just because the ticket didn't cost me anything.",
+   "raw": "LIKELY: 3\n\nREASON: A free ticket is nice, but honestly, at my age I'm not going to sit in heavy rain and deal with jammed roads for hours just to watch a match I can see perfectly well from my comfortable sofa. The friend will understand—I'm sure they wouldn't expect me to struggle through this weather just because the ticket didn't cost me anything."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "I have researched this carefully, and Plan A guarantees 300 jobs will be saved - that is certain, that is something the families can count on. Plan B is just gambling with people's livelihoods - 2/3 chance we lose everything and 900 families have nothing? No, no, I cannot support such risk. A sure thing, even if smaller, is better than a big gamble where most likely people suffer.",
+   "raw": "CHOICE: A\n\nREASON: I have researched this carefully, and Plan A guarantees 300 jobs will be saved - that is certain, that is something the families can count on. Plan B is just gambling with people's livelihoods - 2/3 chance we lose everything and 900 families have nothing? No, no, I cannot support such risk. A sure thing, even if smaller, is better than a big gamble where most likely people suffer."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Look, both plans lose about the same number of jobs on average, but Plan A guarantees that 300 jobs will be saved for sure. Plan B is too risky - there's a big 2/3 chance we lose everything, all 900 jobs. I'm careful with money and don't gamble on things that matter, and people's livelihoods matter most. A certain loss of 600 is better than gambling and likely losing 900.",
+   "raw": "CHOICE: A\n\nREASON: Look, both plans lose about the same number of jobs on average, but Plan A guarantees that 300 jobs will be saved for sure. Plan B is too risky - there's a big 2/3 chance we lose everything, all 900 jobs. I'm careful with money and don't gamble on things that matter, and people's livelihoods matter most. A certain loss of 600 is better than gambling and likely losing 900."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "I'm not ticking this without doing proper research first. This is too big a decision to make hastily on the last screen of a form. I need to understand what exactly this involves, what happens next, and discuss it with my family before I commit to something like this.",
+   "raw": "BOX: unticked\n\nREASON: I'm not ticking this without doing proper research first. This is too big a decision to make hastily on the last screen of a form. I need to understand what exactly this involves, what happens next, and discuss it with my family before I commit to something like this."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": null,
+   "reason": "Why is it already ticked? I don't like when they pre-select something like this - looks like a trick to get me without thinking. I need to research the organ donation rules properly first and discuss with my family before deciding something so important.",
+   "raw": "BOX: <unticked>\nREASON: Why is it already ticked? I don't like when they pre-select something like this - looks like a trick to get me without thinking. I need to research the organ donation rules properly first and discuss with my family before deciding something so important."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "Look, I already spent the ₹2,500, but that doesn't mean I should throw more money on a cab stuck in traffic in this rain. At 56, sitting at home with a cup of chai watching on TV seems much better than getting drenched and spending another ₹500-800 just to reach the stadium. The match will look the same on TV anyway, and I won't catch a cold doing it.",
+   "raw": "LIKELY: 3\n\nREASON: Look, I already spent the ₹2,500, but that doesn't mean I should throw more money on a cab stuck in traffic in this rain. At 56, sitting at home with a cup of chai watching on TV seems much better than getting drenched and spending another ₹500-800 just to reach the stadium. The match will look the same on TV anyway, and I won't catch a cold doing it."
+  },
+  {
+   "person": 27,
+   "name": "Suresh",
+   "style_level": 3,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Free ticket is nice, but at my age I'm not keen to sit in rain and traffic jams for hours when I can watch the match properly on my TV at home, dry and comfortable. The roads will be a nightmare, and what's the point rushing out when the match might get delayed anyway due to weather?",
+   "raw": "LIKELY: 3\n\nREASON: Free ticket is nice, but at my age I'm not keen to sit in rain and traffic jams for hours when I can watch the match properly on my TV at home, dry and comfortable. The roads will be a nightmare, and what's the point rushing out when the match might get delayed anyway due to weather?"
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Plan A saves 300 jobs for sure—that's 300 families with income. Plan B is basically a coin flip where we might save everyone or lose everyone, and I'm not betting people's livelihoods on a gamble when they're already struggling. Give them the guaranteed work.",
+   "raw": "CHOICE: A\n\nREASON: Plan A saves 300 jobs for sure—that's 300 families with income. Plan B is basically a coin flip where we might save everyone or lose everyone, and I'm not betting people's livelihoods on a gamble when they're already struggling. Give them the guaranteed work."
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "I'm not gambling with people's livelihoods when there's a 2 in 3 chance of losing everything. Plan A is certain – 300 jobs survive, which is better than risking complete devastation. I know tight finances, and having nothing is worse than having less.",
+   "raw": "CHOICE: A\n\nREASON: I'm not gambling with people's livelihoods when there's a 2 in 3 chance of losing everything. Plan A is certain – 300 jobs survive, which is better than risking complete devastation. I know tight finances, and having nothing is worse than having less."
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "I'm a nurse, so I know how many people are waiting for organs. No point overthinking it – I'll tick it. It's the right thing to do.",
+   "raw": "BOX: ticked\n\nREASON: I'm a nurse, so I know how many people are waiting for organs. No point overthinking it – I'll tick it. It's the right thing to do."
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "Look, I'm a nurse—I know how many people need organs and how few donors we have. The box is already ticked, it makes sense, so why would I untick it? Not like it'll cost me anything extra, and if something happens to me, at least my organs can help someone. Done.",
+   "raw": "BOX: ticked\n\nREASON: Look, I'm a nurse—I know how many people need organs and how few donors we have. The box is already ticked, it makes sense, so why would I untick it? Not like it'll cost me anything extra, and if something happens to me, at least my organs can help someone. Done."
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 6,
+   "reason": "I already spent ₹2,500 — that's serious money for me, I'm not just wasting it by staying home. Rain and traffic are annoying, but I've dealt with worse during night shifts. I'll go.",
+   "raw": "LIKELY: 6\n\nREASON: I already spent ₹2,500 — that's serious money for me, I'm not just wasting it by staying home. Rain and traffic are annoying, but I've dealt with worse during night shifts. I'll go."
+  },
+  {
+   "person": 28,
+   "name": "Tanvi",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 4,
+   "reason": "The rain and jammed roads sound like too much hassle, and honestly I can watch the IPL perfectly fine on my TV at home without dealing with all that mess. Plus I'm usually exhausted from my nursing shifts anyway.",
+   "raw": "LIKELY: 4\n\nREASON: The rain and jammed roads sound like too much hassle, and honestly I can watch the IPL perfectly fine on my TV at home without dealing with all that mess. Plus I'm usually exhausted from my nursing shifts anyway."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "A",
+   "reason": "Look, I work in a hospital and I see what happens when people lose everything - it's not good. Plan A guarantees 300 families will still have income and can feed their children. Plan B is mostly going to fail - 2 out of 3 chance we save zero jobs and everyone suffers. I can't vote to gamble with people's livelihoods when a sure thing is sitting right there.",
+   "raw": "CHOICE: A\n\nREASON: Look, I work in a hospital and I see what happens when people lose everything - it's not good. Plan A guarantees 300 families will still have income and can feed their children. Plan B is mostly going to fail - 2 out of 3 chance we save zero jobs and everyone suffers. I can't vote to gamble with people's livelihoods when a sure thing is sitting right there."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "A",
+   "reason": "Plan A guarantees we save at least 300 jobs. Plan B is a gamble where there's a good chance we lose all 900 - I can't risk that when people's livelihoods depend on it.",
+   "raw": "CHOICE: A\n\nREASON: Plan A guarantees we save at least 300 jobs. Plan B is a gamble where there's a good chance we lose all 900 - I can't risk that when people's livelihoods depend on it."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "unticked",
+   "reason": "This is something I should discuss with my family first before committing. Even though I decide quickly on most things, this is the kind of decision that involves more than just me.",
+   "raw": "BOX: unticked\n\nREASON: This is something I should discuss with my family first before committing. Even though I decide quickly on most things, this is the kind of decision that involves more than just me."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "I'm a nurse, so I know how much we need organ donors in India. It's already checked and costs me nothing - why would I untick it? If something happens to me, better my organs help someone else than go to waste.",
+   "raw": "BOX: ticked\n\nREASON: I'm a nurse, so I know how much we need organ donors in India. It's already checked and costs me nothing - why would I untick it? If something happens to me, better my organs help someone else than go to waste."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 3,
+   "reason": "The ₹2,500 is already gone, so that can't change my mind now. But heavy rain and jammed roads means I'll waste hours just getting there, sitting wet and miserable—and I'm already tired from nursing shifts. Better to stay home, stay dry, and watch it on TV. The money's lost, but at least I won't lose my time and peace of mind too.",
+   "raw": "LIKELY: 3\n\nREASON: The ₹2,500 is already gone, so that can't change my mind now. But heavy rain and jammed roads means I'll waste hours just getting there, sitting wet and miserable—and I'm already tired from nursing shifts. Better to stay home, stay dry, and watch it on TV. The money's lost, but at least I won't lose my time and peace of mind too."
+  },
+  {
+   "person": 29,
+   "name": "Abdul",
+   "style_level": 1,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 2,
+   "reason": "The ticket's free, so I'm not losing money, but sitting in heavy rain and crawling through jammed traffic? For what? I can watch the match on my TV at home, stay dry, and not waste fuel money or hours of my time. As a nurse, my time matters. Not worth the headache.",
+   "raw": "LIKELY: 2\n\nREASON: The ticket's free, so I'm not losing money, but sitting in heavy rain and crawling through jammed traffic? For what? I can watch the match on my TV at home, stay dry, and not waste fuel money or hours of my time. As a nurse, my time matters. Not worth the headache."
+  }
+ ],
+ "seconds": 648
+}

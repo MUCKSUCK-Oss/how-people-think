@@ -1,0 +1,67 @@
+{
+ "model": "haiku",
+ "people": 30,
+ "rows": [
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "gain",
+   "answer": "B",
+   "reason": "Look, Plan A saves 300 jobs which is fine, but Plan B could save all 900 — that's everyone. Yeah, there's a chance it fails, but I'd rather take a shot at fixing everything than settle for half the problem solved. My gut says go big here.",
+   "raw": "CHOICE: B\n\nREASON: Look, Plan A saves 300 jobs which is fine, but Plan B could save all 900 — that's everyone. Yeah, there's a chance it fails, but I'd rather take a shot at fixing everything than settle for half the problem solved. My gut says go big here."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "framing",
+   "version": "loss",
+   "answer": "B",
+   "reason": "Plan A is a guaranteed loss of 600 jobs either way. With Plan B, there's at least a 1-in-3 shot that everything works out fine. I'm not the type to accept certain disaster when there's a chance things could go well.",
+   "raw": "CHOICE: B\n\nREASON: Plan A is a guaranteed loss of 600 jobs either way. With Plan B, there's at least a 1-in-3 shot that everything works out fine. I'm not the type to accept certain disaster when there's a chance things could go well."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_in",
+   "answer": "ticked",
+   "reason": "Honestly, it's a good cause and it's becoming pretty normal these days anyway. Why would I not? I'm not going to overthink it.",
+   "raw": "BOX: ticked\n\nREASON: Honestly, it's a good cause and it's becoming pretty normal these days anyway. Why would I not? I'm not going to overthink it."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "default",
+   "version": "opt_out",
+   "answer": "ticked",
+   "reason": "It's already checked and seems like a good thing to do, so I'm just going with it. No point unticking and overthinking this.",
+   "raw": "BOX: ticked\n\nREASON: It's already checked and seems like a good thing to do, so I'm just going with it. No point unticking and overthinking this."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "paid",
+   "answer": 7,
+   "reason": "I've already paid for the ticket and missing an IPL match at the stadium? Nah, that's not happening. Yeah the rain and traffic are annoying, but watching on TV at home is not the same vibe—it's live cricket, the crowd, everything. I'll just go, deal with the wet clothes and traffic, it'll be worth it.",
+   "raw": "LIKELY: 7\n\nREASON: I've already paid for the ticket and missing an IPL match at the stadium? Nah, that's not happening. Yeah the rain and traffic are annoying, but watching on TV at home is not the same vibe—it's live cricket, the crowd, everything. I'll just go, deal with the wet clothes and traffic, it'll be worth it."
+  },
+  {
+   "person": 0,
+   "name": "Priya",
+   "style_level": 0,
+   "experiment": "sunk_cost",
+   "version": "free",
+   "answer": 3,
+   "reason": "Honestly, heavy rain and jammed roads? No way, yaar. It's free so I'm not losing money, and I can watch the match perfectly fine on TV at home while staying dry. The stadium experience is nice but not worth sitting in traffic and getting soaked for.",
+   "raw": "LIKELY: 3\n\nREASON: Honestly, heavy rain and jammed roads? No way, yaar. It's free so I'm not losing money, and I can watch the match perfectly fine on TV at home while staying dry. The stadium experience is nice but not worth sitting in traffic and getting soaked for."
+  }
+ ],
+ "seconds": 25
+}
