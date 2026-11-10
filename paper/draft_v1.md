@@ -361,6 +361,13 @@ The simulation's big effects come from choices where people start at 50/50 and d
 6. **The case collection isn't a random sample.** It comes from two channels, and only part of each was read (41/70 and 111/182). It illustrates techniques; it can't measure how common they are.
 7. **Source cautions:** *Predictive History* contains conspiracy and antisemitic content. It is used only as a case study of persuasion, with warnings. Podcast guests make claims that were not all verified; the reports mark which were.
 8. **Copyright:** Bernays and Lippmann may still be under copyright in India. They are quoted only briefly, for study and criticism.
+9. **Not every famous study holds up.**
+   - Psychology has had a "replication crisis": when other scientists repeated well-known experiments, many showed smaller effects or none at all. A large project found that only about a third to two-fifths of 100 psychology studies replicated (Open Science Collaboration 2015) **[CHECK]**.
+   - A few famous researchers in behavioural science, the field this paper relies on, were even found to have fabricated data. Papers by Diederik Stapel and Dan Ariely were retracted, and Francesca Gino's work was investigated by Harvard **[CHECK details]**.
+   - **What this paper did about it:**
+     - It leans on effects that **have** been repeated many times (defaults, framing, repetition, social proof).
+     - It flags fragile ones (the decoy effect, prebunking, hotel towels).
+     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story.
 
 ---
 
@@ -400,6 +407,7 @@ The simulation's big effects come from choices where people start at 50/50 and d
 - Mijs, J. J. B. (2021). The paradox of inequality: income inequality and belief in meritocracy go hand in hand. *Socio-Economic Review*, 19(1), 7–35. ✔
 - Milgram, S. (1963). Behavioral study of obedience. *J. Abnormal and Social Psychology*, 67.
 - Muchnik, L., Aral, S., & Taylor, S. J. (2013). Social influence bias. *Science*, 341.
+- Open Science Collaboration (2015). Estimating the reproducibility of psychological science. *Science*, 349(6251). [CHECK]
 - Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know. *Psychological Review*, 84(3).
 - Peisakhin, L., & Rozenas, A. (2018). Electoral effects of biased media: Russian television in Ukraine. *AJPS*, 62(3).
 - Plato. *Republic*, Book VII (trans. Jowett).
