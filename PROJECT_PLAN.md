@@ -14,7 +14,9 @@
 | EU policies (cookie pop-ups) | ✅ in |
 | 🎬 **Movies and propaganda** (military/government help for films in exchange for script changes; Bernays's "movies carry propaganda") | ✅ **added 11 Nov** |
 | 🎯 **Personal targeting** (a message tailored to the person's personality vs a general message) | ✅ **added 11 Nov** |
-| "How media creates crowds" (FOMO + brand loyalty) | ❓ not decided yet |
+| 📈 **FOMO** ("everyone is buying/doing this, don't miss out", made by media and crowds) | ✅ **added 11 Nov** |
+| 🕵️ **Secret agencies and governments on social media** (fake accounts, "meme wars"; Russia, US, China, Israel and more; notes in `topic_passages/state_influence_ops_notes.md`) | ✅ **added 11 Nov** |
+| Brand as religion | ❌ no |
 | Fake reviews | ❌ no (too common) |
 | Gamification | ❌ no |
 | Replication crisis | ❌ not a topic, only **one short paragraph in the paper's Limits** |
@@ -24,4 +26,4 @@ Books (Le Bon, Bernays, Lippmann, Machiavelli, Plato) ✅. Papers on AI people �
 
 ## Step 3: Simulations (AI people)
 Method checked ✅: AI people match humans in **direction** on 3/3 classic experiments, but not reliably in **size** (`simulation/ai_people/classics/RESULTS.md`).
-Order: universities → healthcare → personal targeting → politics → movies → EU cookies.
+Order: universities → healthcare → personal targeting → politics → fake-account feeds (secret agencies) → FOMO → movies → EU cookies.
