@@ -33,7 +33,7 @@
 |---|---|
 | Basic facts | 7% |
 | + agent: "office job anywhere, PR no problem" | 29% |
-| **+ "neighbour's son sends ₹40,000 home every month"** | **64%** 😮 |
+| **+ "neighbour's son sends ₹40,000 home every month"** | **64% → 65% with 20 people** 😮 |
 | + honest facts (PR not guaranteed, 40–50 h work, agent gets a commission) | 14% |
 
 > *"The agent's promises sound like typical agent BS, but the neighbour's son sends ₹40,000 home every month — that's real proof."* (an AI student)
@@ -57,3 +57,9 @@
 1. Read `RESULTS_v2.md`, especially the quotes.
 2. Decide: run the full university version later (about 2 limit windows), or move on to **healthcare** (research first, same method).
 3. Share your movie/propaganda ideas when you're ready.
+
+## Update (later on 11 Nov): extra batch 2 with the leftover usage
+- 72 more decisions (6 new, mostly careful, people per scenario) → **20 people per scenario, 240 decisions**.
+- **Canada held firm:** 10% → agent 25% → +neighbour **65%** → +disclosure **10%**.
+- **Private college got weaker:** disclosure no longer lowers it (20% → 20%). The cousin's story beats the honest numbers for some parents. So disclosure beats an agent's promises far more easily than it beats a relative.
+- Predictions: 5 right, 4 partly, 4 wrong. Details in `RESULTS_v2.md`.

@@ -1,28 +1,28 @@
-[combined] usable 168/168
+[combined] usable 240/240
 
 ===== Scenario 1: share choosing expensive private college (B) =====
 version                     all  stud parent  loans(B)
-brochure                      7    14      0  0/1
-honest                        7    14      0  0/1
-hype                         21    14     29  2/3
-counsellor                   21    14     29  2/3
-relatives                    29    29     29  2/4
-all                          21    14     29  3/3
-all_disclosed                14    14     14  2/2
+brochure                     15    10     20  2/3
+honest                       10    10     10  1/2
+hype                         25    10     40  4/5
+counsellor                   25    20     30  4/5
+relatives                    30    20     40  4/6
+all                          20    10     30  4/4
+all_disclosed                20    20     20  4/4
 
 by decision style: brochure | honest | hype | counsellor | relatives | all | all_disclosed
-  gut             25 |  25 |  50 |  50 |  75 |  50 |  50
+  gut             33 |  33 |  50 |  67 |  67 |  50 |  67
   mostly gut       0 |   0 |   0 |   0 |   0 |   0 |   0
   mostly careful   0 |   0 |   0 |   0 |   0 |   0 |   0
-  very careful     0 |   0 |  50 |  50 |  50 |  50 |   0
+  very careful    25 |   0 |  50 |  25 |  50 |  25 |   0
 by income (0 tight, 1 middle, 2 well-off):
-  income 0         0 |   0 |   0 |   0 |   0 |   0 |   0
-  income 1         0 |   0 |  40 |  40 |  40 |  40 |  20
+  income 0         0 |   0 |   0 |  11 |   0 |   0 |  11
+  income 1        25 |  12 |  50 |  38 |  50 |  38 |  25
   income 2        33 |  33 |  33 |  33 |  67 |  33 |  33
-'trusts ads/agents' yes/no: brochure: 25/0 | honest: 25/0 | hype: 75/0 | counsellor: 75/0 | relatives: 75/10 | all: 75/0 | all_disclosed: 50/0
-'relatives matter a lot' yes/no: brochure: 0/12 | honest: 0/12 | hype: 17/25 | counsellor: 17/25 | relatives: 17/38 | all: 17/25 | all_disclosed: 0/25
-switches vs brochure (A->B / B->A):  honest: 0/0  hype: 2/0  counsellor: 2/0  relatives: 3/0  all: 2/0  all_disclosed: 1/0
-reasons calling something a trick/red flag: brochure: 5 | honest: 4 | hype: 9 | counsellor: 7 | relatives: 8 | all: 8 | all_disclosed: 9
+'trusts ads/agents' yes/no: brochure: 43/0 | honest: 29/0 | hype: 71/0 | counsellor: 71/0 | relatives: 71/8 | all: 57/0 | all_disclosed: 57/0
+'relatives matter a lot' yes/no: brochure: 11/18 | honest: 11/9 | hype: 22/27 | counsellor: 22/27 | relatives: 22/36 | all: 22/18 | all_disclosed: 11/27
+switches vs brochure (A->B / B->A):  honest: 0/1  hype: 2/0  counsellor: 3/1  relatives: 3/0  all: 2/1  all_disclosed: 2/1
+reasons calling something a trick/red flag: brochure: 8 | honest: 5 | hype: 11 | counsellor: 10 | relatives: 11 | all: 12 | all_disclosed: 12
 sample reasons:
   [brochure -> A] student Riya (gut, inc 2): All that "40+ recruiters" marketing feels like BS to me, honestly. Government college is AICTE approved and the cost difference is huge—₹4.5 lakh vs ₹11 lakh for the same degree. Being 60 km away is way more pr
   [brochure -> A] parent Jatinder (gut, inc 1): Look, the government college is AICTE approved and respectable - my daughter will get placed fine from there. I earn ₹80,000 a month, and ₹11 lakh for College B is just too much, even with some savings. I can m
@@ -41,25 +41,25 @@ sample reasons:
 
 ===== Scenario 2: share choosing Canada via agent (B) =====
 version                     all  stud parent  loans(B)
-brochure                      7     0     14  1/1
+brochure                     10     0     20  2/2
 honest                        0     0      0  0/0
-agent                        29    29     29  4/4
-agent_village                64    57     71  9/9
-agent_village_disclosed      14     0     29  2/2
+agent                        25    20     30  5/5
+agent_village                65    50     80  13/13
+agent_village_disclosed      10     0     20  2/2
 
 by decision style: brochure | honest | agent | agent_village | agent_village_disclosed
-  gut              0 |   0 |   0 | 100 |  25
+  gut              0 |   0 |   0 |  83 |  17
   mostly gut       0 |   0 |  25 |  25 |  25
-  mostly careful   0 |   0 |  75 | 100 |   0
-  very careful    50 |   0 |   0 |   0 |   0
+  mostly careful   0 |   0 |  50 |  83 |   0
+  very careful    50 |   0 |  25 |  50 |   0
 by income (0 tight, 1 middle, 2 well-off):
-  income 0         0 |   0 |  29 |  57 |   0
-  income 1         0 |   0 |  50 | 100 |  50
-  income 2        33 |   0 |   0 |  33 |   0
-'trusts ads/agents' yes/no: brochure: 0/10 | honest: 0/0 | agent: 100/0 | agent_village: 100/50 | agent_village_disclosed: 25/10
-'relatives matter a lot' yes/no: brochure: 0/11 | honest: 0/0 | agent: 0/44 | agent_village: 60/67 | agent_village_disclosed: 20/11
-switches vs brochure (A->B / B->A):  honest: 0/1  agent: 4/1  agent_village: 9/1  agent_village_disclosed: 2/1
-reasons calling something a trick/red flag: brochure: 3 | honest: 13 | agent: 12 | agent_village: 8 | agent_village_disclosed: 14
+  income 0         0 |   0 |  20 |  50 |   0
+  income 1         0 |   0 |  33 | 100 |  33
+  income 2        50 |   0 |  25 |  50 |   0
+'trusts ads/agents' yes/no: brochure: 20/7 | honest: 0/0 | agent: 100/0 | agent_village: 100/53 | agent_village_disclosed: 20/7
+'relatives matter a lot' yes/no: brochure: 0/14 | honest: 0/0 | agent: 0/36 | agent_village: 67/64 | agent_village_disclosed: 17/7
+switches vs brochure (A->B / B->A):  honest: 0/2  agent: 4/1  agent_village: 12/1  agent_village_disclosed: 2/2
+reasons calling something a trick/red flag: brochure: 5 | honest: 19 | agent: 18 | agent_village: 13 | agent_village_disclosed: 19
 sample reasons:
   [brochure -> A] student Sneha (gut, inc 2): "Why would I trust an agent with ₹30 lakh and risk mortgaging our land? That's too much money and too much risk for a college that promises everything. B.Com locally costs nothing, I live at home, and if jobs a
   [brochure -> A] parent Geeta (gut, inc 0): ₹30 lakh is too much risk when we'd have to mortgage the land—that's our safety net, not something to gamble on an agent's promise. Better my son gets a B.Com here for ₹3 lakh, stays home, and at least has a de
