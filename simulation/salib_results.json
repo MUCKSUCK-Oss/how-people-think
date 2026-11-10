@@ -1,0 +1,757 @@
+{
+ "combos": 1408,
+ "runs_per_combo": 4,
+ "claims_held": {
+  "Stacking beats any single trick by 10+ pts": 1341,
+  "Slowing down protects more than prebunking": 1408,
+  "Careful thinkers only a little safer (gap < 10 pts)": 1232,
+  "Pre-selected default is the strongest single trick": 1408
+ },
+ "all_four_held": 1206,
+ "outputs": {
+  "combined": {
+   "min": 76.0,
+   "max": 93.9,
+   "mean": 85.9,
+   "p5": 79.6,
+   "p95": 92.1,
+   "total_index": {
+    "BETA": 0.27,
+    "STICKY_DEFAULT": 0.0,
+    "DECOY_PULL": 0.0,
+    "SOCIAL_PULL": 0.0,
+    "REPEAT_PULL": 0.0,
+    "SCARCITY_PULL": 0.0,
+    "URGENT_THINKING": 0.13,
+    "CUE_CAP": 0.62,
+    "PREBUNK": 0.0
+   }
+  },
+  "gut_minus_careful": {
+   "min": -0.9,
+   "max": 14.4,
+   "mean": 5.4,
+   "p5": 1.2,
+   "p95": 12.3,
+   "total_index": {
+    "BETA": 0.06,
+    "STICKY_DEFAULT": 0.0,
+    "DECOY_PULL": 0.0,
+    "SOCIAL_PULL": 0.0,
+    "REPEAT_PULL": 0.0,
+    "SCARCITY_PULL": 0.0,
+    "URGENT_THINKING": 1.12,
+    "CUE_CAP": 0.07,
+    "PREBUNK": 0.0
+   }
+  },
+  "stack_margin": {
+   "min": 6.1,
+   "max": 24.5,
+   "mean": 15.5,
+   "p5": 10.2,
+   "p95": 21.3,
+   "total_index": {
+    "BETA": 0.17,
+    "STICKY_DEFAULT": 0.11,
+    "DECOY_PULL": 0.0,
+    "SOCIAL_PULL": 0.0,
+    "REPEAT_PULL": 0.0,
+    "SCARCITY_PULL": 0.0,
+    "URGENT_THINKING": 0.16,
+    "CUE_CAP": 0.61,
+    "PREBUNK": 0.0
+   }
+  },
+  "slow_vs_prebunk": {
+   "min": 2.5,
+   "max": 15.8,
+   "mean": 9.6,
+   "p5": 5.2,
+   "p95": 13.7,
+   "total_index": {
+    "BETA": 0.02,
+    "STICKY_DEFAULT": 0.0,
+    "DECOY_PULL": 0.0,
+    "SOCIAL_PULL": 0.0,
+    "REPEAT_PULL": 0.0,
+    "SCARCITY_PULL": 0.0,
+    "URGENT_THINKING": 0.3,
+    "CUE_CAP": 0.03,
+    "PREBUNK": 0.64
+   }
+  },
+  "default_margin": {
+   "min": 0.6,
+   "max": 14.6,
+   "mean": 8.5,
+   "p5": 3.7,
+   "p95": 12.4,
+   "total_index": {
+    "BETA": 0.29,
+    "STICKY_DEFAULT": 0.22,
+    "DECOY_PULL": 0.03,
+    "SOCIAL_PULL": 0.0,
+    "REPEAT_PULL": 0.08,
+    "SCARCITY_PULL": 0.54,
+    "URGENT_THINKING": 0.03,
+    "CUE_CAP": 0.06,
+    "PREBUNK": 0.0
+   }
+  }
+ },
+ "failures": [
+  {
+   "values": {
+    "BETA": 1.397,
+    "STICKY_DEFAULT": 0.657,
+    "DECOY_PULL": 0.784,
+    "SOCIAL_PULL": 2.214,
+    "REPEAT_PULL": 0.279,
+    "SCARCITY_PULL": 0.67,
+    "URGENT_THINKING": 0.359,
+    "CUE_CAP": 0.692,
+    "PREBUNK": 0.884
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.958,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.273,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.796,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 2.879,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.288,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.279,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.444,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.942,
+    "PREBUNK": 0.477
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.977,
+    "STICKY_DEFAULT": 0.567,
+    "DECOY_PULL": 0.551,
+    "SOCIAL_PULL": 5.245,
+    "REPEAT_PULL": 0.186,
+    "SCARCITY_PULL": 0.728,
+    "URGENT_THINKING": 0.448,
+    "CUE_CAP": 0.94,
+    "PREBUNK": 0.805
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.958,
+    "STICKY_DEFAULT": 0.273,
+    "DECOY_PULL": 0.796,
+    "SOCIAL_PULL": 2.879,
+    "REPEAT_PULL": 0.288,
+    "SCARCITY_PULL": 0.279,
+    "URGENT_THINKING": 0.444,
+    "CUE_CAP": 0.942,
+    "PREBUNK": 0.805
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.157,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.412,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.734,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 5.585,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.257,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.654,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.415,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.697,
+    "PREBUNK": 0.533
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.296,
+    "STICKY_DEFAULT": 0.519,
+    "DECOY_PULL": 0.318,
+    "SOCIAL_PULL": 3.71,
+    "REPEAT_PULL": 0.513,
+    "SCARCITY_PULL": 0.583,
+    "URGENT_THINKING": 0.43,
+    "CUE_CAP": 1.003,
+    "PREBUNK": 0.714
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.95,
+    "STICKY_DEFAULT": 0.617,
+    "DECOY_PULL": 0.794,
+    "SOCIAL_PULL": 5.767,
+    "REPEAT_PULL": 0.314,
+    "SCARCITY_PULL": 0.273,
+    "URGENT_THINKING": 0.41,
+    "CUE_CAP": 1.153,
+    "PREBUNK": 0.445
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.414,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.671,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.64,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 2.835,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.478,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.483,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.384,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 1.225,
+    "PREBUNK": 0.963
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.931,
+    "STICKY_DEFAULT": 0.284,
+    "DECOY_PULL": 0.597,
+    "SOCIAL_PULL": 3.975,
+    "REPEAT_PULL": 0.266,
+    "SCARCITY_PULL": 0.253,
+    "URGENT_THINKING": 0.381,
+    "CUE_CAP": 0.669,
+    "PREBUNK": 0.489
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.081,
+    "STICKY_DEFAULT": 0.64,
+    "DECOY_PULL": 0.4,
+    "SOCIAL_PULL": 3.387,
+    "REPEAT_PULL": 0.333,
+    "SCARCITY_PULL": 0.383,
+    "URGENT_THINKING": 0.432,
+    "CUE_CAP": 1.398,
+    "PREBUNK": 0.593
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 2.121,
+    "STICKY_DEFAULT": 0.282,
+    "DECOY_PULL": 0.682,
+    "SOCIAL_PULL": 5.166,
+    "REPEAT_PULL": 0.378,
+    "SCARCITY_PULL": 0.433,
+    "URGENT_THINKING": 0.432,
+    "CUE_CAP": 1.41,
+    "PREBUNK": 0.454
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.951,
+    "STICKY_DEFAULT": 0.319,
+    "DECOY_PULL": 0.703,
+    "SOCIAL_PULL": 5.535,
+    "REPEAT_PULL": 0.461,
+    "SCARCITY_PULL": 0.564,
+    "URGENT_THINKING": 0.439,
+    "CUE_CAP": 0.812,
+    "PREBUNK": 0.915
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 0.879,
+    "STICKY_DEFAULT": 0.319,
+    "DECOY_PULL": 0.703,
+    "SOCIAL_PULL": 5.535,
+    "REPEAT_PULL": 0.461,
+    "SCARCITY_PULL": 0.564,
+    "URGENT_THINKING": 0.439,
+    "CUE_CAP": 0.812,
+    "PREBUNK": 0.915
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.951,
+    "STICKY_DEFAULT": 0.725,
+    "DECOY_PULL": 0.703,
+    "SOCIAL_PULL": 5.535,
+    "REPEAT_PULL": 0.461,
+    "SCARCITY_PULL": 0.564,
+    "URGENT_THINKING": 0.439,
+    "CUE_CAP": 0.812,
+    "PREBUNK": 0.915
+   },
+   "broken": [
+    "Stacking beats any single trick by 10+ pts",
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.951,
+    "STICKY_DEFAULT": 0.319,
+    "DECOY_PULL": 0.561,
+    "SOCIAL_PULL": 5.535,
+    "REPEAT_PULL": 0.461,
+    "SCARCITY_PULL": 0.564,
+    "URGENT_THINKING": 0.439,
+    "CUE_CAP": 0.812,
+    "PREBUNK": 0.915
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  },
+  {
+   "values": {
+    "BETA": 1.951,
+    "STICKY_DEFAULT": 0.319,
+    "DECOY_PULL": 0.703,
+    "SOCIAL_PULL": 2.191,
+    "REPEAT_PULL": 0.461,
+    "SCARCITY_PULL": 0.564,
+    "URGENT_THINKING": 0.439,
+    "CUE_CAP": 0.812,
+    "PREBUNK": 0.915
+   },
+   "broken": [
+    "Careful thinkers only a little safer (gap < 10 pts)"
+   ]
+  }
+ ],
+ "seconds": 606
+}

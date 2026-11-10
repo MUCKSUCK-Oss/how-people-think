@@ -1,0 +1,74 @@
+429	PredictiveHistory	E7QKiRnw0M8	attempt 1 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 2 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 3 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 4 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 5 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 6 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 7 (waiting 15m)
+429	PredictiveHistory	E7QKiRnw0M8	attempt 8 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 1 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 2 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 3 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 4 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 5 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 6 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 7 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 8 (waiting 15m)
+OK	PredictiveHistory	qRCSZoGC2Dg
+OK	PredictiveHistory	Sa5kffYLvBE
+OK	PredictiveHistory	oR3EOW52WCc
+OK	PredictiveHistory	MDOK9qaaA7Q
+OK	PredictiveHistory	SSmJKnUOsAc
+OK	PredictiveHistory	oFK53cYz_h0
+OK	PredictiveHistory	P82v6UAc9ss
+OK	PredictiveHistory	e_9fndobOnI
+OK	PredictiveHistory	xPxEi5Zm0G4
+OK	PredictiveHistory	brRNCLD7to0
+OK	PredictiveHistory	6tzAyCZ4Omk
+OK	PredictiveHistory	eF5B3CWpKxg
+OK	PredictiveHistory	7AG3EMDvKT0
+OK	PredictiveHistory	f03GAKlvZRs
+OK	PredictiveHistory	kFH4AujWqtI
+OK	PredictiveHistory	VWmPHHnZuiw
+OK	PredictiveHistory	RE2UribEFIo
+OK	PredictiveHistory	FspDllFoiDE
+OK	PredictiveHistory	dja6dkCfngE
+OK	PredictiveHistory	otyUpKhpTYM
+OK	PredictiveHistory	x83HcLWvHI8
+OK	PredictiveHistory	RG1clZlrfOo
+OK	PredictiveHistory	BIl5vJn6ohI
+OK	PredictiveHistory	8nsxuB3Vsts
+OK	PredictiveHistory	6aNh6sBpqvQ
+OK	PredictiveHistory	wGpdMYa2bME
+OK	PredictiveHistory	txgPfnXgzcE
+OK	PredictiveHistory	Ts-AA6LQf6I
+OK	PredictiveHistory	ue8y5e3HnHE
+OK	PredictiveHistory	4EZUrGPgAos
+OK	PredictiveHistory	6M1Z_V3WgOk
+OK	PredictiveHistory	0HYET47Cc-E
+OK	PredictiveHistory	xrmERlHUqBk
+OK	PredictiveHistory	VbowBTJWKBo
+OK	PredictiveHistory	mk4vcHtawSo
+OK	PredictiveHistory	0aASxQrJYuo
+OK	PredictiveHistory	YXTRlvFIRt8
+OK	PredictiveHistory	zAer-Mqe7tQ
+OK	PredictiveHistory	nOQqGy4boBY
+OK	PredictiveHistory	EBWTRvjZ1dw
+OK	PredictiveHistory	aQSDSqdlFxk
+429	PredictiveHistory	spg58Glfz68	attempt 1 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 2 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 3 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 4 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 5 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 1 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 2 (waiting 15m)
+429	PredictiveHistory	zbjLl85FLUc	attempt 3 (waiting 15m)
+OK	PredictiveHistory	zbjLl85FLUc
+429	PredictiveHistory	spg58Glfz68	attempt 1 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 2 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 3 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 4 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 5 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 6 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 7 (waiting 15m)
+429	PredictiveHistory	spg58Glfz68	attempt 8 (waiting 15m)

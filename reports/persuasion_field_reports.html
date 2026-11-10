@@ -1,0 +1,937 @@
+<title>Persuasion Field Reports</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: field reports. Sticky contents rail on wide screens, single reading column. */
+:root{
+  --paper:#f2f4f6; --sheet:#fff; --ink:#18212b; --muted:#56616d; --rule:#d6dce2;
+  --accent:#1f5fbf; --accent-soft:#e3ecf8; --warn:#8a5a00; --warn-soft:#fbf1dc; --ok:#1d6b45; --ok-soft:#e1f2e8; --danger:#a1281e;
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif; --body:"Literata",Georgia,serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#11161c;--sheet:#171e26;--ink:#e4e9ee;--muted:#9aa6b2;--rule:#2b3540;--accent:#7fb0ff;--accent-soft:#1c2c44;--warn:#f0c46a;--warn-soft:#3a2e15;--ok:#7fd3a5;--ok-soft:#173326;--danger:#ff8a7f;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#11161c;--sheet:#171e26;--ink:#e4e9ee;--muted:#9aa6b2;--rule:#2b3540;--accent:#7fb0ff;--accent-soft:#1c2c44;--warn:#f0c46a;--warn-soft:#3a2e15;--ok:#7fd3a5;--ok-soft:#173326;--danger:#ff8a7f;color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding-block:36px 80px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;grid-template-columns:240px minmax(0,1fr);gap:40px}
+aside{position:sticky;top:calc(env(safe-area-inset-top,0px) + 20px);align-self:start;display:grid;gap:6px}
+.navlink{display:flex;gap:10px;align-items:baseline;text-decoration:none;color:var(--ink);font-family:var(--display);font-weight:600;font-size:.92rem;padding:8px 10px;border-radius:4px;line-height:1.3}
+.navlink:hover,.navlink:focus-visible{background:var(--accent-soft);outline:none}
+.num{font-family:var(--mono);color:var(--accent);font-size:.8rem}
+main{min-width:0}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(2rem,5vw,2.8rem);line-height:1.1;margin:0;text-wrap:balance}
+.lede{max-width:62ch;margin:14px 0 0;font-size:1.08rem}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:18px;font-size:.9rem;color:var(--muted)}
+.note{margin-top:20px;border:1px solid var(--rule);border-left:4px solid var(--warn);background:var(--sheet);padding:14px 18px;max-width:70ch;font-size:.95rem}
+section{margin-top:56px;padding-top:8px;border-top:2px solid var(--ink)}
+.kicker{font-family:var(--mono);font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:10px 0 0}
+.rtitle{font-family:var(--display);font-weight:800;font-size:1.7rem;margin:4px 0 12px;line-height:1.15;text-wrap:balance}
+section h3{font-family:var(--display);font-weight:800;font-size:1.15rem;margin:34px 0 6px;color:var(--muted);letter-spacing:.01em;text-wrap:balance}
+section h4{font-family:var(--display);font-weight:700;font-size:1.04rem;margin:24px 0 6px;text-wrap:balance}
+section p,section li{max-width:70ch}
+section p{margin:8px 0}
+section ul,section ol{margin:6px 0;padding-left:1.25em}
+section li{margin:5px 0}
+hr{border:0;border-top:1px solid var(--rule);margin:26px 0}
+a{color:var(--accent)} a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chip{font-family:var(--mono);font-size:.7rem;padding:1px 7px;border-radius:3px;white-space:nowrap;vertical-align:1px}
+.chip.ok{background:var(--ok-soft);color:var(--ok)} .chip.paper{background:var(--accent-soft);color:var(--accent)} .chip.verify{background:var(--warn-soft);color:var(--warn)}
+.warn{color:var(--danger);font-weight:700}
+@media (max-width:820px){.wrap{grid-template-columns:1fr;gap:20px} aside{position:static;grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+</style>
+<div class="wrap">
+  <aside aria-label="Reports"><a href="#r1" class="navlink"><span class="num">1</span>Trump</a>
+<a href="#r2" class="navlink"><span class="num">2</span>Pharma and health</a>
+<a href="#r3" class="navlink"><span class="num">3</span>How big companies and powerful people think</a>
+<a href="#r4" class="navlink"><span class="num">4</span>How rulers play with people&#x27;s psychology (and geopolitics)</a>
+<a href="#r5" class="navlink"><span class="num">5</span>How the education system shapes millions of students every year</a></aside>
+  <main>
+    <header>
+      <p class="kicker">Hobby research · WTF podcast + Predictive History</p>
+      <h1>Persuasion Field Reports</h1>
+      <p class="lede">Five reports on Trump, pharma, powerful people, rulers and psychology, and the education system. Each finding links to the exact moment in the video and is paired with the research that explains it.</p>
+      <div class="legend"><span><span class="chip ok">heard it</span> I read that passage myself</span><span><span class="chip paper">paper, not re-read</span> study cited from memory; open it before quoting</span><span><span class="chip verify">verify</span> claim not yet checked</span></div>
+      <div class="note"><strong>Coverage, 6 Nov 2026, version 4:</strong> searched 44 of 70 WTF episodes (3 added on 6 Nov: Social Media Ep 2, ChatGPT Ep 4 and Health Ep 6, now in Report 2 Part G and Report 4 Part G) and 111 of 182 Predictive History videos (51 downloaded, plus 60 pulled via Arcmira). New findings sit in each report's "New in version 2/3/4" parts. Downloading is paused (YouTube bot check; Arcmira credits reset 1 Dec). Predictive History is one teacher's theories and predictions. Treat it as a case study in persuasion, not as research.</div>
+    </header>
+    <section id="r1"><p class="kicker">Report 1</p><h2 class="rtitle">Trump</h2><p><strong>Sources:</strong> WTF podcast (Nikhil Kamath) and Predictive History (Jiang Xueqin). Each link opens the video at the right moment.</p>
+<p><strong>Read status, 5 Nov 2026:</strong></p>
+<ul><li>WTF: Ep 13 was read in full. For 41 more episodes I searched the transcripts and read every passage that matched.
+</li><li>Predictive History: I searched 111 of 182 videos (51 downloaded, plus 60 pulled via Arcmira). The rest will be added as they arrive.
+</li></ul>
+<p><strong>Tags:</strong></p>
+<ul><li><strong>heard it</strong>: I read that transcript passage myself.
+</li><li><strong>paper, not re-read</strong>: a known study I'm citing from memory. Open it before you quote it.
+</li><li><strong>verify</strong>: a claim nobody has checked yet.
+</li></ul>
+<p><strong>Before you read:</strong> Predictive History is one teacher's predictions and theories. Read it as "what a popular YouTube prophet says", not as research.</p>
+<hr>
+<h3>Part A. Why Trump wins: how supporters and observers explain it</h3>
+<h4>1. "The most effective political athlete we've ever seen" (Chamath)</h4>
+<p><a href="https://youtu.be/hAgqDdPgA3g?t=1600" target="_blank" rel="noopener">26:40–33:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li><strong>The argument:</strong>
+<ul><li>COVID broke trust in experts, so America needed a "vessel" for change.
+</li><li>Trump is unbeatable at connecting one-on-one, and he's "disarming".
+</li><li>His business background makes him a negotiator career politicians can't match.
+</li><li>America "needed somebody willing to break the norms".
+</li></ul>
+</li><li><strong>Nikhil's reaction:</strong> he pushes back, but first says he's not sure how far he can argue "without getting into trouble".
+</li><li><strong>Research:</strong>
+<ul><li><strong>The authentic rule-breaker:</strong> when voters think the system is illegitimate, a norm-breaking or even lying candidate reads as authentic. Hahl, Kim &amp; Zuckerman Sivan 2018, <em>ASR</em> (<span class="chip paper">paper, not re-read</span>).
+</li><li><strong>Warmth and competence:</strong> people judge others on warmth first, competence second. Fiske, Cuddy &amp; Glick 2007 (<span class="chip paper">paper, not re-read</span>).
+</li></ul>
+</li><li><strong>Balance:</strong> Chamath is an open Trump supporter.
+</li></ul>
+<h4>2. The businessman-in-politics trend (WTF asks three leaders)</h4>
+<ul><li><strong>Christopher Luxon</strong>, NZ prime minister and a former CEO:
+<ul><li>Nikhil compares him to Trump, DOGE and "less DEI" (<a href="https://youtu.be/tlicx3KKzmQ?t=399" target="_blank" rel="noopener">6:39</a>, <a href="https://youtu.be/tlicx3KKzmQ?t=1385" target="_blank" rel="noopener">23:05</a>).
+</li><li>Asked for one thing he likes about Trump and one he doesn't, Luxon refuses: "not for me to comment" (<a href="https://youtu.be/tlicx3KKzmQ?t=1570" target="_blank" rel="noopener">26:10</a>).
+</li></ul>
+</li><li><strong>Nikos Christodoulides</strong>, president of Cyprus:
+<ul><li>Nikhil asks to see him as "the CEO of a country". He replies, "I'm not a CEO. I was never…" (<a href="https://youtu.be/RSB58m7Xwhg?t=3631" target="_blank" rel="noopener">1:00:31</a>).
+</li></ul>
+</li><li><strong>The contrast:</strong> Chamath praises openly, Luxon keeps quiet, and Christodoulides rejects the CEO frame. Same question, three answers.
+</li><li><strong>The number from your earlier session:</strong> a 2017 Marketplace-Edison poll found 78% of Republicans and 32% of Democrats wanted government run more like a business (<span class="chip verify">verify</span>).
+</li></ul>
+<h4>3. Same anger, two costumes: Trump and Mamdani (Ruchir Sharma)</h4>
+<p><a href="https://youtu.be/lTCzIDITaac?t=1485" target="_blank" rel="noopener">24:45</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Ruchir says Trump on the right and Mamdani (New York's left-wing mayor) both rose on anti-establishment, anti-incumbent anger.
+</li><li>His second point: in a few years Trump himself could look like the establishment.
+</li><li>He also claims the party holding the White House has now lost it three times in a row, which he calls a first in about 200 years (<span class="chip verify">verify</span>).
+</li></ul>
+<h4>4. "The empire needs a scapegoat" (Jiang, Predictive History)</h4>
+<p><a href="https://youtu.be/hcuT_mpeTxo?t=3693" target="_blank" rel="noopener">1:01:33</a> and <a href="https://youtu.be/hcuT_mpeTxo?t=3817" target="_blank" rel="noopener">1:03:37</a> · heard it · <span class="chip verify">his theory</span></p>
+<ul><li>Jiang says American power is in decline, so the elite need someone willing to be the openly aggressive face of it, so that all the blame lands on one person.
+</li><li>His example: during the Iraq war people said "war for oil", but during the Iran war people just say Trump is a jerk.
+</li><li>At <a href="https://youtu.be/hcuT_mpeTxo?t=5673" target="_blank" rel="noopener">1:34:33</a> he adds that "everyone's attention is focused on Trump", so the bigger structural forces go unseen.
+</li><li><strong>Research:</strong> this is a testable idea about personalization. Blaming individuals instead of situations is the fundamental attribution error (Ross 1977, <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>My note:</strong> whether a hidden "empire" picked Trump is Jiang's speculation. The attention part is the useful bit.
+</li></ul>
+<h4>5. "The original reality-TV star" (Jiang)</h4>
+<p><a href="https://youtu.be/A9Sr-4c-3Tg?t=2542" target="_blank" rel="noopener">0:42:22</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: Trump was in the tabloids every day in the 1980s.
+</li><li>He claims the rich "invest in people the way VCs invest in startups", because a friendship costs them nothing and one of those people might become president.
+</li><li><strong>Link to research:</strong> in the earlier chat we flagged a question to check: did <em>The Apprentice</em> boost Trump's image? (No paper verified yet.)
+</li></ul>
+<hr>
+<h3>Part B. How Trump communicates</h3>
+<h4>6. Say simple things again and again</h4>
+<p>Ranveer, WTF Ep 13: <a href="https://youtu.be/JjDjDvNgkFo?t=2040" target="_blank" rel="noopener">34:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Ranveer cites Charisma on Command: Trump repeats very basic lines.
+</li><li>He says creators do the same, so audiences tie a few words to them.
+</li><li><strong>Research:</strong>
+<ul><li><strong>Illusory truth:</strong> repetition makes a claim feel true. Pennycook, Cannon &amp; Rand 2018 (<span class="chip paper">paper, not re-read</span>).
+</li><li><strong>AP linguists, 2017:</strong> on Trump's superlatives and plain words (from the earlier session; expert opinion, not an experiment).
+</li></ul>
+</li></ul>
+<h4>7. "He speaks his mind, so you can decode him" (Jiang)</h4>
+<p><a href="https://youtu.be/Z1G6WI1Q0M8?t=541" target="_blank" rel="noopener">0:09:01</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang plays a Trump clip calling Spain "not very good members of NATO".
+</li><li>His reading: Spain refused to let US jets use its bases for strikes on Iran.
+</li><li><strong>The persuasion point:</strong> Trump's directness is part of his brand. Both fans and critics treat his words as unfiltered.
+</li></ul>
+<h4>8. "Reality distortion field" (Jiang)</h4>
+<p><a href="https://youtu.be/3xwJFjWcFow?t=7202" target="_blank" rel="noopener">2:00:02</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang says charismatic people like Steve Jobs and Trump "impose their reality onto other people".
+</li><li>In the same breath he claims his own power is sensing people's thoughts from far away. That's a red flag about him as a source.
+</li></ul>
+<h4>9. Tariffs announced loudly, then negotiated quietly (Christodoulides)</h4>
+<p><a href="https://youtu.be/RSB58m7Xwhg?t=3416" target="_blank" rel="noopener">0:56:56</a> · <span class="chip ok">heard it</span></p>
+<ul><li>The president of Cyprus says that when Trump posts "30% tariffs tomorrow", the reaction at home the next day is positive.
+</li><li>Later, even Trump negotiates.
+</li><li>His lesson: leaders should care what lasts, not the next-day headline.
+</li><li><strong>Research:</strong> in negotiation the first number sets the anchor (Galinsky &amp; Mussweiler 2001, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<hr>
+<h3>Part C. Trump and business: tariffs, tech and crypto</h3>
+<h4>10. Musk tried to stop the tariffs and failed</h4>
+<p><a href="https://youtu.be/Rni7Fz7208c?t=6051" target="_blank" rel="noopener">1:40:51</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Musk: "The President has made it clear he loves tariffs. I've tried to dissuade him… unsuccessfully."
+</li><li>On business and politics: "once you get to a certain scale, politics finds you."
+</li></ul>
+<h4>11. Who pays for tariffs</h4>
+<ul><li><strong>An economist on WTF Finance Ep 4:</strong> "a tariff makes it more expensive for your own people to buy things… be clear who's paying" (<a href="https://youtu.be/QigAo0NKUIM?t=1230" target="_blank" rel="noopener">20:30</a>).
+</li><li><strong>Carl Pei (Nothing):</strong> Trump's China tariffs are about a 20% hit on their earbuds (<a href="https://youtu.be/lRjprPQHuXw?t=949" target="_blank" rel="noopener">15:49</a>).
+</li><li><strong>Rishi Sunak:</strong> whoever comes next, the US tariff baseline will stay higher, because the forces behind it existed before Trump (<a href="https://youtu.be/spdUv7OFOu4?t=4864" target="_blank" rel="noopener">1:21:04</a>).
+</li></ul>
+<h4>12. "My friends want the economy to crash" (Ruchir)</h4>
+<p><a href="https://youtu.be/lTCzIDITaac?t=6037" target="_blank" rel="noopener">1:40:37</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Ruchir says many of his friends want the US economy to tank because of Trump, even though they'd lose money.
+</li><li>Economists predicted a recession from the tariffs, and it hasn't come, partly because of the AI boom.
+</li><li><strong>Research:</strong> partisans see the same economy differently (Bartels 2002, <span class="chip paper">paper, not re-read</span>). This is motivated reasoning (Kunda 1990).
+</li></ul>
+<h4>13. Crypto now "looks like Trump" (Nikhil)</h4>
+<p><a href="https://youtu.be/p8O6SFwXqok?t=5653" target="_blank" rel="noopener">1:34:13</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Nikhil: five years ago crypto felt "democratic, open, free". Now the picture in his mind is Trump.
+</li><li><strong>The psychology:</strong> a brand association shifted because of one person's visibility.
+</li></ul>
+<h4>14. Tech vs Wall Street (Jiang)</h4>
+<ul><li>Jiang reads the CEO guest list at Xi's White House dinner: AI and tech chiefs, and no artists like Lang Lang or Jackie Chan. To him it shows Trump's priorities (<a href="https://youtu.be/q7GdLK1xwAo?t=593" target="_blank" rel="noopener">9:53</a>, <a href="https://youtu.be/q7GdLK1xwAo?t=745" target="_blank" rel="noopener">12:25</a>).
+</li><li>He calls it a "civil war between Wall Street and Silicon Valley", with Trump "controlled by the tech oligarchs" on AI regulation (<a href="https://youtu.be/q7GdLK1xwAo?t=7387" target="_blank" rel="noopener">2:03:07</a>).
+</li><li>That last part is his interpretation.
+</li></ul>
+<hr>
+<h3>Part D. Power and the third term (Jiang's predictions; treat as predictions)</h3>
+<h4>15. "Trump will get a third term"</h4>
+<p><a href="https://youtu.be/5gyyAzfmWk4?t=311" target="_blank" rel="noopener">5:11</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang's reasoning:
+<ul><li>Trump was "unethical but never illegal" in New York, but is openly breaking laws in DC.
+</li><li>That only makes sense if he plans to stay in power and avoid prosecution.
+</li><li>He calls it his "litmus test": "if he doesn't get a third term, ignore me" (<a href="https://youtu.be/3xwJFjWcFow?t=6797" target="_blank" rel="noopener">1:53:17</a>).
+</li></ul>
+</li><li><strong>A historical analogy he uses:</strong> Augustus paid the legions himself from Egypt, which Jiang compares to ICE as Trump's "private military" (<a href="https://youtu.be/5gyyAzfmWk4?t=741" target="_blank" rel="noopener">0:12:21</a>).
+</li><li><strong>Another:</strong> Trump, Xi and Putin will form a Roman-style "triumvirate" to help each other stay in power (<a href="https://youtu.be/q7GdLK1xwAo?t=6512" target="_blank" rel="noopener">1:48:32</a>).
+</li><li><strong>Research on predictions:</strong> pundits who explain everything with one big theory forecast barely better than chance (Tetlock 2005, <em>Expert Political Judgment</em>, <span class="chip paper">paper, not re-read</span>). Note that Jiang reminds his audience of his hits (Trump winning, the Iran war) and sets one big test for the future.
+</li></ul>
+<h4>16. "The magic of Trump's chaos" (Jiang)</h4>
+<p><a href="https://youtu.be/N2GFDDZtGQY?t=5162" target="_blank" rel="noopener">1:26:02</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: in 2003, tens of thousands marched against the Iraq war. Today a war he calls more harmful (Iran) brings almost no protest, and people "threw it out of their heads".
+</li><li><strong>Research:</strong> this is attention flooding. In the earlier notes, King, Pan &amp; Roberts 2017 found the Chinese state distracts rather than argues.
+</li></ul>
+<hr>
+<h3>Part E. Self-censorship around Trump</h3>
+<ul><li><strong>Nikhil to Harari:</strong> does speaking about Trump worry him about entering America? Harari answers that "it's worrying that we even have to raise this question" (<a href="https://youtu.be/N0S048D2tj4?t=60" target="_blank" rel="noopener">1:00</a>).
+</li><li><strong>Nikhil with Chamath:</strong> "I don't know how far I can debate this… without getting into trouble" (<a href="https://youtu.be/hAgqDdPgA3g?t=1934" target="_blank" rel="noopener">32:14</a>).
+</li><li><strong>Research:</strong> people go quiet when they expect a cost for speaking, the "spiral of silence" (Noelle-Neumann 1974, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<hr>
+<h3>Part F. New in version 2 (Predictive History, 51 + 21 more videos)</h3>
+<h4>1. The "4D chess" move: heads I'm right, tails I'm right</h4>
+<p><a href="https://youtu.be/xrmERlHUqBk?t=566" target="_blank" rel="noopener">9:26</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang lists everything going wrong for Trump in the Iran war and says he looks like "the worst president in history".
+</li><li>Then he flips it: what if Trump <em>wants</em> to lose? "Then he'd be a genius."
+</li><li><strong>The "oh" moment:</strong> once failure also counts as proof of a secret plan, no evidence can ever prove the theory wrong.
+</li><li><strong>Research:</strong> Karl Popper's falsifiability (<em>Conjectures and Refutations</em>, 1963, book, not re-read). Conspiracy beliefs are "self-sealing": evidence against them gets absorbed as part of the plot (Sunstein &amp; Vermeule 2009, <em>Journal of Political Philosophy</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>2. Attacks make him a Messiah</h4>
+<p><a href="https://youtu.be/Go1bMQKnJBQ?t=2700" target="_blank" rel="noopener">45:00</a> and <a href="https://youtu.be/Go1bMQKnJBQ?t=2820" target="_blank" rel="noopener">47:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: for many on the right Trump is "the Messiah", because "everything the elite has done has been to destroy Donald Trump".
+</li><li>His counter-move: to beat Trump, you'd say "Let's be friends."
+</li><li><strong>Research:</strong>
+<ul><li>Psychological reactance: banning or attacking something makes people want it more (Brehm 1966, book, not re-read).
+</li><li>After Trump's 2023 indictments his Republican primary polling went <em>up</em> (<span class="chip verify">verify</span>).
+</li></ul>
+</li></ul>
+<h4>3. Trump the myth-maker (Caesar, Napoleon, Steve Jobs)</h4>
+<p><a href="https://youtu.be/enEET_0j_Y8?t=3420" target="_blank" rel="noopener">57:00</a>, <a href="https://youtu.be/enEET_0j_Y8?t=3780" target="_blank" rel="noopener">1:03:00</a> and <a href="https://youtu.be/F8qQgsEFGgc?t=180" target="_blank" rel="noopener">3:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: Trump doesn't win on business skill or economics. He wins because he is a "myth-making genius", like Caesar and Napoleon.
+</li><li>He says perception matters more than reality, and that Steve Jobs "imposed his reality onto others" (Apple's "reality distortion field").
+</li><li><strong>Research:</strong>
+<ul><li>Narrative transportation: people absorbed in a story argue against it less (Green &amp; Brock 2000, <em>JPSP</em>, <span class="chip paper">paper, not re-read</span>).
+</li><li>The illusory truth effect: repeating a claim makes it feel true (Hasher et al. 1977, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+</li></ul>
+<h4>4. Checking his Trump predictions</h4>
+<ul><li><strong>2024 election</strong> (<a href="https://youtu.be/exRK-85630k?t=2220" target="_blank" rel="noopener">37:00</a>, <span class="chip ok">heard it</span>): he predicted Trump would win. ✅ Correct.
+</li><li><strong>Running mate:</strong> he predicted Nikki Haley as VP. ❌ Wrong: it was JD Vance.
+</li><li><strong>Hindsight story:</strong> he says he knew Trump would win "when the FBI raided Mar-a-Lago… March of 2021" (<a href="https://youtu.be/qRCSZoGC2Dg?t=1920" target="_blank" rel="noopener">32:00</a>, <span class="chip ok">heard it</span>). The raid was actually in August 2022. A small date slip, but it's the kind of "I always knew" memory that hindsight bias produces (Fischhoff 1975, <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>Third term:</strong> he predicts Trump gets one, and says the Iran war could become the excuse for martial law (<a href="https://youtu.be/ue8y5e3HnHE?t=2389" target="_blank" rel="noopener">39:49</a>, <a href="https://youtu.be/RE2UribEFIo?t=4273" target="_blank" rel="noopener">1:11:13</a>). Treat as <span class="chip verify">his predictions</span>.
+</li><li><strong>"Political theater":</strong> he calls a close House vote on war powers "theater" (<a href="https://youtu.be/Ts-AA6LQf6I?t=937" target="_blank" rel="noopener">15:37</a>, <span class="chip verify">verify</span>).
+</li></ul>
+<h3>Part G. New in version 3 (39 more Predictive History videos)</h3>
+<ul><li><strong>"Elections were stolen", so Trump wants revenge</strong> (<a href="https://youtu.be/N4cs-8mrP_s?t=900" target="_blank" rel="noopener">15:00</a>, <span class="chip ok">heard it</span>): Jiang says Trump wants to destroy "the global elite" that robbed him in 2020. He presents Trump's own grievance story as Trump's motive, with no evidence either way.
+</li><li><strong>MAGA as a return to "white Christian" America</strong> (<a href="https://youtu.be/ea20aMYfT5I?t=3900" target="_blank" rel="noopener">1:05:00</a>, <span class="chip ok">heard it</span>): Jiang reads MAGA as restoring "a white Christian democratic nation" in Jefferson's vision. This is his interpretation. It links to research on "Christian nationalism" (Whitehead &amp; Perry, <em>Taking America Back for God</em>, 2020, book, not re-read).
+</li><li><strong>The "Ubermensch" pattern</strong> (<a href="https://youtu.be/o2Nq--qU9Kc?t=4140" target="_blank" rel="noopener">1:09:00</a>, <a href="https://youtu.be/o2Nq--qU9Kc?t=4320" target="_blank" rel="noopener">1:12:00</a>, <span class="chip ok">heard it</span>): he says Germany's army "needed someone to play the part of the Ubermensch" and puts Hitler, Napoleon and Trump in one "familiar pattern". A rally feels "like going to a concert". <span class="warn">⚠</span> Comparing anyone to Hitler is a strong rhetorical move. Note that he makes it as "pattern", not proof.
+</li><li><strong>"Influence on Trump"</strong> (<a href="https://youtu.be/7y_hbz6loEo?t=300" target="_blank" rel="noopener">5:00</a>, <span class="chip ok">heard it</span>): he names pensioners' lobbying, AIPAC and Christian Zionists as forces pushing Trump to war with Iran. His evidence is Trump leaving the Iran nuclear deal (2018), which is a real event. The "Israel lobby" part also appears in a real academic book (Mearsheimer &amp; Walt 2007, book, not re-read), but see the warning in Report 4.
+</li><li><strong>Another prediction</strong> (<a href="https://youtu.be/LctUcVqhhns?t=2100" target="_blank" rel="noopener">35:00</a>, <span class="chip ok">heard it</span>): before the 2024 election he said a Trump second term could mean war with Iran "which will very likely lead to World War" (his prediction; check against what happened).
+</li></ul>
+<h3>Questions for your own opinion</h3>
+<ol><li>Chamath and Jiang come from opposite ends of politics, yet both say Trump is "needed". What does each think he's needed <em>for</em>?
+</li><li>Is "he says what he thinks" a fact about Trump, or the result of a carefully built brand?
+</li><li>Ruchir says Trump and Mamdani are the same anger. Do you agree?
+</li></ol></section>
+<section id="r2"><p class="kicker">Report 2</p><h2 class="rtitle">Pharma and health</h2><p><strong>Read status, 5 Nov 2026:</strong></p>
+<ul><li><strong>WTF:</strong> I read the passages from "WTF is Pharma" (Mankind and Dr. Reddy's) and "WTF is Longevity" (with Bryan Johnson), plus health mentions from other episodes.
+</li><li><strong>Predictive History:</strong> almost no pharma content in the 111 videos searched. Its few health claims are flagged below.
+</li></ul>
+<p><strong>Tags:</strong> "heard it" means I read that passage myself. "Paper, not re-read" means a study cited from memory. "Verify" means not checked yet.</p>
+<hr>
+<h3>Part A. How drug companies sell when advertising is banned</h3>
+<h4>1. The logo held on screen for an extra second (Mankind)</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=674" target="_blank" rel="noopener">11:14</a> · <span class="chip ok">heard it</span></p>
+<ul><li>India doesn't allow prescription drugs to be advertised to the public.
+</li><li>So Mankind launched consumer (over-the-counter) products and ran ads for those, keeping the Mankind logo on screen for more than a second instead of the usual half-second.
+</li><li>The aim was to make the company name familiar across India before its medicines reached each region.
+</li><li><strong>Research:</strong> seeing a name repeatedly makes people like it more, the mere-exposure effect (Zajonc 1968, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>2. 17,000 sales reps</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=2624" target="_blank" rel="noopener">43:44</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A guest: out of every ₹100 a drug sells for, it costs roughly ₹25–35 to make. Much of the rest pays for a sales force of about 17,000 medical reps who visit doctors.
+</li><li><strong>Your takeaway:</strong> in India, pharma marketing happens person to person, aimed at doctors rather than patients.
+</li></ul>
+<h4>3. "Our industry is ethical"</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=7675" target="_blank" rel="noopener">2:07:55</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A guest says the top 10 Indian pharma companies "don't do anything wrong".
+</li><li><strong>Counterpoint:</strong> in the 2022 Dolo-650 case, tax officials alleged that the maker spent around ₹1,000 crore on freebies for doctors. The company denied it (<span class="chip verify">verify</span>).
+</li><li>India introduced a marketing code for pharma companies (UCPMP) in 2024 (<span class="chip verify">verify</span>).
+</li><li><strong>Research:</strong> gifts create a feeling of owing something back, reciprocity (Cialdini 1984). Studies link pharma payments to doctors with more prescribing of the paying company's drugs (DeJong et al. 2016, <em>JAMA Internal Medicine</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>4. "Every superhit drug gets abused"</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=7232" target="_blank" rel="noopener">2:00:32</a> · <span class="chip ok">heard it</span></p>
+<ul><li>On GLP-1 weight-loss drugs (Ozempic type): "whenever a product becomes superhit, it is being abused", and patients pressure doctors into prescribing them.
+</li><li>At <a href="https://youtu.be/WMRO9dvD5T0?t=8403" target="_blank" rel="noopener">2:20:03</a>, Nikhil asks whether a 25-year-old could build a GLP-1 brand the way people build protein brands. The answer: no, because it's prescription-only and can't be advertised.
+</li></ul>
+<h4>5. "National security" as a sales line</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=6348" target="_blank" rel="noopener">1:45:48</a> · <span class="chip ok">heard it</span></p>
+<ul><li>One guest dismisses the idea that China controlling India's drug ingredients is a security risk: "a narrative I don't believe in".
+</li><li>He adds that during COVID, Chinese suppliers were <em>more</em> reliable than Indian ones.
+</li><li><strong>Your takeaway:</strong> industries borrow security language to win protection. Ask who benefits when you hear it.
+</li></ul>
+<hr>
+<h3>Part B. Trump and pharma</h3>
+<h4>6. Tariffs on drugs</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=3550" target="_blank" rel="noopener">59:10</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Generic drugs aren't tariffed.
+</li><li>Branded, patented drugs sold into the US but made elsewhere may face a 100% tariff.
+</li><li>That hits India's contract drug-manufacturing (CDMO) firms.
+</li><li>The US BIOSECURE Act pushes companies away from Chinese suppliers ("China Plus One"), which helps India (<a href="https://youtu.be/WMRO9dvD5T0?t=9150" target="_blank" rel="noopener">2:32:30</a>).
+</li></ul>
+<h4>7. Cuts to research funding</h4>
+<p><a href="https://youtu.be/WMRO9dvD5T0?t=4129" target="_blank" rel="noopener">1:08:49</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A guest says Trump has cut a lot of public research funding.
+</li><li>He quotes the National Cancer Institute at $40B a year. That looks wrong: it's closer to the whole NIH budget, and the NCI's share is a few billion (<span class="chip verify">verify</span>).
+</li></ul>
+<h4>8. The Pfizer deal and TrumpRx (from your earlier session)</h4>
+<p>Verify all of these:</p>
+<ul><li><strong>30 Sept 2025:</strong> Trump announced a Pfizer deal with some price cuts and a "TrumpRx" website.
+</li><li><strong>What Pfizer got:</strong> a three-year break from planned tariffs.
+</li><li><strong>The criticism:</strong> a health-policy professor called selling straight to patients a gimmick that helps few people.
+</li><li><strong>Ad crackdown:</strong> in Sept 2025 there was an order to crack down on misleading drug ads on TV. The US and New Zealand are the only countries that allow prescription-drug ads aimed at the public.
+</li></ul>
+<hr>
+<h3>Part C. Selling hope: longevity and health gadgets</h3>
+<h4>9. 100 pills a day and a website (Bryan Johnson, WTF Longevity)</h4>
+<p><a href="https://youtu.be/fEUoJSTYtyc?t=4830" target="_blank" rel="noopener">1:20:30–1:24:06</a> · <span class="chip ok">heard it</span></p>
+<ul><li><strong>His regimen:</strong> he takes about 100 pills a day (now mixed into a drink) and sends people to his Blueprint website for the list.
+</li><li><strong>The pushback, from a doctor on the same panel:</strong>
+<ul><li>Take supplements only for deficiencies you can actually measure (<a href="https://youtu.be/fEUoJSTYtyc?t=1924" target="_blank" rel="noopener">32:04</a>).
+</li><li>Mitochondrial ones like NAD precursors "don't have any proof".
+</li><li>At <a href="https://youtu.be/fEUoJSTYtyc?t=2326" target="_blank" rel="noopener">38:46</a>: "the entire supplement industry is based on 'take it, it won't hurt'".
+</li></ul>
+</li><li><strong>Attention stunt:</strong> at <a href="https://youtu.be/fEUoJSTYtyc?t=1831" target="_blank" rel="noopener">30:31</a>, Johnson says a prediction market is launching a bet on his nighttime erections, and calls it a sign the idea "broke through the zeitgeist".
+</li><li><strong>Research:</strong>
+<ul><li><strong>Supplements:</strong> for most vitamins, the evidence is insufficient to say they prevent disease (US Preventive Services Task Force 2022, <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>Expectation:</strong> believing something works can change how you feel (placebo research).
+</li><li><strong>Authority:</strong> the person who experiments on himself seems believable because he "has skin in the game".
+</li></ul>
+</li></ul>
+<h4>10. "Money warps every relationship" (Johnson)</h4>
+<p><a href="https://youtu.be/fEUoJSTYtyc?t=1429" target="_blank" rel="noopener">23:49</a> · <span class="chip ok">heard it</span></p>
+<ul><li>After selling his company for about $300M, Johnson says every relationship became "you, your money and the person".
+</li></ul>
+<h4>11. The WHOOP band and the burger</h4>
+<p><a href="https://youtu.be/lRjprPQHuXw?t=9357" target="_blank" rel="noopener">2:35:57</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A guest describes someone wearing a WHOOP fitness band while eating a McDonald's burger and a cola: "just visual cues to tell people that I belong to this universe".
+</li><li><strong>Research:</strong> buying something to show which group you belong to is conspicuous consumption (Veblen 1899).
+</li></ul>
+<h4>12. "If sleep was a drug…" (Brian Armstrong)</h4>
+<p><a href="https://youtu.be/p8O6SFwXqok?t=7431" target="_blank" rel="noopener">2:03:51</a> · <span class="chip ok">heard it</span></p>
+<ul><li>"If sleep was a drug on the market, it'd be the most effective drug, and it's free."
+</li></ul>
+<hr>
+<h3>Part D. Health claims from Predictive History (flagged)</h3>
+<ul><li><strong>COVID vaccines:</strong>
+<ul><li>Jiang uses vaccine mandates as his example of "reason replaced by rules" (<a href="https://youtu.be/Ipj_Tdzokzo?t=1474" target="_blank" rel="noopener">24:34</a>).
+</li><li>At <a href="https://youtu.be/Z1G6WI1Q0M8?t=9621" target="_blank" rel="noopener">2:40:21</a> he says the vaccines were "not tested" and "rushed", and that Sweden handled COVID best.
+</li><li><strong>Fact check:</strong> the main COVID vaccines went through large trials before approval. Pfizer's had about 43,000 participants (Polack et al. 2020, <em>NEJM</em>). Sweden's results are still debated.
+</li></ul>
+</li><li><strong>The Afghan opium claim:</strong>
+<ul><li>Jiang links the US occupation of Afghanistan to the Sackler family's opioids (<a href="https://youtu.be/5rDMq-5_xkM?t=9094" target="_blank" rel="noopener">2:31:34</a>).
+</li><li><strong>Fact check:</strong> Afghan opium production did rise during the occupation (UN drug-office data). But Afghan heroin and Purdue's prescription OxyContin are separate stories, and the link between them is his.
+</li></ul>
+</li></ul>
+<hr>
+<h3>Part E. New in version 2 (Predictive History)</h3>
+<h4>1. MK-Ultra: a real case of mind-control research</h4>
+<p><a href="https://youtu.be/6PdfD44DkqA?t=2640" target="_blank" rel="noopener">44:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang describes the CIA's MK-Ultra programme: LSD and "brainwashing" experiments on people who didn't know, run by chemist Sidney Gottlieb, with most records destroyed.
+</li><li><strong>This one is real history.</strong> MK-Ultra ran from about 1953 to 1973. In 1973 the CIA ordered most of its files destroyed. The surviving papers came out through the 1975 Church Committee and a 1977 Senate hearing (verify exact dates).
+</li><li><strong>The "oh" moment:</strong> real abuses like this are why later, false conspiracy theories feel believable.
+</li></ul>
+<h4>2. "I've never met anyone helped by a psychologist"</h4>
+<p><a href="https://youtu.be/6PdfD44DkqA?t=2820" target="_blank" rel="noopener">47:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>This is one man's anecdote.
+</li><li><strong>Research:</strong> meta-analyses find psychotherapy has a sizeable average effect (Smith &amp; Glass 1977, <em>American Psychologist</em>; Wampold &amp; Imel, <em>The Great Psychotherapy Debate</em>, 2015; paper and book, not re-read).
+</li><li>A good example of personal experience being used to dismiss a whole field.
+</li></ul>
+<h4>3. The opium trade as a model</h4>
+<p><a href="https://youtu.be/CbamEcNuDXo?t=1560" target="_blank" rel="noopener">26:00</a> and <a href="https://youtu.be/CbamEcNuDXo?t=1920" target="_blank" rel="noopener">32:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: Britain sold opium to China with the help of local elites, and "the game is still being played today".
+</li><li><strong>Real history:</strong> the Opium Wars (1839–42 and 1856–60), fought by Britain to keep the opium trade open.
+</li><li><strong>His add-on:</strong> that the same game runs today is <span class="chip verify">his theory</span>.
+</li></ul>
+<h4>4. COVID vaccines and "science as religion" (<span class="warn">⚠</span> flagged)</h4>
+<p><a href="https://youtu.be/zAer-Mqe7tQ?t=286" target="_blank" rel="noopener">4:46</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He calls science "the dominant religion" and uses COVID vaccines as his example.
+</li><li>This repeats the vaccine scepticism flagged in Part D. Large trials and real-world data showed the vaccines cut severe illness and death (<span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h3>Part F. New in version 3</h3>
+<ul><li><strong>Semmelweis and the maternity clinics</strong> (<a href="https://youtu.be/ra2v9HkaHz8?t=2640" target="_blank" rel="noopener">44:00</a>, <span class="chip ok">heard it</span>): two maternity clinics in the same hospital had very different death rates. Real history: Ignaz Semmelweis (1847) showed doctors' unwashed hands were killing mothers, and colleagues rejected him. A classic story of experts resisting evidence that blames them. It's also why the "Semmelweis reflex" became a phrase.
+</li><li><strong>"Drugs" as a game-theory trap</strong> (version 2, Report 2, Part E, item 3) is his main pharma theme. Predictive History has almost no real pharma content, so for pharma rely on the WTF episodes.
+</li></ul>
+<h3>Part G. New in version 4 (WTF Ep 6, "WTF is Health?", read 6 Nov 2026)</h3>
+<p>Full notes: <span class="mono">topic_passages/wtf_ep6_health_notes.md</span>. These are keyword passages only, and speakers aren't labelled in the transcript.</p>
+<ul>
+<li><strong>"Wine is good for you" was marketing</strong> (<a href="https://youtu.be/6HE6d0lKh4o?t=15" target="_blank" rel="noopener">0:15</a>, <span class="chip ok">heard it</span>). A guest calls 20 years of "wine is good for you" messaging "absolutely bogus" and says alcohol is as bad as smoking. The show uses this line as its opening hook.</li>
+<li><strong>Supplements on "can it do any harm?" logic</strong> (<a href="https://youtu.be/6HE6d0lKh4o?t=3410" target="_blank" rel="noopener">56:50</a>, <span class="chip ok">heard it</span>). Rich, smart guests take "a bunch of supplements" while admitting they have "no idea" whether they work (<a href="https://youtu.be/6HE6d0lKh4o?t=7395" target="_blank" rel="noopener">2:03:15</a>). This is the same logic the Longevity doctor criticised (Part C).</li>
+<li><strong>Fat was blamed, sugar got in</strong> (<a href="https://youtu.be/6HE6d0lKh4o?t=4003" target="_blank" rel="noopener">1:06:43</a>, <span class="chip ok">heard it</span>). Real history: the sugar industry funded 1960s Harvard research that played down sugar and blamed fat (Kearns et al. 2016, verify).</li>
+<li><strong>Sugary "health drinks" for kids</strong> (<a href="https://youtu.be/6HE6d0lKh4o?t=5004" target="_blank" rel="noopener">1:23:24</a>, <span class="chip ok">heard it</span>). A label sets the belief. India's 2024 action on drinks sold as "health drinks" (verify).</li>
+<li><strong>"Natural herbs" plus a "not medical advice" disclaimer</strong> (<a href="https://youtu.be/6HE6d0lKh4o?t=3185" target="_blank" rel="noopener">53:05</a>, <span class="chip ok">heard it</span>). The claim gets made while sounding responsible.</li>
+</ul>
+
+<h3>Questions for your own opinion</h3>
+<ol><li>Mankind built a brand without being allowed to advertise. Is that clever marketing or a loophole?
+</li><li>Johnson sells his routine, and the doctor next to him says there's no proof for parts of it. Who did the audience believe more, and why?
+</li><li>When an industry says "national security", how would you check whether it's true?
+</li></ol></section>
+<section id="r3"><p class="kicker">Report 3</p><h2 class="rtitle">How big companies and powerful people think</h2><p><strong>Read status, 5 Nov 2026:</strong> WTF passages from 41 episodes, and Predictive History passages from 111 videos.</p>
+<p><strong>Tags:</strong> "heard it" means I read that passage myself. "Paper, not re-read" means a study cited from memory. "Verify" means not checked yet.</p>
+<hr>
+<h3>Part A. In their own words (WTF guests)</h3>
+<h4>1. "Your moat becomes distribution"</h4>
+<p>Nikesh Arora, CEO of Palo Alto Networks: <a href="https://youtu.be/vPvnzWoK24Q?t=3752" target="_blank" rel="noopener">1:02:32</a> · <span class="chip ok">heard it</span></p>
+<ul><li>In consumer businesses, over time the moat becomes distribution: "your product sometimes doesn't stay as good, but you still own distribution."
+</li><li>Without a good product, even those companies eventually fade.
+</li><li>At <a href="https://youtu.be/vPvnzWoK24Q?t=1509" target="_blank" rel="noopener">25:09</a>: "the big will become bigger" because they hold the data.
+</li><li><strong>Your takeaway:</strong> the incumbent's playbook is to own the shelf, the app store or the habit, not necessarily the best product.
+</li></ul>
+<h4>2. "Where does choice end and monopoly start?" (PhonePe)</h4>
+<p><a href="https://youtu.be/hBvInWQWpZ0?t=4976" target="_blank" rel="noopener">1:22:56</a> · <span class="chip ok">heard it</span></p>
+<ul><li>PhonePe, which holds a huge share of UPI payments, argues against a 30% market-share cap.
+</li><li>Its case: they don't control banks, routing or pricing, so customers choosing them isn't a monopoly.
+</li><li><strong>The psychology:</strong> a dominant company reframes its dominance as consumer choice. That's framing (Tversky &amp; Kahneman 1981).
+</li></ul>
+<h4>3. "I wouldn't call it a monopoly"</h4>
+<p><a href="https://youtu.be/gml71dXrRO0?t=6" target="_blank" rel="noopener">0:00:06</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Nikhil: "Why does CATL have a monopoly on batteries?"
+</li><li>The guest: "I wouldn't call it a monopoly. I'd say they are very competitive."
+</li><li><strong>Your takeaway:</strong> the wording changes how the same fact feels.
+</li></ul>
+<h4>4. "Money warps every relationship"</h4>
+<p>Bryan Johnson: <a href="https://youtu.be/fEUoJSTYtyc?t=1429" target="_blank" rel="noopener">23:49</a> · <span class="chip ok">heard it</span></p>
+<ul><li>After making about $300M, every relationship has three people in it: "you, your money and the person".
+</li><li>His example: a $10 gift for your niece now looks stingy.
+</li><li>Jiang says something similar (<a href="https://youtu.be/YyUl1QerHjA?t=4427" target="_blank" rel="noopener">1:13:47</a>): power and love contradict each other, because "if you're a billionaire everyone's nice to you, so who truly loves you?"
+</li><li><strong>Research:</strong> power lowers inhibition and empathy for others (Keltner, Gruenfeld &amp; Anderson 2003, <em>Psych Review</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>5. "That's a stupid label"</h4>
+<p>Chamath: <a href="https://youtu.be/hAgqDdPgA3g?t=1387" target="_blank" rel="noopener">23:07</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A commenter asks why, as a billionaire, he bothers building a product. Chamath: "first of all that's a stupid label… this is not how I measure myself."
+</li></ul>
+<h4>6. "Billionaires on paper"</h4>
+<p>Omar Al Olama, UAE minister: <a href="https://youtu.be/9gX2-RvNhf8?t=159" target="_blank" rel="noopener">2:39</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Nikhil: tech billionaires like Sam Altman and Elon Musk "have virtual money, you have real money". Al Olama: "many billionaires are billionaires on paper."
+</li></ul>
+<h4>7. Investors have two emotions</h4>
+<p>Vinod Khosla: <a href="https://youtu.be/O7O204wD82s?t=4392" target="_blank" rel="noopener">1:13:12</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Investors have "only two emotions, fear and greed", so every opportunity-rich space gets a bubble.
+</li><li>Nikhil adds Kahneman's point that people fear losses about twice as much as they enjoy gains (<a href="https://youtu.be/O7O204wD82s?t=4019" target="_blank" rel="noopener">1:06:59</a>).
+</li><li><strong>Research:</strong> loss aversion, Kahneman &amp; Tversky 1979 (<span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>8. Mass psychology repeats</h4>
+<p>Howard Marks: <a href="https://youtu.be/2HIJlD46Kig?t=809" target="_blank" rel="noopener">13:29</a> and <a href="https://youtu.be/2HIJlD46Kig?t=4441" target="_blank" rel="noopener">1:14:01</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Human psychology makes markets "somewhat predictable".
+</li><li>Most people's "psychological impediments" stop them buying in a panic, which is when the best opportunities appear.
+</li></ul>
+<h4>9. Leaders as CEOs (or not)</h4>
+<ul><li><strong>Luxon:</strong> NZ prime minister and ex-CEO, but won't comment on Trump.
+</li><li><strong>Christodoulides:</strong> "I'm not a CEO."
+</li><li><strong>Chamath:</strong> praises Trump's "business acumen".
+</li><li>Details are in the Trump report, item 2.
+</li></ul>
+<h4>10. Selling a business = storytelling</h4>
+<p>The Foundery: <a href="https://youtu.be/JppIFIKz7uA?t=2041" target="_blank" rel="noopener">34:01</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Raising money comes down to storytelling, so shy founders who run better businesses can lose out.
+</li></ul>
+<hr>
+<h3>Part B. Jiang's theory of the elite (Predictive History; <span class="chip verify">his views</span>)</h3>
+<h4>11. Elite overproduction</h4>
+<p><a href="https://youtu.be/Ipj_Tdzokzo?t=1601" target="_blank" rel="noopener">0:26:41</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang credits Peter Turchin (a real scholar): when a society produces more would-be elites than there are top positions, they fight and the system breaks down.
+</li><li><strong>Research:</strong> Turchin 2023, <em>End Times</em> (book, not re-read). This is a real academic theory and worth reading yourself.
+</li></ul>
+<h4>12. "Banks print money with a keystroke"</h4>
+<p><a href="https://youtu.be/Ipj_Tdzokzo?t=1789" target="_blank" rel="noopener">0:29:49</a> · <span class="chip ok">heard it</span></p>
+<ul><li><strong>The true part:</strong> when a bank makes a loan it creates a new deposit, so money is created. The Bank of England explained this in 2014 ("Money creation in the modern economy", <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>Jiang's leap:</strong>
+<ul><li>From that, "a cartel of private banks controls the world".
+</li><li>He says the "counter-elite" of AI companies wants that power through digital currency and digital ID.
+</li></ul>
+</li></ul>
+<h4>13. Finance vs tech, a "civil war"</h4>
+<p><a href="https://youtu.be/q7GdLK1xwAo?t=745" target="_blank" rel="noopener">12:25</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang reads Trump's dinner guest lists as proof that Silicon Valley is beating Wall Street. Tech leaders, he says, "just want more money, China market access, subsidies" (<a href="https://youtu.be/q7GdLK1xwAo?t=5098" target="_blank" rel="noopener">1:24:58</a>).
+</li></ul>
+<h4>14. 2008: rescue for the banks, not homeowners</h4>
+<p><a href="https://youtu.be/5rDMq-5_xkM?t=533" target="_blank" rel="noopener">0:08:53</a> · <span class="chip ok">heard it</span></p>
+<ul><li>After the 2008 crash, the government bailed out Wall Street, not ordinary homeowners. Jiang calls this regulatory capture: an industry controls its own regulators.
+</li><li><strong>Research:</strong> the idea of regulatory capture comes from George Stigler (1971, <span class="chip paper">paper, not re-read</span>).
+</li><li>He adds that Iceland jailed its bankers while the US didn't. Iceland did jail several bank executives (verify details).
+</li></ul>
+<h4>15. How capital picks a country to invest in</h4>
+<p><a href="https://youtu.be/A9Sr-4c-3Tg?t=2203" target="_blank" rel="noopener">0:36:43</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang lists three tests: room to grow, security, and "can I co-opt the political system". His example is Argentina.
+</li><li>He calls the journalist Andrew Ross Sorkin "a running dog of the oligarchs who wants access". That's an insult, but it points at a real idea, access journalism: reporters soften coverage to keep their access to powerful sources.
+</li></ul>
+<h4>16. Elites prefer obedient populations</h4>
+<p><a href="https://youtu.be/3xwJFjWcFow?t=6157" target="_blank" rel="noopener">1:42:37</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Hong Kong is "compliant" and easy to govern, while New York is "vibrant" and hard to govern. Jiang says the elite want the former.
+</li></ul>
+<h4>17. Musk and Thiel's "dark age" mission</h4>
+<p><a href="https://youtu.be/N2GFDDZtGQY?t=1429" target="_blank" rel="noopener">0:23:49</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang says Musk and Thiel believe their job is to shorten a coming dark age, using AI, data centers and Mars.
+</li><li>He links this to Asimov's <em>Foundation</em>. Musk has publicly said he's a <em>Foundation</em> fan (<span class="chip verify">verify</span>).
+</li></ul>
+<h4><span class="warn">⚠</span> What NOT to take as fact from this channel</h4>
+<ul><li>Jiang also says the elite secretly follow "Sabbatean Frankism" (<a href="https://youtu.be/YyUl1QerHjA?t=966" target="_blank" rel="noopener">0:16:06</a>).
+</li><li>He describes empire passing from Britain to the US to Israel to Argentina, which he calls "Pax Judaica" (<a href="https://youtu.be/Z1G6WI1Q0M8?t=3731" target="_blank" rel="noopener">1:02:11</a>).
+</li><li>He repeats the Rothschild–Waterloo story (<a href="https://youtu.be/5rDMq-5_xkM?t=2733" target="_blank" rel="noopener">0:45:33</a>).
+</li><li><strong>Why that matters:</strong> the Waterloo legend traces back to an 1846 antisemitic pamphlet, and historians (Niall Ferguson, <em>The House of Rothschild</em>, 1998) say it's false. The "secret Jewish elite religion" idea is a very old antisemitic conspiracy pattern.
+</li><li><strong>How to use it:</strong> see Report 4, Part D, on how conspiracy stories are built.
+</li></ul>
+<hr>
+<h3>Part C. New in version 2 (Predictive History)</h3>
+<h4>1. "Elite overproduction": too many elites, not enough top jobs</h4>
+<p><a href="https://youtu.be/QwfB-vXXKWU?t=1080" target="_blank" rel="noopener">18:00</a> and <a href="https://youtu.be/QwfB-vXXKWU?t=1920" target="_blank" rel="noopener">32:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: in the Bronze Age a <em>permanent, hereditary</em> elite appeared for the first time. When there were too many of them, they turned to empire-building to find new territory.
+</li><li><strong>Research:</strong> this is Peter Turchin's theory: too many elite hopefuls chasing too few top posts drives political instability (<em>End Times</em>, 2023, book, not re-read). Respected, but still debated.
+</li></ul>
+<h4>2. The Harvard network</h4>
+<p><a href="https://youtu.be/JU_8fJjtGxA?t=2520" target="_blank" rel="noopener">42:00</a> and <a href="https://youtu.be/JU_8fJjtGxA?t=2640" target="_blank" rel="noopener">44:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He shows that Pulitzer winners, billionaires, Fortune 500 CEOs, federal judges and senators are heavily from elite universities.
+</li><li>He says getting in isn't enough: you must also join the elite social clubs.
+</li><li><strong>Research:</strong> a 2024 <em>Nature</em> paper (Wai et al.) found US elites are disproportionately graduates of a few selective universities (verify the exact citation).
+</li></ul>
+<h4>3. Gerontocracy: the old hold the money, the young pay</h4>
+<p><a href="https://youtu.be/0g3yo1DjiLM?t=2580" target="_blank" rel="noopener">43:00</a> and <a href="https://youtu.be/ue8y5e3HnHE?t=4003" target="_blank" rel="noopener">1:06:43</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: an older "oligarchy" holds the capital, and the young will be asked to pay and even fight.
+</li><li><strong>Data:</strong> US households headed by people 55+ hold most of the country's wealth (Federal Reserve Distributional Financial Accounts, verify the share).
+</li></ul>
+<h4>4. Fear of communism kept workers well paid</h4>
+<p><a href="https://youtu.be/_blj8zKdKgA?t=2820" target="_blank" rel="noopener">47:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He says from 1950 to 1980 Western elites treated workers well because they feared a workers' revolt, and that pressure is gone today.
+</li><li>This is a known (debated) argument in labour history. It's worth checking against union-density and wage-share data.
+</li></ul>
+<h4>5. Shock and Awe as a "theory of empire"</h4>
+<p><a href="https://youtu.be/JieFC4Yww4o?t=1380" target="_blank" rel="noopener">23:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>"Shock and Awe" comes from Ullman &amp; Wade (1996, US National Defense University), a real doctrine of overwhelming force to break the enemy's will.
+</li><li>Jiang's claim that the Iraq war's real aim was to "teach others a lesson" (<a href="https://youtu.be/JieFC4Yww4o?t=2520" target="_blank" rel="noopener">42:00</a>) is his view.
+</li></ul>
+<h4>6. Rich dad, poor dad: what kids learn at home</h4>
+<p><a href="https://youtu.be/MX93U4KzA28?t=840" target="_blank" rel="noopener">14:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: a rich child grows up feeling respected and treats the teacher as a friend, while a poor child learns that adults are scary.
+</li><li><strong>Research:</strong> Annette Lareau's <em>Unequal Childhoods</em> (2003, book, not re-read) found middle-class "concerted cultivation" teaches kids to speak up to adults and institutions. A strong match.
+</li></ul>
+<h3>Part D. New in version 3</h3>
+<h4>1. The "Revolt of the Elite" and CEO pay</h4>
+<p><a href="https://youtu.be/AEPSUC-UQ5k?t=1500" target="_blank" rel="noopener">25:00</a>, <a href="https://youtu.be/AEPSUC-UQ5k?t=1560" target="_blank" rel="noopener">26:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: in the 1980s elites "revolted" against an equal, worker-based society. A 1970s CEO made about $1 million a year, and today far more.
+</li><li><strong>Data:</strong> the Economic Policy Institute estimates CEO-to-worker pay went from about 20:1 in 1965 to about 290:1 in recent years (verify the latest figure).
+</li><li>The phrase "Revolt of the Elites" is a real book (Christopher Lasch, 1995). Another one for your list.
+</li></ul>
+<h4>2. Rent-seeking</h4>
+<p><a href="https://youtu.be/t5oisJiorsU?t=420" target="_blank" rel="noopener">7:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He defines elites who "monetize power by exploiting the masses" (landlords are the classic case). Rent-seeking is a real economics term (Tullock 1967; Krueger 1974, papers, not re-read).
+</li></ul>
+<h4>3. Monopoly capitalism and Vanderbilt</h4>
+<p><a href="https://youtu.be/K-_l9jBGo74?t=720" target="_blank" rel="noopener">12:00</a> and <a href="https://youtu.be/B5FtHagng8c?t=3780" target="_blank" rel="noopener">1:03:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Capitalism moves from making wealth, to making money (finance), to monopoly "where a few companies control everything". In 19th-century America a few men like Cornelius Vanderbilt monopolised whole industries.
+</li><li><strong>Real history:</strong> this is what led to US antitrust law (the Sherman Act, 1890).
+</li></ul>
+<h4>4. "Status is a zero-sum game"</h4>
+<p><a href="https://youtu.be/K-_l9jBGo74?t=1200" target="_blank" rel="noopener">20:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Money can grow, but status can't: "I win, you lose". So societies with too many elite graduates (he names China's top universities, Peking and Tsinghua) produce frustrated elites.
+</li><li><strong>Research:</strong> positional goods (Fred Hirsch, <em>Social Limits to Growth</em>, 1976, book, not re-read).
+</li></ul>
+<h4>5. The Church's control system</h4>
+<p><a href="https://youtu.be/3751ZjwmrBw?t=360" target="_blank" rel="noopener">6:00</a>, <a href="https://youtu.be/3751ZjwmrBw?t=420" target="_blank" rel="noopener">7:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>"An empire demands your labor; the Church demands your soul." Control through the threat of hell, not through soldiers.
+</li><li>Real orders like the Dominicans were founded partly to fight heresy (the Cathars). That's true.
+</li></ul>
+<h4>6. Empire through bankers and the Bank of England</h4>
+<p><a href="https://youtu.be/_gH4PvIni5E?t=360" target="_blank" rel="noopener">6:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He says Britain beat Napoleon because the Bank of England gave it "infinite financing". This is close to a real historical argument about Britain's cheap war borrowing (John Brewer, <em>The Sinews of Power</em>, 1989, book, not re-read).
+</li></ul>
+<h3>Questions for your own opinion</h3>
+<ol><li>Arora says companies win through distribution even when their product gets worse. Name one you use every day.
+</li><li>PhonePe and the battery guest both changed the word "monopoly" into something nicer. What word would you use?
+</li><li>Turchin's elite-overproduction idea is a real theory, and Jiang adds secret religions on top. Where would you draw the line between them?
+</li></ol></section>
+<section id="r4"><p class="kicker">Report 4</p><h2 class="rtitle">How rulers play with people&#x27;s psychology (and geopolitics)</h2><p><strong>Read status, 5 Nov 2026:</strong></p>
+<ul><li><strong>WTF:</strong> Ep 13 read in full, plus passages from 41 more episodes.
+</li><li><strong>Predictive History:</strong> passages from 111 videos.
+</li></ul>
+<p><strong>Tags:</strong> "heard it" means I read that passage myself. "Paper, not re-read" means a study cited from memory. "Verify" means not checked yet.</p>
+<hr>
+<h3>Part A. The classic playbook</h3>
+<h4>1. Machiavelli, twice</h4>
+<p><strong>Nikhil and Ep 13</strong> (<a href="https://youtu.be/JjDjDvNgkFo?t=2160" target="_blank" rel="noopener">36:00</a>): a prince must look generous, religious and moral. Real generosity backfires: people get used to it, taxes rise to pay for it, and they turn on him.</p>
+<p><strong>The UAE's Omar Al Olama</strong> (<a href="https://youtu.be/9gX2-RvNhf8?t=1607" target="_blank" rel="noopener">26:47–32:56</a>, <span class="chip ok">heard it</span>):</p>
+<ul><li>Asked whether fear or love keeps a kingdom longer, he says manipulators "don't survive for long".
+</li><li>"You can trick many people for a short time, or a few for a long time, but not many for a long time." (The line is often credited to Lincoln, but that attribution is doubtful.)
+</li><li>Social media exposes anyone who puts on an act.
+</li><li><strong>The "oh, he's doing this" moment:</strong> he then says the family that has ruled Dubai since 1833 has never had a single member who "puts on an act". A serving minister telling millions of viewers that his own ruler is authentic is image management in action, and nobody outside can check it.
+</li><li><strong>Research:</strong> we trust a message more when it goes <em>against</em> the speaker's own interest (Eagly, Wood &amp; Chaiken 1978, <span class="chip paper">paper, not re-read</span>). This one goes with it.
+</li></ul>
+<h4>2. "The algorithm wants war"</h4>
+<ul><li><strong>Nas Daily, Ep 13</strong> (<a href="https://youtu.be/JjDjDvNgkFo?t=3000" target="_blank" rel="noopener">50:00</a>):
+<ul><li>"More leaders died making peace than war": Sadat (1981) and Rabin (1995). Nas says Rabin was "in Palestine". He was Israel's prime minister.
+</li><li>His own video calling for peace got about 100 death threats.
+</li></ul>
+</li><li><strong>Harari</strong> (<a href="https://youtu.be/N0S048D2tj4?t=2539" target="_blank" rel="noopener">42:19</a>): we handed public conversation to algorithms built to maximize engagement, and anger engages more than compassion.
+</li><li><strong>Jiang</strong> (<a href="https://youtu.be/A9Sr-4c-3Tg?t=7542" target="_blank" rel="noopener">2:05:42</a>): the elite rule by spreading "hatred, fear and anxiety". Most people agree on 99% of issues, and the media inflates the 1% "for engagement".
+</li><li><strong>Research:</strong>
+<ul><li>Each moral-emotional word in a tweet raised retweets by about 20% (Brady et al. 2017, <em>PNAS</em>).
+</li><li>Posts attacking the other side get shared most (Rathje et al. 2021).
+</li><li>People think the other side is more extreme than it is, the "perception gap" (More in Common 2019; Moore-Berg et al. 2020, <em>PNAS</em>).
+</li><li>All papers, not re-read.
+</li></ul>
+</li></ul>
+<h4>3. Fear makes people obey</h4>
+<ul><li><strong>Jiang</strong> (<a href="https://youtu.be/q7GdLK1xwAo?t=8598" target="_blank" rel="noopener">2:23:18</a>):
+<ul><li>"the function of the media is to cause fear and anxiety, because fear causes obedience."
+</li><li>AI firms justify huge data centers with "if we don't, China will get AGI first".
+</li></ul>
+</li><li><strong>Mati Staniszewski (ElevenLabs)</strong> (<a href="https://youtu.be/ef3D5Ak1HP4?t=3127" target="_blank" rel="noopener">52:07</a>) hopes social media can move to "positive sentiment rather than fear driving the algorithm".
+</li><li><strong>Research:</strong> a meta-analysis found fear appeals do work, especially when they also tell people what they can do about the threat (Tannenbaum et al. 2015, <em>Psych Bulletin</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>4. Distraction beats argument</h4>
+<ul><li><strong>Jiang</strong> (<a href="https://youtu.be/A9Sr-4c-3Tg?t=3684" target="_blank" rel="noopener">1:01:24</a>):
+<ul><li>the World Cup is "a substitute for war", built to fix people's attention on nation against nation while capital works behind the scenes.
+</li><li>"the game is not to manipulate people but to distract them."
+</li></ul>
+</li><li><strong>Jiang</strong> (<a href="https://youtu.be/N2GFDDZtGQY?t=5162" target="_blank" rel="noopener">1:26:02</a>): "the magic of Trump's chaos": no mass protests against the Iran war.
+</li><li><strong>Research:</strong> the Chinese state floods social media with cheerful posts instead of arguing with critics (King, Pan &amp; Roberts 2017, in your bibliography).
+</li></ul>
+<h4>5. Bollywood shapes how we see the police</h4>
+<p>WTF Policing: <a href="https://youtu.be/LcWoP6KtZKw?t=4053" target="_blank" rel="noopener">1:07:33</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Nikhil: people fear the police partly because Bollywood heroes always beat up corrupt cops.
+</li><li>The commissioner: "movies don't reflect reality."
+</li><li>Nikhil: "but they play a big part in the psychology of the masses."
+</li><li><strong>Research:</strong> heavy TV viewing shapes what people think the real world is like, called cultivation theory (Gerbner &amp; Gross 1976, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>6. Good persuasion: Wilberforce's three arguments</h4>
+<p>Rishi Sunak: <a href="https://youtu.be/spdUv7OFOu4?t=7949" target="_blank" rel="noopener">2:12:29</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Wilberforce's own reason for opposing slavery was moral, but he "recognised that wasn't the best way to persuade everyone".
+</li><li>So he also argued it on economic grounds, and on patriotic grounds (slaves supplied to France would help France beat Britain).
+</li><li>Thomas Clarkson collected the evidence behind it.
+</li><li><strong>Research:</strong> arguments framed in the <em>listener's</em> moral values persuade more, called moral reframing (Feinberg &amp; Willer 2015, 2019, <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>Your takeaway:</strong> the same technique can serve a good cause.
+</li></ul>
+<h4>7. Rally round the flag</h4>
+<p>Jiang: <a href="https://youtu.be/q7GdLK1xwAo?t=3486" target="_blank" rel="noopener">0:58:06</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Trump's first-term trade war and COVID both helped Xi Jinping concentrate power, because outside threats unite people behind their leader.
+</li><li><strong>Research:</strong> the rally-round-the-flag effect (Mueller 1970, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>8. Nations are stories</h4>
+<p>Jiang: <a href="https://youtu.be/hcuT_mpeTxo?t=812" target="_blank" rel="noopener">0:13:32</a> · <span class="chip ok">heard it</span></p>
+<ul><li>The philosopher Fichte helped invent German identity when Germans didn't even share one language.
+</li><li>The US Constitution works like "a game" that rewards ambition.
+</li><li>Canada was designed not to become nationalist.
+</li><li><strong>Research:</strong>
+<ul><li>Anderson 1983, <em>Imagined Communities</em> (book, not re-read).
+</li><li>Harari makes the same point on WTF: armies and companies run on shared stories (<a href="https://youtu.be/N0S048D2tj4?t=912" target="_blank" rel="noopener">15:12</a>).
+</li></ul>
+</li></ul>
+<h4>9. "If money can't bind people, use religion"</h4>
+<p>Jiang: <a href="https://youtu.be/5gyyAzfmWk4?t=1982" target="_blank" rel="noopener">0:33:02</a> · heard it · <span class="chip verify">his predictions</span></p>
+<ul><li>Jiang predicts Christian nationalism and AI-based control for the US.
+</li><li>He also predicts "techno-Marxism": an "AI god" plus a promise that 20 years of hard work brings paradise, the way Soviet and Chinese propaganda worked after national humiliation (<a href="https://youtu.be/5gyyAzfmWk4?t=5717" target="_blank" rel="noopener">1:35:17</a>).
+</li></ul>
+<hr>
+<h3>Part B. Geopolitics</h3>
+<ul><li><strong>Iran war:</strong>
+<ul><li>Jiang says it is "eschatological", an end-times war that won't end and will spread to the Caucasus and Ukraine (<a href="https://youtu.be/5rDMq-5_xkM?t=0" target="_blank" rel="noopener">0:00:00</a>, <a href="https://youtu.be/A9Sr-4c-3Tg?t=7013" target="_blank" rel="noopener">1:56:53</a>).
+</li><li>Treat that as his prediction. The dates and events he mentions are his claims, not checked.
+</li></ul>
+</li><li><strong>US–China:</strong>
+<ul><li>Jiang: the two will never actually fight a war, the real danger is civil conflict inside each, and "the rivalry is theater" (<a href="https://youtu.be/q7GdLK1xwAo?t=7479" target="_blank" rel="noopener">2:04:39</a>).
+</li><li>Ruchir Sharma: India swung from euphoria over Trump to warming toward China within months: "nobody remembers anything" (<a href="https://youtu.be/lTCzIDITaac?t=8030" target="_blank" rel="noopener">2:13:50</a>).
+</li></ul>
+</li><li><strong>Canada:</strong>
+<ul><li>Jiang says the US–Canada trade war is really "the US vs the City of London".
+</li><li>He predicts Alberta and Quebec will try to secede (<a href="https://youtu.be/hcuT_mpeTxo?t=2050" target="_blank" rel="noopener">0:34:10</a>). That's <span class="chip verify">his theory</span>.
+</li></ul>
+</li><li><strong>Personal diplomacy:</strong> Harari quotes Trump saying Putin "didn't break his promises to me, he broke them to Obama". Harari reads this as relations between families replacing relations between nations (<a href="https://youtu.be/N0S048D2tj4?t=1259" target="_blank" rel="noopener">20:59</a>).
+</li><li><strong>Research:</strong> pundits with one big theory forecast barely better than chance (Tetlock 2005, <span class="chip paper">paper, not re-read</span>). Harari on WTF: "every time you hear a single-cause explanation for a war, know that it is wrong" (<a href="https://youtu.be/N0S048D2tj4?t=3756" target="_blank" rel="noopener">1:02:36</a>).
+</li></ul>
+<hr>
+<h3>Part C. How a YouTube prophet persuades: Predictive History as a case study</h3>
+<p>This is the most "oh, he's doing this" part of the whole project. Jiang uses persuasion techniques on his own audience:</p>
+<ol><li><strong>Advertising his hits:</strong> "I predicted Trump would win, the Iran war, and that the US would lose" (<a href="https://youtu.be/3xwJFjWcFow?t=6797" target="_blank" rel="noopener">1:53:17</a>). He tells the audience he's "fairly convinced" Trump watched his video (<a href="https://youtu.be/5gyyAzfmWk4?t=4325" target="_blank" rel="noopener">1:12:05</a>).
+<ul><li>Research: we remember the hits and forget the misses (hindsight bias, Fischhoff 1975). Track records need counting, not anecdotes (Tetlock 2005).
+</li></ul>
+</li><li><strong>One test far in the future:</strong> "If Trump doesn't get a third term, ignore me." It sounds testable, but it stays open for years, and meanwhile everything else he says gets accepted.
+</li><li><strong>"Just connecting dots":</strong> "I don't know what is happening. I'm just trying to draw these points" (<a href="https://youtu.be/N2GFDDZtGQY?t=3783" target="_blank" rel="noopener">1:03:03</a>). Harvard to Zuckerberg to Kushner to Chabad to Adelson to Netanyahu.
+<ul><li>Research: seeing patterns in random links predicts conspiracy belief (van Prooijen, Douglas &amp; De Inocencio 2018, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+</li><li><strong>Admitting the soundbite habit:</strong> "I can be very extreme… sometimes I prefer the sound bite… a bold statement that goes viral" (<a href="https://youtu.be/A9Sr-4c-3Tg?t=502" target="_blank" rel="noopener">8:22</a>). He then promises to be more balanced.
+</li><li><strong>"Red pill" and secret knowledge:</strong> "Take the red pill." Teach kids the occult and Kabbalah. The elite reach "other spiritual beings" (<a href="https://youtu.be/YyUl1QerHjA?t=9078" target="_blank" rel="noopener">2:31:18</a>). He claims he can sense people's thoughts from far away (<a href="https://youtu.be/3xwJFjWcFow?t=7202" target="_blank" rel="noopener">2:00:02</a>).
+</li><li><strong>Denying he's a cult while acting like a prophet:</strong> "I don't want to start a cult… I'm not doing this for fame, money or power" (<a href="https://youtu.be/3xwJFjWcFow?t=6584" target="_blank" rel="noopener">1:49:44</a>).
+</li><li><strong>Using his own life story:</strong> a substitute teacher told him he was "special", which led to Yale on a full scholarship. His father washed dishes for 40 years. Personal stories lower the listener's guard.
+<ul><li>Research: people persuaded through stories are less likely to argue back, called narrative transportation (Green &amp; Brock 2000, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+</li></ol>
+<h3>Part D. <span class="warn">⚠</span> Warning: old prejudice in new clothes</h3>
+<p>Parts of the channel repeat known antisemitic and "replacement" conspiracy patterns. Recognize them; never quote them as fact:</p>
+<ul><li>"The Jewish diaspora… the most effective mechanism of transnational capital… I'm not saying this as an anti-Semitic comment" (<a href="https://youtu.be/Z1G6WI1Q0M8?t=5042" target="_blank" rel="noopener">1:24:02</a>).
+</li><li>A secret elite religion, "Sabbatean Frankism" (<a href="https://youtu.be/YyUl1QerHjA?t=966" target="_blank" rel="noopener">0:16:06</a>).
+</li><li>The Rothschild–Waterloo legend (<a href="https://youtu.be/5rDMq-5_xkM?t=2733" target="_blank" rel="noopener">0:45:33</a>). It comes from an 1846 antisemitic pamphlet and historians call it false.
+</li><li>"Population replacement" in Canada (<a href="https://youtu.be/hcuT_mpeTxo?t=2676" target="_blank" rel="noopener">0:44:36</a>).
+</li><li>Ethnic generalizations: Chinese people "not imaginative" and "not a threat" (<a href="https://youtu.be/q7GdLK1xwAo?t=8012" target="_blank" rel="noopener">2:13:32</a>, <a href="https://youtu.be/q7GdLK1xwAo?t=8598" target="_blank" rel="noopener">2:23:18</a>).
+</li></ul>
+<p><strong>The psychology:</strong> conspiracy antisemitism grows when people feel they have lost control over politics (Kofta, Soral &amp; Bilewicz 2020, <em>JPSP</em>, <span class="chip paper">paper, not re-read</span>). Each claim follows the same pattern: a hidden group, secret coordination, and an explanation for everything. The disclaimer "I'm not saying this as an anti-Semitic comment" is itself a known move, called a disclaimer before prejudice.</p>
+<hr>
+<h3>Part E. New in version 2 (Predictive History)</h3>
+<h4>1. The Hollywood-Pentagon complex</h4>
+<p><a href="https://youtu.be/0HYET47Cc-E?t=2345" target="_blank" rel="noopener">39:05</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang tells the story of Private Jessica Lynch (Iraq, 2003), turned into a heroic rescue story.
+</li><li><strong>Real history:</strong>
+<ul><li>Lynch herself told Congress in 2007 that the military's heroic version of her story was false (<span class="chip verify">verify</span>).
+</li><li>The Pentagon really does have an entertainment liaison office that reviews film scripts in exchange for help with equipment (Secker &amp; Alford, <em>National Security Cinema</em>, 2017, book, not re-read).
+</li></ul>
+</li></ul>
+<h4>2. How brainwashing works: cut people off first</h4>
+<p><a href="https://youtu.be/lt8XLz78ZvY?t=3600" target="_blank" rel="noopener">1:00:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: a child with a parent present can't easily be brainwashed, because they feel secure and can ask "is this teacher lying?".
+</li><li><strong>Research:</strong>
+<ul><li>Cults and coercive groups first cut members off from family (Lifton 1961, <em>Thought Reform</em>, book, not re-read).
+</li><li>Attachment security protects against extreme beliefs (<span class="chip paper">paper, not re-read</span>).
+</li></ul>
+</li></ul>
+<h4>3. Hannah Arendt on totalitarianism</h4>
+<p><a href="https://youtu.be/hk_yhi3-prw?t=2460" target="_blank" rel="noopener">41:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang summarises Arendt: a movement cut off from reality judges itself only by "movement, expansion".
+</li><li><strong>Real source:</strong> <em>The Origins of Totalitarianism</em> (1951). Add it to your old-books list.
+</li></ul>
+<h4>4. Leaders' first skill: unpredictability</h4>
+<p><a href="https://youtu.be/6PdfD44DkqA?t=420" target="_blank" rel="noopener">7:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: Putin, Trump and every world leader share the skill of being unpredictable.
+</li><li><strong>Research:</strong> Nixon's "madman theory", and Schelling's <em>The Strategy of Conflict</em> (1960, book, not re-read), on how seeming irrational can win bargains.
+</li></ul>
+<h4>5. <span class="warn">⚠</span> More flags</h4>
+<ul><li><strong>"The Immigration Trap"</strong> (<a href="https://youtu.be/35HRPLVyF0g?t=300" target="_blank" rel="noopener">5:00</a>, <a href="https://youtu.be/35HRPLVyF0g?t=1320" target="_blank" rel="noopener">22:00</a>) ranks groups by religion ("Muslims don't do well") and uses crude stereotypes about Asian men and women. <span class="warn">⚠</span> This is ethnic and religious stereotyping, not research.
+</li><li><strong>"Secret History #4: How Evil Triumphs"</strong> (<a href="https://youtu.be/BtlWoqWLm9Q?t=720" target="_blank" rel="noopener">12:00</a>) describes groups that believe "God has chosen them to save the world" and bind themselves with rituals. A real cult pattern, but this series also contains the "Pax Judaica" material flagged in Part D.
+</li></ul>
+<h3>Part F. New in version 3</h3>
+<h4>1. The regime-change toolkit: "bombs, propaganda, money"</h4>
+<p><a href="https://youtu.be/8XdL-7tAqnU?t=300" target="_blank" rel="noopener">5:00</a> and <a href="https://youtu.be/8XdL-7tAqnU?t=120" target="_blank" rel="noopener">2:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: you promise minorities a better life, finance internal dissent, and combine bombing with propaganda. He uses Iraq 2003 as the example, including "de-Baathification", which is real (the US order banning Ba'ath party members from jobs, which helped fuel the insurgency).
+</li></ul>
+<h4>2. War censorship</h4>
+<p><a href="https://youtu.be/fz-Dan7NRss?t=2160" target="_blank" rel="noopener">36:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>In the Gulf, you "cannot show Dubai being attacked" or the government arrests you. Controlling images during war is an old, documented tactic (verify the current Gulf rules).
+</li></ul>
+<h4>3. "Nationalism and cults: little difference"</h4>
+<p><a href="https://youtu.be/tquo1UsC5Nw?t=3900" target="_blank" rel="noopener">1:05:00</a>, <a href="https://youtu.be/tquo1UsC5Nw?t=780" target="_blank" rel="noopener">13:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A student asks the difference between nationalism and a cult. Jiang: "really little difference". Nationalism is powerful because it puts <em>us</em> against <em>them</em>, and it can absorb any other idea (liberal, socialist).
+</li><li><strong>Research:</strong> Benedict Anderson, <em>Imagined Communities</em> (1983), and social identity theory (Tajfel &amp; Turner 1979). Both are books/papers, not re-read.
+</li></ul>
+<h4>4. Why movements beat homework</h4>
+<p><a href="https://youtu.be/o2Nq--qU9Kc?t=4320" target="_blank" rel="noopener">1:12:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: "you can be part of a movement to transform the world" is much more appealing than "come to school, do your homework". He says this explains why young people joined the Nazi movement.
+</li><li><strong>Research:</strong> the "quest for significance" theory of radicalisation (Kruglanski et al. 2014, <em>Political Psychology</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>5. Social media and the "cult of the self"</h4>
+<p><a href="https://youtu.be/ra2v9HkaHz8?t=3720" target="_blank" rel="noopener">1:02:00</a> and <a href="https://youtu.be/AEPSUC-UQ5k?t=1800" target="_blank" rel="noopener">30:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Social media lets everyone join the "cult of the self". You see a friend's big new house online, then feel you must buy one.
+</li><li><strong>Research:</strong> social comparison theory (Festinger 1954, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>6. Dunning-Kruger, used correctly</h4>
+<p><a href="https://youtu.be/CjtUnKcU1IA?t=3840" target="_blank" rel="noopener">1:04:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He explains the Dunning-Kruger study: the weakest students overestimated themselves. That's correct (Kruger &amp; Dunning 1999, <em>JPSP</em>). Later work argues part of the effect is a statistical artifact (<span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>7. "The official narrative may not be true"</h4>
+<p><a href="https://youtu.be/LsRGvKxfLts?t=60" target="_blank" rel="noopener">1:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>On the death of Iran's President Raisi (2024 helicopter crash): there will always be an official story "and it may not be true". This is a healthy question, but on its own it isn't evidence of anything.
+</li></ul>
+<h4>8. His own anti-conspiracy list, and the 33rd parallel</h4>
+<p><a href="https://youtu.be/ihh1fdW4-cA?t=1380" target="_blank" rel="noopener">23:00</a>, <a href="https://youtu.be/ihh1fdW4-cA?t=2100" target="_blank" rel="noopener">35:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He lists "reasons never to believe conspiracy theories" (the government can't keep secrets, why kill JFK in public?) and then argues against them.
+</li><li>He then points out the atom bomb test site and Hiroshima/Nagasaki are all near 33°N, as if that meant something. <strong>Fact check:</strong> Trinity was about 33.7°N, Hiroshima 34.4°N, Nagasaki 32.7°N. Close-ish numbers by chance.
+</li><li><strong>Research:</strong> apophenia, seeing patterns in random data. People who believe conspiracies see more patterns in noise (van Prooijen, Douglas &amp; De Inocencio 2018, <em>European Journal of Social Psychology</em>, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>9. <span class="warn">⚠</span> More warnings</h4>
+<ul><li><strong>"Secret History #27: Empire of Evil"</strong> (<a href="https://youtu.be/ZPrecJHUOUs?t=60" target="_blank" rel="noopener">1:00</a>): "an empire needs scapegoats… the Jews have served the purpose". <strong>"#26: Faith of Evil"</strong> (<a href="https://youtu.be/kULUM_eB8KI?t=1620" target="_blank" rel="noopener">27:00</a>): Jewish intellectuals and bankers who "have gone on to conquer the world". <span class="warn">⚠</span> This is the classic antisemitic "world control" conspiracy, the same family as the forged <em>Protocols of the Elders of Zion</em>.
+</li><li><strong>"Live with Predictive History #2"</strong> (<a href="https://youtu.be/E7QKiRnw0M8?t=2580" target="_blank" rel="noopener">43:00</a>, <a href="https://youtu.be/E7QKiRnw0M8?t=1620" target="_blank" rel="noopener">27:00</a>): Democratic leaders called "Zionist" and "beholden to AIPAC"; Nazis and Zionists said to share a plan for Argentina. <span class="warn">⚠</span> Conspiracy framing.
+</li><li><strong>"Geo-Strategy Update #5"</strong> (<a href="https://youtu.be/5I2VPYPJJ68?t=360" target="_blank" rel="noopener">6:00</a>): the financial elite "would sell their own children". <span class="warn">⚠</span> Dehumanising language, which research links to support for harming the dehumanised group (Kteily et al. 2015, <em>JPSP</em>, <span class="chip paper">paper, not re-read</span>).
+</li><li><strong>"Why the West is Doomed"</strong> (<a href="https://youtu.be/E83dpuyvpiM?t=600" target="_blank" rel="noopener">10:00</a>): poor immigrants as "slave labor" for corporations (his framing).
+</li></ul>
+<h3>Part G. New in version 4 (WTF Ep 2 Social Media and Ep 4 ChatGPT, read 6 Nov 2026)</h3>
+<p>Full notes: <span class="mono">topic_passages/wtf_ep2_social_media_notes.md</span> and <span class="mono">wtf_ep4_chatgpt_notes.md</span>.</p>
+<p><strong>How platforms steer attention (Ep 2):</strong></p>
+<ul>
+<li><strong>"A dopamine hit at both ends"</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=454" target="_blank" rel="noopener">7:34</a>, <span class="chip ok">heard it</span>). Your likes keep you scrolling; every foot of feed carries an ad. "The incentive model is very simple: more users, get them to spend more time" (<a href="https://youtu.be/SkU3J2vWUK8?t=1942" target="_blank" rel="noopener">32:22</a>).</li>
+<li><strong>"Envy is the fuel for social media"</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=7489" target="_blank" rel="noopener">2:04:49</a>, <span class="chip ok">heard it</span>). A guest admits that posting something negative on a popular creator's page gets likes from other envious people, so negativity gets rewarded.</li>
+<li><strong>"TikTok's looking straight back into you"</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=2579" target="_blank" rel="noopener">42:59</a>, <span class="chip ok">heard it</span>). An endless, personalised feed with no stopping point.</li>
+<li><strong>Cambridge Analytica named as "manipulation"</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=1533" target="_blank" rel="noopener">25:33</a>, <span class="chip ok">heard it</span>). Caveat: researchers doubt it worked as well as claimed.</li>
+<li><strong>"For You" made his feed an echo chamber</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=7254" target="_blank" rel="noopener">2:00:54</a>, <span class="chip ok">heard it</span>).</li>
+<li><strong>Founders admit harm to children</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=9289" target="_blank" rel="noopener">2:34:49</a>, <span class="chip ok">heard it</span>). The research is debated: Haidt vs Orben &amp; Przybylski.</li>
+<li><strong>Growth "top down" through influencers and ministers</strong> (<a href="https://youtu.be/SkU3J2vWUK8?t=1779" target="_blank" rel="noopener">29:39</a>). This is Bernays's 1928 "key men" method.</li>
+</ul>
+<p><strong>AI and persuasion (Ep 4, 2023):</strong></p>
+<ul>
+<li><strong>"The brain has an immune system" for ideas</strong> (<a href="https://youtu.be/-HkBwSazZsM?t=2551" target="_blank" rel="noopener">42:31</a>, <span class="chip ok">heard it</span>). To persuade, fit the message inside what people already accept. The guest predicts ChatGPT will find "a specific set of words" to do it. This is the key passage for the AI-persuasion section of the paper.</li>
+<li><strong>The Asch experiment retold</strong> (<a href="https://youtu.be/-HkBwSazZsM?t=2731" target="_blank" rel="noopener">45:31</a>) as the reason a flood of fake content works.</li>
+<li><strong>"We'll learn to ignore it" vs "we won't be able to tell"</strong> (<a href="https://youtu.be/-HkBwSazZsM?t=2770" target="_blank" rel="noopener">46:10</a>). The simulation's weak prebunking result sides with the second speaker.</li>
+<li><strong>"By virtue of scale we tend to believe they will not do anything wrong"</strong> (<a href="https://youtu.be/-HkBwSazZsM?t=3366" target="_blank" rel="noopener">56:06</a>). Big brands feel trustworthy because they are big.</li>
+<li><strong>"It's the fear that somebody else will do it"</strong> (<a href="https://youtu.be/-HkBwSazZsM?t=6557" target="_blank" rel="noopener">1:49:17</a>). The AI arms-race justification, as in Part A, item 3.</li>
+</ul>
+
+<h3>Questions for your own opinion</h3>
+<ol><li>Al Olama says manipulation never lasts, then tells you his ruler never acts. Is that a contradiction?
+</li><li>Wilberforce changed his argument to suit each audience. Is that manipulation or good persuasion? Where's the line?
+</li><li>Which of Jiang's seven techniques have you seen in other influencers?
+</li></ol></section>
+<section id="r5"><p class="kicker">Report 5</p><h2 class="rtitle">How the education system shapes millions of students every year</h2><p><strong>Read status, 5 Nov 2026:</strong></p>
+<ul><li><strong>Predictive History:</strong> "The Occult of the Meritocracy" lecture and related passages (111 videos).
+</li><li><strong>WTF:</strong> passages from 41 episodes.
+</li></ul>
+<p><strong>Tags:</strong> "heard it" means I read that passage myself. "Paper, not re-read" means a study cited from memory. "Verify" means not checked yet.</p>
+<hr>
+<h3>Part A. Meritocracy: fair race or gatekeeping?</h3>
+<h4>1. "Meritocracy is failing society" (Jiang, who went to Yale on a full scholarship)</h4>
+<p><a href="https://youtu.be/3xwJFjWcFow?t=154" target="_blank" rel="noopener">2:34</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang calls himself a product of meritocracy and is "very thankful" for Yale.
+</li><li>He still wouldn't want his three kids to go there (<a href="https://youtu.be/3xwJFjWcFow?t=743" target="_blank" rel="noopener">12:23</a>).
+</li><li>His argument (<a href="https://youtu.be/5gyyAzfmWk4?t=5409" target="_blank" rel="noopener">1:30:09</a>):
+<ul><li>Meritocracy "is really about gatekeeping: who wins and who loses".
+</li><li>Whether you get into Yale or Harvard "was already destined from the moment you're born".
+</li></ul>
+</li><li><strong>Research:</strong> children from the top 1% of families are about twice as likely to attend Ivy-Plus colleges as middle-class children with the same test scores (Chetty, Deming &amp; Friedman 2023, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>2. The more unequal a country, the more it believes in meritocracy</h4>
+<p>WTF, Nikhil with Ruchir Sharma: <a href="https://youtu.be/lTCzIDITaac?t=1632" target="_blank" rel="noopener">27:12</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Nikhil raises the "Great Gatsby curve": more inequality goes with <em>more</em> belief in meritocracy.
+</li><li>Ruchir: capitalism doesn't give equal outcomes, but it needs a <em>feeling</em> of equal opportunity.
+</li><li><strong>Research:</strong>
+<ul><li>Mijs 2021, <em>Socio-Economic Review</em>: "The paradox of inequality: income inequality and belief in meritocracy go hand in hand".
+</li><li>Corak 2013, on the Great Gatsby curve.
+</li><li>Both papers, not re-read.
+</li></ul>
+</li><li><strong>The "oh" moment:</strong> the belief that the race is fair may be what makes an unfair race feel acceptable.
+</li></ul>
+<h4>3. How the SAT made the Ivy League dominant (real history)</h4>
+<p>Jiang: <a href="https://youtu.be/3xwJFjWcFow?t=1299" target="_blank" rel="noopener">21:39</a> and <a href="https://youtu.be/3xwJFjWcFow?t=1978" target="_blank" rel="noopener">32:58</a> · <span class="chip ok">heard it</span></p>
+<ul><li>A hundred years ago the US had three kinds of universities:
+<ul><li>the Ivy League, "a social club for the rich";
+</li><li>research universities for scholars;
+</li><li>state colleges that trained farmers and engineers.
+</li></ul>
+</li><li>In the 1930s, Harvard president James B. Conant asked Henry Chauncey to build a national test (the SAT) to find "the best and brightest".
+</li><li><strong>Research:</strong> this history is documented in Nicholas Lemann, <em>The Big Test</em> (1999, book, not re-read). That's a good old book for you to read.
+</li><li><strong><span class="warn">⚠</span> His add-on:</strong> Jiang ties meritocracy to a secret Freemason "religion of reason" (<a href="https://youtu.be/3xwJFjWcFow?t=4484" target="_blank" rel="noopener">1:14:44</a>). That part is <span class="chip verify">his theory</span>, with no evidence.
+</li></ul>
+<h4>4. The death of childhood</h4>
+<p>Jiang: <a href="https://youtu.be/3xwJFjWcFow?t=1145" target="_blank" rel="noopener">19:05</a> · <span class="chip ok">heard it</span></p>
+<ul><li>In Hong Kong, kindergartners drill vocabulary to get into a good primary school, then a good high school, then a good university.
+</li><li>At McGill, students are burned out, raised by "helicopter parents", with "no freedom to fail".
+</li><li><strong>Research:</strong> the claim that social media and pressure are harming teen mental health is contested.
+<ul><li>Jonathan Haidt and Jean Twenge argue the harm is big.
+</li><li>Orben &amp; Przybylski (2019, <em>Nature Human Behaviour</em>) found small average effects.
+</li><li>Present both sides (papers, not re-read).
+</li></ul>
+</li></ul>
+<hr>
+<h3>Part B. What schools are "really" for (Jiang's harder claims; read critically)</h3>
+<ul><li><strong>"School makes you stupid":</strong> "the purpose of school is not education, it is indoctrination" (<a href="https://youtu.be/N2GFDDZtGQY?t=5349" target="_blank" rel="noopener">1:29:09</a>).
+<ul><li>He claims curious kids get sent to psychiatrists and put on Ritalin.
+</li><li><strong>Research:</strong> the debate over ADHD over-diagnosis is real. For example, the youngest children in a class are more likely to be diagnosed (Morrow et al. 2012, <em>CMAJ</em>, <span class="chip paper">paper, not re-read</span>). But "teachers drug curious kids" is his exaggeration.
+</li></ul>
+</li><li><strong>"Don't send your kids to school"</strong> (<a href="https://youtu.be/YyUl1QerHjA?t=8491" target="_blank" rel="noopener">2:21:31</a>):
+<ul><li>He calls school "the main vector to force compliance", including vaccine mandates and "turning kids against parents".
+</li><li>He homeschools his children and says "I don't teach them anything" (<a href="https://youtu.be/YyUl1QerHjA?t=8617" target="_blank" rel="noopener">2:23:37</a>).
+</li></ul>
+</li><li><strong>"Denying children God is a lobotomy"</strong> (<a href="https://youtu.be/Ipj_Tdzokzo?t=5528" target="_blank" rel="noopener">1:32:08</a>). He calls the school system "designed to be evil".
+</li><li><strong>English-medium schooling = indoctrination</strong> into a "materialistic, individualistic, liberal" worldview (<a href="https://youtu.be/Ipj_Tdzokzo?t=7929" target="_blank" rel="noopener">2:12:09</a>). That's an interesting point for India.
+</li><li><strong>His ideal school</strong> is a farm where kids learn as apprentices next to working adults (<a href="https://youtu.be/5gyyAzfmWk4?t=5001" target="_blank" rel="noopener">1:23:21</a>).
+</li><li><strong><span class="warn">⚠</span> The big "oh, he's doing this" moment</strong> (<a href="https://youtu.be/5gyyAzfmWk4?t=4724" target="_blank" rel="noopener">1:18:44</a>):
+<ul><li>He chose to teach in China <em>because</em> it was "dysfunctional", so nobody would stop him teaching teenagers about "secret societies, eschatology and Kabbalah".
+</li><li>In his words, "the kids… believe whatever you say".
+</li><li>A teacher choosing a place where nobody checks him is exactly the gatekeeping problem in reverse.
+</li></ul>
+</li><li><strong>One good idea from him</strong> (<a href="https://youtu.be/5rDMq-5_xkM?t=8010" target="_blank" rel="noopener">2:13:30</a>): a teacher should say "I am wrong" every day, to model humility for students.
+</li></ul>
+<h3>Part C. University bureaucracy</h3>
+<p>Jiang: <a href="https://youtu.be/N2GFDDZtGQY?t=1097" target="_blank" rel="noopener">0:18:17</a> · <span class="chip ok">heard it</span></p>
+<ul><li><strong>His claim:</strong>
+<ul><li>Universities now have more administrators than professors.
+</li><li>The bureaucracy "creates problems to justify its existence", and he cites diversity offices and student complaints.
+</li></ul>
+</li><li><strong>Research:</strong> administrative growth is well documented (Ginsberg 2011, <em>The Fall of the Faculty</em>, book, not re-read). Why it grows is debated.
+</li></ul>
+<hr>
+<h3>Part D. The Indian system (from WTF)</h3>
+<ul><li><strong>Why India has so many software engineers</strong> (<a href="https://youtu.be/lJ3Wt-ng1Ls?t=2543" target="_blank" rel="noopener">42:23</a>): a young founder says it's because colleges only need "one computer" per student to teach software, while electronics and robotics need expensive labs. Institutional cost decides what millions of students study.
+</li><li><strong>UPSC mania</strong> (<a href="https://youtu.be/LcWoP6KtZKw?t=2370" target="_blank" rel="noopener">39:30</a>): a police commissioner says the exam is so competitive partly because hardly any government department hires except police, education and health.
+</li><li><strong>Parents' job-mapped view of degrees:</strong> Rishi Sunak's parents (a doctor and a pharmacist) only understood degrees that lead to a known job like doctor or lawyer (<a href="https://youtu.be/spdUv7OFOu4?t=1200" target="_blank" rel="noopener">20:00</a>).
+</li><li><strong>Dropouts who made it:</strong>
+<ul><li>A.R. Rahman left school at 15–16, and Nikhil says "me also" (<a href="https://youtu.be/ohjXRswUYqM?t=265" target="_blank" rel="noopener">4:25</a>).
+</li><li>Rahman's point: school isn't only about education, it's about "understanding humanity… other kids' stories", which he missed.
+</li></ul>
+</li><li><strong>"Are colleges just following the politics around them?"</strong> Nikhil asks this of Martin Escobari, a Harvard MBA (<a href="https://youtu.be/SPLFyVyTI1A?t=2100" target="_blank" rel="noopener">35:00</a>). His answer: college's #1 job is teaching critical thinking and holding a non-consensus view.
+</li><li><strong>Vinod Khosla:</strong>
+<ul><li>The episode title says "College Degrees Are Becoming Useless", and Khosla argues AI will make education free and lifelong.
+</li><li>Yet he went to IIT, CMU and Stanford, called his MBA "a necessity", and got into Stanford only after two rejections. The headline is stronger than his own story.
+</li></ul>
+</li><li><strong>China's talent magnet</strong> (<a href="https://youtu.be/WMRO9dvD5T0?t=4594" target="_blank" rel="noopener">1:16:34</a>): China brought back US-trained scientists with money <em>and</em> status: "we'll applaud you, you're Chinese, we're proud of you."
+</li></ul>
+<hr>
+<h3>Part E. New in version 2 (Predictive History)</h3>
+<h4>1. "Why Schools Suck": the school as a game</h4>
+<p><a href="https://youtu.be/kS-muAuq62E?t=1320" target="_blank" rel="noopener">22:00</a> to <a href="https://youtu.be/kS-muAuq62E?t=2220" target="_blank" rel="noopener">37:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang treats a school as a game with three players: parents, teachers and the school. The government "doesn't really care".
+</li><li><strong>Parents</strong> want "face": a child at an Ivy League school.
+</li><li><strong>International schools</strong> market themselves with foreign teachers' faces, not with evidence that kids learn.
+</li><li><strong>The school</strong> gives scholarships to a few top students to boost its results. Meanwhile there's "lots of cheating" and high turnover.
+</li><li><strong>Research:</strong> Campbell's law: the more a number (like admissions results) is used to judge something, the more it gets gamed (Campbell 1979, <span class="chip paper">paper, not re-read</span>).
+</li></ul>
+<h4>2. The degree as a ticket</h4>
+<p><a href="https://youtu.be/QwfB-vXXKWU?t=1320" target="_blank" rel="noopener">22:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Jiang: students pay for "the degree… your ticket to success". The school doesn't "actually have to teach you anything".
+</li><li><strong>Research:</strong>
+<ul><li>Signalling theory: a degree pays partly because it <em>signals</em> ability, not only because of what you learn (Spence 1973, <span class="chip paper">paper, not re-read</span>).
+</li><li>Bryan Caplan, <em>The Case Against Education</em> (2018, book, not re-read).
+</li></ul>
+</li></ul>
+<h4>3. Harvard's origin and the SAT, again</h4>
+<p><a href="https://youtu.be/JU_8fJjtGxA?t=240" target="_blank" rel="noopener">4:00</a>, <a href="https://youtu.be/JU_8fJjtGxA?t=480" target="_blank" rel="noopener">8:00</a> and <a href="https://youtu.be/JU_8fJjtGxA?t=720" target="_blank" rel="noopener">12:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Harvard was founded (1636) to train ministers. That's true.
+</li><li>The SAT began as a scholarship test. That matches Lemann's <em>The Big Test</em>.
+</li><li>To Harvard, "best" means "most likely to succeed", not most academic.
+</li></ul>
+<h4>4. "University is a complete rip-off"</h4>
+<p><a href="https://youtu.be/hk_yhi3-prw?t=3660" target="_blank" rel="noopener">1:01:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He tells students heading to university that "all you're doing is paying".
+</li><li>He also says administrators expense cars and gyms to the university (<a href="https://youtu.be/hk_yhi3-prw?t=1620" target="_blank" rel="noopener">27:00</a>, <span class="chip verify">verify</span>).
+</li></ul>
+<h4>5. Deliberate practice: "you'll succeed at anything"</h4>
+<p><a href="https://youtu.be/MX93U4KzA28?t=420" target="_blank" rel="noopener">7:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>He cites K. Anders Ericsson: if you constantly study how you learn, you can succeed at anything.
+</li><li><strong>Research:</strong> Ericsson et al. 1993 is real. But a large meta-analysis found practice explains only about 12% of the differences in performance (Macnamara, Hambrick &amp; Oswald 2014, <em>Psychological Science</em>, <span class="chip paper">paper, not re-read</span>). He overstates it.
+</li></ul>
+<h4>6. Students as export products</h4>
+<p><a href="https://youtu.be/CbamEcNuDXo?t=0" target="_blank" rel="noopener">0:00</a> and <a href="https://youtu.be/0g3yo1DjiLM?t=720" target="_blank" rel="noopener">12:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Chinese students' goal is "to immigrate to a western country". Millions of Indian students are in Canada on student visas looking for permanent residence.
+</li><li><strong>Link to Part D:</strong> Indian students in Canada, a question very close to you.
+</li></ul>
+<h4>7. Education as military training (Sparta)</h4>
+<p><a href="https://youtu.be/NpNCQ_gNqdE?t=180" target="_blank" rel="noopener">3:00</a> · <span class="chip ok">heard it</span></p>
+<ul><li>Sparta built its whole education system to turn citizens into soldiers who could control the helots. It's the oldest example of a state designing school for its own needs.
+</li></ul>
+<h3>Part F. New in version 3</h3>
+<ul><li><strong>"School → degree → money: you've been brainwashed"</strong> (<a href="https://youtu.be/AEPSUC-UQ5k?t=1980" target="_blank" rel="noopener">33:00</a>, <a href="https://youtu.be/ea20aMYfT5I?t=3840" target="_blank" rel="noopener">1:04:00</a>, <span class="chip ok">heard it</span>): Jiang tells Chinese students they believe they come to school only to get a degree, go to America and get rich, and calls that brainwashing.
+</li><li><strong>Hated best student</strong> (<a href="https://youtu.be/ybufqRY77PQ?t=2460" target="_blank" rel="noopener">41:00</a>, <span class="chip ok">heard it</span>): in Chinese schools "everyone hates the best student and the worst student". A focus on relationships over learning.
+</li><li><strong>One-child bets</strong> (<a href="https://youtu.be/hE4l9WyLF3U?t=2640" target="_blank" rel="noopener">44:00</a>, <span class="chip ok">heard it</span>): for a middle-class South Korean family it makes no sense to have three kids. You have one and put everything into getting them into college. <strong>Data:</strong> South Korea has the world's lowest fertility rate (about 0.7) and very high private-tutoring spending (verify the numbers). A very strong education-and-society link.
+</li><li><strong>"Everything you learned is wrong"</strong> (<a href="https://youtu.be/ihh1fdW4-cA?t=2460" target="_blank" rel="noopener">41:00</a>, <span class="chip ok">heard it</span>): primary school teaches you something and high school says it was wrong. He uses this to make students distrust what they're taught.
+</li><li><strong>Bullies and game theory</strong> (<a href="https://youtu.be/fz-Dan7NRss?t=840" target="_blank" rel="noopener">14:00</a>, <span class="chip ok">heard it</span>): he explains escalation with a school story where a few bullies make everyone in the cafeteria pay "tax" until a new kid hits back.
+</li><li><strong>Sparta and Iran's student hostage-takers:</strong> real examples of students used for state goals. The 1979 US Embassy takeover in Tehran was led by students (<a href="https://youtu.be/LsRGvKxfLts?t=1380" target="_blank" rel="noopener">23:00</a>, <span class="chip ok">heard it</span>).
+</li><li><strong>Jiang's own story</strong> (<a href="https://youtu.be/voQEteh6Hko?t=120" target="_blank" rel="noopener">2:00</a>, <a href="https://youtu.be/E83dpuyvpiM?t=120" target="_blank" rel="noopener">2:00</a>, <span class="chip ok">heard it</span>): an immigrant child in Canada (1983), his dad a village teacher, teased at school, then Yale on full scholarship. He benefited from the meritocracy he now attacks (see Part A).
+</li></ul>
+<h3>Questions for your own opinion (you're in Class 11 in this system right now)</h3>
+<ol><li>Ruchir says meritocracy needs a <em>feeling</em> of fair chance. Does JEE or the board exam feel fair to you? Is it?
+</li><li>Jiang benefited from Yale and now attacks it. Does that make his criticism stronger or weaker?
+</li><li>Rahman left school and Khosla needed degrees. What does each story prove, and what doesn't it prove?
+</li></ol></section>
+  </main>
+</div>

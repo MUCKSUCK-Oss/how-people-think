@@ -1,0 +1,19 @@
+# Python tools (re-create with: python3 -m venv simulation/.venv && simulation/.venv/bin/pip install -r simulation/requirements.txt)
+simulation/.venv/
+__pycache__/
+*.pyc
+
+# Temporary files from runs
+simulation/ai_people/_empty_workdir/
+*.part
+.DS_Store
+
+# Copyrighted material: keep on this computer, never upload
+transcripts/raw_vtt/
+transcripts/text/
+transcripts/*_raw.txt
+books/*.txt
+*.pdf
+
+# Personal data (names and emails of professors)
+*.xlsx

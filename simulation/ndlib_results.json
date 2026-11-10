@@ -1,0 +1,18 @@
+{
+ "3.0": {
+  "no_confirmation_bias": 89.2,
+  "confirmation_bias": 49.9
+ },
+ "2.0": {
+  "no_confirmation_bias": 81.4,
+  "confirmation_bias": 50.2
+ },
+ "1.5": {
+  "no_confirmation_bias": 75.5,
+  "confirmation_bias": 53.3
+ },
+ "1.0": {
+  "no_confirmation_bias": 68.3,
+  "confirmation_bias": 61.3
+ }
+}

@@ -1,0 +1,327 @@
+<title>Choice Manipulation Lab</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: lab notebook. One reading column; the live experiment bench sits up top, findings follow as numbered figures. */
+:root{
+  --paper:#f3f4f1; --sheet:#ffffff; --ink:#1c2321; --muted:#5b6662; --rule:#d5dad6;
+  --push:#a8326a; --push-soft:#f6e3ec; --free:#2e6f78; --free-soft:#e0eef0; --guard:#3c7341; --guard-soft:#e3f0e3;
+  --display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Serif 4",Georgia,serif; --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#121715;--sheet:#1a201e;--ink:#e3e8e5;--muted:#9aa6a1;--rule:#2d3633;--push:#f07aad;--push-soft:#3a1d2a;--free:#6fc0cb;--free-soft:#16302f;--guard:#86c98b;--guard-soft:#1b2f1d;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#121715;--sheet:#1a201e;--ink:#e3e8e5;--muted:#9aa6a1;--rule:#2d3633;--push:#f07aad;--push-soft:#3a1d2a;--free:#6fc0cb;--free-soft:#16302f;--guard:#86c98b;--guard-soft:#1b2f1d;color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+.wrap{max-width:860px;margin:0 auto;padding-block:40px 80px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:48px}
+.kicker{font-family:var(--mono);font-size:.74rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(2.1rem,6vw,3.2rem);line-height:1.05;margin:6px 0 0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:800;font-size:1.45rem;line-height:1.2;margin:4px 0 8px;text-wrap:balance}
+p{margin:8px 0;max-width:65ch}
+.lede{font-size:1.1rem}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.note{border:1px solid var(--rule);border-left:4px solid var(--push);background:var(--sheet);padding:12px 16px;font-size:.95rem;max-width:65ch}
+/* bench */
+.bench{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:20px;display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:24px}
+.controls{display:grid;gap:10px;align-content:start}
+.group-label{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:6px 0 0}
+.tog{display:flex;gap:10px;align-items:flex-start;cursor:pointer;font-size:.96rem;line-height:1.35}
+.tog input{margin-top:3px;accent-color:var(--push);width:17px;height:17px;flex:none}
+.tog.guard input{accent-color:var(--guard)}
+.tog small{display:block;color:var(--muted);font-size:.82rem}
+.slider{display:grid;gap:4px;padding-left:27px}
+.slider input{width:100%;accent-color:var(--push)}
+.readout{display:grid;gap:14px;align-content:start}
+.big{font-family:var(--display);font-weight:800;font-size:3.4rem;line-height:1;color:var(--push)}
+.big.neutral{color:var(--free)}
+.meter{height:22px;border-radius:3px;background:var(--free-soft);position:relative;overflow:hidden;border:1px solid var(--rule)}
+.meter .fill{position:absolute;inset:0 auto 0 0;background:var(--push);transition:width .35s ease}
+.meter .mid{position:absolute;top:-2px;bottom:-2px;left:50%;width:2px;background:var(--ink);opacity:.5}
+.legend{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.75rem;color:var(--muted)}
+.delta{font-family:var(--mono);font-size:.95rem}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+button{font-family:var(--mono);font-size:.82rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink);padding:7px 12px;border-radius:4px;cursor:pointer}
+button:hover{border-color:var(--ink)}
+button:focus-visible,input:focus-visible{outline:2px solid var(--free);outline-offset:2px}
+/* figures */
+figure{margin:0;display:grid;gap:10px}
+figcaption{font-size:.95rem;color:var(--muted);max-width:65ch}
+.chart{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:14px 10px 6px;overflow-x:auto}
+.chart svg{display:block;width:100%;height:auto;min-width:520px}
+svg text{fill:var(--ink);font-family:var(--mono);font-size:12px}
+svg .muted{fill:var(--muted)}
+.tbl{width:100%;border-collapse:collapse;font-size:.95rem}
+.tbl th,.tbl td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+.tbl th{font-family:var(--mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:400}
+.tbl td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tblwrap{overflow-x:auto;background:var(--sheet);border:1px solid var(--rule);border-radius:6px}
+.findings{display:grid;gap:8px;padding-left:1.2em;margin:0}
+@media (max-width:720px){.bench{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){.meter .fill{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="kicker">Simulation for the paper "How Choices Are Made For Us" · v2: authority, confirmation bias, robustness test</p>
+    <h1>Choice Manipulation Lab</h1>
+    <p class="lede">1,000 simulated people choose between option A and option B. Left alone, about half pick each. A manipulator wants them to pick A. Switch the tricks on and watch the choices move.</p>
+  </header>
+
+  <section aria-labelledby="bench-h">
+    <p class="kicker">The bench</p>
+    <h2 id="bench-h">Try it yourself</h2>
+    <div class="bench">
+      <div class="controls">
+        <p class="group-label">Manipulator's tricks</p>
+        <label class="tog"><input type="checkbox" id="t-default"><span>Pre-select A<small>Default effect: many people never change it</small></span></label>
+        <label class="tog"><input type="checkbox" id="t-decoy"><span>Add a worse copy of A<small>Decoy: makes A look like a bargain</small></span></label>
+        <label class="tog"><input type="checkbox" id="t-social"><span>Show 100 fake likes (80% A)<small>Social proof: "most people chose A"</small></span></label>
+        <label class="tog"><input type="checkbox" id="t-rep"><span>Repeat "A is better"<small>Illusory truth: familiar feels true</small></span></label>
+        <div class="slider"><input type="range" id="t-rep-n" min="1" max="20" value="5" aria-label="Number of repetitions"><span class="mono" id="t-rep-label" style="font-size:.8rem;color:var(--muted)">5 times</span></div>
+        <label class="tog"><input type="checkbox" id="t-auth"><span>"Doctors recommend A"<small>Authority: works through trust in experts (new in v2)</small></span></label>
+        <label class="tog"><input type="checkbox" id="t-scarce"><span>"Only 2 left! Ends in 10 min"<small>Scarcity and urgency: less time to think</small></span></label>
+        <p class="group-label">People's protections</p>
+        <label class="tog guard"><input type="checkbox" id="p-slow"><span>Slow down and think<small>More thinking time, ignores the countdown</small></span></label>
+        <label class="tog guard"><input type="checkbox" id="p-prebunk"><span>Learned the tricks beforehand<small>Prebunking: tricks work at 80% strength</small></span></label>
+      </div>
+      <div class="readout" aria-live="polite">
+        <p class="group-label" style="margin:0">Chose A</p>
+        <div class="big neutral mono" id="share">50%</div>
+        <div>
+          <div class="meter"><div class="fill" id="fill" style="width:50%"></div><div class="mid"></div></div>
+          <div class="legend"><span>0% A</span><span>50/50</span><span>100% A</span></div>
+        </div>
+        <div class="delta" id="delta">Same people with no tricks: 50%</div>
+        <div class="btns"><button type="button" id="reroll">New 1,000 people</button><button type="button" id="all">Switch on the 5 classic tricks</button><button type="button" id="clear">Reset</button></div>
+        <p style="font-size:.85rem;color:var(--muted);margin:0">Each run is one random crowd, so numbers wobble a point or two. The figures below average 100 crowds.</p>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="f1-h">
+    <p class="kicker">Figure 1</p>
+    <h2 id="f1-h">How far each trick moves the crowd</h2>
+    <figure>
+      <div class="chart" id="fig-tactics"></div>
+      <figcaption>Share choosing A, average of 100 crowds; whiskers show the middle 95% of runs. The dashed line is the no-tricks baseline. Each trick alone moves the crowd 6–21 points. Together they move it 37, close to the +31 points (11% to 42% sign-ups) found for aggressive "dark patterns" in a real experiment (Luguri &amp; Strahilevitz 2021).</figcaption>
+    </figure>
+  </section>
+
+  <section aria-labelledby="f2-h">
+    <p class="kicker">Figure 2</p>
+    <h2 id="f2-h">Repetition works fast, and fact-checks only half-work</h2>
+    <figure>
+      <div class="chart" id="fig-rep"></div>
+      <figcaption>The first few repetitions do most of the damage. After a fact-check, part of the effect stays: the "continued-influence effect" (Lewandowsky et al. 2012). In the model, 40% stays.</figcaption>
+    </figure>
+  </section>
+
+  <section aria-labelledby="f3-h">
+    <p class="kicker">Figure 3</p>
+    <h2 id="f3-h">Whoever sets the default sets the outcome</h2>
+    <figure>
+      <div class="chart" id="fig-default"></div>
+      <figcaption>The same 1,000 people, the same two options. Only the pre-selected box changes. A real online experiment found the same pattern: 82% agreed to be organ donors when it was the default, 42% when they had to opt in, a 40-point swing (Johnson &amp; Goldstein 2003). The model gives 42 points.</figcaption>
+    </figure>
+  </section>
+
+  <section aria-labelledby="f4-h">
+    <p class="kicker">Figure 4</p>
+    <h2 id="f4-h">Careful thinkers resist a little, but urgency takes that away</h2>
+    <figure>
+      <div class="chart" id="fig-think"></div>
+      <figcaption>People split into four groups by thinking style, all tricks switched on. Without the countdown, careful people would resist much more. The model assumes urgency cuts everyone's thinking time, so the gap shrinks to about 6 points. This is a built-in assumption, so test it, don't treat it as a discovery.</figcaption>
+    </figure>
+  </section>
+
+  <section aria-labelledby="f5-h">
+    <p class="kicker">Figure 5</p>
+    <h2 id="f5-h">What protects people</h2>
+    <figure>
+      <div class="chart" id="fig-guard"></div>
+      <figcaption>Against every trick at once. Slowing down helps most because it defeats urgency. Learning the tricks first helps only a little: the real <i>Bad News</i> game cut how believable fake news looked by about 21%, so the model uses that size. Both together still leave people well above 50/50, because the default and the decoy still work on careful people.</figcaption>
+    </figure>
+  </section>
+
+  <section aria-labelledby="f6-h">
+    <p class="kicker">Figure 6</p>
+    <h2 id="f6-h">Popularity counters make outcomes unpredictable; echo chambers keep people split</h2>
+    <figure>
+      <div class="chart" id="fig-herd"></div>
+      <figcaption>Each dot is one crowd of 1,000 people with no fake likes at all. With a live "x% chose A" counter, early choosers snowball and outcomes spread out more (top row) than when nobody sees the counter (bottom row). Salganik, Dodds &amp; Watts (2006) found the same in a real music-download experiment.</figcaption>
+    </figure>
+    <div class="tblwrap" style="margin-top:14px"><table class="tbl" id="tbl-net"></table></div>
+  </section>
+
+  <section aria-labelledby="f7-h">
+    <p class="kicker">Figure 7 · new in v2</p>
+    <h2 id="f7-h">Do the main findings survive if my guesses are wrong?</h2>
+    <p>Every trick strength is a guess. So I made each guess half as big and 1.5 times as big, one at a time (18 tests), and checked whether the four main findings still hold.</p>
+    <div class="tblwrap"><table class="tbl" id="tbl-rob"></table></div>
+    <div class="tblwrap" style="margin-top:14px"><table class="tbl" id="tbl-rob2"></table></div>
+  </section>
+
+  <section aria-labelledby="hon-h">
+    <p class="kicker">Read before quoting</p>
+    <h2 id="hon-h">What this model can and can't tell you</h2>
+    <ul class="findings">
+      <li>Every trick's strength is an assumption, tuned so the result lands near a real experiment. The model shows how mechanisms work and combine. It does not prove what real people do.</li>
+      <li>The interesting outputs are the ones not tuned in: how tricks stack, how fact-checks fade, how counters create randomness, and how friendship networks hold beliefs apart.</li>
+      <li>All 10 benchmark studies were checked online on 5 Nov 2026. Some numbers were only confirmed through summaries; README.md marks which. The decoy effect is fragile in replications (only 11 of 91 attempts in Yang &amp; Lynn 2014).</li><li>The model treats pushes toward A and B the same way. Real people correct fake negativity more than fake positivity (Muchnik et al. 2013).</li>
+      <li>The headline "all tricks together" number (87%) mostly depends on one guess: how fast pressure saturates (the cap). With the cap halved or raised by half, it ranges from 81% to 91%. Quote it as "roughly 80–90%".</li>
+      <li>The authority trick (new in v2) is <strong>not</strong> tuned to a real experiment. I couldn't find a clean study measuring "expert says A" on a 50/50 choice. Treat its size as a guess.</li>
+      <li>Code: <span class="mono">simulation/sim.py</span> (standard Python, no installs). Assumptions table: <span class="mono">simulation/README.md</span>.</li>
+    </ul>
+  </section>
+</div>
+
+<script>
+const R = /*DATA*/null;
+
+// ---------- charts (inline SVG, drawn to one scale) ----------
+const NS = "http://www.w3.org/2000/svg";
+function el(tag, attrs, parent, text){ const e=document.createElementNS(NS,tag); for(const k in attrs) e.setAttribute(k,attrs[k]); if(text!=null) e.textContent=text; if(parent) parent.appendChild(e); return e; }
+function svgBox(id, w, h){ const s=el("svg",{viewBox:`0 0 ${w} ${h}`,role:"img"}); document.getElementById(id).appendChild(s); return s; }
+
+function hbars(id, rows, opts={}){
+  const labelW = opts.labelW || 300, w=820, rowH=34, top=10, h=top+rows.length*rowH+34;
+  const x0=labelW, x1=w-60, lo=opts.lo??0, hi=opts.hi??100, sx=v=>x0+(v-lo)/(hi-lo)*(x1-x0);
+  const s=svgBox(id,w,h);
+  for(let t=lo;t<=hi;t+=opts.step||25){ el("line",{x1:sx(t),x2:sx(t),y1:top-4,y2:h-26,stroke:"var(--rule)","stroke-width":1},s); el("text",{x:sx(t),y:h-8,"text-anchor":"middle",class:"muted"},s,t+"%"); }
+  if(opts.base!=null){ el("line",{x1:sx(opts.base),x2:sx(opts.base),y1:top-4,y2:h-26,stroke:"var(--ink)","stroke-dasharray":"4 4","stroke-width":1.5,opacity:.6},s); }
+  rows.forEach((r,i)=>{
+    const y=top+i*rowH;
+    el("text",{x:x0-10,y:y+rowH/2+4,"text-anchor":"end"},s,r.label);
+    el("rect",{x:x0,y:y+7,width:Math.max(1,sx(r.v)-x0),height:rowH-14,fill:r.color||"var(--push)",rx:2},s);
+    if(r.lo!=null){ el("line",{x1:sx(r.lo),x2:sx(r.hi),y1:y+rowH/2,y2:y+rowH/2,stroke:"var(--ink)","stroke-width":1.5},s);
+      [r.lo,r.hi].forEach(v=>el("line",{x1:sx(v),x2:sx(v),y1:y+rowH/2-5,y2:y+rowH/2+5,stroke:"var(--ink)","stroke-width":1.5},s)); }
+    el("text",{x:Math.max(sx(r.v), r.hi!=null?sx(r.hi):0)+6,y:y+rowH/2+4},s,r.v.toFixed(1)+"%");
+  });
+}
+
+// Figure 1
+(function(){
+  const b=R.baseline.mean, rows=[{label:"No tricks (baseline)",v:b,lo:R.baseline.low,hi:R.baseline.high,color:"var(--free)"}];
+  const short={"Default (A pre-selected)":"Default: A pre-selected","Decoy (worse copy of A added)":"Decoy: worse copy of A","Fake popularity (100 fake likes, 80% A)":"Fake popularity","Repetition (A is better, said 5 times)":"Repetition ×5","Scarcity + urgency":"Scarcity + urgency","Authority (doctors recommend A)":"Authority (new in v2)","All tactics together":"All tricks together"};
+  for(const [k,v] of Object.entries(R.tactics)) rows.push({label:short[k]||k,v:v.mean,lo:v.low,hi:v.high,color:k.startsWith("All")?"var(--push)":"color-mix(in srgb, var(--push) 65%, var(--sheet))"});
+  hbars("fig-tactics",rows,{labelW:220,lo:0,hi:100,base:b});
+})();
+
+// Figure 2: line chart
+(function(){
+  const d=R.repetition_curve, w=820,h=300,x0=60,x1=w-30,y0=h-40,y1=16;
+  const sx=t=>x0+t/20*(x1-x0), lo=45,hi=70, sy=v=>y0-(v-lo)/(hi-lo)*(y0-y1);
+  const s=svgBox("fig-rep",w,h);
+  for(let v=lo;v<=hi;v+=5){ el("line",{x1:x0,x2:x1,y1:sy(v),y2:sy(v),stroke:"var(--rule)"},s); el("text",{x:x0-8,y:sy(v)+4,"text-anchor":"end",class:"muted"},s,v+"%"); }
+  [0,5,10,15,20].forEach(t=>el("text",{x:sx(t),y:y0+20,"text-anchor":"middle",class:"muted"},s,t));
+  el("text",{x:(x0+x1)/2,y:h-2,"text-anchor":"middle",class:"muted"},s,"times the claim was repeated");
+  const area=`M${sx(d[0].times)},${sy(d[0].low)} `+d.map(p=>`L${sx(p.times)},${sy(p.high)}`).join(" ")+" "+[...d].reverse().map(p=>`L${sx(p.times)},${sy(p.low)}`).join(" ")+"Z";
+  el("path",{d:area,fill:"var(--push-soft)",stroke:"none"},s);
+  el("polyline",{points:d.map(p=>`${sx(p.times)},${sy(p.mean)}`).join(" "),fill:"none",stroke:"var(--push)","stroke-width":2.5},s);
+  el("polyline",{points:d.map(p=>`${sx(p.times)},${sy(p.after_fact_check)}`).join(" "),fill:"none",stroke:"var(--guard)","stroke-width":2.5,"stroke-dasharray":"6 4"},s);
+  d.forEach(p=>{el("circle",{cx:sx(p.times),cy:sy(p.mean),r:3.5,fill:"var(--push)"},s); el("circle",{cx:sx(p.times),cy:sy(p.after_fact_check),r:3,fill:"var(--guard)"},s);});
+  const L=d[d.length-1];
+  el("text",{x:sx(20)-4,y:sy(L.mean)-10,"text-anchor":"end"},s,`no correction: ${L.mean}%`);
+  el("text",{x:sx(20)-4,y:sy(L.after_fact_check)+20,"text-anchor":"end"},s,`after a fact-check: ${L.after_fact_check}%`);
+})();
+
+// Figure 3
+(function(){
+  const f=R.default_flip;
+  hbars("fig-default",[
+    {label:"Nothing pre-selected",v:R.baseline.mean,color:"var(--free)"},
+    {label:"A pre-selected",v:f["A pre-selected"].mean,lo:f["A pre-selected"].low,hi:f["A pre-selected"].high},
+    {label:"B pre-selected",v:f["B pre-selected"].mean,lo:f["B pre-selected"].low,hi:f["B pre-selected"].high,color:"color-mix(in srgb, var(--push) 45%, var(--sheet))"}
+  ],{labelW:200,base:50});
+})();
+
+// Figure 4 grouped
+(function(){
+  const rows=[]; R.by_thinking_style.forEach(g=>{rows.push({label:g.group+" · no tricks",v:g.baseline,color:"var(--free)"}); rows.push({label:g.group+" · all tricks",v:g.under_attack});});
+  hbars("fig-think",rows,{labelW:270,base:50});
+})();
+
+// Figure 5
+(function(){
+  const rows=Object.entries(R.protections).map(([k,v],i)=>({label:k.replace(" (learned the tricks first)",""),v:v.mean,lo:v.low,hi:v.high,color:i===0?"var(--push)":"var(--guard)"}));
+  rows.unshift({label:"No tricks (baseline)",v:R.baseline.mean,color:"var(--free)"});
+  hbars("fig-guard",rows,{labelW:220,base:R.baseline.mean});
+})();
+
+// Figure 6: herding strip
+(function(){
+  const runs=R.herding_no_fakes.runs, w=820,h=150,x0=170,x1=w-30, lo=40,hi=60, sx=v=>x0+(v-lo)/(hi-lo)*(x1-x0);
+  const s=svgBox("fig-herd",w,h);
+  for(let v=lo;v<=hi;v+=5){ el("line",{x1:sx(v),x2:sx(v),y1:10,y2:h-28,stroke:"var(--rule)"},s); el("text",{x:sx(v),y:h-10,"text-anchor":"middle",class:"muted"},s,v+"%"); }
+  el("text",{x:x0-10,y:44,"text-anchor":"end"},s,"With counter");
+  el("text",{x:x0-10,y:98,"text-anchor":"end"},s,"No counter");
+  // deterministic jitter
+  runs.forEach((v,i)=>el("circle",{cx:sx(Math.max(lo,Math.min(hi,v))),cy:40+((i*37)%17)-8,r:3.2,fill:"var(--push)",opacity:.75},s));
+  R.herding_no_fakes.runs_without_counter.forEach((v,i)=>el("circle",{cx:sx(Math.max(lo,Math.min(hi,v))),cy:94+((i*37)%17)-8,r:3.2,fill:"var(--free)",opacity:.75},s));
+  el("text",{x:x1,y:22,"text-anchor":"end",class:"muted"},s,`spread ±${R.herding_no_fakes.spread_sd} pts`);
+  el("text",{x:x1,y:76,"text-anchor":"end",class:"muted"},s,`spread ±${R.herding_no_fakes.spread_sd_without_counter} pts`);
+})();
+
+// Network table
+(function(){
+  const n=R.network, t=document.getElementById("tbl-net");
+  t.innerHTML=`<thead><tr><th>Friendships</th><th>Chose A</th><th>How spread out beliefs are</th><th>Friends who disagree</th></tr></thead><tbody>`+
+    Object.entries(n).map(([k,v])=>`<tr><td>${k[0].toUpperCase()+k.slice(1)}</td><td class="num">${v.share_A.mean}%</td><td class="num">${v.belief_spread}</td><td class="num">${v.friends_disagree_pct}%</td></tr>`).join("")+
+    `</tbody><caption style="caption-side:bottom;text-align:left;padding:10px;font-size:.9rem;color:var(--muted)">5% of people are influencers pushing A. In echo chambers the overall result barely changes, but beliefs stay almost twice as spread out. With confirmation bias (people ignore friends who disagree too much), the influencers lose their power, but the crowd stays split: beliefs spread the most, and in mixed groups disagreeing friends simply stop listening to each other.</caption>`;
+})();
+
+// Figure 7: robustness
+(function(){
+  const rb=R.robustness;
+  document.getElementById("tbl-rob").innerHTML=`<thead><tr><th>Finding</th><th>Held in</th></tr></thead><tbody>`+
+    Object.entries(rb.held).map(([k,v])=>`<tr><td>${k}</td><td class="num">${v} of ${rb.tests}</td></tr>`).join("")+`</tbody>`;
+  const nice={BETA:"How much people follow their own taste",STICKY_DEFAULT:"Default pull",DECOY_PULL:"Decoy pull",SOCIAL_PULL:"Social-proof pull",REPEAT_PULL:"Repetition pull",SCARCITY_PULL:"Scarcity pull",URGENT_THINKING:"Thinking left under urgency",CUE_CAP:"Saturation cap",PREBUNK:"Prebunking strength"};
+  document.getElementById("tbl-rob2").innerHTML=`<thead><tr><th>Guess changed</th><th>×0.5: all tricks</th><th>×1.5: all tricks</th><th>Gut minus careful (×0.5 / ×1.5)</th></tr></thead><tbody>`+
+    Object.keys(nice).map(k=>{const a=rb.rows.find(r=>r.assumption===k&&r.factor===0.5), b=rb.rows.find(r=>r.assumption===k&&r.factor===1.5);
+      return `<tr><td>${nice[k]}</td><td class="num">${a.combined}%</td><td class="num">${b.combined}%</td><td class="num">${a.gut_minus_careful} / ${b.gut_minus_careful} pts</td></tr>`;}).join("")+
+    `</tbody><caption style="caption-side:bottom;text-align:left;padding:10px;font-size:.9rem;color:var(--muted)">20 crowds per test. Reference settings: all tricks ${rb.reference.combined}%, gap ${rb.reference.gut_minus_careful} pts. Most single guesses barely move the stacked result, because stacked pressure hits the saturation cap. The cap itself and the "urgency" guess matter most.</caption>`;
+})();
+
+// ---------- live bench (same rules as sim.py) ----------
+const P={BETA:1.5,NORMAL:0.8,URGENT:0.3,STICKY:0.5,DECOY:0.6,SOCIAL:4.0,REPEAT:0.35,SCARCE:0.5,CAP:1.2,PREBUNK:0.8,AUTH:0.9};
+function mulberry(a){return function(){a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;}}
+let seed=7;
+function crowd(rng){
+  const g=()=>{let u=0,v=0;while(!u)u=rng();v=rng();return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*v);};
+  const beta=(a,b)=>{const xs=Array.from({length:a+b-1},rng).sort((x,y)=>x-y);return xs[a-1];};
+  return Array.from({length:1000},()=>({taste:g(),thinking:beta(2,2),conformity:beta(2,3),trust:beta(2,2)}));
+}
+const sig=x=>1/(1+Math.exp(-x));
+function simulate(cfg, people, rng){
+  const tl = cfg.slow ? 1.0 : (cfg.scarce ? P.URGENT : P.NORMAL), inoc = cfg.prebunk ? P.PREBUNK : 1;
+  let base = (cfg.decoy?P.DECOY:0) + (cfg.rep?P.REPEAT*Math.log(1+cfg.repN):0) + (cfg.scarce?P.SCARCE:0);
+  let a=1+(cfg.social?80:0), total=2+(cfg.social?100:0), countA=0, n=0;
+  const order=people.slice(); for(let i=order.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[order[i],order[j]]=[order[j],order[i]];}
+  for(const p of order){
+    let h=Math.max(.05,Math.min(1,1-p.thinking*tl))*inoc, cue=base + (cfg.auth ? P.AUTH*p.trust*2 : 0) + (cfg.social ? P.SOCIAL*p.conformity*(a/total-.5)*2 : 0), c;
+    if(cfg.decoy && rng()<0.02*h){ c="d"; }
+    else if(cfg.def && rng()>Math.min(1,0.4+0.55*p.thinking*(tl/P.NORMAL))){ c="A"; }
+    else { if(cfg.def) cue+=P.STICKY; cue=P.CAP*Math.tanh(cue/P.CAP); c = rng()<sig(P.BETA*(p.taste+h*cue))?"A":"B"; }
+    if(c==="A"){countA++;a++;} total++; n++;
+  }
+  return countA/n*100;
+}
+const ids={def:"t-default",decoy:"t-decoy",social:"t-social",rep:"t-rep",auth:"t-auth",scarce:"t-scarce",slow:"p-slow",prebunk:"p-prebunk"};
+function cfgNow(){const c={};for(const k in ids)c[k]=document.getElementById(ids[k]).checked;c.repN=+document.getElementById("t-rep-n").value;return c;}
+function run(){
+  const c=cfgNow(), people=crowd(mulberry(seed));
+  const v=simulate(c,people,mulberry(seed*31+1)), b=simulate({repN:0},people,mulberry(seed*31+1));
+  const anyTrick=c.def||c.decoy||c.social||c.rep||c.auth||c.scarce;
+  document.getElementById("share").textContent=v.toFixed(1)+"%";
+  document.getElementById("share").className="big mono"+(anyTrick?"":" neutral");
+  document.getElementById("fill").style.width=v+"%";
+  const d=v-b; document.getElementById("delta").textContent=`Same people with no tricks: ${b.toFixed(1)}%  ·  change: ${d>=0?"+":""}${d.toFixed(1)} points`;
+  document.getElementById("t-rep-label").textContent=document.getElementById("t-rep-n").value+(+document.getElementById("t-rep-n").value===1?" time":" times");
+}
+document.querySelectorAll(".controls input").forEach(i=>i.addEventListener("input",run));
+document.getElementById("reroll").onclick=()=>{seed=Math.floor(Math.random()*1e9);run();};
+document.getElementById("all").onclick=()=>{["t-default","t-decoy","t-social","t-rep","t-scarce"].forEach(i=>document.getElementById(i).checked=true);run();};
+document.getElementById("clear").onclick=()=>{Object.values(ids).forEach(i=>document.getElementById(i).checked=false);run();};
+run();
+</script>

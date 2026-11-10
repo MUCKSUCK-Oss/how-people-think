@@ -1,0 +1,31 @@
+0/1408  0s
+100/1408  44s
+200/1408  87s
+300/1408  130s
+400/1408  173s
+500/1408  215s
+600/1408  257s
+700/1408  300s
+800/1408  344s
+900/1408  387s
+1000/1408  430s
+1100/1408  473s
+1200/1408  517s
+1300/1408  560s
+1400/1408  603s
+{
+ "combos": 1408,
+ "claims_held": {
+  "Stacking beats any single trick by 10+ pts": 1341,
+  "Slowing down protects more than prebunking": 1408,
+  "Careful thinkers only a little safer (gap < 10 pts)": 1232,
+  "Pre-selected default is the strongest single trick": 1408
+ },
+ "all_four_held": 1206,
+ "seconds": 606
+}
+combined range 79.6 to 92.1 | top: [('CUE_CAP', 0.62), ('BETA', 0.27), ('URGENT_THINKING', 0.13)]
+gut_minus_careful range 1.2 to 12.3 | top: [('URGENT_THINKING', 1.12), ('CUE_CAP', 0.07), ('BETA', 0.06)]
+stack_margin range 10.2 to 21.3 | top: [('CUE_CAP', 0.61), ('BETA', 0.17), ('URGENT_THINKING', 0.16)]
+slow_vs_prebunk range 5.2 to 13.7 | top: [('PREBUNK', 0.64), ('URGENT_THINKING', 0.3), ('CUE_CAP', 0.03)]
+default_margin range 3.7 to 12.4 | top: [('SCARCITY_PULL', 0.54), ('BETA', 0.29), ('STICKY_DEFAULT', 0.22)]

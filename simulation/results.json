@@ -1,0 +1,721 @@
+{
+ "settings": {
+  "people": 1000,
+  "runs": 100
+ },
+ "baseline": {
+  "mean": 49.9,
+  "low": 47.0,
+  "high": 52.4
+ },
+ "tactics": {
+  "Default (A pre-selected)": {
+   "mean": 71.0,
+   "low": 68.2,
+   "high": 73.4
+  },
+  "Decoy (worse copy of A added)": {
+   "mean": 58.0,
+   "low": 54.6,
+   "high": 60.7
+  },
+  "Fake popularity (100 fake likes, 80% A)": {
+   "mean": 55.9,
+   "low": 51.4,
+   "high": 59.8
+  },
+  "Repetition (A is better, said 5 times)": {
+   "mean": 58.9,
+   "low": 56.2,
+   "high": 62.0
+  },
+  "Scarcity + urgency": {
+   "mean": 60.4,
+   "low": 57.3,
+   "high": 63.4
+  },
+  "Authority (doctors recommend A)": {
+   "mean": 60.9,
+   "low": 58.4,
+   "high": 63.6
+  },
+  "All tactics together": {
+   "mean": 87.1,
+   "low": 85.4,
+   "high": 89.2
+  }
+ },
+ "default_flip": {
+  "A pre-selected": {
+   "mean": 71.0,
+   "low": 68.2,
+   "high": 73.4
+  },
+  "B pre-selected": {
+   "mean": 28.8,
+   "low": 26.4,
+   "high": 31.4
+  }
+ },
+ "repetition_curve": [
+  {
+   "times": 0,
+   "mean": 49.9,
+   "low": 47.0,
+   "high": 52.4,
+   "after_fact_check": 49.9
+  },
+  {
+   "times": 1,
+   "mean": 53.7,
+   "low": 50.6,
+   "high": 56.8,
+   "after_fact_check": 51.4
+  },
+  {
+   "times": 2,
+   "mean": 55.8,
+   "low": 52.8,
+   "high": 58.4,
+   "after_fact_check": 52.3
+  },
+  {
+   "times": 3,
+   "mean": 57.1,
+   "low": 54.2,
+   "high": 60.0,
+   "after_fact_check": 52.9
+  },
+  {
+   "times": 5,
+   "mean": 58.9,
+   "low": 56.2,
+   "high": 62.0,
+   "after_fact_check": 53.8
+  },
+  {
+   "times": 8,
+   "mean": 60.4,
+   "low": 57.7,
+   "high": 63.1,
+   "after_fact_check": 54.7
+  },
+  {
+   "times": 12,
+   "mean": 61.7,
+   "low": 58.6,
+   "high": 64.6,
+   "after_fact_check": 55.4
+  },
+  {
+   "times": 20,
+   "mean": 63.1,
+   "low": 60.2,
+   "high": 66.0,
+   "after_fact_check": 56.3
+  }
+ ],
+ "herding_no_fakes": {
+  "runs": [
+   52.8,
+   53.6,
+   50.1,
+   48.7,
+   54.5,
+   50.9,
+   51.2,
+   46.6,
+   46.1,
+   51.4,
+   47.5,
+   53.1,
+   52.7,
+   45.2,
+   48.5,
+   50.2,
+   54.6,
+   50.8,
+   50.2,
+   55.8,
+   54.0,
+   43.5,
+   41.9,
+   52.5,
+   54.9,
+   48.7,
+   49.1,
+   51.7,
+   51.9,
+   45.1,
+   53.0,
+   46.9,
+   45.6,
+   45.9,
+   53.4,
+   48.8,
+   54.0,
+   51.3,
+   51.2,
+   56.0,
+   49.7,
+   55.4,
+   52.4,
+   49.9,
+   52.9,
+   48.3,
+   48.8,
+   44.9,
+   45.1,
+   49.5,
+   54.3,
+   46.5,
+   52.1,
+   48.0,
+   50.3,
+   42.9,
+   49.1,
+   53.3,
+   48.0,
+   46.6,
+   47.7,
+   50.7,
+   55.1,
+   55.7,
+   43.3,
+   52.6,
+   52.4,
+   47.8,
+   55.0,
+   58.7,
+   47.9,
+   54.2,
+   47.9,
+   46.8,
+   47.7,
+   56.5,
+   46.6,
+   47.5,
+   56.8,
+   46.8,
+   44.6,
+   42.7,
+   55.7,
+   46.9,
+   52.2,
+   50.1,
+   45.4,
+   45.4,
+   49.9,
+   48.9,
+   47.7,
+   47.2,
+   48.7,
+   50.4,
+   51.7,
+   51.9,
+   50.5,
+   43.4,
+   53.8,
+   48.7
+  ],
+  "spread_sd": 3.7,
+  "spread_sd_without_counter": 1.6,
+  "runs_without_counter": [
+   48.3,
+   51.7,
+   50.5,
+   50.9,
+   48.1,
+   49.2,
+   51.5,
+   48.1,
+   51.7,
+   50.0,
+   50.6,
+   50.9,
+   53.5,
+   51.3,
+   51.1,
+   48.4,
+   51.6,
+   48.6,
+   50.0,
+   48.2,
+   51.0,
+   47.7,
+   49.2,
+   49.5,
+   51.5,
+   49.3,
+   47.6,
+   49.4,
+   49.2,
+   48.5,
+   48.4,
+   48.4,
+   52.5,
+   50.2,
+   48.7,
+   49.8,
+   50.1,
+   48.8,
+   50.9,
+   49.1,
+   47.2,
+   49.1,
+   50.3,
+   48.7,
+   51.8,
+   52.6,
+   51.4,
+   47.7,
+   47.9,
+   49.8,
+   51.7,
+   49.2,
+   49.5,
+   51.2,
+   49.2,
+   48.7,
+   50.3,
+   48.3,
+   47.9,
+   49.5,
+   50.2,
+   52.8,
+   48.7,
+   53.0,
+   47.7,
+   51.1,
+   53.2,
+   50.2,
+   51.0,
+   48.9,
+   51.9,
+   52.0,
+   48.0,
+   47.4,
+   49.4,
+   48.0,
+   49.0,
+   46.8,
+   52.4,
+   50.6,
+   49.9,
+   50.8,
+   51.1,
+   50.3,
+   48.3,
+   52.7,
+   53.0,
+   49.3,
+   52.3,
+   47.7,
+   49.0,
+   47.8,
+   51.9,
+   50.3,
+   49.5,
+   52.5,
+   49.8,
+   48.7,
+   50.5,
+   49.3
+  ]
+ },
+ "network": {
+  "mixed friendships": {
+   "share_A": {
+    "mean": 62.3,
+    "low": 58.2,
+    "high": 64.7
+   },
+   "belief_spread": 0.44,
+   "friends_disagree_pct": 13.6
+  },
+  "echo chambers": {
+   "share_A": {
+    "mean": 61.2,
+    "low": 58.0,
+    "high": 64.6
+   },
+   "belief_spread": 0.82,
+   "friends_disagree_pct": 9.9
+  },
+  "mixed friendships + confirmation bias": {
+   "share_A": {
+    "mean": 50.1,
+    "low": 46.7,
+    "high": 52.1
+   },
+   "belief_spread": 0.67,
+   "friends_disagree_pct": 31.7
+  },
+  "echo chambers + confirmation bias": {
+   "share_A": {
+    "mean": 50.3,
+    "low": 47.3,
+    "high": 53.1
+   },
+   "belief_spread": 0.99,
+   "friends_disagree_pct": 5.9
+  }
+ },
+ "protections": {
+  "No protection": {
+   "mean": 87.1,
+   "low": 85.4,
+   "high": 89.2
+  },
+  "Slow down and think": {
+   "mean": 73.1,
+   "low": 70.5,
+   "high": 75.5
+  },
+  "Prebunking (learned the tricks first)": {
+   "mean": 85.0,
+   "low": 82.7,
+   "high": 87.1
+  },
+  "Both": {
+   "mean": 71.2,
+   "low": 68.8,
+   "high": 73.5
+  }
+ },
+ "by_thinking_style": [
+  {
+   "group": "Gut deciders",
+   "baseline": 50.0,
+   "under_attack": 90.2
+  },
+  {
+   "group": "Mostly gut",
+   "baseline": 49.8,
+   "under_attack": 88.1
+  },
+  {
+   "group": "Mostly careful",
+   "baseline": 50.0,
+   "under_attack": 86.2
+  },
+  {
+   "group": "Careful thinkers",
+   "baseline": 49.4,
+   "under_attack": 84.2
+  }
+ ],
+ "robustness": {
+  "rows": [
+   {
+    "assumption": "BETA",
+    "factor": 0.5,
+    "baseline": 50.1,
+    "combined": 82.4,
+    "slow_down": 68.9,
+    "prebunk": 80.7,
+    "gut_minus_careful": 5.8,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "BETA",
+    "factor": 1.5,
+    "baseline": 49.6,
+    "combined": 88.8,
+    "slow_down": 74.6,
+    "prebunk": 86.2,
+    "gut_minus_careful": 6.2,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "STICKY_DEFAULT",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.6,
+    "slow_down": 72.5,
+    "prebunk": 84.3,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "STICKY_DEFAULT",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.7,
+    "prebunk": 84.4,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "DECOY_PULL",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.6,
+    "slow_down": 72.5,
+    "prebunk": 84.3,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "DECOY_PULL",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.7,
+    "prebunk": 84.4,
+    "gut_minus_careful": 6.0,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "SOCIAL_PULL",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.6,
+    "slow_down": 72.5,
+    "prebunk": 84.3,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "SOCIAL_PULL",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.8,
+    "slow_down": 72.7,
+    "prebunk": 84.4,
+    "gut_minus_careful": 6.0,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "REPEAT_PULL",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.6,
+    "slow_down": 72.5,
+    "prebunk": 84.3,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "REPEAT_PULL",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.7,
+    "prebunk": 84.4,
+    "gut_minus_careful": 6.0,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "SCARCITY_PULL",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.6,
+    "slow_down": 72.5,
+    "prebunk": 84.3,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "SCARCITY_PULL",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.7,
+    "prebunk": 84.4,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "URGENT_THINKING",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 89.0,
+    "slow_down": 72.6,
+    "prebunk": 86.7,
+    "gut_minus_careful": 2.3,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "URGENT_THINKING",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 84.2,
+    "slow_down": 72.6,
+    "prebunk": 81.7,
+    "gut_minus_careful": 9.2,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "CUE_CAP",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 80.8,
+    "slow_down": 67.8,
+    "prebunk": 79.6,
+    "gut_minus_careful": 5.6,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "CUE_CAP",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 90.9,
+    "slow_down": 76.4,
+    "prebunk": 88.2,
+    "gut_minus_careful": 5.2,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "PREBUNK",
+    "factor": 0.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.6,
+    "prebunk": 79.6,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   },
+   {
+    "assumption": "PREBUNK",
+    "factor": 1.5,
+    "baseline": 50.0,
+    "combined": 86.7,
+    "slow_down": 72.6,
+    "prebunk": 86.7,
+    "gut_minus_careful": 5.9,
+    "strongest_single": "default",
+    "claims": {
+     "Stacking beats any single trick by 10+ pts": true,
+     "Slowing down protects more than prebunking": true,
+     "Careful thinkers only a little safer (gap < 10 pts)": true,
+     "Pre-selected default is the strongest single trick": true
+    }
+   }
+  ],
+  "held": {
+   "Stacking beats any single trick by 10+ pts": 18,
+   "Slowing down protects more than prebunking": 18,
+   "Careful thinkers only a little safer (gap < 10 pts)": 18,
+   "Pre-selected default is the strongest single trick": 18
+  },
+  "tests": 18,
+  "reference": {
+   "baseline": 50.0,
+   "combined": 86.7,
+   "slow_down": 72.6,
+   "prebunk": 84.4,
+   "gut_minus_careful": 5.9,
+   "strongest_single": "default",
+   "claims": {
+    "Stacking beats any single trick by 10+ pts": true,
+    "Slowing down protects more than prebunking": true,
+    "Careful thinkers only a little safer (gap < 10 pts)": true,
+    "Pre-selected default is the strongest single trick": true
+   }
+  }
+ }
+}
