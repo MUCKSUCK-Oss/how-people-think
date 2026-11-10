@@ -69,3 +69,12 @@ After the pilot I check:
 - (c) the answers sound realistic and in character.
 
 Only if all three pass, I run the full version.
+
+---
+## Pilot 1 result and design change (added after pilot 1, before pilot 2)
+- Pilot 1 (96 decisions, saved as `uni2_pilot1.json`): the brochure control was **0%** for B in both scenarios (a floor). The tricks still moved people: relatives 0→50% among parents, village 0→38%; disclosure cut it back.
+- **Diagnosis:** option A was shown with no downsides, while real families choose expensive options *because* the cheap one has real problems.
+- **Change (realism, not tuning to a result):**
+  - **S1-A** adds: "Seniors say the labs are old, several teaching posts are vacant, and fewer companies visit." This is typical of many government colleges and consistent with A's lower placement % in the honest data.
+  - **S2-A** adds: "Local B.Com graduates usually find jobs paying ₹12,000–18,000 a month, and many stay unemployed for a year or more." This is the push factor reported by CBC/DW.
+- **Predictions stay the same.** Pilot 2 is checked against the same 3 rules before any full run.
