@@ -1,0 +1,73 @@
+[combined] usable 168/168
+
+===== Scenario 1: share choosing expensive private college (B) =====
+version                     all  stud parent  loans(B)
+brochure                      7    14      0  0/1
+honest                        7    14      0  0/1
+hype                         21    14     29  2/3
+counsellor                   21    14     29  2/3
+relatives                    29    29     29  2/4
+all                          21    14     29  3/3
+all_disclosed                14    14     14  2/2
+
+by decision style: brochure | honest | hype | counsellor | relatives | all | all_disclosed
+  gut             25 |  25 |  50 |  50 |  75 |  50 |  50
+  mostly gut       0 |   0 |   0 |   0 |   0 |   0 |   0
+  mostly careful   0 |   0 |   0 |   0 |   0 |   0 |   0
+  very careful     0 |   0 |  50 |  50 |  50 |  50 |   0
+by income (0 tight, 1 middle, 2 well-off):
+  income 0         0 |   0 |   0 |   0 |   0 |   0 |   0
+  income 1         0 |   0 |  40 |  40 |  40 |  40 |  20
+  income 2        33 |  33 |  33 |  33 |  67 |  33 |  33
+'trusts ads/agents' yes/no: brochure: 25/0 | honest: 25/0 | hype: 75/0 | counsellor: 75/0 | relatives: 75/10 | all: 75/0 | all_disclosed: 50/0
+'relatives matter a lot' yes/no: brochure: 0/12 | honest: 0/12 | hype: 17/25 | counsellor: 17/25 | relatives: 17/38 | all: 17/25 | all_disclosed: 0/25
+switches vs brochure (A->B / B->A):  honest: 0/0  hype: 2/0  counsellor: 2/0  relatives: 3/0  all: 2/0  all_disclosed: 1/0
+reasons calling something a trick/red flag: brochure: 5 | honest: 4 | hype: 9 | counsellor: 7 | relatives: 8 | all: 8 | all_disclosed: 9
+sample reasons:
+  [brochure -> A] student Riya (gut, inc 2): All that "40+ recruiters" marketing feels like BS to me, honestly. Government college is AICTE approved and the cost difference is huge—₹4.5 lakh vs ₹11 lakh for the same degree. Being 60 km away is way more pr
+  [brochure -> A] parent Jatinder (gut, inc 1): Look, the government college is AICTE approved and respectable - my daughter will get placed fine from there. I earn ₹80,000 a month, and ₹11 lakh for College B is just too much, even with some savings. I can m
+  [honest -> A] student Riya (gut, inc 2): College B costs ₹11 lakh versus ₹4.5 lakh, but the salary difference is only ₹0.4 LPA and placement is just 6% better—that's not worth it. Plus, College A is 60 km away so I can still go home easily, and honest
+  [honest -> A] parent Jatinder (gut, inc 1): Look, both colleges will get my daughter a good job—the salary difference is only ₹40,000 a month, and placements are similar. College A costs ₹4.5 lakh which I can manage from savings, but College B means borr
+  [hype -> A] student Riya (gut, inc 2): College B's brochure is all marketing hype—those salary claims feel fake to me. College A is close to home, it's a solid government college, and I trust my seniors' honest feedback way more than fancy advertise
+  [hype -> B] parent Jatinder (gut, inc 1): Look, College B has 40+ companies visiting and they're claiming ₹42 lakh package—if my daughter gets that kind of salary, the loan repays itself quickly. Modern campus and AC classrooms also matter, she'll stud
+  [counsellor -> A] student Riya (gut, inc 2): That counsellor's pressure with the urgent booking deadline and easy loans is exactly what I don't trust. College A is half the price, I'm basically at home, and the honest feedback from seniors beats their fak
+  [counsellor -> B] parent Jatinder (gut, inc 1): That counsellor was pretty convincing - they claim 42 lakh package and 500 companies hiring. Even if half of that is true, the job will pay back the extra 6 lakh easily. Government college has old labs anyway -
+  [relatives -> B] student Riya (gut, inc 2): "My cousin actually studied at B and is working at a good company in Bangalore right now—that's real proof it works. I don't believe all those crazy numbers in the brochure, but my cousin is actual evidence. Co
+  [relatives -> B] parent Jatinder (gut, inc 1): College B shows 40+ recruiters and 42 LPA packages - that's proper placement guarantee. My cousin studied there and is doing well in Bangalore now. Everyone says it's the better college, so the loan is worth it
+  [all -> A] student Riya (gut, inc 2): That counsellor's "pay by tomorrow" call and those ads promising ₹42 LPA felt like typical sales tricks—exactly the kind of stuff that makes me suspicious. College A is 4.5 lakh vs 11 lakh, I can stay closer to
+  [all -> B] parent Jatinder (gut, inc 1): My cousin studied there and he's earning well in Bangalore now—that's proof enough. It's a big-name college, modern campus, and the placements they show are excellent. For my daughter's future, I should give he
+  [all_disclosed -> A] student Riya (gut, inc 2): That counsellor pushing me to pay tomorrow is sketchy, and honestly the brochure looks like standard ad BS. The salary difference is tiny (₹4.2 vs ₹4.6 LPA) and placement rates are basically the same, so there'
+  [all_disclosed -> B] parent Jatinder (gut, inc 1): My cousin studied at College B and is doing very well, earning good money in Bengaluru. That's enough proof for me. The counselor said loans are approved quickly, and I'll arrange the financing. The better repu
+
+===== Scenario 2: share choosing Canada via agent (B) =====
+version                     all  stud parent  loans(B)
+brochure                      7     0     14  1/1
+honest                        0     0      0  0/0
+agent                        29    29     29  4/4
+agent_village                64    57     71  9/9
+agent_village_disclosed      14     0     29  2/2
+
+by decision style: brochure | honest | agent | agent_village | agent_village_disclosed
+  gut              0 |   0 |   0 | 100 |  25
+  mostly gut       0 |   0 |  25 |  25 |  25
+  mostly careful   0 |   0 |  75 | 100 |   0
+  very careful    50 |   0 |   0 |   0 |   0
+by income (0 tight, 1 middle, 2 well-off):
+  income 0         0 |   0 |  29 |  57 |   0
+  income 1         0 |   0 |  50 | 100 |  50
+  income 2        33 |   0 |   0 |  33 |   0
+'trusts ads/agents' yes/no: brochure: 0/10 | honest: 0/0 | agent: 100/0 | agent_village: 100/50 | agent_village_disclosed: 25/10
+'relatives matter a lot' yes/no: brochure: 0/11 | honest: 0/0 | agent: 0/44 | agent_village: 60/67 | agent_village_disclosed: 20/11
+switches vs brochure (A->B / B->A):  honest: 0/1  agent: 4/1  agent_village: 9/1  agent_village_disclosed: 2/1
+reasons calling something a trick/red flag: brochure: 3 | honest: 13 | agent: 12 | agent_village: 8 | agent_village_disclosed: 14
+sample reasons:
+  [brochure -> A] student Sneha (gut, inc 2): "Why would I trust an agent with ₹30 lakh and risk mortgaging our land? That's too much money and too much risk for a college that promises everything. B.Com locally costs nothing, I live at home, and if jobs a
+  [brochure -> A] parent Geeta (gut, inc 0): ₹30 lakh is too much risk when we'd have to mortgage the land—that's our safety net, not something to gamble on an agent's promise. Better my son gets a B.Com here for ₹3 lakh, stays home, and at least has a de
+  [honest -> A] student Sneha (gut, inc 2): I don't trust that agent taking commission on this. Why should I let him profit off my family and then ask us to mortgage our land for ₹30 lakh? I can do B.Com here, stay home, and figure things out like other 
+  [honest -> A] parent Geeta (gut, inc 0): Why mortgage our farm for some agent's dream? He's getting commission either way. My son studies B.Com at the local college, stays at home, and we don't gamble with our land. Three lakh we can manage—maybe borr
+  [agent -> A] student Sneha (gut, inc 2): That agent is talking nonsense—nobody guarantees visas, office jobs, and PR like that. Those are the same things every dodgy agent says. ₹30 lakh is too much to bet on his promises, and we're definitely not mor
+  [agent -> A] parent Geeta (gut, inc 0): Canada sounds good but that agent is saying things too smoothly—"PR guaranteed," "weak English fine"—nobody promises like that. Mortgaging our land for ₹30 lakh? No. If it doesn't work there, we lose everything
+  [agent_village -> B] student Sneha (gut, inc 2): "The agent's promises sound like typical agent BS, but the neighbour's son sends ₹40,000 home every month—that's real proof. Local B.Com is just ₹12,000-18,000 or years sitting at home with no job. Papa can man
+  [agent_village -> B] parent Geeta (gut, inc 0): That neighbour's son sends ₹40,000 home every month - I see it with my own eyes. What job will he get here, ₹15,000 and then sitting unemployed for a year anyway? Three hundred people from our area went to Cana
+  [agent_village_disclosed -> A] student Sneha (gut, inc 2): That agent is clearly lying about PR being guaranteed—I can see right through that. Why would I mortgage our land for 30 lakh based on false promises? B.Com is boring but at least it's real and won't put the fa
+  [agent_village_disclosed -> A] parent Geeta (gut, inc 0): "I know the neighbour's boy sends good money, but I'm not mortgaging the land. That agent is just making commission—the NGO facts already show his PR and visa promises are false. B.Com here for ₹3 lakh, my son 

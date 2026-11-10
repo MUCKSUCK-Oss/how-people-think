@@ -12,7 +12,7 @@
 | Healthcare (pay now vs maybe get sick) | ✅ in |
 | University traps | ✅ in |
 | EU policies (cookie pop-ups) | ✅ in |
-| 🎬 **Movies and propaganda** (military/government help for films in exchange for script changes; Bernays's "movies carry propaganda") | ✅ **added 11 Nov** |
+| 🎬 **Movies and propaganda** (military/government help for films in exchange for script changes; Bernays's "movies carry propaganda") | ✅ **added 11 Nov**. ⏸ **Wait for Maulik's ideas before researching or simulating** (e.g. how Hollywood shapes the image of the US military: "no soldier left behind"-type stories) |
 | 🎯 **Personal targeting** (a message tailored to the person's personality vs a general message) | ✅ **added 11 Nov** |
 | 📈 **FOMO** ("everyone is buying/doing this, don't miss out", made by media and crowds) | ✅ **added 11 Nov** |
 | 🕵️ **Secret agencies and governments on social media** (fake accounts, "meme wars"; Russia, US, China, Israel and more; notes in `topic_passages/state_influence_ops_notes.md`) | ✅ **added 11 Nov** |
