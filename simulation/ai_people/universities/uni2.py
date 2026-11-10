@@ -102,14 +102,14 @@ PARENT_FIRST = ["Rajesh", "Sunita", "Mahesh", "Kavita", "Suresh", "Anita", "Rame
                 "Dinesh", "Meena"]
 
 
-def make_people(scenario, n, seed_offset=0):
+def make_people(scenario, n, seed_offset=0, style_shift=0):
     rng = random.Random(500 + scenario + seed_offset)
     order = [True, False] * (n // 2)
     random.Random(60 + scenario + seed_offset).shuffle(order)
     people = []
     for i in range(n):
         role = "student" if i % 2 == 0 else "parent"
-        p = {"id": i, "role": role, "style_level": (i // 2) % 4, "income_level": rng.randrange(3),
+        p = {"id": i, "role": role, "style_level": ((i // 2) + style_shift) % 4, "income_level": rng.randrange(3),
              "trust": rng.choice(TRUST), "relatives": rng.choice(RELATIVES), "b_first": order[i]}
         if scenario == 1:
             place = rng.choice(S1_CITIES)
@@ -181,13 +181,14 @@ def job(scenario, p, version):
 
 
 def main(mode):
-    n = {"pilot": 8, "extra": 6}.get(mode, 40)
-    off = 1000 if mode == "extra" else 0   # "extra" = 6 NEW people per scenario, same design as pilot 2
-    people = {1: make_people(1, n, off), 2: make_people(2, n, off)}
-    if mode == "extra":  # give them ids that don't clash with the pilot's 0-7
+    n = {"pilot": 8, "extra": 6, "extra2": 6}.get(mode, 40)
+    off = {"extra": 1000, "extra2": 2000}.get(mode, 0)   # extra batches = NEW people, same design as pilot 2
+    shift = 2 if mode == "extra2" else 0   # extra2: more careful people (very careful was under-sampled)
+    people = {1: make_people(1, n, off, shift), 2: make_people(2, n, off, shift)}
+    if mode in ("extra", "extra2"):  # ids that don't clash with the pilot's 0-7
         for s_ in people:
             for p in people[s_]:
-                p["id"] += 100
+                p["id"] += 100 if mode == "extra" else 200
     tasks = [(1, p, v) for p in people[1] for v in S1_VERSIONS] + \
             [(2, p, v) for p in people[2] for v in S2_VERSIONS]
     name = f"uni2_{mode}.json"

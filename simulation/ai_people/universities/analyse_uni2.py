@@ -8,7 +8,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 mode = sys.argv[1] if len(sys.argv) > 1 else "pilot"
 if mode == "combined":  # pilot 2 + extra batch (same design, different people)
     d = {"rows": json.load(open(os.path.join(HERE, "uni2_pilot.json")))["rows"]
-         + json.load(open(os.path.join(HERE, "uni2_extra.json")))["rows"]}
+         + json.load(open(os.path.join(HERE, "uni2_extra.json")))["rows"]
+             + (json.load(open(os.path.join(HERE, "uni2_extra2.json")))["rows"]
+                if os.path.exists(os.path.join(HERE, "uni2_extra2.json")) else [])}
 else:
     d = json.load(open(os.path.join(HERE, f"uni2_{mode}.json")))
 rows = [r for r in d["rows"] if r["choice"]]
