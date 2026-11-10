@@ -102,10 +102,10 @@ PARENT_FIRST = ["Rajesh", "Sunita", "Mahesh", "Kavita", "Suresh", "Anita", "Rame
                 "Dinesh", "Meena"]
 
 
-def make_people(scenario, n):
-    rng = random.Random(500 + scenario)
+def make_people(scenario, n, seed_offset=0):
+    rng = random.Random(500 + scenario + seed_offset)
     order = [True, False] * (n // 2)
-    random.Random(60 + scenario).shuffle(order)
+    random.Random(60 + scenario + seed_offset).shuffle(order)
     people = []
     for i in range(n):
         role = "student" if i % 2 == 0 else "parent"
@@ -181,8 +181,13 @@ def job(scenario, p, version):
 
 
 def main(mode):
-    n = 8 if mode == "pilot" else 40
-    people = {1: make_people(1, n), 2: make_people(2, n)}
+    n = {"pilot": 8, "extra": 6}.get(mode, 40)
+    off = 1000 if mode == "extra" else 0   # "extra" = 6 NEW people per scenario, same design as pilot 2
+    people = {1: make_people(1, n, off), 2: make_people(2, n, off)}
+    if mode == "extra":  # give them ids that don't clash with the pilot's 0-7
+        for s_ in people:
+            for p in people[s_]:
+                p["id"] += 100
     tasks = [(1, p, v) for p in people[1] for v in S1_VERSIONS] + \
             [(2, p, v) for p in people[2] for v in S2_VERSIONS]
     name = f"uni2_{mode}.json"

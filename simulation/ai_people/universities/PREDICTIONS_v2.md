@@ -78,3 +78,8 @@ Only if all three pass, I run the full version.
   - **S1-A** adds: "Seniors say the labs are old, several teaching posts are vacant, and fewer companies visit." This is typical of many government colleges and consistent with A's lower placement % in the honest data.
   - **S2-A** adds: "Local B.Com graduates usually find jobs paying ₹12,000–18,000 a month, and many stay unemployed for a year or more." This is the push factor reported by CBC/DW.
 - **Predictions stay the same.** Pilot 2 is checked against the same 3 rules before any full run.
+
+## Pilot 2 result and the decision for the main run (added before the extra batch)
+- Pilot 2 (96 decisions, `uni2_pilot.json`): Scenario 1 brochure is still 0% B (floor), Scenario 2 brochure 12%. The tricks clearly raise B: S1 relatives 38%, S2 agent + village 50%. Disclosure cuts it: S1 12%, S2 0%.
+- **The S1 floor looks like a stable property of AI people** (very cost-careful when no trick is present), not a design bug. So "backfire" can't be measured in S1; effects are read as increases from 0.
+- **Usage discovery:** each AI-person call costs about 0.27% of the Pro 5-hour limit, so the planned 480-decision full run doesn't fit tonight. **Instead:** an "extra" batch of **6 new people per scenario (72 decisions), same design as pilot 2**, pooled with pilot 2 (14 people per scenario). The full 40-person run can be done later on fresh limits.
