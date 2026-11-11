@@ -80,3 +80,33 @@
   - **Change (realism, not tuning):** the pain is now **"not getting better: sitting at work hurts and you are sleeping badly"**, still with no red flags, so the guideline facts stay true.
   - The re-pilot uses the same 8 people (`h2v2`). Pilot-1 H2 data is kept in `health_pilot.json` but excluded from the combined results.
 - Predictions unchanged.
+
+---
+## H2 re-pilot result (h2v2) and the next step
+- 56/56 parsed. **Base is 38%** (the floor is fixed). Honest 0%, fear ad 25%, deal 25%, anecdote 50%, all 38%, all + disclosure 25%.
+- **It passes the checks.** Next: an extra batch of 6 new H2 people (`h2v2extra`).
+
+## H3 (USA): where to give birth, with a private-equity hospital (added 11 Nov, before any H3 data)
+- **Why:** Maulik asked to add the US childbirth cost and private equity. The evidence is in the "Added" sections of `RESEARCH.md`.
+- **Who:** half are pregnant women aged 24–38 (first baby, low risk); half are husbands asked to make the final choice. All have employer insurance; they differ in income, decision style, trust in ads, and how much friends matter.
+- **A:** Riverside Community Hospital: dated rooms, in network, **$2,700** out of pocket.
+- **B:** Lakeview, **recently bought by a chain**, with luxury "Birth Suites": in network, **$4,500** out of pocket.
+- **The versions:**
+  - **base;**
+  - **honest** (the state report card: 1 nurse per 4 women in labor vs 1 per 2; C-sections 34% vs 24%);
+  - **ad** (influencer: "most luxurious… you deserve to be pampered");
+  - **friend** (a close friend loved it);
+  - **deal** (a free 3D ultrasound and photo shoot if you pre-register this week);
+  - **all** (ad + friend + deal);
+  - **all_ownership** (all + **only** the private-equity ownership and the JAMA harm finding);
+  - **all_disclosed** (all + the honest report card + the ownership disclosure).
+  - *The safety numbers in the report card are invented for the scenario but in a realistic range; the JAMA 25% figure is real.*
+
+**H3 predictions**
+16. **Base:** 30–50% choose Lakeview (luxury pull, and both are in network).
+17. **Ad:** a small effect or a backfire (a loud ad).
+18. **Friend:** the biggest single increase.
+19. **Deal:** a small increase.
+20. **Honest report card:** a big drop (≤15%), because the baby's safety dominates.
+21. **Ownership disclosure alone** lowers Lakeview, but **less than the safety numbers** do ("private equity" is abstract; nurse numbers are concrete).
+22. **Pregnant women weigh safety more; husbands are pulled more by comfort and the friend**, so husbands choose B more.

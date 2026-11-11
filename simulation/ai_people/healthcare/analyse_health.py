@@ -13,14 +13,16 @@ def load(f):
 
 if mode == "combined":  # H1 from pilot + extras; H2 only from the v2 (not-improving pain) runs
     rows_all = [r for f in ("health_pilot.json", "health_extra.json", "health_extra2.json") for r in load(f) if r["scenario"] == 1] \
-        + [r for f in ("health_h2v2.json", "health_h2v2extra.json", "health_h2v2extra2.json") for r in load(f)]
+        + [r for f in ("health_h2v2.json", "health_h2v2extra.json", "health_h2v2extra2.json") for r in load(f)] \
+        + [r for f in ("health_h3pilot.json", "health_h3extra.json", "health_h3extra2.json") for r in load(f)]
 else:
     rows_all = load(f"health_{mode}.json")
 rows = [r for r in rows_all if r["choice"]]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]
 V = {1: ["base", "honest", "fear", "package", "anecdote", "all", "all_disclosed"],
-     2: ["base", "honest", "fear_ad", "deal", "anecdote", "all", "all_disclosed"]}
-LABEL = {1: "stent now (B)", 2: "MRI now (B)"}
+     2: ["base", "honest", "fear_ad", "deal", "anecdote", "all", "all_disclosed"],
+     3: ["base", "honest", "ad", "friend", "deal", "all", "all_ownership", "all_disclosed"]}
+LABEL = {1: "stent now (B)", 2: "MRI now (B)", 3: "PE-owned luxury hospital (B)"}
 
 
 def pct(rs):
@@ -31,11 +33,11 @@ print(f"[{mode}] usable {len(rows)}/{len(rows_all)}")
 for s in sorted({r["scenario"] for r in rows}):
     R = [r for r in rows if r["scenario"] == s]
     print(f"\n===== H{s}: share choosing {LABEL[s]} (n people = {len({r['person'] for r in R})}) =====")
-    print(f"{'version':15s} {'all':>5s} {'patient':>8s} {'child':>6s}  loans(B)")
+    print(f"{'version':15s} {'all':>5s} {'role1':>8s} {'role2':>6s}  loans(B)")
     for v in V[s]:
         rv = [r for r in R if r["version"] == v]
-        pa = [r for r in rv if r["role"] == "patient"]
-        ch = [r for r in rv if r["role"] == "child"]
+        pa = [r for r in rv if r["role"] in ("patient", "pregnant")]
+        ch = [r for r in rv if r["role"] in ("child", "partner")]
         nb = sum(r["choice"] == "B" for r in rv)
         print(f"{v:15s} {pct(rv):5.0f} {pct(pa):8.0f} {pct(ch):6.0f}  {sum(r['loan']=='yes' for r in rv if r['choice']=='B')}/{nb}")
     print("by style: " + " | ".join(V[s]))

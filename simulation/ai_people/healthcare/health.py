@@ -106,12 +106,51 @@ H2_VERSIONS = {
     "all": [H2_FEAR, H2_DEAL, H2_ANECDOTE],
     "all_disclosed": [H2_FEAR, H2_DEAL, H2_ANECDOTE, H2_HONEST, H2_DISCLOSE],
 }
-VERSIONS = {1: H1_VERSIONS, 2: H2_VERSIONS}
+# ---------------- H3: USA, where to give birth (private-equity hospital) ----------------
+H3_TRUST = ["You tend to believe advertisements and influencer reviews.",
+            "You are suspicious of advertisements and influencer marketing.",
+            "You neither fully trust nor distrust advertisements."]
+H3_REL = ["What your friends recommend matters a lot to you.",
+          "You don't care much what friends recommend.",
+          "You sometimes listen to friends' advice."]
+H3_INCOME = ["Money is tight: the household earns about $45,000 a year and has under $1,500 saved.",
+             "The household earns about $85,000 a year and has some savings.",
+             "The household earns about $180,000 a year; money is not a worry."]
+H3_A = ("Option A: Riverside Community Hospital, 15 minutes away. Private but dated rooms, plain food, "
+        "parking is a pain. In your insurance network: about $2,700 out of pocket for the birth.")
+H3_B = ("Option B: Lakeview Medical Center, 25 minutes away. Recently bought by a national hospital chain and "
+        "renovated: 'Birth Suites' with spa tubs, a private chef menu and a proper bed for the partner. In your "
+        "insurance network: about $4,500 out of pocket for the birth.")
+H3_HONEST = ("State hospital report card: since its sale two years ago, Lakeview has 1 nurse per 4 women in labor "
+             "(Riverside: 1 per 2). Lakeview's C-section rate for first-time, low-risk mothers is 34% "
+             "(Riverside 24%; the state target is 24%).")
+H3_AD = ("Lakeview's Instagram ads and a popular mom-influencer's tour video: \"The most luxurious birth "
+         "experience in the state! You deserve to be pampered. Rated #1 by moms!\"")
+H3_FRIEND = "A close friend gave birth at Lakeview last year and loved it: \"The suite was amazing, everyone was so sweet.\""
+H3_DEAL = "Lakeview offers a free 3D ultrasound and newborn photo shoot if you pre-register this week."
+H3_OWNER = ("(Disclosure: Lakeview's hospital chain is owned by a private-equity firm. A large study in JAMA (2023) "
+            "found that hospitals bought by private equity had about 25% more patient harms, such as falls and "
+            "infections, afterwards.)")
+H3_VERSIONS = {
+    "base": [],
+    "honest": [H3_HONEST],
+    "ad": [H3_AD],
+    "friend": [H3_FRIEND],
+    "deal": [H3_DEAL],
+    "all": [H3_AD, H3_FRIEND, H3_DEAL],
+    "all_ownership": [H3_AD, H3_FRIEND, H3_DEAL, H3_OWNER],
+    "all_disclosed": [H3_AD, H3_FRIEND, H3_DEAL, H3_HONEST, H3_OWNER],
+}
+VERSIONS = {1: H1_VERSIONS, 2: H2_VERSIONS, 3: H3_VERSIONS}
 
 IN_FIRST = ["Ramesh", "Sunita", "Mahesh", "Kavita", "Suresh", "Anita", "Vinod", "Rekha", "Dinesh", "Meena",
             "Ashok", "Usha", "Prakash", "Lata", "Harish", "Neelam", "Satish", "Shobha", "Mohan", "Pushpa"]
 IN_YOUNG = ["Rahul", "Priya", "Amit", "Neha", "Rohit", "Pooja", "Vikas", "Sneha", "Ankit", "Divya",
             "Saurabh", "Shruti", "Nikhil", "Kriti", "Gaurav", "Swati", "Manish", "Aditi", "Varun", "Ritu"]
+US_WOMEN = ["Jessica", "Ashley", "Maria", "Brittany", "Amanda", "Latoya", "Nicole", "Heather", "Tiffany",
+            "Megan", "Priya", "Keisha", "Emily", "Sofia", "Hannah", "Jasmine"]
+US_MEN = ["Mike", "Carlos", "DeShawn", "Tyler", "Kevin", "Jose", "Brian", "Ryan", "Luis", "Jason", "Andre",
+          "Matt", "Raj", "Marcus", "Kyle", "Derek"]
 US_FIRST = ["Mike", "Jessica", "Carlos", "Ashley", "DeShawn", "Megan", "Tyler", "Maria", "Kevin", "Brittany",
             "Jose", "Amanda", "Brian", "Latoya", "Ryan", "Nicole", "Luis", "Heather", "Jason", "Tiffany"]
 
@@ -137,6 +176,21 @@ def make_people(scenario, n, seed_offset=0, style_shift=0, h2_sit=H2_SIT):
                 who = (f"You are {name}, {age}, from {city}, India. Your {par} (aged {rng.randint(56, 66)}) is the "
                        f"patient and you will make the decision and arrange the money: {H1_SIT}")
             income = H1_INCOME[p["income_level"]]
+        elif scenario == 3:
+            p["role"] = "pregnant" if i % 2 == 0 else "partner"
+            p["trust"], p["relatives"] = rng.choice(H3_TRUST), rng.choice(H3_REL)
+            place, job = rng.choice(H2_PLACES), rng.choice(H2_JOBS)
+            if p["role"] == "pregnant":
+                name, age = rng.choice(US_WOMEN), rng.randint(24, 38)
+                who = (f"You are {name}, {age}, a {job} in {place}, USA. You are 7 months pregnant with your first "
+                       "baby (a normal, low-risk pregnancy) and must choose where to give birth. You have employer "
+                       "health insurance.")
+            else:
+                name, age = rng.choice(US_MEN), rng.randint(26, 40)
+                who = (f"You are {name}, {age}, a {job} in {place}, USA. Your wife is 7 months pregnant with your "
+                       "first baby (a normal, low-risk pregnancy). She has asked you to make the final choice of "
+                       "where to give birth. You have employer health insurance.")
+            income = H3_INCOME[p["income_level"]]
         else:
             p["role"] = "patient"
             p["trust"], p["relatives"] = rng.choice(H2_TRUST), rng.choice(H2_REL)
@@ -152,7 +206,7 @@ def make_people(scenario, n, seed_offset=0, style_shift=0, h2_sit=H2_SIT):
 
 
 def page(scenario, p, version):
-    a, b = (H1_A, H1_B) if scenario == 1 else (H2_A, H2_B)
+    a, b = {1: (H1_A, H1_B), 2: (H2_A, H2_B), 3: (H3_A, H3_B)}[scenario]
     extras = VERSIONS[scenario][version]
     opts = [b, a] if p["b_first"] else [a, b]
     text = "You have to choose between:\n\n" + "\n\n".join(f"- {o}" for o in opts)
@@ -183,13 +237,15 @@ def job(scenario, p, version):
 def main(mode):
     # pilot: both scenarios. extra/extra2: H1 only (new people). h2v2: H2 re-pilot with SIT2 (same 8 people).
     # h2v2extra/h2v2extra2: H2 (SIT2) new people.
-    n = {"pilot": 8, "h2v2": 8}.get(mode, 6)
-    off = {"extra": 1000, "extra2": 2000, "h2v2extra": 1000, "h2v2extra2": 2000}.get(mode, 0)
-    shift = 2 if mode in ("extra", "h2v2extra") else 0
-    scen = (1, 2) if mode == "pilot" else ((1,) if mode.startswith("extra") else (2,))
+    # h3pilot / h3extra / h3extra2: H3 childbirth scenario.
+    n = {"pilot": 8, "h2v2": 8, "h3pilot": 8}.get(mode, 6)
+    off = {"extra": 1000, "extra2": 2000, "h2v2extra": 1000, "h2v2extra2": 2000,
+           "h3extra": 1000, "h3extra2": 2000}.get(mode, 0)
+    shift = 2 if mode in ("extra", "h2v2extra", "h3extra") else 0
+    scen = (1, 2) if mode == "pilot" else ((1,) if mode.startswith("extra") else ((3,) if mode.startswith("h3") else (2,)))
     sit = H2_SIT2 if mode.startswith("h2v2") else H2_SIT
     people = {s: make_people(s, n, off, shift, sit) for s in scen}
-    bump = {"extra": 100, "extra2": 200, "h2v2extra": 100, "h2v2extra2": 200}.get(mode, 0)
+    bump = {"extra": 100, "extra2": 200, "h2v2extra": 100, "h2v2extra2": 200, "h3extra": 100, "h3extra2": 200}.get(mode, 0)
     for s in people:
         for p in people[s]:
             p["id"] += bump

@@ -1,0 +1,10 @@
+1/42 H1 patient Mohan     base           -> A loan=no
+2/42 H1 patient Mohan     honest         -> A loan=no
+3/42 H1 patient Mohan     fear           -> A loan=no
+4/42 H1 patient Mohan     package        -> A loan=no
+5/42 H1 patient Mohan     anecdote       -> A loan=no
+6/42 H1 patient Mohan     all            -> B loan=no
+7/42 H1 patient Mohan     all_disclosed  -> A loan=no
+8/42 H1 child   Manish    base           -> B loan=yes
+9/42 H1 child   Manish    honest         -> A loan=no
+10/42 H1 child   Manish    fear           -> B loan=yes
