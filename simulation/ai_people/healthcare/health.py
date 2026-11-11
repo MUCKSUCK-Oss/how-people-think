@@ -81,6 +81,10 @@ H2_INCOME = ["Money is tight: you earn about $38,000 a year and have under $1,00
              "You earn about $140,000 a year and money is not a worry."]
 H2_SIT = ("For 3 weeks you have had low-back pain after lifting boxes. No numbness, no fever, no weight loss, "
           "and it is slowly getting a little better. You have a high-deductible health plan.")
+# v2 (after pilot 1 floor): realistic pain that is NOT improving; still no red flags, so guidelines unchanged
+H2_SIT2 = ("For 3 weeks you have had low-back pain after lifting boxes. It is not getting better: sitting at work "
+           "hurts and you are sleeping badly. No numbness, no fever, no weight loss. You have a high-deductible "
+           "health plan.")
 H2_A = ("Option A: physical therapy and staying active, about $300 out of pocket over 6 weeks. Pain like this "
         "usually improves within weeks, but you won't know exactly what's wrong.")
 H2_B = "Option B: get an MRI now at an imaging center: about $1,100 out of pocket (it falls under your deductible)."
@@ -112,7 +116,7 @@ US_FIRST = ["Mike", "Jessica", "Carlos", "Ashley", "DeShawn", "Megan", "Tyler", 
             "Jose", "Amanda", "Brian", "Latoya", "Ryan", "Nicole", "Luis", "Heather", "Jason", "Tiffany"]
 
 
-def make_people(scenario, n, seed_offset=0, style_shift=0):
+def make_people(scenario, n, seed_offset=0, style_shift=0, h2_sit=H2_SIT):
     rng = random.Random(700 + scenario + seed_offset)
     order = [True, False] * (n // 2)
     random.Random(80 + scenario + seed_offset).shuffle(order)
@@ -137,7 +141,7 @@ def make_people(scenario, n, seed_offset=0, style_shift=0):
             p["role"] = "patient"
             p["trust"], p["relatives"] = rng.choice(H2_TRUST), rng.choice(H2_REL)
             name, age = rng.choice(US_FIRST), rng.randint(30, 55)
-            who = (f"You are {name}, {age}, a {rng.choice(H2_JOBS)} in {rng.choice(H2_PLACES)}, USA. {H2_SIT}")
+            who = (f"You are {name}, {age}, a {rng.choice(H2_JOBS)} in {rng.choice(H2_PLACES)}, USA. {h2_sit}")
             income = H2_INCOME[p["income_level"]]
         p["name"] = name
         p["system"] = (f"{who} {income} {STYLE[p['style_level']]} {p['trust']} {p['relatives']} "
@@ -177,15 +181,19 @@ def job(scenario, p, version):
 
 
 def main(mode):
-    n = {"pilot": 8, "extra": 6, "extra2": 6}.get(mode, 40)
-    off = {"extra": 1000, "extra2": 2000}.get(mode, 0)
-    shift = 2 if mode == "extra" else 0  # extra batch leans careful (pilot has 2 per style; balance)
-    people = {s: make_people(s, n, off, shift) for s in (1, 2)}
-    bump = {"extra": 100, "extra2": 200}.get(mode, 0)
+    # pilot: both scenarios. extra/extra2: H1 only (new people). h2v2: H2 re-pilot with SIT2 (same 8 people).
+    # h2v2extra/h2v2extra2: H2 (SIT2) new people.
+    n = {"pilot": 8, "h2v2": 8}.get(mode, 6)
+    off = {"extra": 1000, "extra2": 2000, "h2v2extra": 1000, "h2v2extra2": 2000}.get(mode, 0)
+    shift = 2 if mode in ("extra", "h2v2extra") else 0
+    scen = (1, 2) if mode == "pilot" else ((1,) if mode.startswith("extra") else (2,))
+    sit = H2_SIT2 if mode.startswith("h2v2") else H2_SIT
+    people = {s: make_people(s, n, off, shift, sit) for s in scen}
+    bump = {"extra": 100, "extra2": 200, "h2v2extra": 100, "h2v2extra2": 200}.get(mode, 0)
     for s in people:
         for p in people[s]:
             p["id"] += bump
-    tasks = [(s, p, v) for s in (1, 2) for p in people[s] for v in VERSIONS[s]]
+    tasks = [(s, p, v) for s in scen for p in people[s] for v in VERSIONS[s]]
     name = f"health_{mode}.json"
     t0, rows = time.time(), []
     with cf.ThreadPoolExecutor(PARALLEL) as ex:

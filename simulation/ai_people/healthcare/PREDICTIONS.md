@@ -69,3 +69,14 @@
 - **The model:** each decision is a fresh Claude Haiku call (no tools, no memory, not told it's an experiment). The options are shown in a random order (A/B counterbalanced).
 - **Pilot:** 8 people × 7 versions × 2 scenarios = **112 decisions** (about 25% of a 5-hour window).
 - **Extra batch:** only if the pilot passes the checks; new people, the same design, pooled.
+
+---
+## Pilot 1 result and change (added after pilot 1, before any more runs)
+- **H1 (India stent) passes the checks:** 112/112 parsed; base 25% (no floor). Fear 62%, package 75%, anecdote 100%, all 100%, all + disclosure 25%.
+  - ⚠ **The anecdote and "all" versions hit a ceiling (100%)**, so they can't be told apart. This is accepted as a finding (the anecdote alone is enough to move everyone), not changed.
+  - **Next:** an extra batch of 6 new H1 people (mostly careful), the same design.
+- **H2 (US MRI) failed the floor check:** 0% in base, honest, fear ad and deal.
+  - **Diagnosis:** "slowly getting a little better" made waiting the obvious choice. Real people who push for an MRI are usually still in pain.
+  - **Change (realism, not tuning):** the pain is now **"not getting better: sitting at work hurts and you are sleeping badly"**, still with no red flags, so the guideline facts stay true.
+  - The re-pilot uses the same 8 people (`h2v2`). Pilot-1 H2 data is kept in `health_pilot.json` but excluded from the combined results.
+- Predictions unchanged.

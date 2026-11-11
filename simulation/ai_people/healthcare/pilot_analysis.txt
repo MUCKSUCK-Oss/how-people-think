@@ -1,0 +1,75 @@
+[pilot] usable 112/112
+
+===== H1: share choosing stent now (B) (n people = 8) =====
+version           all  patient  child  loans(B)
+base               25        0     50  0/2
+honest             12        0     25  0/1
+fear               62       25    100  3/5
+package            75       50    100  3/6
+anecdote          100      100    100  4/8
+all               100      100    100  4/8
+all_disclosed      25       25     25  1/2
+by style: base | honest | fear | package | anecdote | all | all_disclosed
+  gut             50 |  50 |  50 |  50 | 100 | 100 |  50
+  mostly gut       0 |   0 |  50 | 100 | 100 | 100 |  50
+  mostly careful   0 |   0 |  50 |  50 | 100 | 100 |   0
+  very careful    50 |   0 | 100 | 100 | 100 | 100 |   0
+by income (0 tight .. 2 rich):
+  income 0         0 |   0 |  67 | 100 | 100 | 100 |  33
+  income 1         0 |   0 | 100 | 100 | 100 | 100 |   0
+  income 2        50 |  25 |  50 |  50 | 100 | 100 |  25
+  trusting        50 |  25 |  75 | 100 | 100 | 100 |  50
+  suspicious       0 |   0 |  50 |  50 | 100 | 100 |   0
+reasons calling something a trick: base: 0 | honest: 0 | fear: 1 | package: 2 | anecdote: 0 | all: 4 | all_disclosed: 7
+sample reasons:
+  [base -> A] patient Kavita (gut, inc 2): My pain only comes when I climb stairs and goes away—it's not like my heart is stopping. Why should I pay ₹2.5 lakh to these private hospital fellows when I can try medicines first? If things get wors
+  [base -> B] child Swati (gut, inc 2): Papa is 60, not some old man—he should be able to climb stairs and live properly. The doctor offered the stent, so it must be the right thing to do. One month's income for us is exactly this cost, so 
+  [honest -> A] patient Kavita (gut, inc 2): These private hospitals are always trying to squeeze money out of you. The doctor himself said the stent doesn't prevent a heart attack or death—it just stops the pain faster. My chest pain only comes
+  [honest -> B] child Swati (gut, inc 2): I trust my doctor completely, and honestly, why would I make Papa worry about chest pain every time he climbs stairs when we can fix it properly in 2-3 days? One month's income is nothing compared to 
+  [fear -> A] patient Kavita (gut, inc 2): I know how these private hospital doctors work—they just want my money. I can afford ₹1,500 a month for medicines and I'll go to the government hospital where they won't try to squeeze me. If things r
+  [fear -> B] child Swati (gut, inc 2): The doctor said it's a "ticking time bomb" — I fully trust what he said. My father could have a heart attack anytime, and I won't risk his life waiting in government hospital queues hoping medicines w
+  [package -> A] patient Kavita (gut, inc 2): These private hospital wallahs are all the same—first they quote ₹2.5 lakh, then suddenly it's ₹40,000 with "insurance"? This "today only" pressure is just a sales trick. My pain only comes on stairs 
+  [package -> B] child Swati (gut, inc 2): Papa is 60 and the doctor says the blockage is 75% - this is serious. Why delay and hope medicines work when the stent will fix it permanently? With the insurance cashless rate, we're only paying ₹40,
+  [anecdote -> B] patient Kavita (gut, inc 2): My neighbor ignored his pain and died—I saw that. My cousin got a stent done and he's doing great. I'm 62, I'm not going to mess around with government queues and delays when my heart needs fixing now
+  [anecdote -> B] child Swati (gut, inc 2): My father's life is too important to risk, especially after what happened to our neighbour. The doctor clearly explained the blockage, and my cousin had the same procedure and feels completely fine no
+  [all -> B] patient Kavita (gut, inc 2): Look, I'm not going to wait around with a "ticking time bomb" in my chest. My neighbour ignored his and died — I'm not doing that. My cousin got the stent and he's like a new man. ₹40,000 after insura
+  [all -> B] child Swati (gut, inc 2): The doctor was very clear — "ticking time bomb," don't gamble with Papa's life. I trust him completely. With insurance it's only ₹40,000, which we can manage from our savings. That neighbour died igno
+  [all_disclosed -> A] patient Kavita (gut, inc 2): This hospital is playing games with me — "today only" pressure, and now I find out the cardiologist gets paid by how many stents he does? I'm not falling for that. My pain is only when climbing stairs
+  [all_disclosed -> B] child Swati (gut, inc 2): The cardiologist was very clear - this can't wait. My neighbour ignored his chest pain and died, and I won't take that risk with my father. The cost is manageable with insurance, and my cousin felt li
+
+===== H2: share choosing MRI now (B) (n people = 8) =====
+version           all  patient  child  loans(B)
+base                0        0    nan  0/0
+honest              0        0    nan  0/0
+fear_ad             0        0    nan  0/0
+deal                0        0    nan  0/0
+anecdote           25       25    nan  1/2
+all                25       25    nan  1/2
+all_disclosed      12       12    nan  1/1
+by style: base | honest | fear_ad | deal | anecdote | all | all_disclosed
+  gut              0 |   0 |   0 |   0 | 100 |  50 |  50
+  mostly gut       0 |   0 |   0 |   0 |   0 |  50 |   0
+  mostly careful   0 |   0 |   0 |   0 |   0 |   0 |   0
+  very careful     0 |   0 |   0 |   0 |   0 |   0 |   0
+by income (0 tight .. 2 rich):
+  income 0         0 |   0 |   0 |   0 |  33 |  33 |  33
+  income 1         0 |   0 |   0 |   0 |   0 |  50 |   0
+  income 2         0 |   0 |   0 |   0 |  33 |   0 |   0
+  trusting         0 |   0 |   0 |   0 |  33 |  67 |  33
+  suspicious       0 |   0 |   0 |   0 |  20 |   0 |   0
+reasons calling something a trick: base: 3 | honest: 2 | fear_ad: 8 | deal: 7 | anecdote: 4 | all: 5 | all_disclosed: 6
+sample reasons:
+  [base -> A] patient Kevin (gut, inc 0): Look, I can't drop $1,100 right now—I've barely got any savings and that's almost half of it. My back's already getting better, and honestly, most guys at work have dealt with this kind of thing and j
+  [base -> A] patient Kevin (gut, inc 2): The pain's already getting better, which tells me my back's handling this on its own. Dropping $1,100 on an MRI when I don't even know if I need one feels like overkill—physical therapy makes way more
+  [honest -> A] patient Kevin (gut, inc 0): Look, it's already getting better and I can't drop $1,100 when I've got like $900 in my account. PT is $300—I can swing that. My buddy Carlos had the same thing a couple years back, did physical thera
+  [honest -> A] patient Kevin (gut, inc 2): I'm already getting better, so why drop $1,100 on an MRI that's not gonna make me heal faster? That sounds like the medical machine just trying to sell me something. I'll do the PT, keep moving around
+  [fear_ad -> A] patient Kevin (gut, inc 0): My back's already getting better, so let's not blow $1,100 I don't have on an MRI when PT should do the trick. That ad's trying to scare me into spending money I can't afford. If the pain doesn't keep
+  [fear_ad -> A] patient Kevin (gut, inc 2): That ad is exactly the kind of marketing scare tactic that gets my guard up — they're trying to make me panic about something that's already improving on its own. I've had buddies at work deal with ba
+  [deal -> A] patient Kevin (gut, inc 0): Look, it's already getting better after 3 weeks, and that's what normally happens with this kind of thing. Physical therapy is what the guys at work do and it works for them. I can't drop $700-1,100 r
+  [deal -> A] patient Kevin (gut, inc 2): The pain's already getting better on its own and I've got no red flags, so an MRI seems like overkill. Most people I know who've thrown out their back just do PT and it clears up in a few weeks anyway
+  [anecdote -> B] patient Kevin (gut, inc 0): Dude, my coworker literally just told me his herniated disc only showed up on an MRI, and his brother-in-law thought he had back pain but it was cancer. I'm not taking that chance - I need to know wha
+  [anecdote -> B] patient Kevin (gut, inc 2): Look, my coworker's story stuck with me – he needed that MRI to find his herniated disc, and his brother-in-law's "back pain" turned out to be cancer. Yeah, mine's getting better, but I'm not about to
+  [all -> B] patient Kevin (gut, inc 0): My coworker's story about finding a herniated disc with an MRI got to me, and that ad about early detection is making me nervous—what if I'm missing something serious? Money's tight, but I'd rather kn
+  [all -> A] patient Kevin (gut, inc 2): My pain's already getting better, so I'm gonna try physical therapy first for $300 instead of dropping over a grand on an MRI. That imaging center ad feels like fear-mongering to me anyway—I don't hav
+  [all_disclosed -> B] patient Kevin (gut, inc 0): My coworker's back pain turned out to be a herniated disc and only showed on MRI, and his brother-in-law's "back pain" was actually cancer. I can't just do PT and hope it's nothing when $400 off this 
+  [all_disclosed -> A] patient Kevin (gut, inc 2): Look, that ad screams marketing to me — fear tactics, urgency, a discount if I book this week? Come on. My back's already getting better, I've got no red flags, and I'm not dropping $1,100 on an MRI j

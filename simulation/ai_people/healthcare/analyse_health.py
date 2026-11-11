@@ -6,8 +6,16 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 mode = sys.argv[1] if len(sys.argv) > 1 else "pilot"
-files = ["health_pilot.json", "health_extra.json", "health_extra2.json"] if mode == "combined" else [f"health_{mode}.json"]
-rows_all = [r for f in files if os.path.exists(os.path.join(HERE, f)) for r in json.load(open(os.path.join(HERE, f)))["rows"]]
+def load(f):
+    p = os.path.join(HERE, f)
+    return json.load(open(p))["rows"] if os.path.exists(p) else []
+
+
+if mode == "combined":  # H1 from pilot + extras; H2 only from the v2 (not-improving pain) runs
+    rows_all = [r for f in ("health_pilot.json", "health_extra.json", "health_extra2.json") for r in load(f) if r["scenario"] == 1] \
+        + [r for f in ("health_h2v2.json", "health_h2v2extra.json", "health_h2v2extra2.json") for r in load(f)]
+else:
+    rows_all = load(f"health_{mode}.json")
 rows = [r for r in rows_all if r["choice"]]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]
 V = {1: ["base", "honest", "fear", "package", "anecdote", "all", "all_disclosed"],
@@ -20,7 +28,7 @@ def pct(rs):
 
 
 print(f"[{mode}] usable {len(rows)}/{len(rows_all)}")
-for s in (1, 2):
+for s in sorted({r["scenario"] for r in rows}):
     R = [r for r in rows if r["scenario"] == s]
     print(f"\n===== H{s}: share choosing {LABEL[s]} (n people = {len({r['person'] for r in R})}) =====")
     print(f"{'version':15s} {'all':>5s} {'patient':>8s} {'child':>6s}  loans(B)")
