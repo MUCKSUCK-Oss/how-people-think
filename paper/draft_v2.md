@@ -3,13 +3,15 @@
 *Second draft, 11 Nov 2026. It adds the AI-people experiments (Section 6) and the fixes from `paper/archive/review_v1.md`. The first draft is kept as `paper/archive/draft_v1.md`. Everything here is a starting point for you to rewrite in your own voice.*
 
 **How to use this draft**
-- **[YOUR OPINION]** marks a place only you can write. The paper is stronger when your own view is clearly separate from the evidence.
+- **[TO WRITE]** marks a place where I still have to write my own view. The paper is stronger when my view is clearly separate from the evidence.
 - **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
 - The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
 - This draft is about 10,000 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
-**How this paper was made** *(a draft note: edit it so that every sentence is true, then keep it in the final paper)*
-> An AI assistant (Claude) helped find and summarise sources, build both simulations and write a first draft. I chose the question and the topics, decided which cases and evidence to include, directed each simulation, checked key sources and wrote the opinions and the conclusion.
+**How this paper was made**
+- **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
+- **What an AI assistant (Claude) did:** searched and summarised sources, wrote and ran the simulation code under my direction, and drafted the text.
+- **What I am doing now:** writing the parts marked [TO WRITE], rewriting the introduction and conclusion in my own words, and checking the key sources.
 
 ---
 
@@ -38,7 +40,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 
 Both simulations are teaching tools, not proof about real people. Together with the other evidence, they suggest one main point: **the tactics are old, only the tools are new, and they work best when they come through people we trust, when they are stacked, and when people are rushed or desperate.**
 
-**[YOUR OPINION]** One sentence on why you, as a Class 11 student in India, care about this question.
+**[TO WRITE]** One sentence on why you, as a Class 11 student in India, care about this question.
 
 ---
 
@@ -53,7 +55,7 @@ This paper asks two linked questions:
 
 A useful test comes from Tristan Harris, a former design ethicist at Google: "the only form of ethical persuasion that exists is when the goals of the persuader are aligned with the goals of the persuadee" (TED 2017). Robert Cialdini makes a similar point: the same six principles (reciprocity, scarcity, authority, consistency, liking and consensus) are ethical when they point to true facts and manipulative when they're faked.
 
-**[YOUR OPINION]** Where do *you* draw the line between persuasion and manipulation? Give one example from your own life (an app, an ad, a teacher or a friend).
+**[TO WRITE]** Where do *you* draw the line between persuasion and manipulation? Give one example from your own life (an app, an ad, a teacher or a friend).
 
 ### 1.2 Why it matters now
 The basic tricks are not new. Gustave Le Bon described repetition as a way to plant beliefs in crowds in 1895. Edward Bernays described using doctors to sell bacon in 1928. What has changed is scale and speed:
@@ -101,7 +103,7 @@ Bernays, often called the father of public relations, wrote openly that a small 
 - **Make it feel like the buyer's own idea.** Don't sell pianos. Make music rooms fashionable, and the piano follows.
 - **Narrow the options.** People can't evaluate everything, so whoever narrows the menu has power. This is exactly where defaults and decoys get their strength.
 
-**[YOUR OPINION]** Is Bernays right that some "invisible government" of opinion is unavoidable in a big society? Or is that just a convenient belief for someone who sold PR?
+**[TO WRITE]** Is Bernays right that some "invisible government" of opinion is unavoidable in a big society? Or is that just a convenient belief for someone who sold PR?
 
 ### 2.3 Lippmann and Plato: the picture in our heads
 Lippmann's key line is that "we define first and then see". We meet most of the world second-hand, through reports, and our stereotypes decide what we notice. Plato's cave makes the same point as a story: whoever controls the shadows controls what the prisoners think is real. Both ideas feed the confirmation-bias part of the simulation (Section 5.4).
@@ -109,7 +111,7 @@ Lippmann's key line is that "we define first and then see". We meet most of the 
 ### 2.4 Machiavelli: appearance over reality
 Machiavelli advised that a ruler need not *be* good, only *appear* good, because "every one sees what you appear to be, few really know what you are". Section 4.3 shows a modern example of image management in exactly this sense.
 
-**[YOUR OPINION]** Was Machiavelli describing how rulers behave, or advising them to behave that way? Does it matter?
+**[TO WRITE]** Was Machiavelli describing how rulers behave, or advising them to behave that way? Does it matter?
 
 ### 2.5 Then and now: the same moves, 2,000 years apart
 *(Added 6 Nov 2026 from five Predictive History lectures on ancient history; see `sources/topic_notes/ph_old_history_notes.md`. The history column uses what historians generally agree on, not only the lecturer's interpretation.)*
@@ -128,7 +130,7 @@ Machiavelli advised that a ruler need not *be* good, only *appear* good, because
 
 **What changed is the speed and the precision, not the moves.** Tristan Harris (TED 2017) puts it in one line: when people gossiped on the phone in the 1970s, there weren't "a hundred engineers on the other side of the screen who knew exactly how your psychology worked".
 
-**[YOUR OPINION]** Which "then vs now" pair surprised you most? Is there any move today that has *no* ancient version?
+**[TO WRITE]** Which "then vs now" pair surprised you most? Is there any move today that has *no* ancient version?
 
 ---
 
@@ -164,7 +166,7 @@ Persuasion looks strong in other settings: when one source controls the informat
 
 Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 5.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 6.7).
 
-**[YOUR OPINION]** Which kind of choice in your life is most like an "I don't really care" choice that is easy to steer, and which is a choice where you'd resist?
+**[TO WRITE]** Which kind of choice in your life is most like an "I don't really care" choice that is easy to steer, and which is a choice where you'd resist?
 
 ---
 
@@ -182,7 +184,7 @@ Product choices, app settings and sign-up forms often meet all three conditions.
 - **The doctor as the channel.** A pharma guest on WTF says a large share of a drug's price pays for medical representatives who visit doctors. Because patients can't be targeted directly, the doctor becomes the channel. This is Bernays's "get the doctors to say it" in its modern form. Studies link industry payments to doctors with more prescribing of the paying company's drugs (DeJong et al. 2016 ✔: even one industry-paid meal was associated with more prescribing of the promoted brand in US Medicare data; an association, not proof of cause). In India, the tax department alleged in 2022 that the makers of Dolo-650 gave doctors freebies worth about ₹1,000 crore; the Supreme Court called it a "serious issue" (an allegation, not a finding). The AI-people experiment in Section 6.5 measures this channel directly: the same fear message worked when a doctor said it and failed when an ad said it.
 - **The self-experimenter.** Bryan Johnson, who reportedly takes about 100 pills a day and points people to his website, seems credible because he tests everything on himself. A doctor on the same panel says parts of the regimen have "no proof". This makes a good case of authority from personal commitment rather than expertise.
 
-**[YOUR OPINION]** Who did *you* find more convincing, Johnson or the doctor? Why?
+**[TO WRITE]** Who did *you* find more convincing, Johnson or the doctor? Why?
 
 ### 4.3 Appearance and image management
 - A serving UAE minister tells a large audience that manipulators "don't survive for long", then says no member of Dubai's ruling family has ever "put on an act". Whatever the truth, a government minister vouching for his own rulers' sincerity is image management in Machiavelli's sense, and outsiders can't check it.
@@ -213,7 +215,7 @@ The *Predictive History* channel is useful as a **case study of persuasion techn
 
 ⚠ **Warning:** the channel also repeats known antisemitic and "replacement" conspiracy tropes, sometimes with the disclaimer "I'm not saying this as an anti-Semitic comment". These are recorded in Report 4 as examples of how prejudice is packaged, **never as fact**.
 
-**[YOUR OPINION]** Why do you think millions of people watch this channel? What did *you* find convincing before you knew the techniques?
+**[TO WRITE]** Why do you think millions of people watch this channel? What did *you* find convincing before you knew the techniques?
 
 ### 4.8 Institutions: the belief that the race is fair
 - In a WTF conversation, Ruchir Sharma argues that capitalism doesn't need equal outcomes, but it does need a *feeling* of equal opportunity.
@@ -222,7 +224,7 @@ The *Predictive History* channel is useful as a **case study of persuasion techn
 
 This is a large-scale "default" too: a belief everyone grows up with and rarely examines.
 
-**[YOUR OPINION]** You are inside India's exam system now. Does it feel like a fair race to you? What would change your mind?
+**[TO WRITE]** You are inside India's exam system now. Does it feel like a fair race to you? What would change your mind?
 
 ### 4.9 Platforms and AI: the people who build the machines explain them
 *(Added 6 Nov 2026 from WTF Ep 2 "Social Media" and Ep 4 "ChatGPT"; see `sources/topic_notes/`.)*
@@ -232,14 +234,14 @@ This is a large-scale "default" too: a belief everyone grows up with and rarely 
 - **AI-tailored persuasion.** In 2023 a guest compared the mind to an immune system that rejects ideas too far from its beliefs. He predicted that ChatGPT would learn "a specific set of words" to fit any message inside that tolerance. This is exactly the confirmation-bias mechanism in Section 5.4, and why the simulation's result (confirmation bias protects against influencers) could break if messages are tailored to each person. Recent studies are mixed ✔. In debates, GPT-4 given basic personal data about its opponent was more persuasive than a human 64% of the time (Salvi et al., *Nature Human Behaviour* 2025). But GPT-4 messages tailored to people's demographics and politics were *not* more persuasive than generic GPT-4 messages (Hackenburg & Margetts, *PNAS* 2024, 8,587 people). AI persuades, but the "perfect words for each person" effect isn't proven yet.
 - **Health halos.** On WTF Ep 6, a guest calls 20 years of "wine is good for you" marketing "absolutely bogus". Wealthy, intelligent guests admit to taking supplements without knowing whether they work, using the "can it do any harm?" logic that a doctor on another episode criticised. Careful thinkers aren't immune when the stakes feel low.
 
-**[YOUR OPINION]** If an AI can find the exact words that move *you*, is that persuasion or manipulation, even when the conclusion is true?
+**[TO WRITE]** If an AI can find the exact words that move *you*, is that persuasion or manipulation, even when the conclusion is true?
 
 ### 4.10 Balance check
 The cases come from people across the spectrum: Trump supporters (Chamath Palihapitiya), centre-right leaders (Christopher Luxon), an anti-elite commentator who is hard to place on left or right (Jiang), business leaders, a Gulf government minister and pharma executives. Manipulation is not a left or right habit. But this list still leans one way, because of who appears on these two channels: it has no clear case from the left and no Indian political case from either side.
 - **One technique used by all sides:** pre-election "freebie" promises (cash transfers, free electricity, free devices) are made by almost every Indian party. They fit "a gift that creates a debt" in Section 2.5.
 - **The same fraud, framed by party:** in a 2026 video, the investigator Coffeezilla shows US officials calling California the "kingdom of fraud" under its Democratic governor while describing Florida, under a Republican governor, as "very well-run, despite elements of fraud", even though the video documents large fraud in both states. He also criticises pardons and clemency for healthcare fraudsters granted by both Trump and Biden.
 
-**[YOUR OPINION]** Did you notice any bias in which cases you found most interesting?
+**[TO WRITE]** Did you notice any bias in which cases you found most interesting?
 
 ---
 
@@ -317,7 +319,7 @@ Lippmann's "we define first, then see" turns out to be a double-edged sword: it 
 
 A standard textbook version of the model (NDlib's Deffuant model) shows the same pattern more strongly: with confirmation bias, extreme influencers reached 49.9% and mild ones 61.3%. **So against people with confirmation bias, the winning strategy is to sound close to them.** This matches a WTF guest's description of the mind as an immune system that only lets in ideas close to what it already believes (Section 4.9). The effects in my own model are small, so the safe claim is "sounding moderate gets a little further".
 
-**[YOUR OPINION]** Is confirmation bias a flaw, or a useful defence? Can it be both?
+**[TO WRITE]** Is confirmation bias a flaw, or a useful defence? Can it be both?
 
 ### 5.5 Who is affected, and what protects people
 **By thinking style, all tricks on:**
@@ -532,7 +534,7 @@ So before using AI people on new topics, I tested them on three classic experime
 ### 7.2 What this means for real life
 - **For individuals:** when you see "only 2 left", a countdown, a pre-ticked box *and* "10,000 people bought this" together, that's a stack. Slow down. When a decision is about someone you love, be extra careful: that is when both AI people and real families were easiest to push.
 - **For regulators:** look at combinations and defaults, not just single claims. India's Uniform Code for Pharmaceutical Marketing Practices (UCPMP), issued in March 2024, bans gifts, travel, hospitality and cash to doctors and their families ✔. It targets exactly the authority channel, though critics say enforcement is weak. The AI-people results support rules that make disclosure **concrete and personal**: the CCPA's 2024 coaching rules (honest results in the same font as the claims), stent prices printed on hospital bills, and requirements to tell customers when a price is personalised. "Others pay $279" moved people far more than any general warning.
-- **For schools:** teaching the tricks (prebunking) helps a little. Teaching people to *pause* may help more. **[YOUR OPINION]**
+- **For schools:** teaching the tricks (prebunking) helps a little. Teaching people to *pause* may help more. **[TO WRITE]**
 
 ### 7.3 Reconciling with "persuasion is weak"
 The rule-based simulation's big effects come from choices where people start at 50/50 and don't care much. The real experiments in Section 3 support the claim that this is where manipulation is strongest: sign-up forms, organ-donor forms and product pages, as opposed to elections, where people care and hear competing messages. (The rule-based model itself can't show this; see Section 5.6.) The AI-people experiments add a second exception: **high-stakes choices can be steered too, if the push comes through a trusted person or meets someone desperate.** A ₹30 lakh mortgage and a heart procedure are not low-stakes choices. The paper's claim is therefore limited: **manipulation is strongest in low-stakes, fast, one-sided choices**, and many daily choices are exactly like that.
@@ -569,7 +571,7 @@ The rule-based simulation's big effects come from choices where people start at 
 ---
 
 ## 9. Conclusion
-**[YOUR OPINION]** Write this yourself, in 150–250 words. Suggested shape:
+**[TO WRITE]** Write this yourself, in 150–250 words. Suggested shape:
 1. What surprised you most (the stacking? confirmation bias? the default? the neighbour's son? the doctor's "ticking time bomb"?).
 2. One thing you now notice in your daily life that you didn't before.
 3. One question you'd want to test next, for example with real classmates, with an ethics check and their consent.
@@ -648,7 +650,7 @@ The rule-based simulation's big effects come from choices where people start at 
 ---
 
 ## Your to-do list for this draft
-1. **Fill in every [YOUR OPINION]** (about 12 places). This is the part that makes the paper yours.
+1. **Fill in every [TO WRITE]** (about 12 places). This is the part that makes the paper yours.
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 7 and 9 in your own words.**
