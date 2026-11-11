@@ -142,6 +142,12 @@
   - The same official called California the "kingdom of fraud" under Newsom, but described Florida as "very well-run, despite elements of fraud".
   - **The same crime is framed differently depending on which party runs the state.** This is a good real example for our politics simulation, and the video criticises both parties.
 
+- **Two more details (from the chaptered transcript Maulik pasted, which is the same video):**
+  - **Columbia/HCA** pleaded guilty to systematically defrauding Medicare and Medicaid. Its CEO at the time was never charged and later became a US senator for Florida (the video's point: a two-tier system of justice).
+  - The video says Lincare paid "$5 billion" in 2018. That's probably a slip for about $5 million [CHECK; don't quote $5B].
+  - The video also says the industry lobby group gave about $4.8M to a pro-Trump political group before the staffing rule was repealed (NYT, per the video). Coffeezilla says he found **no proven causal link**.
+- **The video's own sales:** like the Indian video, it opens and closes with a merchandise ad, but it mocks itself for doing it.
+
 **Possible simulation idea from this (not run):** a "free test" phone call (an elderly person is offered a free genetic or cancer test, and Medicare pays). Does "free" plus "a doctor will review it" make people agree to share their insurance number? It's a third scenario if we have usage left.
 
 ---

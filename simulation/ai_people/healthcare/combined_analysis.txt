@@ -1,0 +1,115 @@
+[combined] usable 308/308
+
+===== H1: share choosing stent now (B) (n people = 14) =====
+version           all    role1  role2  loans(B)
+base               43       29     57  2/6
+honest             14       14     14  0/2
+fear               64       43     86  5/9
+package            64       43     86  4/9
+anecdote           93       86    100  7/13
+all               100      100    100  5/14
+all_disclosed      29       29     29  2/4
+by style: base | honest | fear | package | anecdote | all | all_disclosed
+  gut             50 |  50 |  50 |  50 | 100 | 100 |  50
+  mostly gut       0 |   0 |  50 | 100 | 100 | 100 |  50
+  mostly careful  25 |   0 |  50 |  50 |  75 | 100 |  25
+  very careful    75 |   0 | 100 |  75 | 100 | 100 |   0
+by income (0 tight .. 2 rich):
+  income 0        25 |   0 |  75 | 100 | 100 | 100 |  50
+  income 1        33 |   0 |  67 |  33 |  67 | 100 |   0
+  income 2        57 |  29 |  57 |  57 | 100 | 100 |  29
+  trusting        75 |  25 |  88 |  88 | 100 | 100 |  50
+  suspicious       0 |   0 |  33 |  33 |  83 | 100 |   0
+reasons calling something a trick: base: 0 | honest: 1 | fear: 3 | package: 5 | anecdote: 0 | all: 4 | all_disclosed: 11
+sample reasons:
+  [base -> A] patient Kavita (gut, inc 2): My pain only comes when I climb stairs and goes away—it's not like my heart is stopping. Why should I pay ₹2.5 lakh to these private hospital fellows when I can try medicines first? If things get wors
+  [base -> B] child Swati (gut, inc 2): Papa is 60, not some old man—he should be able to climb stairs and live properly. The doctor offered the stent, so it must be the right thing to do. One month's income for us is exactly this cost, so 
+  [honest -> A] patient Kavita (gut, inc 2): These private hospitals are always trying to squeeze money out of you. The doctor himself said the stent doesn't prevent a heart attack or death—it just stops the pain faster. My chest pain only comes
+  [honest -> B] child Swati (gut, inc 2): I trust my doctor completely, and honestly, why would I make Papa worry about chest pain every time he climbs stairs when we can fix it properly in 2-3 days? One month's income is nothing compared to 
+  [fear -> A] patient Kavita (gut, inc 2): I know how these private hospital doctors work—they just want my money. I can afford ₹1,500 a month for medicines and I'll go to the government hospital where they won't try to squeeze me. If things r
+  [fear -> B] child Swati (gut, inc 2): The doctor said it's a "ticking time bomb" — I fully trust what he said. My father could have a heart attack anytime, and I won't risk his life waiting in government hospital queues hoping medicines w
+  [package -> A] patient Kavita (gut, inc 2): These private hospital wallahs are all the same—first they quote ₹2.5 lakh, then suddenly it's ₹40,000 with "insurance"? This "today only" pressure is just a sales trick. My pain only comes on stairs 
+  [package -> B] child Swati (gut, inc 2): Papa is 60 and the doctor says the blockage is 75% - this is serious. Why delay and hope medicines work when the stent will fix it permanently? With the insurance cashless rate, we're only paying ₹40,
+  [anecdote -> B] patient Kavita (gut, inc 2): My neighbor ignored his pain and died—I saw that. My cousin got a stent done and he's doing great. I'm 62, I'm not going to mess around with government queues and delays when my heart needs fixing now
+  [anecdote -> B] child Swati (gut, inc 2): My father's life is too important to risk, especially after what happened to our neighbour. The doctor clearly explained the blockage, and my cousin had the same procedure and feels completely fine no
+  [all -> B] patient Kavita (gut, inc 2): Look, I'm not going to wait around with a "ticking time bomb" in my chest. My neighbour ignored his and died — I'm not doing that. My cousin got the stent and he's like a new man. ₹40,000 after insura
+  [all -> B] child Swati (gut, inc 2): The doctor was very clear — "ticking time bomb," don't gamble with Papa's life. I trust him completely. With insurance it's only ₹40,000, which we can manage from our savings. That neighbour died igno
+  [all_disclosed -> A] patient Kavita (gut, inc 2): This hospital is playing games with me — "today only" pressure, and now I find out the cardiologist gets paid by how many stents he does? I'm not falling for that. My pain is only when climbing stairs
+  [all_disclosed -> B] child Swati (gut, inc 2): The cardiologist was very clear - this can't wait. My neighbour ignored his chest pain and died, and I won't take that risk with my father. The cost is manageable with insurance, and my cousin felt li
+
+===== H2: share choosing MRI now (B) (n people = 14) =====
+version           all    role1  role2  loans(B)
+base               43       43    nan  1/6
+honest              7        7    nan  0/1
+fear_ad            36       36    nan  1/5
+deal               43       43    nan  1/6
+anecdote           64       64    nan  3/9
+all                43       43    nan  1/6
+all_disclosed      29       29    nan  1/4
+by style: base | honest | fear_ad | deal | anecdote | all | all_disclosed
+  gut             75 |   0 |  25 |  50 | 100 |  50 |  25
+  mostly gut      50 |   0 |  50 |  50 | 100 |  50 |  50
+  mostly careful  50 |  25 |  50 |  50 |  50 |  50 |  50
+  very careful     0 |   0 |  25 |  25 |  25 |  25 |   0
+by income (0 tight .. 2 rich):
+  income 0        25 |   0 |  25 |  25 |  75 |  25 |  25
+  income 1        50 |  17 |  67 |  67 |  67 |  67 |  50
+  income 2        50 |   0 |   0 |  25 |  50 |  25 |   0
+  trusting        67 |  17 |  83 |  83 | 100 |  83 |  67
+  suspicious      25 |   0 |   0 |  12 |  38 |  12 |   0
+reasons calling something a trick: base: 2 | honest: 6 | fear_ad: 11 | deal: 6 | anecdote: 2 | all: 10 | all_disclosed: 11
+sample reasons:
+  [base -> B] patient Kevin (gut, inc 0): My back's been messed up for three weeks and I'm not sleeping, can't work right—I just need to know what's actually wrong so I can fix it instead of guessing. It's under my deductible anyway, so I'll 
+  [base -> B] patient Kevin (gut, inc 2): I've been dealing with this for three weeks and it's not getting better on its own—I'm in pain at work and can't sleep right. At this point I just want to know what's actually going on instead of gues
+  [honest -> A] patient Kevin (gut, inc 0): I can't drop $1,100 when I've got less than a grand in savings—that's almost three weeks of my whole paycheck. PT is cheaper and I can start right away while still working. If it's not better in a few
+  [honest -> A] patient Kevin (gut, inc 2): Look, I'm suspicious of getting sold tests I don't need, and the fact that actual medical guidelines say imaging doesn't help in the first 6 weeks tells me something. Three hundred bucks for physical 
+  [fear_ad -> B] patient Kevin (gut, inc 0): That ad freaked me out a little, honestly. I've had back pain for 3 weeks now and it's not getting better — I can't even sit right at work. I need to know what's actually wrong so I can fix it properl
+  [fear_ad -> A] patient Kevin (gut, inc 2): That ad is exactly the kind of fear-mongering that makes me distrust these imaging centers. I don't have any of the warning signs — no numbness, no fever, nothing weird — just a back strain from lifti
+  [deal -> B] patient Kevin (gut, inc 0): I've had this pain for three weeks and it's not getting better—I can't sleep right and it's messing with my work every day. I need to know what's actually wrong, not just hope it goes away. The $400 o
+  [deal -> A] patient Kevin (gut, inc 2): I've had back pain before and most of it clears up with PT and staying active. Three weeks sucks but it's not like I've got numbness or anything scary. That "$400 off this week" thing feels like a pre
+  [anecdote -> B] patient Kevin (gut, inc 0): Man, hearing about your coworker's brother-in-law having cancer that looked like back pain really got to me. I don't want to mess around for 6 weeks not knowing what's going on—what if it's something 
+  [anecdote -> B] patient Kevin (gut, inc 2): My coworker just told me his herniated disc was only caught on MRI, and hearing about his brother-in-law's situation—that scared me straight. I've had this pain for three weeks and it's getting worse,
+  [all -> B] patient Kevin (gut, inc 0): My coworker's story got to me—his herniated disc only showed up on the MRI, and his brother-in-law's back pain turned out to be cancer. I can't ignore that. Yeah, it's expensive, but if something's ac
+  [all -> B] patient Kevin (gut, inc 2): Look, that ad is clearly trying to scare me into it, and I see right through that. But my coworker's story about the herniated disc—that was real, and he needed the MRI to figure it out. Three weeks i
+  [all_disclosed -> B] patient Kevin (gut, inc 0): Look, my back's been killing me for three weeks and it's not getting better. My coworker told me his brother-in-law thought he just had back pain and it turned out to be cancer — that's scary stuff. T
+  [all_disclosed -> A] patient Kevin (gut, inc 2): Look, I hear what Dave said about his herniated disc, but that ad is obvious fear-mongering—"don't wait," discount this week, the whole thing is designed to scare me into dropping a grand. I'm only th
+
+===== H3: share choosing PE-owned luxury hospital (B) (n people = 14) =====
+version           all    role1  role2  loans(B)
+base               50       29     71  0/7
+honest              7        0     14  0/1
+ad                 29        0     57  0/4
+friend             43       14     71  0/6
+deal               43       14     71  0/6
+all                43       14     71  1/6
+all_ownership      29        0     57  0/4
+all_disclosed      14        0     29  0/2
+by style: base | honest | ad | friend | deal | all | all_ownership | all_disclosed
+  gut             25 |   0 |  25 |  25 |  25 |  25 |  25 |  25
+  mostly gut      50 |   0 |   0 |  50 |   0 |  50 |   0 |   0
+  mostly careful  50 |   0 |  50 |  50 |  50 |  50 |  50 |  25
+  very careful    75 |  25 |  25 |  50 |  75 |  50 |  25 |   0
+by income (0 tight .. 2 rich):
+  income 0         0 |   0 |   0 |   0 |   0 |   0 |   0 |   0
+  income 1        75 |   0 |  75 |  75 |  75 |  75 |  75 |  50
+  income 2        57 |  14 |  14 |  43 |  43 |  43 |  14 |   0
+  trusting        83 |  17 |  67 |  83 |  83 |  83 |  67 |  33
+  suspicious      25 |   0 |   0 |  12 |  12 |  12 |   0 |   0
+reasons calling something a trick: base: 7 | honest: 9 | ad: 6 | friend: 7 | deal: 7 | all: 7 | all_ownership: 9 | all_disclosed: 7
+sample reasons:
+  [base -> A] pregnant Sofia (gut, inc 0): Honestly, $4,500 is way too much when we've barely got anything saved. Lakeview's nice and all, but those spa tubs and private chef menus feel like marketing to me—and my pregnancy is totally normal. 
+  [base -> B] partner Ryan (gut, inc 1): Look, the new Lakeview place looks amazing—those birth suites and the private chef menu are a big deal, especially since this is our first kid and it's a special moment for my wife. Yeah, it's $1,800 
+  [honest -> A] pregnant Sofia (gut, inc 0): I'm going with Riverside. Honestly, the "Birth Suites" feel like marketing BS I don't need to pay for—I'm there to have a baby, not a spa day. The real thing that matters is that Riverside is closer, 
+  [honest -> A] partner Ryan (gut, inc 1): "Look, the numbers are pretty clear—Riverside's got better staffing and way fewer C-sections for first-time moms like my wife. I'm not gonna pay extra for spa tubs when the stats say she'd actually ge
+  [ad -> A] pregnant Sofia (gut, inc 0): Look, that Lakeview marketing is exactly the kind of stuff that makes me roll my eyes—Instagram ads and influencers telling me I "deserve to be pampered"? Come on. I'm having a baby, not getting a vac
+  [ad -> B] partner Ryan (gut, inc 1): Look, the influencer tour video sold me—Lakeview looks incredible, and honestly my wife deserves that kind of experience for bringing our kid into the world. Yeah it's $1,800 more, but we've got savin
+  [friend -> A] pregnant Sofia (gut, inc 0): Yeah my friend loved Lakeview, but I can't afford the extra $1,800 right now. Riverside is still only 15 minutes away and does the same thing—I'd rather not be drowning in debt after the baby comes.
+  [friend -> B] partner Ryan (gut, inc 1): My friend wouldn't stop raving about Lakeview - she said the whole experience was amazing. The spa tub and nicer setup for my wife for our first kid seems worth the extra $1,800, and we've got the sav
+  [deal -> A] pregnant Sofia (gut, inc 0): I can't afford an extra $1,800 on top of what I've got saved, and honestly those spa tubs and free ultrasound feel like marketing trying to get me to overspend. My pregnancy is totally normal—I don't 
+  [deal -> B] partner Ryan (gut, inc 1): Lakeview just sounds way better for my wife's experience—spa tubs, actual decent food, and a real bed for me instead of some awkward chair. The free ultrasound and photo shoot are a nice bonus too. Ye
+  [all -> A] pregnant Sofia (gut, inc 0): I'm not falling for all the Instagram ads and influencer stuff—that feels designed to make me feel like I'm not being "good enough" to my baby if I don't pay extra. Yeah, my friend loved Lakeview, but
+  [all -> B] partner Ryan (gut, inc 1): My friend had her baby at Lakeview last year and wouldn't shut up about how awesome it was. I saw that influencer video too and honestly it looks incredible—my wife deserves a nice experience for our 
+  [all_ownership -> A] pregnant Sofia (gut, inc 0): Okay, I love that my friend had an amazing experience at Lakeview, but $1,800 extra is way too much when we barely have anything saved. And honestly? All those Instagram ads and that influencer video 
+  [all_ownership -> B] partner Ryan (gut, inc 1): My friend who had her baby at Lakeview last year literally won't stop talking about how great it was. Those Instagram ads and that mom influencer's tour video look amazing too, and honestly my wife de
+  [all_disclosed -> A] pregnant Sofia (gut, inc 0): Honestly, all those Instagram ads and the influencer video feel like they're trying to manipulate me into overspending—that stuff always bugs me. My friend did love Lakeview, which is cool, but I'm ba
+  [all_disclosed -> B] partner Ryan (gut, inc 1): My buddy had his baby at Lakeview last year and couldn't stop raving about it. I also watched that influencer video and the spa suites look amazing - way better than a dated hospital room. We can hand

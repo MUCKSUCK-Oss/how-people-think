@@ -9,7 +9,7 @@
 |---|---|
 | Politics (Trump-style speeches; same message, different party) | ✅ in |
 | Corporations tricking customers (defaults, scarcity, etc.) | ✅ in (earbuds pilot done) |
-| Healthcare (pay now vs maybe get sick) | ✅ in |
+| Healthcare (pay now vs maybe get sick) | ✅ done: researched + simulated (India stent, US MRI, US childbirth + private equity), see simulation/ai_people/healthcare/RESULTS.md |
 | University traps | ✅ in |
 | EU policies (cookie pop-ups) | ✅ in |
 | 🎬 **Movies and propaganda** (military/government help for films in exchange for script changes; Bernays's "movies carry propaganda") | ✅ **added 11 Nov**. ⏸ **Wait for Maulik's ideas before researching or simulating** (e.g. how Hollywood shapes the image of the US military: "no soldier left behind"-type stories) |
