@@ -1,0 +1,126 @@
+# Healthcare: how people get pushed into medical spending (research before simulating)
+*Collected 11 Nov 2026, BEFORE designing the simulation.*
+
+**What was actually read:**
+- One full video transcript (Shyam Meera Singh, Hindi, about 29 min, read in full through the YouTube transcript panel).
+- Web-search summaries of news, court and regulator reports, and paper abstracts. These are marked [summary].
+- I did **not** read the full text of the papers. Numbers marked [CHECK] conflict between sources.
+- YouTube blocked the caption downloader (429 rate limit), so I stopped using it, as agreed.
+
+---
+
+## India
+
+### 1. Hospital bills and overtreatment
+- **The Fortis Gurugram dengue case (2017)** [summary + video]:
+  - A 7-year-old, Adya Singh, died after about 14 days in the hospital, and the family was billed about ₹16 lakh (some reports say ₹18 lakh [CHECK]).
+  - The pricing regulator (NPPA) found markups of 200–1,700% on drugs and consumables. Drugs bought for ₹3.2 lakh were billed at ₹6.7 lakh.
+  - A Haryana committee found irregularities, FIRs were registered (one for culpable homicide), and the police filed a chargesheet.
+  - Fortis said all protocols were followed.
+- **Revenue targets for doctors**:
+  - Source: a 2015 BMJ report based on Dr Arun Gadre's interviews with 78 Indian doctors [summary; the video says 28].
+  - Doctors at corporate hospitals reported monthly targets for tests, admissions and surgeries. Contracts were renewed based on the revenue a doctor brought in.
+  - An eye doctor reported a target of 1,000 patients a month.
+- **Referral commissions ("cuts")**:
+  - Diagnostic labs pay referring doctors about 5% for simple tests and about 10% for scans [summary, Business Standard].
+  - Angioplasty referrals reportedly carry large commissions [video].
+  - In 2026, a complaint asked for an inquiry into 15 Haryana hospitals over referral kickbacks [summary; an allegation only].
+- **"44% of surgeries unnecessary"**:
+  - **This is weak evidence.** It comes from a 2015 press release by a Mumbai second-opinion company (MediAngels): 44% of 12,500 patients were advised against the surgery they'd been told to have.
+  - It's not peer-reviewed, the company has a commercial interest, and a KIMS surgeon disputes it.
+  - **Use it only as a claim, not as a fact.**
+- **C-sections**:
+  - NFHS-5 (2019–21): 21.5% of births nationally; the public-sector rate is about 16%.
+  - Women in private facilities had about **4 times higher odds** of a C-section (OR 3.9).
+  - It's even higher in some states (Chhattisgarh OR 9.6). Andhra Pradesh's overall rate is 42%.
+- **Device markups**:
+  - Before the 2017 price caps, trade margins were up to 654% on stents and up to 449% on knee implants [summary, Lok Sabha answer].
+  - NPPA now caps stent prices, and stent details must be shown on the bill.
+- **The Competition Commission of India** [video]:
+  - It investigated 12 big NCR hospitals for about 4 years.
+  - It found high charges for rooms, drugs, tests and devices, and some rooms cost more than a 3–4 star hotel.
+- **Hospital pharmacies and branded drugs** [video]:
+  - Patients are tied to the hospital pharmacy.
+  - Expensive brands outsell identical cheap generics. Example: two acyclovir brands with the same salt, where the expensive one sells about 5× more because doctors prescribe it.
+
+### 2. Pharma and doctors
+- **Dolo-650 (2022)**: India's tax board (CBDT) alleged that the maker gave doctors freebies worth about ₹1,000 crore to prescribe it. The Supreme Court called it a "serious issue" [summary; an allegation, no court finding found]. *(The video wrongly says July 2024.)*
+- **UCPMP 2024**:
+  - The government revised its pharma marketing code (gift limits, rules for interactions with doctors).
+  - Earlier versions were voluntary, and it's unclear whether the 2024 code is binding.
+- **Gifts reported** [video, from complaints]: gifts worth more than a car, foreign trips (300 doctors sent to Singapore for a 3-hour workshop), home theatres.
+
+### 3. Fake cures and health ads
+- **Patanjali/Coronil**:
+  - It was launched in 2020 as a Covid "cure".
+  - The Supreme Court:
+    - in Nov 2023, threatened ₹1 crore per false claim;
+    - in Feb 2024, banned its disease-cure ads and issued a contempt notice;
+    - in Apr 2024, ordered public apologies.
+  - The law is the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954, which has weak penalties.
+- **ASCI (the advertising regulator)**:
+  - In FY2023-24, **healthcare was the sector with the most rule-breaking ads (19% of cases)**.
+  - In FY2024-25, 56% of the 370 health ads it investigated were misleading, and some influencers didn't disclose paid promotions [summary].
+  - By 2025-26, offshore betting had overtaken healthcare.
+- **Full-body checkup packages**:
+  - These are sold directly to consumers without a prescription. Experts (e.g. Dr Lahariya's book) say India is "over-testing, over-prescribing, over-treating".
+  - Aggregator labs spend heavily on marketing [summary; mostly expert opinion, no outcome study found].
+
+### 4. Insurance
+- **Rejected claims**: health-insurance claim rejections rose about 19% in FY24. About 11% of claims were rejected and 6% were pending [summary, IRDAI annual report via news; exact amounts conflict, CHECK].
+- **Complaints**:
+  - Complaints on the Bima Bharosa portal about health claims went from 47,658 (FY24) to 64,365 (FY25).
+  - Mis-selling ("unfair business practice") complaints are rising.
+- **Insurance changes behaviour**: when "insurance will cover it", people stop asking whether a procedure is needed. This is a known moral-hazard idea; I found no India-specific study.
+
+### 5. Why people are vulnerable
+- **Out-of-pocket costs**: these push an estimated **32–55 million Indians into poverty each year** (estimates differ by year and method).
+  - In NSS 2017-18, 49% of households faced "catastrophic" health spending [summary].
+  - The saying "a middle-class family is one illness away from poverty" [video] fits this data.
+- **Weak public system**: rural health centres are short of specialists (about 80% of posts vacant), and many doctors are absent [video, citing 2011 and NITI reports, CHECK].
+  - People turn to private hospitals out of fear and necessity, not trust.
+- **Government vs private**: a central-government study found private hospitals charge about **6× more** than government hospitals, and up to 8× for heart and bone treatment [video, CHECK].
+
+## Abroad
+- **OxyContin (Purdue, USA)**:
+  - The company told doctors that fewer than 1% of patients would get addicted.
+  - It pleaded guilty in 2007 (misbranding, $634.5M) and again in 2020 (3 felonies, an $8.3B settlement, mostly not collectable).
+  - **This is the biggest example of marketing that relied on doctors' trust.**
+- **Free meals for US doctors (DeJong 2016, *JAMA Internal Medicine*)**:
+  - A **single** sponsored meal (under $20) was linked to up to **2× higher odds** of prescribing the promoted brand drug, and more meals meant more prescribing.
+  - It's an association, not proven cause.
+- **Drug ads on TV**:
+  - Only the **USA and New Zealand** allow prescription-drug ads aimed at the public.
+  - In a randomized study, actors posing as patients asked doctors for an advertised antidepressant, and the requests changed what doctors prescribed (Kravitz 2005, JAMA).
+  - Patients who asked for an advertised drug were much more likely to get it (Mintzes 2003, CMAJ: OR about 17) [summary].
+- **Low-value care in the USA**:
+  - About **$75–100 billion a year** is spent on low-value tests and treatments.
+  - Early MRI for simple low-back pain is a classic example: about 22.5% of patients get unneeded imaging within 6 weeks.
+  - A low-value MRI makes a "cascade" of further care 14 points more likely.
+  - The Choosing Wisely campaign (since 2012) changed little: back-imaging fell only about 4% [summary].
+
+## Psychology papers
+| Paper | Finding | Why it matters here |
+|---|---|---|
+| **Fagerlin, Wang & Ubel 2005** (*Medical Decision Making*) | Patient **anecdotes changed treatment choices even when correct statistics were given** (41% vs 20% chose bypass depending on the anecdotes). A pictograph reduced the effect | The same "people like us beat facts" pattern as our university result |
+| Ubel, Jepson & Baron 2001 | Written patient testimonials changed hypothetical treatment choices | The same |
+| **Tannenbaum et al. 2015** (*Psych Bulletin*, 127 papers, 27k people) | Fear appeals work, but the effect is small (d = 0.29). They're stronger for **one-time** behaviours and when they say how to avoid the threat; **no backfire found** | A one-time procedure ("get the stent now") is the ideal target for fear |
+| **Gigerenzer et al. 2008** (*Psych Science in the Public Interest*) | Patients, journalists **and doctors** misread relative risks. The 1995 UK pill scare: "100% higher risk" meant 1 in 7,000 | "Cuts heart-attack risk by 50%!" can mean almost nothing |
+| Ritov & Baron (omission bias), classic | People fear harm from acting more than harm from not acting… | …**but in medicine, "do something" (action bias) often wins** when a doctor frames waiting as dangerous |
+| ISCHEMIA trial 2020 (NEJM) and COURAGE 2007 | For **stable** chest pain, a stent/angioplasty did **not** reduce deaths or heart attacks compared with good medicines. It mainly helps the symptoms | Gives the "honest facts" for the stent scenario (well-known results; I didn't re-read the papers tonight) |
+
+## Side observation (useful for the paper)
+- **The anti-scam video itself ends with a fear-based sales pitch for term insurance.**
+  - The pitch: "if you are gone, what will happen to your parents, wife, children?" It's a paid sponsorship by an insurance broker.
+  - So even content exposing medical fear-selling uses fear to sell.
+
+## What this means for the simulation design
+1. **The strongest real-world levers are:**
+   - **fear plus urgency from a doctor** (whom people trust more than an ad);
+   - **"insurance covers it"** (it feels free);
+   - **anecdotes about relatives**;
+   - **package deals and deadlines**.
+2. **India scenario:** stable chest pain, where a private cardiologist pushes a stent. The honest facts come from ISCHEMIA; the tricks come from the BMJ targets and the Fortis case.
+3. **Abroad scenario:** US low-back pain, an early MRI vs physiotherapy. The honest facts come from Choosing Wisely; the tricks are a clinic ad, a coworker's story, and "insurance covers it".
+4. **Disclosure** to test as the fix: revenue targets and commissions disclosed, plus a free second opinion (the pictograph-style fix from Fagerlin was considered but it's text-only here).
+5. **New compared with universities:** the trick comes from a **doctor** (an authority), not an ad or an agent. Will AI people resist a doctor as easily as they resisted ads?
