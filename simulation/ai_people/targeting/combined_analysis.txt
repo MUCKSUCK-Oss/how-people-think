@@ -1,0 +1,72 @@
+[combined] usable 182/182
+
+===== P1: share choosing loan app (B) (n people = 14) =====
+version          all  proud   not  allows contacts/photos
+base              57     71    43     57
+honest            43     71    14     43
+matched           57     71    43     57
+creepy            57     71    43     57
+urgency           64     86    43     57
+social            64     86    43     64
+disclosed         29     43    14     29
+by style: base | honest | matched | creepy | urgency | social | disclosed
+  gut             50 |  50 |  50 |  50 |  50 |  75 |  25
+  mostly gut     100 |  50 | 100 | 100 | 100 | 100 | 100
+  mostly careful 100 |  75 |  75 | 100 | 100 |  75 |  25
+  very careful     0 |   0 |  25 |   0 |  25 |  25 |   0
+by income:
+  income 0        40 |  20 |  40 |  40 |  60 |  60 |  20
+  income 1        40 |  40 |  60 |  40 |  40 |  60 |  20
+  income 2       100 |  75 |  75 | 100 | 100 |  75 |  50
+  trusting        73 |  55 |  73 |  73 |  82 |  73 |  36
+  suspicious       0 |   0 |   0 |   0 |   0 |  33 |   0
+reasons mentioning creepiness/tricks: base: 2 | honest: 2 | matched: 0 | creepy: 6 | urgency: 6 | social: 3 | disclosed: 4
+sample reasons:
+  [base -> B] Divya (gut, inc 0): I'm facing eviction *tomorrow* — I can't afford to wait 2-3 days hoping my employer suddenly says yes when they already refused, or begging my uncle again and having the whole family find out. The app
+  [base -> A] Ankit (gut, inc 1): Look, I'm in real trouble, but I've heard too many stories about these loan apps—they trap people, the interest rates are killing, and why the hell does a loan company need my contacts and photos? Tha
+  [honest -> B] Divya (gut, inc 0): My boss won't budge and I can't bear asking my family again—they'll gossip for months. I need the money tomorrow, and this is the only way I can actually get it. I'll pay them back in 7 days and be do
+  [honest -> A] Ankit (gut, inc 1): "This is exactly the kind of trap I've heard horror stories about—unregistered company, massive fees, and they call everyone in my phone if I'm late. My family already knows I'm struggling; I don't ne
+  [matched -> B] Divya (gut, inc 0): Look, I need this money by tomorrow or I'm on the street. My employer already said no and asking my uncle again? He'll spread it to the whole family and I can't handle that shame. The app gives me the
+  [matched -> A] Ankit (gut, inc 1): Look, I need that money badly, I know. But these quick loan apps? I've heard too many horror stories—people getting trapped in cycles, interest rates that bleed you dry, and then they're asking for my
+  [creepy -> B] Divya (gut, inc 0): My uncle already rejected me last month and told everyone in the family, and my boss said no before too. I can't wait 2-3 days hoping something works out—I'll be on the street tomorrow. The app gives 
+  [creepy -> A] Ankit (gut, inc 1): Look, I'm panicking about the rent, I get it. But those permission popups for my contacts and photos? That's not normal. This is exactly the kind of app I've heard horror stories about—people end up i
+  [urgency -> B] Divya (gut, inc 0): Look, my uncle already said no last month and I'm not going through that again—the whole family will know by tonight. My boss refused an advance before, so that's dead. The landlord won't wait 2–3 day
+  [urgency -> A] Ankit (gut, inc 1): I've heard too many stories about these apps—people get trapped, can't pay back, then the harassment starts. They use your contacts to pressure you, mess with your photos. No way. I'd rather push my e
+  [social -> B] Divya (gut, inc 0): Honestly, I can't wait 2-3 days when my landlord is breathing down my neck tomorrow. My employer already said no, and I'm not going to humiliate myself asking family again after my uncle spread it aro
+  [social -> B] Ankit (gut, inc 1): "The landlord is kicking me out tomorrow—I can't wait. My uncle already refused and my employer said no before; I'm not begging them again. This app gives me the money in 10 minutes, which is what I n
+  [disclosed -> A] Divya (gut, inc 0): The math doesn't work—I make ₹14,000 a month and can't possibly pay back ₹19,500 in 7 days. Plus if I'm late, the app calls everyone in my phone anyway. That's worse than the shame of asking my uncle 
+  [disclosed -> A] Ankit (gut, inc 1): I know I'm desperate, but I've heard too many horror stories about these apps. They'll charge me ₹4,500 in fees and then start calling everyone in my phone—my colleagues, my family—if I'm even one day
+
+===== P2: share choosing book now (B) (n people = 14) =====
+version          all  says price is fair
+base              43     71
+matched           43     64
+special_price     29     71
+creepy            50     79
+urgency           43     71
+disclosed         14      0
+by style: base | matched | special_price | creepy | urgency | disclosed
+  gut            100 | 100 |  75 | 100 | 100 |  25
+  mostly gut     100 |  50 |  50 | 100 |  50 |  50
+  mostly careful   0 |  25 |   0 |  25 |  25 |   0
+  very careful     0 |   0 |   0 |   0 |   0 |   0
+by income:
+  income 0        25 |  25 |  25 |  25 |  25 |   0
+  income 1        33 |  50 |  17 |  50 |  50 |   0
+  income 2        75 |  50 |  50 |  75 |  50 |  50
+  trusting        50 |  60 |  40 |  60 |  60 |  20
+  suspicious      25 |   0 |   0 |  25 |   0 |   0
+reasons mentioning creepiness/tricks: base: 3 | matched: 3 | special_price: 3 | creepy: 6 | urgency: 8 | disclosed: 11
+sample reasons:
+  [base -> B] Brian (gut, inc 1): Look, $312 for a round-trip is solid, and I don't have time to waste a couple days obsessing over a few bucks that might go either way. I hunt for deals but I'm not going to bore myself to death compa
+  [base -> B] Heather (gut, inc 0): Look, I'm not spending a day or two clicking around websites—that'll drive me crazy. $312 is decent for a round-trip, and if I wait, the price is probably just gonna go UP, not down. I'm booking it no
+  [matched -> B] Brian (gut, inc 1): Three hundred twelve bucks for a round-trip seems solid, and honestly I don't have the patience to monitor fares for days waiting for something maybe slightly cheaper. The site's calling it a good val
+  [matched -> B] Heather (gut, inc 0): Look, I hunt for deals but I'm not trying to spend the next two days clicking through a bunch of sites—that drives me crazy. Three-twelve is fair for a family trip, the site's saying it's competitive,
+  [special_price -> B] Brian (gut, inc 1): Look, $312 is a solid price and I'm already seeing a discount from the regular rate. I don't have the patience to waste a day or two hunting around comparing sites when I've got a decent deal in front
+  [special_price -> B] Heather (gut, inc 0): Look, $312 is a solid price and I'm not going to spend the next week obsessing over whether I can save $10 on another site. I hunt for deals but I also don't have the patience for endless comparing—pl
+  [creepy -> B] Brian (gut, inc 1): Look, I've checked this thing six times already this week and I'm sick of it. $312 is solid for a round trip, I'm not gonna find much better by spinning my wheels for another day or two. I book now be
+  [creepy -> B] Heather (gut, inc 0): Look, I've already checked this route six times this week—I'm done shopping around. Three hundred twelve dollars for a round trip is solid, and honestly I'm tired of obsessing over this. I make decent
+  [urgency -> B] Brian (gut, inc 1): Three hundred twelve bucks round-trip? That's a steal and I know it. I hunt deals for a living—well, not literally, but I've booked enough flights to know when something's actually good versus when it
+  [urgency -> B] Heather (gut, inc 0): Look, $312 is solid, and the site's telling me only 2 seats left at that price—I'm not waiting around for this to disappear or go up. I hunt for deals, sure, but I also don't like wasting time compari
+  [disclosed -> A] Brian (gut, inc 1): Look, you're showing me right there that other people are getting this same seat for $279, and I'm seeing $312? I hunt for deals—that's a $33 difference I'm not leaving on the table. I'll spend a coup
+  [disclosed -> A] Heather (gut, inc 0): Hold up—you just told me in the fine print that other people are seeing this same seat for $279, and you're charging me $312? That's a $33 difference I can't just ignore when money's tight. I'm not bo
