@@ -57,6 +57,12 @@ P1_HONEST = ("The real terms (from the app's fine print): a 7-day loan, about �
 P1_URGENCY = "\"Your pre-approved offer expires in 15 minutes.\""
 P1_SOCIAL = "\"2 lakh people in your city used QuickRupee this month. Rated 4.6 stars.\""
 P1_CREEPY = "\"We noticed you searched 'urgent money' at 2 am last night.\""
+# v2 (after pilot 1 floor at 0%): realistic situation people are in when they turn to loan apps
+P1_A2 = ("Option A: keep trying the slow routes: ask your employer for a salary advance (last time they refused) or "
+         "ask a relative again (your uncle said no last month and told the whole family). It may take 2–3 days and "
+         "may still fail.")
+P1_B2 = ("Option B: install the 'QuickRupee' app: ₹15,000 in your account in 10 minutes, no documents. During "
+         "sign-up it shows the usual 'Allow access' pop-ups (contacts, photos), like many apps do.")
 P1_VERSIONS = ["base", "honest", "matched", "creepy", "urgency", "social", "disclosed"]
 
 # ---------------- P2: USA, personalised flight price ----------------
@@ -92,13 +98,14 @@ US_NAMES = ["Mike", "Jessica", "Carlos", "Ashley", "DeShawn", "Megan", "Tyler", 
             "Jose", "Amanda", "Brian", "Latoya", "Ryan", "Nicole", "Luis", "Heather", "Jason", "Tiffany"]
 
 
-def make_people(scenario, n, seed_offset=0, style_shift=0):
+def make_people(scenario, n, seed_offset=0, style_shift=0, v2=False):
     rng = random.Random(900 + scenario + seed_offset)
     order = [True, False] * (n // 2)
     random.Random(90 + scenario + seed_offset).shuffle(order)
     people = []
     for i in range(n):
-        p = {"id": i, "style_level": ((i // 2) + style_shift) % 4, "income_level": rng.randrange(3),
+        p = {"id": i, "style_level": ((i // 2) + style_shift) % 4,
+             "income_level": (i + seed_offset) % 3 if v2 else rng.randrange(3),
              "b_first": order[i]}
         if scenario == 1:
             need, need_ad = rng.choice(P1_NEEDS)
@@ -106,8 +113,9 @@ def make_people(scenario, n, seed_offset=0, style_shift=0):
             pride, pride_ad = P1_PRIDE[0 if p["proud"] else 1]
             p["trust"] = rng.choice(P1_TRUST)
             name, age = rng.choice(IN_NAMES), rng.randint(22, 45)
+            when = "by tomorrow" if v2 else "within 3 days"
             who = (f"You are {name}, {age}, a {rng.choice(P1_JOBS)} in {rng.choice(P1_CITIES)}, India. You urgently "
-                   f"need ₹15,000 within 3 days for {need}.")
+                   f"need ₹15,000 {when} for {need}.")
             p["system"] = (f"{who} {P1_INCOME[p['income_level']]} {STYLE[p['style_level']]} {pride} {p['trust']} ")
             p["matched_ad"] = f"QuickRupee ad shown to you: \"{need_ad} {pride_ad} {STYLE_AD[p['style_level']]}\""
         else:
@@ -119,7 +127,7 @@ def make_people(scenario, n, seed_offset=0, style_shift=0):
                    "a flight for a family visit next month.")
             p["system"] = f"{who} {P2_INCOME[p['income_level']]} {STYLE[p['style_level']]} {pref} {p['trust']} "
             p["matched_ad"] = f"The site says: \"{pref_ad}\""
-        p["name"] = name
+        p["name"], p["v2"] = name, v2
         p["system"] += ("Think and answer exactly as this person would, in first person. "
                         "Be natural; don't overthink unless this person would.")
         people.append(p)
@@ -138,7 +146,7 @@ def extras(scenario, p, version):
 
 
 def page(scenario, p, version):
-    a, b = (P1_A, P1_B) if scenario == 1 else (P2_A, P2_B)
+    a, b = ((P1_A2, P1_B2) if p.get("v2") else (P1_A, P1_B)) if scenario == 1 else (P2_A, P2_B)
     opts = [b, a] if p["b_first"] else [a, b]
     text = "You have to choose between:\n\n" + "\n\n".join(f"- {o}" for o in opts)
     text += "\n\nWhat you see:\n" + "\n".join(f"- {e}" for e in extras(scenario, p, version))
@@ -166,15 +174,19 @@ def job(scenario, p, version):
 
 
 def main(mode):
-    n = {"pilot": 8}.get(mode, 6)
-    off = {"extra": 1000, "extra2": 2000}.get(mode, 0)
-    shift = 2 if mode == "extra" else 0
-    people = {s: make_people(s, n, off, shift) for s in (1, 2)}
-    bump = {"extra": 100, "extra2": 200}.get(mode, 0)
+    # pilot: both (P1 v1). p1v2: P1 re-pilot with realistic v2 situation (8 people, balanced income).
+    # p1v2extra: 6 new P1 v2 people. p2extra: 6 new P2 people.
+    n = {"pilot": 8, "p1v2": 8}.get(mode, 6)
+    off = {"extra": 1000, "extra2": 2000, "p1v2extra": 1000, "p2extra": 1000}.get(mode, 0)
+    shift = 2 if mode in ("extra", "p1v2extra", "p2extra") else 0
+    scen = (1, 2) if mode in ("pilot", "extra", "extra2") else ((1,) if mode.startswith("p1") else (2,))
+    v2 = mode.startswith("p1v2")
+    people = {s: make_people(s, n, off, shift, v2) for s in scen}
+    bump = {"extra": 100, "extra2": 200, "p1v2extra": 100, "p2extra": 100}.get(mode, 0)
     for s in people:
         for p in people[s]:
             p["id"] += bump
-    tasks = [(s, p, v) for s in (1, 2) for p in people[s] for v in VERSIONS[s]]
+    tasks = [(s, p, v) for s in scen for p in people[s] for v in VERSIONS[s]]
     name = f"tgt_{mode}.json"
     t0, rows = time.time(), []
     with cf.ThreadPoolExecutor(PARALLEL) as ex:

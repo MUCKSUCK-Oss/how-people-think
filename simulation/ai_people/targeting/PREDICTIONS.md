@@ -59,3 +59,18 @@ Each AI person has a life story (money, personality, worries). In the "matched" 
   - P2: "do you feel this price is fair?"
 - Half of the P1 people are "proud" (hate asking relatives), balanced by design.
 - Pilot = 8 people per scenario: 56 + 48 = 104 decisions.
+
+---
+## Pilot 1 result and change (added after pilot 1, before any more runs)
+- **P2 (flight) passes:** 48/48 parsed; base 50%. Disclosure 12%; creepy 62%; special price 38%. **Next:** 6 new P2 people (`p2extra`).
+- **P1 (loan app) failed the floor check:** 0% in base and only 12–25% in any version. Also, by chance, no tight-income person was drawn.
+- **Diagnosis:** the slow option was too easy ("3 days, it may be awkward"), and the permission request was presented as a warning.
+  - Real borrowers turn to these apps **after other doors have closed and when the money is needed now** (RBI working group / Reuters: borrowers in crisis; permissions are accepted as routine pop-ups).
+- **Change (realism, not tuning):**
+  - the money is needed **by tomorrow**;
+  - option A now says the employer refused last time and the uncle said no and told the family;
+  - the permissions are shown as "the usual 'Allow access' pop-ups, like many apps";
+  - income is balanced across people.
+  - **The honest terms (300% a year, not RBI-registered, contacts used for recovery) are unchanged.**
+- The re-pilot (`p1v2`) uses 8 people. Pilot-1 P1 data is kept but excluded from the combined results.
+- Predictions unchanged.

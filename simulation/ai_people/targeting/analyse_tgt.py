@@ -6,8 +6,16 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 mode = sys.argv[1] if len(sys.argv) > 1 else "pilot"
-files = ["tgt_pilot.json", "tgt_extra.json", "tgt_extra2.json"] if mode == "combined" else [f"tgt_{mode}.json"]
-rows_all = [r for f in files if os.path.exists(os.path.join(HERE, f)) for r in json.load(open(os.path.join(HERE, f)))["rows"]]
+def load(f):
+    p = os.path.join(HERE, f)
+    return json.load(open(p))["rows"] if os.path.exists(p) else []
+
+
+if mode == "combined":  # P1 only from the v2 runs; P2 from pilot + p2extra
+    rows_all = [r for f in ("tgt_p1v2.json", "tgt_p1v2extra.json") for r in load(f)] + \
+        [r for f in ("tgt_pilot.json", "tgt_p2extra.json") for r in load(f) if r["scenario"] == 2]
+else:
+    rows_all = load(f"tgt_{mode}.json")
 rows = [r for r in rows_all if r["choice"]]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]
 V = {1: ["base", "honest", "matched", "creepy", "urgency", "social", "disclosed"],
@@ -21,7 +29,7 @@ def pct(rs, key="choice", val="B"):
 
 
 print(f"[{mode}] usable {len(rows)}/{len(rows_all)}")
-for s in (1, 2):
+for s in sorted({r["scenario"] for r in rows}):
     R = [r for r in rows if r["scenario"] == s]
     print(f"\n===== P{s}: share choosing {LABEL[s]} (n people = {len({r['person'] for r in R})}) =====")
     hdr = f"{'version':14s} {'all':>5s}" + (f" {'proud':>6s} {'not':>5s}" if s == 1 else "") + f"  {SECOND[s]}"

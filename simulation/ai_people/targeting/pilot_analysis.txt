@@ -1,0 +1,72 @@
+[pilot] usable 104/104
+
+===== P1: share choosing loan app (B) (n people = 8) =====
+version          all  proud   not  allows contacts/photos
+base               0      0     0      0
+honest             0      0     0      0
+matched           12     25     0     12
+creepy             0      0     0      0
+urgency            0      0     0      0
+social            25     25    25     12
+disclosed          0      0     0      0
+by style: base | honest | matched | creepy | urgency | social | disclosed
+  gut              0 |   0 |  50 |   0 |   0 | 100 |   0
+  mostly gut       0 |   0 |   0 |   0 |   0 |   0 |   0
+  mostly careful   0 |   0 |   0 |   0 |   0 |   0 |   0
+  very careful     0 |   0 |   0 |   0 |   0 |   0 |   0
+by income:
+  income 0       nan | nan | nan | nan | nan | nan | nan
+  income 1         0 |   0 |  20 |   0 |   0 |  40 |   0
+  income 2         0 |   0 |   0 |   0 |   0 |   0 |   0
+  trusting         0 |   0 |   0 |   0 |   0 |  33 |   0
+  suspicious       0 |   0 |  20 |   0 |   0 |  20 |   0
+reasons mentioning creepiness/tricks: base: 3 | honest: 2 | matched: 3 | creepy: 2 | urgency: 3 | social: 3 | disclosed: 2
+sample reasons:
+  [base -> A] Neha (gut, inc 1): "I've heard too many bad stories about these loan apps - people's photos getting stolen, their phone numbers being used for scams. I'm not giving any app access to my contacts and photos. Yes, asking 
+  [base -> A] Imran (gut, inc 1): Look, I need the money fast, but I'm not comfortable letting some app rifle through my contacts and photos—that feels risky and I don't know what they'll do with it. I'll call my cousin or maybe talk 
+  [honest -> A] Neha (gut, inc 1): Look, I hate asking relatives for money—the shame and gossip afterward is the worst. But this QuickRupee sounds exactly like those dodgy apps I've heard horror stories about. Not even registered with 
+  [honest -> A] Imran (gut, inc 1): That app is asking me to pay ₹4,500 just for one week? And they'll call everyone in my contacts if I'm late? My clients and family will think I'm a defaulter—that will finish my business reputation. B
+  [matched -> B] Neha (gut, inc 1): "The deadline is in 3 days and I can't ask my relatives - everyone will find out and I'll never hear the end of it. I don't trust these apps, but at least nobody has to know I'm struggling. I need thi
+  [matched -> A] Imran (gut, inc 1): I'll just call my brother—he'll help me out, no problem. That app wanting my contacts and photos feels dodgy, and honestly, 3 days is enough time to get a salary advance or borrow from family. I'd rat
+  [creepy -> A] Neha (gut, inc 1): No way I'm using these apps, yaar. I've heard too many horror stories - they trap people with crazy interest rates, and what will they do with my contacts and photos? I'm not that desperate. I'll call
+  [creepy -> A] Imran (gut, inc 1): Three days is tight but I can manage with family—my cousin or uncle have helped before when I needed it. I'm not comfortable giving some app access to all my contacts and photos, that feels risky. The
+  [urgency -> A] Neha (gut, inc 1): Look, I hate asking people for money, but this QuickRupee thing asking for my contacts and photos? That's exactly the kind of sketchy behavior I've heard horror stories about. Some app company having 
+  [urgency -> A] Imran (gut, inc 1): My brother will come through - he always does when I need help with rent. These apps are too fast and too easy, there's always something hidden. Two or three days is tight but doable, and I'm not lett
+  [social -> B] Neha (gut, inc 1): "I need the money fast and can't face the shame of asking relatives - QuickRupee sounded like the answer. But the second they ask to read my contacts and photos, all those scary stories I've heard cam
+  [social -> B] Imran (gut, inc 1): Three days is too tight to risk asking relatives—what if they say no or take time to arrange it? This app has 2 lakh people in my city using it with 4.6 stars, so it's clearly working for people like 
+  [disclosed -> A] Neha (gut, inc 1): "No, I can't do this. I've heard bad stories about these apps - people getting trapped, them calling family if you're late. It's embarrassing to ask someone, but at least a friend or my bank won't cha
+  [disclosed -> A] Imran (gut, inc 1): ₹4,500 in fees is too much money for me to just throw away. I have 3 days, not 10 minutes - I can ask my brother or get a salary advance from my salon owner. That ad keeps saying "why trouble your fam
+
+===== P2: share choosing book now (B) (n people = 8) =====
+version          all  says price is fair
+base              50     75
+matched           50     75
+special_price     38     75
+creepy            62     75
+urgency           50     62
+disclosed         12      0
+by style: base | matched | special_price | creepy | urgency | disclosed
+  gut            100 | 100 | 100 | 100 | 100 |   0
+  mostly gut     100 |  50 |  50 | 100 |  50 |  50
+  mostly careful   0 |  50 |   0 |  50 |  50 |   0
+  very careful     0 |   0 |   0 |   0 |   0 |   0
+by income:
+  income 0       100 | 100 | 100 | 100 | 100 |   0
+  income 1        25 |  50 |  25 |  50 |  50 |   0
+  income 2        67 |  33 |  33 |  67 |  33 |  33
+  trusting        50 |  67 |  50 |  67 |  67 |  17
+  suspicious      50 |   0 |   0 |  50 |   0 |   0
+reasons mentioning creepiness/tricks: base: 2 | matched: 2 | special_price: 1 | creepy: 3 | urgency: 4 | disclosed: 6
+sample reasons:
+  [base -> B] Brian (gut, inc 1): Look, $312 for a round-trip is solid, and I don't have time to waste a couple days obsessing over a few bucks that might go either way. I hunt for deals but I'm not going to bore myself to death compa
+  [base -> B] Heather (gut, inc 0): Look, I'm not spending a day or two clicking around websites—that'll drive me crazy. $312 is decent for a round-trip, and if I wait, the price is probably just gonna go UP, not down. I'm booking it no
+  [matched -> B] Brian (gut, inc 1): Three hundred twelve bucks for a round-trip seems solid, and honestly I don't have the patience to monitor fares for days waiting for something maybe slightly cheaper. The site's calling it a good val
+  [matched -> B] Heather (gut, inc 0): Look, I hunt for deals but I'm not trying to spend the next two days clicking through a bunch of sites—that drives me crazy. Three-twelve is fair for a family trip, the site's saying it's competitive,
+  [special_price -> B] Brian (gut, inc 1): Look, $312 is a solid price and I'm already seeing a discount from the regular rate. I don't have the patience to waste a day or two hunting around comparing sites when I've got a decent deal in front
+  [special_price -> B] Heather (gut, inc 0): Look, $312 is a solid price and I'm not going to spend the next week obsessing over whether I can save $10 on another site. I hunt for deals but I also don't have the patience for endless comparing—pl
+  [creepy -> B] Brian (gut, inc 1): Look, I've checked this thing six times already this week and I'm sick of it. $312 is solid for a round trip, I'm not gonna find much better by spinning my wheels for another day or two. I book now be
+  [creepy -> B] Heather (gut, inc 0): Look, I've already checked this route six times this week—I'm done shopping around. Three hundred twelve dollars for a round trip is solid, and honestly I'm tired of obsessing over this. I make decent
+  [urgency -> B] Brian (gut, inc 1): Three hundred twelve bucks round-trip? That's a steal and I know it. I hunt deals for a living—well, not literally, but I've booked enough flights to know when something's actually good versus when it
+  [urgency -> B] Heather (gut, inc 0): Look, $312 is solid, and the site's telling me only 2 seats left at that price—I'm not waiting around for this to disappear or go up. I hunt for deals, sure, but I also don't like wasting time compari
+  [disclosed -> A] Brian (gut, inc 1): Look, you're showing me right there that other people are getting this same seat for $279, and I'm seeing $312? I hunt for deals—that's a $33 difference I'm not leaving on the table. I'll spend a coup
+  [disclosed -> A] Heather (gut, inc 0): Hold up—you just told me in the fine print that other people are seeing this same seat for $279, and you're charging me $312? That's a $33 difference I can't just ignore when money's tight. I'm not bo
