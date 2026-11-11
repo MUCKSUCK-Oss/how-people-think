@@ -50,3 +50,12 @@ Each AI person has a life story (money, personality, worries). In the "matched" 
 ## Run plan
 - **Pilot:** 8 people × 7 versions (P1) + 8 × 6 (P2) = **104 decisions** (about 12–15% of a window at the last run's rate).
 - **Extra batch:** only if the pilot passes the 3 checks (it parses, no floor or ceiling, the answers are in character).
+
+## Implementation notes (added before the pilot, no data yet)
+- **P1 matched ad:** built from 3 of the person's own traits: their need (hospital / rent / fee), their pride ("No need to ask anyone. Nobody will know." vs "Why trouble your family?") and their decision style (a quick-tap line vs a "transparent process" line).
+- **P2 matched ad:** built from their travel preference (direct flights / window seat / cheapest deal).
+- **Second answer:**
+  - P1: "would you let the app read your contacts and photos?";
+  - P2: "do you feel this price is fair?"
+- Half of the P1 people are "proud" (hate asking relatives), balanced by design.
+- Pilot = 8 people per scenario: 56 + 48 = 104 decisions.
