@@ -1,6 +1,6 @@
 # Healthcare traps: results (11 Nov 2026)
 - **Design and predictions:** saved first in `PREDICTIONS.md`. The research is in `RESEARCH.md`.
-- **Data:** **308 decisions, all usable**; **14 AI people per scenario**, each seeing every version. The full numbers are in `combined_analysis.txt`.
+- **Data:** **308 decisions, all usable**; **14 AI people per scenario**, each seeing every version. The full numbers are in `output/combined_analysis.txt`.
 - **H2 used only the fixed version (pain not improving);** pilot-1 H2 data is excluded, as recorded beforehand.
 - ⚠ **Small groups:** 14 people means 1 person = 7 points. **Read the results as directions, not exact sizes.**
 

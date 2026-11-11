@@ -13,7 +13,7 @@ Design
   With no trick, that should be about 50%.
 
 Runs on the user's Claude Pro plan through the `claude` command (no API key).
-Run:  python3 pilot.py            -> pilot_results.json
+Run:  python3 earbuds.py          -> data/pilot_results.json
 """
 import concurrent.futures as cf
 import json
@@ -23,10 +23,12 @@ import re
 import subprocess
 import time
 
+import sys
+
 HERE = os.path.dirname(os.path.abspath(__file__))
-EMPTY_DIR = os.path.join(HERE, "_empty_workdir")   # run calls from an empty folder: no project context
-os.makedirs(EMPTY_DIR, exist_ok=True)
-MODEL = "haiku"
+DATA = os.path.join(HERE, "data")
+sys.path.insert(0, os.path.dirname(HERE))
+from ai_person import ask, MODEL  # noqa: E402
 N_PEOPLE = 20
 PARALLEL = 3
 
@@ -115,16 +117,6 @@ def page(p, condition):
     return "\n".join(lines)
 
 
-def ask(system, user):
-    cmd = ["claude", "-p", user, "--model", MODEL, "--system-prompt", system, "--tools", "",
-           "--strict-mcp-config", "--setting-sources", "", "--disable-slash-commands",
-           "--no-session-persistence", "--output-format", "text"]
-    for attempt in range(3):
-        r = subprocess.run(cmd, capture_output=True, text=True, cwd=EMPTY_DIR, timeout=180)
-        if r.returncode == 0 and r.stdout.strip():
-            return r.stdout.strip()
-        time.sleep(5 * (attempt + 1))
-    return "ERROR: " + (r.stderr or r.stdout)[:300]
 
 
 def parse(text):
@@ -163,7 +155,7 @@ def main(limit=None):
     out = {"model": MODEL, "people": [{k: v for k, v in p.items()} for p in people], "rows": rows,
            "seconds": round(time.time() - t0)}
     name = "pilot_test_call.json" if limit else "pilot_results.json"
-    json.dump(out, open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+    json.dump(out, open(os.path.join(DATA, name), "w"), indent=1, ensure_ascii=False)
 
 
 if __name__ == "__main__":

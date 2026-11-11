@@ -2,7 +2,7 @@
 
 **What we did:** 20 AI shoppers, each a **separate, fresh Claude (Haiku)** that only knew its own life story (name, age, Indian city, job, money habits, decision style). Each saw a shopping page for two pairs of earbuds and chose one. There were 3 versions of the page: normal, one product **pre-selected** ("✓ SELECTED FOR YOU"), and one product with **"Only 2 left! Deal ends in 09:58"**. 60 decisions in total. It ran on the Pro plan, with no extra cost.
 
-Files: `pilot.py` (the experiment), `analyse.py` (the summary), `pilot_results.json` (all 60 answers with reasons), `pilot1_results_unbalanced.json` (the first, flawed run).
+Files: `earbuds_pilot/earbuds.py` (the experiment), `analyse.py` (the summary), `data/pilot_results.json` (all 60 answers with reasons), `data/pilot1_results_unbalanced.json` (the first, flawed run).
 
 ## Pilot 1 had a design mistake (kept for honesty)
 One product was ₹50 cheaper with more battery, so **all 20 AI people picked it** in the normal version. The tricks had nothing to move. A second flaw tied decision style to which product got the trick. Both were fixed for pilot 2.

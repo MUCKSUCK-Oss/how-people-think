@@ -78,7 +78,7 @@
 - **H2 (US MRI) failed the floor check:** 0% in base, honest, fear ad and deal.
   - **Diagnosis:** "slowly getting a little better" made waiting the obvious choice. Real people who push for an MRI are usually still in pain.
   - **Change (realism, not tuning):** the pain is now **"not getting better: sitting at work hurts and you are sleeping badly"**, still with no red flags, so the guideline facts stay true.
-  - The re-pilot uses the same 8 people (`h2v2`). Pilot-1 H2 data is kept in `health_pilot.json` but excluded from the combined results.
+  - The re-pilot uses the same 8 people (`h2v2`). Pilot-1 H2 data is kept in `data/health_pilot.json` but excluded from the combined results.
 - Predictions unchanged.
 
 ---

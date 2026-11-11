@@ -4,7 +4,7 @@ import os
 import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-d = json.load(open(os.path.join(HERE, "pilot_results.json")))
+d = json.load(open(os.path.join(HERE, "data", "pilot_results.json")))
 rows = [r for r in d["rows"] if r["choice"]]
 bad = len(d["rows"]) - len(rows)
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]

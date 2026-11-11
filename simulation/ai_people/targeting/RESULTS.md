@@ -1,6 +1,6 @@
 # Personal targeting: results (11 Nov 2026)
 - **Design and predictions:** saved first in `PREDICTIONS.md`. The research is in `RESEARCH.md`.
-- **Data:** **182 decisions, all usable**; **14 AI people per scenario**, each seeing every version. The full numbers are in `combined_analysis.txt`.
+- **Data:** **182 decisions, all usable**; **14 AI people per scenario**, each seeing every version. The full numbers are in `output/combined_analysis.txt`.
 - **P1 uses only the fixed version** (money needed by tomorrow, other doors already closed); pilot-1 P1 is excluded, as recorded beforehand.
 - ⚠ **Small groups:** 1 person = 7 points, so **read the results as directions only.**
 

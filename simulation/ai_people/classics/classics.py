@@ -2,8 +2,8 @@
 
 3 experiments x 2 versions x 30 people = 180 separate, fresh Claude Haiku calls.
 Run from the Terminal panel (where the Claude login works):
-    python3 classics.py 4     -> classics_test.json (first 4 calls)
-    python3 classics.py       -> classics_results.json
+    python3 classics.py 4     -> data/classics_test.json (first 4 calls)
+    python3 classics.py       -> data/classics_results.json
 """
 import concurrent.futures as cf
 import json
@@ -13,9 +13,11 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 sys.path.insert(0, os.path.dirname(HERE))
-from pilot import ask           # noqa: E402  same clean-call settings
-from run2 import make_personas, STYLE  # noqa: E402
+from ai_person import ask           # noqa: E402  same clean-call settings
+sys.path.insert(0, os.path.join(os.path.dirname(HERE), "earbuds_pilot"))
+from earbuds_v2 import make_personas, STYLE  # noqa: E402  same persona builder as the earbuds study
 
 N_PEOPLE = 30
 PARALLEL = 3
@@ -110,7 +112,7 @@ def main(limit=None):
             print(f"{k}/{len(tasks)} {r['name']:10s} {r['experiment']:9s} {r['version']:7s} -> {r['answer']}",
                   flush=True)
     json.dump({"model": "haiku", "people": N_PEOPLE, "rows": rows, "seconds": round(time.time() - t0)},
-              open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+              open(os.path.join(DATA, name), "w"), indent=1, ensure_ascii=False)
     print("CLASSICS_DONE", flush=True)
 
 

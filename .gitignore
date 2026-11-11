@@ -1,19 +1,20 @@
-# Python tools (re-create with: python3 -m venv simulation/.venv && simulation/.venv/bin/pip install -r simulation/requirements.txt)
+# Python environment (re-create: python3 -m venv simulation/.venv && simulation/.venv/bin/pip install -r simulation/requirements.txt)
 simulation/.venv/
 __pycache__/
 *.pyc
 
-# Temporary files from runs
+# Temporary files from AI-people runs
 simulation/ai_people/_empty_workdir/
 *.part
 .DS_Store
 
-# Copyrighted material: keep on this computer, never upload
-transcripts/raw_vtt/
-transcripts/text/
-transcripts/*_raw.txt
-books/*.txt
+# Copyrighted material: kept on this computer only
+sources/transcripts/raw_vtt/
+sources/transcripts/text/
+sources/transcripts/*_raw.txt
+sources/books/*.txt
 *.pdf
 
-# Personal data (names and emails of professors)
+# Private: professor contacts, outreach notes, exported PDFs
+private/
 *.xlsx

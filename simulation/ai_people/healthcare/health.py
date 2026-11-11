@@ -3,8 +3,8 @@
 H1 India: stent vs medicines for stable chest pain (patients AND adult children).
 H2 USA: early MRI vs physiotherapy for low-back pain.
 Run from the Terminal panel (Claude login works there):
-    python3 health.py pilot    -> health_pilot.json  (8 people per scenario)
-    python3 health.py extra    -> health_extra.json  (6 NEW people per scenario, same design)
+    python3 health.py pilot    -> data/health_pilot.json  (8 people per scenario)
+    python3 health.py extra    -> data/health_extra.json  (6 NEW people per scenario, same design)
 """
 import concurrent.futures as cf
 import json
@@ -15,8 +15,9 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 sys.path.insert(0, os.path.dirname(HERE))
-from pilot import ask  # noqa: E402  fresh Haiku call, no tools, empty folder
+from ai_person import ask  # noqa: E402  fresh Haiku call, no tools, empty folder
 
 PARALLEL = 3
 STYLE = ["You usually decide quickly and go with your gut. Long comparisons bore you.",
@@ -258,11 +259,11 @@ def main(mode):
             print(f"{k}/{len(tasks)} H{r['scenario']} {r['role']:7s} {r['name']:9s} {r['version']:14s} -> "
                   f"{r['choice']} loan={r['loan']}", flush=True)
             if k % 40 == 0:
-                json.dump({"partial": True, "rows": rows}, open(os.path.join(HERE, name + ".part"), "w"),
+                json.dump({"partial": True, "rows": rows}, open(os.path.join(DATA, name + ".part"), "w"),
                           ensure_ascii=False)
     json.dump({"model": "haiku", "mode": mode, "people": people, "rows": rows,
                "seconds": round(time.time() - t0)},
-              open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+              open(os.path.join(DATA, name), "w"), indent=1, ensure_ascii=False)
     print("HEALTH_DONE", flush=True)
 
 

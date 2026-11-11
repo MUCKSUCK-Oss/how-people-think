@@ -5,7 +5,8 @@ import random
 import statistics as st
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-rows = json.load(open(os.path.join(HERE, "classics_results.json")))["rows"]
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
+rows = json.load(open(os.path.join(DATA, "classics_results.json")))["rows"]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]
 rng = random.Random(1)
 

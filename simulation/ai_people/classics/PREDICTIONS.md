@@ -5,7 +5,7 @@
 Before trusting AI people on new topics (universities, healthcare, politics), we check whether they behave like humans on **classic experiments where human results are already known**. Following Aher et al. (2023), each experiment is **re-dressed in a new Indian setting with new numbers**, so the AI can't simply remember the famous answer.
 
 ## Setup
-- 30 AI people (the first 30 life stories from `run2.py`, minus the earbuds part). Each is a separate, fresh Claude Haiku call: no tools, no memory, not told it's an experiment.
+- 30 AI people (the first 30 life stories from `earbuds_pilot/earbuds_v2.py`, minus the earbuds part). Each is a separate, fresh Claude Haiku call: no tools, no memory, not told it's an experiment.
 - Each person sees **both versions** of each experiment, in separate calls that can't see each other.
 - 3 experiments × 2 versions × 30 people = **180 decisions**.
 

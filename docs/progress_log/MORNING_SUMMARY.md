@@ -9,15 +9,15 @@
   - The "all tricks together" number depends mostly on one guess, so say "roughly 80–90%", not "87%".
 - **New check:** people with strong preferences move less. The model probably still overstates how much they move. This is a known limit, written in the paper.
 - Page updated: https://claude.ai/artifact/7YdisdyhbkTPFM8a3LQ33g (new Figure 7 and an authority switch)
-- Files: `simulation/sim.py`, `simulation/README.md`. The old version is saved as `simulation/sim_v1_1_backup.py`.
+- Files: `simulation/rule_based/sim.py`, `simulation/rule_based/README.md`. The old version is saved as `simulation/sim_v1_1_backup.py`.
 
-**2. First paper draft** → `paper/draft_v1.md` (about 5,500 words)
+**2. First paper draft** → `paper/archive/draft_v1.md` (about 5,500 words)
 - Sections: old thinkers → experiments → real cases → simulation → discussion → limits.
 - **12 [YOUR OPINION] blanks.** Only you can write these.
 - **[CHECK] marks** show citations to confirm.
 - It includes the important counterpoint that persuasion is often weak in elections, and explains why the tricks work best on low-stakes, rushed, one-sided choices.
 
-**3. Books** → `books/reading_notes.md` (new "version 2" parts)
+**3. Books** → `sources/books/reading_notes.md` (new "version 2" parts)
 - **Bernays:** 8 of 11 chapters read in part 1 (all 11 by 2:55 am, see section 9). Best finds:
   - "continuous interpretation" vs "high-spotting";
   - the fake "foot protection bureau";
@@ -30,7 +30,7 @@
 
 **4. Three new videos (with your help, ~12:40 am)**
 - You passed YouTube's "I'm not a robot" check, and I read the transcripts in the browser.
-- **Episodes:** Social Media (Ep 2), ChatGPT (Ep 4), Health (Ep 6). Notes are in `topic_passages/wtf_ep2_…`, `wtf_ep4_…` and `wtf_ep6_…_notes.md`.
+- **Episodes:** Social Media (Ep 2), ChatGPT (Ep 4), Health (Ep 6). Notes are in `sources/topic_notes/wtf_ep2_…`, `wtf_ep4_…` and `wtf_ep6_…_notes.md`.
 - **Best finds:**
   - "a dopamine hit at both ends";
   - "envy is the fuel for social media";
@@ -39,13 +39,13 @@
 - Reports page updated to **version 4**: https://claude.ai/artifact/9WZvqyjcWMUsyfarTH9cgm (Report 2 Part G, Report 4 Part G)
 - The paper draft has a new **Section 4.9** on platforms and AI.
 
-**5. Old history vs now (~12:50 am)**: five Predictive History ancient-history lectures → `topic_passages/ph_old_history_notes.md`
+**5. Old history vs now (~12:50 am)**: five Predictive History ancient-history lectures → `sources/topic_notes/ph_old_history_notes.md`
 - **Videos:** Caesar's will, Vergil's *Aeneid* as propaganda, Alexander the Great, Constantine, and Greek theatre.
 - I skipped "Pax Judaica" (antisemitic content) and the Spanish conquest (an ad blocked the transcript).
 - I noted where Jiang is wrong. For example, Constantine was **not** "the first pope".
 - **New paper section 2.5:** a "Then vs now" table of 9 moves, such as a gift that creates a debt, rewriting the school text, a face on every coin, and martyrdom flipping opinion.
 
-**6. Research-based talks** → `topic_passages/research_talks_notes.md`
+**6. Research-based talks** → `sources/topic_notes/research_talks_notes.md`
 - **Tristan Harris** (ex-Google, TED): "the race for attention"; outrage wins by default. His test: persuasion is ethical only when the persuader's goals match yours. This is now in paper Section 1.1.
 - **Robert Cialdini:** six principles with real study numbers (mints and tips, hotel towels and so on).
 - **Jonathan Haidt** (TED): why left and right see morality differently; "teams shut down open-minded thinking". Good for balance.
@@ -73,7 +73,7 @@ I checked 20 facts online, mostly through abstracts and reliable summaries. The 
   - **Hotel towels:** a replication found the "75% of guests" message was no better than a normal one.
 - **Still [CHECK]:** only Johnson & Goldstein's exact 82%/42%. The paper's text confirms "about twice as high", but the exact numbers are in a figure I couldn't read.
 
-**8. Strict paper review (done at ~2:45 am)** → `paper/review_v1.md`
+**8. Strict paper review (done at ~2:45 am)** → `paper/archive/review_v1.md`
 I made **no changes to the paper**; you decide which fixes to make. 15 fixes, in order of importance. The top 3:
 1. 🔴 **A contradiction.** Section 3.2 says the simulation shows people with strong preferences move less. But the Section 5.6 table shows they move *more* (+56 vs +50 points), because of the default rule. It needs rewriting in three places.
 2. 🔴 **The confirmation-bias result depends on how extreme the influencers are.** I tested it: confirmation bias blocks extreme influencers, but **mild influencers get through better**. That's a more interesting finding ("to beat confirmation bias, sound close to people"), and it matches the WTF "brain immune system" quote.
@@ -81,7 +81,7 @@ I made **no changes to the paper**; you decide which fixes to make. 15 fixes, in
 
 Also: some numbers don't match (it's six tricks, not seven; 44/70 WTF, not 41), there's no left-leaning case for balance, and the reference list needs tidying.
 
-**9. Bernays: the whole book is now read (~2:55 am)**: chapters VII, IX and X added to `books/reading_notes.md`. Best finds:
+**9. Bernays: the whole book is now read (~2:55 am)**: chapters VII, IX and X added to `sources/books/reading_notes.md`. Best finds:
 - **The price-tag shop:** show each item's price before and after a tariff. Concrete beats abstract.
 - **The Atlanta anti-lynching conference:** hold it in the South with southern ministers on stage. This is the "in-group messenger" idea, and it links to fix 2 above.
 - **The modernist piano** built only to get people talking.
@@ -91,9 +91,9 @@ Also: some numbers don't match (it's six tricks, not seven; 44/70 WTF, not 41), 
 It will run its **original job, the citation check**. Since that's already done, it should find almost nothing left: only the Johnson & Goldstein figure. Its main use is starting the new limit window early.
 
 ## 👉 Your 3 next steps
-1. Open `paper/draft_v1.md` and fill in **3 [YOUR OPINION] blanks** today. Start with the Bernays question in Section 2.2.
+1. Open `paper/archive/draft_v1.md` and fill in **3 [YOUR OPINION] blanks** today. Start with the Bernays question in Section 2.2.
 2. Play with the simulation page. Try "Doctors recommend A" + "Slow down".
-3. Read Bernays ch. V (lines 1383–2104 in `books/bernays_propaganda.txt`). It's the most "oh, they're doing this" chapter.
+3. Read Bernays ch. V (lines 1383–2104 in `sources/books/bernays_propaganda.txt`). It's the most "oh, they're doing this" chapter.
 
 ---
 

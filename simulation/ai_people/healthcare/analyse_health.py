@@ -5,9 +5,10 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 mode = sys.argv[1] if len(sys.argv) > 1 else "pilot"
 def load(f):
-    p = os.path.join(HERE, f)
+    p = os.path.join(DATA, f)
     return json.load(open(p))["rows"] if os.path.exists(p) else []
 
 

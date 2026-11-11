@@ -1,6 +1,8 @@
+# Earbuds study, version 2: designed 10 Nov 2026 but never run (replaced by the research-first topic studies).
+# Its persona builder (make_personas, STYLE) is reused by classics/classics.py.
 """AI-people run 2 (10 Nov 2026): bigger and fairer than the pilot.
 
-Changes from pilot 2 (see RESULTS_pilot.md):
+Changes from pilot 2 (see RESULTS.md):
 - 60 people instead of 20 (15 per decision style)
 - each person also gets a colour/style taste, so the AI people aren't all alike
   (in the pilot, 19/20 picked black)
@@ -12,8 +14,8 @@ Each decision is still a separate, fresh Claude (Haiku) call with only the
 persona and the page: no tools, no files, no memory, not told it's an experiment.
 
 Run (from the Terminal panel, where the Claude login works):
-    python3 run2.py            -> run2_results.json   (about 15 minutes)
-    python3 run2.py 5          -> run2_test.json      (first 5 calls only)
+    python3 earbuds_v2.py       -> data/run2_results.json   (about 15 minutes)
+    python3 earbuds_v2.py 5     -> data/run2_test.json      (first 5 calls only)
 """
 import concurrent.futures as cf
 import json
@@ -22,7 +24,10 @@ import random
 import sys
 import time
 
-from pilot import ask, parse, EMPTY_DIR  # same clean-call settings as the pilot
+HERE_ = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.dirname(HERE_))
+from ai_person import ask, EMPTY_DIR  # noqa: E402  same clean-call settings
+from earbuds import parse  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 N_PEOPLE = 60
@@ -140,11 +145,11 @@ def main(limit=None):
             print(f"{k}/{len(tasks)} {r['name']:10s} {r['condition']:13s} -> {r['choice']}  "
                   f"({time.time() - t0:.0f}s)", flush=True)
             if k % 25 == 0:  # save as we go, so a stop doesn't lose everything
-                json.dump({"partial": True, "rows": rows}, open(os.path.join(HERE, name + ".part"), "w"),
+                json.dump({"partial": True, "rows": rows}, open(os.path.join(HERE, "data", name + ".part"), "w"),
                           ensure_ascii=False)
     out = {"model": "haiku", "conditions": CONDITIONS, "people": people, "rows": rows,
            "seconds": round(time.time() - t0)}
-    json.dump(out, open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+    json.dump(out, open(os.path.join(HERE, "data", name), "w"), indent=1, ensure_ascii=False)
     print("RUN2_DONE", flush=True)
 
 

@@ -1,11 +1,11 @@
 # How Choices Are Made For Us: Old Tricks, New Tools
 
-*Second draft, 11 Nov 2026. It adds the AI-people experiments (Section 6) and the fixes from `paper/review_v1.md`. The first draft is kept as `draft_v1.md`. Everything here is a starting point for you to rewrite in your own voice.*
+*Second draft, 11 Nov 2026. It adds the AI-people experiments (Section 6) and the fixes from `paper/archive/review_v1.md`. The first draft is kept as `paper/archive/draft_v1.md`. Everything here is a starting point for you to rewrite in your own voice.*
 
 **How to use this draft**
 - **[YOUR OPINION]** marks a place only you can write. The paper is stronger when your own view is clearly separate from the evidence.
-- **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/README.md` and the reports for each one's status).
-- The rule-based simulation numbers come from `simulation/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/salib_results.json` and `simulation/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
+- **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
+- The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
 - This draft is about 10,000 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
 **How this paper was made** *(a draft note: edit it so that every sentence is true, then keep it in the final paper)*
@@ -73,7 +73,7 @@ Most research looks at one technique in one setting, for example a lab study of 
 
 ## 2. What the old thinkers said
 
-*Sources: `books/reading_notes.md`. Only key chapters were read; the notes list exact line ranges.*
+*Sources: `sources/books/reading_notes.md`. Only key chapters were read; the notes list exact line ranges.*
 
 | Old idea | Who said it | What later experiments found |
 |---|---|---|
@@ -112,7 +112,7 @@ Machiavelli advised that a ruler need not *be* good, only *appear* good, because
 **[YOUR OPINION]** Was Machiavelli describing how rulers behave, or advising them to behave that way? Does it matter?
 
 ### 2.5 Then and now: the same moves, 2,000 years apart
-*(Added 6 Nov 2026 from five Predictive History lectures on ancient history; see `topic_passages/ph_old_history_notes.md`. The history column uses what historians generally agree on, not only the lecturer's interpretation.)*
+*(Added 6 Nov 2026 from five Predictive History lectures on ancient history; see `sources/topic_notes/ph_old_history_notes.md`. The history column uses what historians generally agree on, not only the lecturer's interpretation.)*
 
 | The move | Then | Now |
 |---|---|---|
@@ -170,7 +170,7 @@ Product choices, app settings and sign-up forms often meet all three conditions.
 
 ## 4. Cases from real life
 
-*Sources: `reports/1_trump.md` to `reports/5_education_system.md`, built from transcripts of 44 of 70 WTF episodes and 111 of 182 Predictive History videos. Each claim links to a timestamp in the reports. Cases are grouped by technique, not by person.*
+*Sources: `sources/case_reports/1_trump.md` to `sources/case_reports/5_education_system.md`, built from transcripts of 44 of 70 WTF episodes and 111 of 182 Predictive History videos. Each claim links to a timestamp in the reports. Cases are grouped by technique, not by person.*
 
 **How the cases were found:** transcripts were searched for keywords (for example "default", "monopoly", "narrative", "doctor", "fear") and the matching passages were read. Not every episode was read in full. This means the cases were selected, not sampled, so they can show that a technique is used but not how common it is (Section 8).
 
@@ -225,7 +225,7 @@ This is a large-scale "default" too: a belief everyone grows up with and rarely 
 **[YOUR OPINION]** You are inside India's exam system now. Does it feel like a fair race to you? What would change your mind?
 
 ### 4.9 Platforms and AI: the people who build the machines explain them
-*(Added 6 Nov 2026 from WTF Ep 2 "Social Media" and Ep 4 "ChatGPT"; see `topic_passages/`.)*
+*(Added 6 Nov 2026 from WTF Ep 2 "Social Media" and Ep 4 "ChatGPT"; see `sources/topic_notes/`.)*
 - **The business model.** A social-media founder describes "a vicious cycle of a dopamine hit at both ends": likes keep the user coming back, and every extra minute earns the platform ad money. The goal is time spent, not good choices.
 - **Envy and negativity are rewarded.** A creator calls envy "the fuel for social media" and admits that a negative comment on a popular page attracts likes from other envious people. This is the platform version of Le Bon's point that crowds reward extreme feelings.
 - **Top-down growth.** New platforms recruit influencers and ministers first, and the public follows. This is Bernays's 1928 "key men" method.
@@ -245,7 +245,7 @@ The cases come from people across the spectrum: Trump supporters (Chamath Paliha
 
 ## 5. The simulation
 
-*Code: `simulation/sim.py` (standard Python). Interactive page: https://claude.ai/artifact/7YdisdyhbkTPFM8a3LQ33g. Full assumptions: `simulation/README.md`.*
+*Code: `simulation/rule_based/sim.py` (standard Python). Interactive page: https://claude.ai/artifact/7YdisdyhbkTPFM8a3LQ33g. Full assumptions: `simulation/rule_based/README.md`.*
 
 ### 5.1 How it works
 **The people.** We create 1,000 simulated people. Each has four traits:
@@ -643,7 +643,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *JPSP*, 9(2).
 
 **News, regulator and investigation sources** for the AI-people situations (CBC, DW, NPPA, CCPA, RBI, IRDAI, ASCI, FTC, KFF, Commonwealth Fund, Coffeezilla and others) are listed with links in `simulation/ai_people/*/RESEARCH.md`.
-**Podcast and video sources:** see the timestamped links in `reports/1_trump.md` to `reports/5_education_system.md`.
+**Podcast and video sources:** see the timestamped links in `sources/case_reports/1_trump.md` to `sources/case_reports/5_education_system.md`.
 
 ---
 

@@ -137,7 +137,7 @@ Verify all of these:
 - **"Drugs" as a game-theory trap** (version 2, Report 2, Part E, item 3) is his main pharma theme. Predictive History has almost no real pharma content, so for pharma rely on the WTF episodes.
 
 ## Part G. New in version 4 (WTF Ep 6, "WTF is Health?", read 6 Nov 2026)
-Full notes: `topic_passages/wtf_ep6_health_notes.md`. These are keyword passages only, and speakers aren't labelled in the transcript.
+Full notes: `sources/topic_notes/wtf_ep6_health_notes.md`. These are keyword passages only, and speakers aren't labelled in the transcript.
 
 - **"Wine is good for you" was marketing** ([0:15](https://youtu.be/6HE6d0lKh4o?t=15), heard it). A guest calls 20 years of "wine is good for you" messaging "absolutely bogus" and says alcohol is as bad as smoking. The show uses this line as its opening hook.
 - **Supplements on "can it do any harm?" logic** ([56:50](https://youtu.be/6HE6d0lKh4o?t=3410), heard it). Rich, smart guests take "a bunch of supplements" while admitting they have "no idea" whether they work ([2:03:15](https://youtu.be/6HE6d0lKh4o?t=7395)). This is the same logic the Longevity doctor criticised (Part C).

@@ -3,8 +3,8 @@
 P1 India: an instant-loan app vs asking a relative / bank (ad matched to each person's own situation).
 P2 USA: book a flight now vs keep comparing (personalised / "special" / surveillance prices).
 Run from the Terminal panel (Claude login works there):
-    python3 targeting.py pilot   -> tgt_pilot.json  (8 people per scenario)
-    python3 targeting.py extra   -> tgt_extra.json  (6 NEW people per scenario, same design)
+    python3 targeting.py pilot   -> data/tgt_pilot.json  (8 people per scenario)
+    python3 targeting.py extra   -> data/tgt_extra.json  (6 NEW people per scenario, same design)
 """
 import concurrent.futures as cf
 import json
@@ -15,8 +15,9 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 sys.path.insert(0, os.path.dirname(HERE))
-from pilot import ask  # noqa: E402  fresh Haiku call, no tools, empty folder
+from ai_person import ask  # noqa: E402  fresh Haiku call, no tools, empty folder
 
 PARALLEL = 3
 STYLE = ["You usually decide quickly and go with your gut. Long comparisons bore you.",
@@ -195,11 +196,11 @@ def main(mode):
             print(f"{k}/{len(tasks)} P{r['scenario']} {r['name']:9s} {r['version']:14s} -> {r['choice']} "
                   f"second={r['second']}", flush=True)
             if k % 40 == 0:
-                json.dump({"partial": True, "rows": rows}, open(os.path.join(HERE, name + ".part"), "w"),
+                json.dump({"partial": True, "rows": rows}, open(os.path.join(DATA, name + ".part"), "w"),
                           ensure_ascii=False)
     json.dump({"model": "haiku", "mode": mode, "people": people, "rows": rows,
                "seconds": round(time.time() - t0)},
-              open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+              open(os.path.join(DATA, name), "w"), indent=1, ensure_ascii=False)
     print("TGT_DONE", flush=True)
 
 

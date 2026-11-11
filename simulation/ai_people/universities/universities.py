@@ -2,8 +2,8 @@
 
 40 AI students x 6 versions = 240 separate, fresh Claude Haiku calls.
 Run from the Terminal panel (where the Claude login works):
-    python3 universities.py 6   -> uni_test.json
-    python3 universities.py     -> uni_results.json
+    python3 universities.py 6   -> data/uni_test.json
+    python3 universities.py     -> data/uni_results.json
 """
 import concurrent.futures as cf
 import json
@@ -14,8 +14,9 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 sys.path.insert(0, os.path.dirname(HERE))
-from pilot import ask  # noqa: E402  same clean-call settings (fresh Haiku, no tools, empty folder)
+from ai_person import ask  # noqa: E402  same clean-call settings (fresh Haiku, no tools, empty folder)
 
 N = 40
 PARALLEL = 3
@@ -120,7 +121,7 @@ def main(limit=None):
             rows.append(r)
             print(f"{k}/{len(tasks)} {r['name']:8s} {r['version']:8s} -> {r['choice']} loan={r['loan']}", flush=True)
     json.dump({"model": "haiku", "students": students, "rows": rows, "seconds": round(time.time() - t0)},
-              open(os.path.join(HERE, name), "w"), indent=1, ensure_ascii=False)
+              open(os.path.join(DATA, name), "w"), indent=1, ensure_ascii=False)
     print("UNI_DONE", flush=True)
 
 

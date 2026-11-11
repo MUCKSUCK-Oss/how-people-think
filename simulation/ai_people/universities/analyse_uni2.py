@@ -5,14 +5,15 @@ import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
 mode = sys.argv[1] if len(sys.argv) > 1 else "pilot"
 if mode == "combined":  # pilot 2 + extra batch (same design, different people)
-    d = {"rows": json.load(open(os.path.join(HERE, "uni2_pilot.json")))["rows"]
-         + json.load(open(os.path.join(HERE, "uni2_extra.json")))["rows"]
-             + (json.load(open(os.path.join(HERE, "uni2_extra2.json")))["rows"]
-                if os.path.exists(os.path.join(HERE, "uni2_extra2.json")) else [])}
+    d = {"rows": json.load(open(os.path.join(DATA, "uni2_pilot.json")))["rows"]
+         + json.load(open(os.path.join(DATA, "uni2_extra.json")))["rows"]
+             + (json.load(open(os.path.join(DATA, "uni2_extra2.json")))["rows"]
+                if os.path.exists(os.path.join(DATA, "uni2_extra2.json")) else [])}
 else:
-    d = json.load(open(os.path.join(HERE, f"uni2_{mode}.json")))
+    d = json.load(open(os.path.join(DATA, f"uni2_{mode}.json")))
 rows = [r for r in d["rows"] if r["choice"]]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]
 V = {1: ["brochure", "honest", "hype", "counsellor", "relatives", "all", "all_disclosed"],

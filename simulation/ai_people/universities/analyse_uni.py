@@ -4,7 +4,8 @@ import os
 import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-d = json.load(open(os.path.join(HERE, "uni_results.json")))
+DATA = os.path.join(HERE, "data")  # raw AI-person answers (JSON)
+d = json.load(open(os.path.join(DATA, "uni_results.json")))
 rows = [r for r in d["rows"] if r["choice"]]
 VERS = ["control", "hype", "scarcity", "ranking", "social", "all"]
 STYLE = ["gut", "mostly gut", "mostly careful", "very careful"]

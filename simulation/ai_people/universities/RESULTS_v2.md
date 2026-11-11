@@ -1,6 +1,6 @@
 # University traps v2: results (night of 11 Nov 2026)
 - **Design:** built from `RESEARCH.md`; predictions saved first in `PREDICTIONS_v2.md`.
-- **Data (updated 11 Nov):** pilot 2 + extra batch 1 + extra batch 2, pooled: **20 AI people per scenario** (10 students, 10 parents) × all versions = **240 decisions**, all usable. The full analysis is in `combined_analysis.txt`.
+- **Data (updated 11 Nov):** pilot 2 + extra batch 1 + extra batch 2, pooled: **20 AI people per scenario** (10 students, 10 parents) × all versions = **240 decisions**, all usable. The full analysis is in `output/combined_analysis.txt`.
 - ⚠ **Still small.** One person = 5 points, so treat the numbers as **directions**, not exact sizes.
 - Extra batch 2 was mostly careful / very careful people (pre-registered in `PREDICTIONS_v2.md`).
 

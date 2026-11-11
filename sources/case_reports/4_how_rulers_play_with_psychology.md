@@ -202,7 +202,7 @@ Parts of the channel repeat known antisemitic and "replacement" conspiracy patte
 - **"Why the West is Doomed"** ([10:00](https://youtu.be/E83dpuyvpiM?t=600)): poor immigrants as "slave labor" for corporations (his framing).
 
 ## Part G. New in version 4 (WTF Ep 2 Social Media and Ep 4 ChatGPT, read 6 Nov 2026)
-Full notes: `topic_passages/wtf_ep2_social_media_notes.md` and `wtf_ep4_chatgpt_notes.md`.
+Full notes: `sources/topic_notes/wtf_ep2_social_media_notes.md` and `wtf_ep4_chatgpt_notes.md`.
 
 **How platforms steer attention (Ep 2):**
 - **"A dopamine hit at both ends"** ([7:34](https://youtu.be/SkU3J2vWUK8?t=454), heard it). Your likes keep you scrolling; every foot of feed carries an ad. "The incentive model is very simple: more users, get them to spend more time" ([32:22](https://youtu.be/SkU3J2vWUK8?t=1942)).

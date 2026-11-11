@@ -3,7 +3,7 @@
 Nikhil Kamath with Nuseir Yassin (Nas Daily), Tanmay Bhat, Prajakta Koli, Ranveer Allahbadia. Uploaded 19 Nov 2023, about 3h 9m.
 Link: https://youtu.be/JjDjDvNgkFo
 
-**How I read it:** I read the whole YouTube auto-caption transcript, start to end (saved in `transcripts/`). Auto-captions mangle names, so the minute marks are approximate. Everything below is my paraphrase, not quotes.
+**How I read it:** I read the whole YouTube auto-caption transcript, start to end (saved in `sources/transcripts/`). Auto-captions mangle names, so the minute marks are approximate. Everything below is my paraphrase, not quotes.
 
 **About Trump:** this episode mentions him only twice, briefly (items 1 and 2 below). The "he's a businessman, he runs the country like a business" idea you remember is not in this episode. It's probably from a different WTF episode, so it goes on the list to find.
 
