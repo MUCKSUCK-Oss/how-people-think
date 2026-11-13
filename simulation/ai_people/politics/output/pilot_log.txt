@@ -1,0 +1,169 @@
+1/168 India          A    Rahul      no_label       -> support=6 believe=no
+2/168 India          A    Rahul      own_party      -> support=6 believe=yes
+3/168 India          A    Rahul      rival_party    -> support=2 believe=no
+4/168 India          A    Rahul      own_populist   -> support=6 believe=no
+5/168 India          A    Rahul      rival_populist -> support=3 believe=no
+6/168 India          A    Rahul      own_factcheck  -> support=6 believe=no
+7/168 India          A    Rahul      own_uturn      -> support=6 believe=no
+8/168 India          B    Rahul      no_label       -> support=5 believe=no
+9/168 India          B    Rahul      own_party      -> support=5 believe=no
+10/168 India          B    Rahul      rival_party    -> support=4 believe=no
+11/168 India          B    Rahul      own_populist   -> support=6 believe=no
+12/168 India          B    Rahul      rival_populist -> support=3 believe=no
+13/168 India          B    Rahul      own_factcheck  -> support=5 believe=no
+14/168 India          B    Rahul      own_uturn      -> support=5 believe=no
+15/168 India          none Imran      no_label       -> support=4 believe=no
+16/168 India          none Imran      own_party      -> support=3 believe=no
+17/168 India          none Imran      rival_party    -> support=4 believe=no
+18/168 India          none Imran      own_populist   -> support=3 believe=no
+19/168 India          none Imran      rival_populist -> support=4 believe=no
+20/168 India          none Imran      own_factcheck  -> support=4 believe=no
+21/168 India          none Imran      own_uturn      -> support=4 believe=no
+22/168 the United Sta A    DeShawn    no_label       -> support=3 believe=no
+23/168 the United Sta A    DeShawn    own_party      -> support=5 believe=no
+24/168 the United Sta A    DeShawn    rival_party    -> support=3 believe=no
+25/168 the United Sta A    DeShawn    own_populist   -> support=5 believe=no
+26/168 the United Sta A    DeShawn    rival_populist -> support=4 believe=no
+27/168 the United Sta A    DeShawn    own_factcheck  -> support=5 believe=no
+28/168 the United Sta A    DeShawn    own_uturn      -> support=3 believe=no
+29/168 the United Sta B    Carlos     no_label       -> support=6 believe=no
+30/168 the United Sta B    Carlos     own_party      -> support=6 believe=no
+31/168 the United Sta B    Carlos     rival_party    -> support=3 believe=no
+32/168 the United Sta B    Carlos     own_populist   -> support=6 believe=no
+33/168 the United Sta B    Carlos     rival_populist -> support=3 believe=no
+34/168 the United Sta B    Carlos     own_factcheck  -> support=6 believe=no
+35/168 the United Sta B    Carlos     own_uturn      -> support=6 believe=no
+36/168 the United Sta none Carlos     no_label       -> support=5 believe=no
+37/168 the United Sta none Carlos     own_party      -> support=4 believe=no
+38/168 the United Sta none Carlos     rival_party    -> support=4 believe=no
+39/168 the United Sta none Carlos     own_populist   -> support=4 believe=no
+40/168 the United Sta none Carlos     rival_populist -> support=5 believe=no
+41/168 the United Sta none Carlos     own_factcheck  -> support=4 believe=no
+42/168 the United Sta none Carlos     own_uturn      -> support=4 believe=no
+43/168 Brazil         A    Lucas      no_label       -> support=6 believe=no
+44/168 Brazil         A    Lucas      own_party      -> support=6 believe=no
+45/168 Brazil         A    Lucas      rival_party    -> support=4 believe=no
+46/168 Brazil         A    Lucas      own_populist   -> support=6 believe=no
+47/168 Brazil         A    Lucas      rival_populist -> support=3 believe=no
+48/168 Brazil         A    Lucas      own_factcheck  -> support=5 believe=no
+49/168 Brazil         A    Lucas      own_uturn      -> support=4 believe=no
+50/168 Brazil         B    Ana        no_label       -> support=4 believe=no
+51/168 Brazil         B    Ana        own_party      -> support=5 believe=no
+52/168 Brazil         B    Ana        rival_party    -> support=3 believe=no
+53/168 Brazil         B    Ana        own_populist   -> support=5 believe=no
+54/168 Brazil         B    Ana        rival_populist -> support=3 believe=no
+55/168 Brazil         B    Ana        own_factcheck  -> support=4 believe=no
+56/168 Brazil         B    Ana        own_uturn      -> support=5 believe=no
+57/168 Brazil         none João       no_label       -> support=5 believe=no
+58/168 Brazil         none João       own_party      -> support=4 believe=no
+59/168 Brazil         none João       rival_party    -> support=4 believe=no
+60/168 Brazil         none João       own_populist   -> support=3 believe=no
+61/168 Brazil         none João       rival_populist -> support=4 believe=no
+62/168 Brazil         none João       own_factcheck  -> support=3 believe=no
+63/168 Brazil         none João       own_uturn      -> support=3 believe=no
+64/168 the United Kin A    Oliver     no_label       -> support=6 believe=no
+65/168 the United Kin A    Oliver     own_party      -> support=5 believe=no
+66/168 the United Kin A    Oliver     rival_party    -> support=3 believe=no
+67/168 the United Kin A    Oliver     own_populist   -> support=6 believe=no
+68/168 the United Kin A    Oliver     rival_populist -> support=3 believe=no
+69/168 the United Kin A    Oliver     own_factcheck  -> support=5 believe=no
+70/168 the United Kin A    Oliver     own_uturn      -> support=5 believe=no
+71/168 the United Kin B    Emma       no_label       -> support=3 believe=no
+72/168 the United Kin B    Emma       own_party      -> support=6 believe=no
+73/168 the United Kin B    Emma       rival_party    -> support=2 believe=no
+74/168 the United Kin B    Emma       own_populist   -> support=6 believe=no
+75/168 the United Kin B    Emma       rival_populist -> support=3 believe=no
+76/168 the United Kin B    Emma       own_factcheck  -> support=6 believe=no
+77/168 the United Kin B    Emma       own_uturn      -> support=5 believe=no
+78/168 the United Kin none Emma       no_label       -> support=4 believe=no
+79/168 the United Kin none Emma       own_party      -> support=4 believe=no
+80/168 the United Kin none Emma       rival_party    -> support=4 believe=no
+81/168 the United Kin none Emma       own_populist   -> support=3 believe=no
+82/168 the United Kin none Emma       rival_populist -> support=4 believe=no
+83/168 the United Kin none Emma       own_factcheck  -> support=3 believe=no
+84/168 the United Kin none Emma       own_uturn      -> support=3 believe=no
+85/168 Poland         A    Marek      no_label       -> support=5 believe=no
+86/168 Poland         A    Marek      own_party      -> support=6 believe=no
+87/168 Poland         A    Marek      rival_party    -> support=2 believe=no
+88/168 Poland         A    Marek      own_populist   -> support=6 believe=yes
+89/168 Poland         A    Marek      rival_populist -> support=2 believe=no
+90/168 Poland         A    Marek      own_factcheck  -> support=6 believe=no
+91/168 Poland         A    Marek      own_uturn      -> support=6 believe=no
+92/168 Poland         B    Piotr      no_label       -> support=5 believe=no
+93/168 Poland         B    Piotr      own_party      -> support=5 believe=no
+94/168 Poland         B    Piotr      rival_party    -> support=3 believe=no
+95/168 Poland         B    Piotr      own_populist   -> support=5 believe=no
+96/168 Poland         B    Piotr      rival_populist -> support=3 believe=no
+97/168 Poland         B    Piotr      own_factcheck  -> support=5 believe=no
+98/168 Poland         B    Piotr      own_uturn      -> support=5 believe=no
+99/168 Poland         none Piotr      no_label       -> support=4 believe=no
+100/168 Poland         none Piotr      own_party      -> support=4 believe=no
+101/168 Poland         none Piotr      rival_party    -> support=4 believe=no
+102/168 Poland         none Piotr      own_populist   -> support=4 believe=no
+103/168 Poland         none Piotr      rival_populist -> support=3 believe=no
+104/168 Poland         none Piotr      own_factcheck  -> support=4 believe=no
+105/168 Poland         none Piotr      own_uturn      -> support=3 believe=no
+106/168 Nigeria        A    Ibrahim    no_label       -> support=5 believe=no
+107/168 Nigeria        A    Ibrahim    own_party      -> support=5 believe=no
+108/168 Nigeria        A    Ibrahim    rival_party    -> support=4 believe=no
+109/168 Nigeria        A    Ibrahim    own_populist   -> support=4 believe=no
+110/168 Nigeria        A    Ibrahim    rival_populist -> support=3 believe=no
+111/168 Nigeria        A    Ibrahim    own_factcheck  -> support=4 believe=no
+112/168 Nigeria        A    Ibrahim    own_uturn      -> support=4 believe=no
+113/168 Nigeria        B    Aisha      no_label       -> support=6 believe=no
+114/168 Nigeria        B    Aisha      own_party      -> support=6 believe=no
+115/168 Nigeria        B    Aisha      rival_party    -> support=2 believe=no
+116/168 Nigeria        B    Aisha      own_populist   -> support=6 believe=no
+117/168 Nigeria        B    Aisha      rival_populist -> support=2 believe=no
+118/168 Nigeria        B    Aisha      own_factcheck  -> support=6 believe=no
+119/168 Nigeria        B    Aisha      own_uturn      -> support=6 believe=no
+120/168 Nigeria        none Tunde      no_label       -> support=5 believe=no
+121/168 Nigeria        none Tunde      own_party      -> support=4 believe=no
+122/168 Nigeria        none Tunde      rival_party    -> support=4 believe=no
+123/168 Nigeria        none Tunde      own_populist   -> support=3 believe=no
+124/168 Nigeria        none Tunde      rival_populist -> support=3 believe=no
+125/168 Nigeria        none Tunde      own_factcheck  -> support=4 believe=no
+126/168 Nigeria        none Tunde      own_uturn      -> support=3 believe=no
+127/168 Turkey         A    Elif       no_label       -> support=5 believe=no
+128/168 Turkey         A    Elif       own_party      -> support=6 believe=no
+129/168 Turkey         A    Elif       rival_party    -> support=2 believe=no
+130/168 Turkey         A    Elif       own_populist   -> support=6 believe=no
+131/168 Turkey         A    Elif       rival_populist -> support=3 believe=no
+132/168 Turkey         A    Elif       own_factcheck  -> support=6 believe=no
+133/168 Turkey         A    Elif       own_uturn      -> support=6 believe=no
+134/168 Turkey         B    Ahmet      no_label       -> support=4 believe=no
+135/168 Turkey         B    Ahmet      own_party      -> support=5 believe=no
+136/168 Turkey         B    Ahmet      rival_party    -> support=3 believe=no
+137/168 Turkey         B    Ahmet      own_populist   -> support=5 believe=no
+138/168 Turkey         B    Ahmet      rival_populist -> support=3 believe=no
+139/168 Turkey         B    Ahmet      own_factcheck  -> support=4 believe=no
+140/168 Turkey         B    Ahmet      own_uturn      -> support=4 believe=no
+141/168 Turkey         none Mustafa    no_label       -> support=4 believe=no
+142/168 Turkey         none Mustafa    own_party      -> support=5 believe=no
+143/168 Turkey         none Mustafa    rival_party    -> support=3 believe=no
+144/168 Turkey         none Mustafa    own_populist   -> support=4 believe=no
+145/168 Turkey         none Mustafa    rival_populist -> support=5 believe=no
+146/168 Turkey         none Mustafa    own_factcheck  -> support=4 believe=no
+147/168 Turkey         none Mustafa    own_uturn      -> support=4 believe=no
+148/168 South Korea    A    Do-yun     no_label       -> support=5 believe=no
+149/168 South Korea    A    Do-yun     own_party      -> support=5 believe=no
+150/168 South Korea    A    Do-yun     rival_party    -> support=3 believe=no
+151/168 South Korea    A    Do-yun     own_populist   -> support=5 believe=no
+152/168 South Korea    A    Do-yun     rival_populist -> support=3 believe=no
+153/168 South Korea    A    Do-yun     own_factcheck  -> support=5 believe=no
+154/168 South Korea    A    Do-yun     own_uturn      -> support=5 believe=no
+155/168 South Korea    B    Ha-eun     no_label       -> support=5 believe=no
+156/168 South Korea    B    Ha-eun     own_party      -> support=5 believe=no
+157/168 South Korea    B    Ha-eun     rival_party    -> support=3 believe=no
+158/168 South Korea    B    Ha-eun     own_populist   -> support=5 believe=no
+159/168 South Korea    B    Ha-eun     rival_populist -> support=2 believe=no
+160/168 South Korea    B    Ha-eun     own_factcheck  -> support=6 believe=no
+161/168 South Korea    B    Ha-eun     own_uturn      -> support=4 believe=no
+162/168 South Korea    none Ji-ho      no_label       -> support=4 believe=no
+163/168 South Korea    none Ji-ho      own_party      -> support=4 believe=no
+164/168 South Korea    none Ji-ho      rival_party    -> support=3 believe=no
+165/168 South Korea    none Ji-ho      own_populist   -> support=3 believe=no
+166/168 South Korea    none Ji-ho      rival_populist -> support=3 believe=no
+167/168 South Korea    none Ji-ho      own_factcheck  -> support=4 believe=no
+168/168 South Korea    none Ji-ho      own_uturn      -> support=4 believe=no
+POL_DONE

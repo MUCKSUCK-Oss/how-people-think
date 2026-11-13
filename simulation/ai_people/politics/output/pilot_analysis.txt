@@ -1,0 +1,50 @@
+[pilot] usable 168/168
+
+Mean SUPPORT (1-7) by version:  no_label | own_party | rival_party | own_populist | rival_populist | own_factcheck | own_uturn
+All partisans          n=16   4.9   5.4   2.9   5.5   2.9   5.2   4.9   gap(own-rival)=+2.6
+  strong               n= 8   5.2   5.9   2.5   5.9   2.6   5.9   5.4   gap(own-rival)=+3.4
+  mild                 n= 8   4.6   5.0   3.2   5.1   3.1   4.6   4.5   gap(own-rival)=+1.8
+No party               n= 8   4.4   4.0   3.8   3.4   3.9   3.8   3.5   gap(own-rival)=+0.2
+
+By decision style (partisans):
+  gut                  n= 4   5.8   6.0   2.2   6.0   2.5   6.0   6.0   gap(own-rival)=+3.8
+  mostly gut           n= 4   5.2   5.0   3.2   5.5   3.0   5.0   5.0   gap(own-rival)=+1.8
+  mostly careful       n= 4   4.8   5.8   2.8   5.8   2.8   5.8   4.8   gap(own-rival)=+3.0
+  very careful         n= 4   4.0   5.0   3.2   4.8   3.2   4.2   4.0   gap(own-rival)=+1.8
+
+By country (partisans):
+  Brazil               n= 2   5.0   5.5   3.5   5.5   3.0   4.5   4.5   gap(own-rival)=+2.0
+  India                n= 2   5.5   5.5   3.0   6.0   3.0   5.5   5.5   gap(own-rival)=+2.5
+  Nigeria              n= 2   5.5   5.5   3.0   5.0   2.5   5.0   5.0   gap(own-rival)=+2.5
+  Poland               n= 2   5.0   5.5   2.5   5.5   2.5   5.5   5.5   gap(own-rival)=+3.0
+  South Korea          n= 2   5.0   5.0   3.0   5.0   2.5   5.5   4.5   gap(own-rival)=+2.0
+  Turkey               n= 2   4.5   5.5   2.5   5.5   3.0   5.0   5.0   gap(own-rival)=+3.0
+  the United Kingdom   n= 2   4.5   5.5   2.5   6.0   3.0   5.5   5.0   gap(own-rival)=+3.0
+  the United States    n= 2   4.5   5.5   3.0   5.5   3.5   5.5   4.5   gap(own-rival)=+2.5
+
+By side (partisans; A = first-listed party, B = its rival):
+  party A              n= 8   5.1   5.5   2.9   5.5   3.0   5.2   4.9   gap(own-rival)=+2.6
+  party B              n= 8   4.8   5.4   2.9   5.5   2.8   5.2   5.0   gap(own-rival)=+2.5
+
+BELIEVE the 'cut in half' claim (% yes):
+  partisans  no_label: 0 | own_party: 6 | rival_party: 0 | own_populist: 6 | rival_populist: 0 | own_factcheck: 0 | own_uturn: 0
+  no party   no_label: 0 | own_party: 0 | rival_party: 0 | own_populist: 0 | rival_populist: 0 | own_factcheck: 0 | own_uturn: 0
+
+Partisans rating own-party version higher than rival version: 16/16 (same: 0)
+U-turn reasons with an excuse or 'hypocrisy' word: 3
+
+Sample reasons:
+  [no_label 6] Rahul (India, strong the BJP): Yaar, training and skills are important—I'm an electrician, I know what good training does for people. This program makes sense, it's practical and the cost is nothing, barely 0.3%. But cutt
+  [no_label 5] Rahul (India, mild the Congress party): Look, training young people and giving them work experience - this is good thing, no doubt. Better than them sitting at home doing nothing. But cutting unemployment in half in just two years
+  [own_party 6] Rahul (India, strong the BJP): Yaar, this is exactly what we need! Young people sitting idle, no real skills, then they can't find jobs - I see this all the time. Six months of actual work and training, that's solid. BJP 
+  [own_party 5] Rahul (India, mild the Congress party): Arre, giving youth some training and paid work, this is good thing - better than sitting at home. But cutting unemployment in half in two years? That's too much promise, yaar. These things d
+  [rival_party 2] Rahul (India, strong the BJP): Look, Congress makes these fancy promises every election cycle, but nothing ever happens. They talk big but when it comes to delivering, they're useless - we've seen this for years. Six mont
+  [rival_party 4] Rahul (India, mild the Congress party): Look, training young people is fine, but creating real jobs doesn't happen that fast. Cutting unemployment in half in two years? That's a big promise from any party. Six months of training h
+  [own_populist 6] Rahul (India, strong the BJP): This is exactly what we need - our young people need real jobs and skills training. At least the BJP is trying to fix it, unlike Congress who never cared. The half-in-two-years claim seems a
+  [own_populist 6] Rahul (India, mild the Congress party): Look, the idea is good - our young people need skills and jobs, I see them struggling every day in Pune. But cutting unemployment in half in just two years? That's too much promise. Even sol
+  [rival_populist 3] Rahul (India, strong the BJP): Look, skills training is fine—God knows we need more trained workers. But Congress has been making big promises for decades and delivering nothing. Half the unemployment in two years? That's
+  [rival_populist 3] Rahul (India, mild the Congress party): Look, skills training is good, I won't say no to that. But cutting unemployment in half in two years? That's just political talk. These BJP fellows make big promises at rallies, but even a t
+  [own_factcheck 6] Rahul (India, strong the BJP): Look, the idea itself is good—six months of training and real work experience for kids, that makes sense. I'd support it. But cutting unemployment in half? That's nonsense, yaar. Even the re
+  [own_factcheck 5] Rahul (India, mild the Congress party): Look, the idea is good - giving young people training and some money, that's helpful. But Congress is making big claims here. The research they showed says similar programs cut unemployment 
+  [own_uturn 6] Rahul (India, strong the BJP): Look, training is necessary and we need skilled workers. But cutting unemployment in half in two years is a big claim—that doesn't happen so quickly in reality. Still, I'm for it because the
+  [own_uturn 5] Rahul (India, mild the Congress party): Paid training for young people - that's good, I can see the value. But cut unemployment in half in two years? That's just election talk. It never happens that fast.

@@ -58,3 +58,10 @@ The proposer also makes one claim: *"This will cut youth unemployment in half wi
 - **Loyalty strength** alternates strong/mild across people; decision style cycles through the four levels.
 - **The populist version** puts the same policy and claim into a rally speech with repetition and "the elites" as the enemy; the cost line is kept.
 - Script: `politics.py`; analysis: `analyse_pol.py`.
+
+## Pilot result and decision (added after the pilot, before the extra batch)
+- **168/168 parsed.** No-label support among partisans is 4.9 of 7 (no floor or ceiling). The answers are in character and no AI person refused to play a supporter.
+- **The label swap works in all 8 countries:** own party 5.4, rival party 2.9; 16 of 16 partisans rated the own-party version higher.
+- **One measure failed (a floor):** almost nobody believed the "cut in half" claim in any version (0–6%), so the fact-check can't lower belief any further. The claim was too obviously exaggerated.
+  - **Decision:** keep the design unchanged so the extra batch can be pooled, and report the belief measure as uninformative. Prediction 7's "belief falls sharply" can't be tested; its "support falls by less than 1 point" part still can.
+- **Next:** the extra batch of 24 new people (`extra`), the same design. Predictions unchanged.
