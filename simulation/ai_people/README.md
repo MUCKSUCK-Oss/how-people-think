@@ -14,6 +14,7 @@ Each AI person is a **separate, fresh call** to Claude Haiku through the `claude
 | [`universities/`](universities/) | Coaching hype, private colleges and study-abroad agents (India and Canada) | 240 | 5 of 13 |
 | [`healthcare/`](healthcare/) | Stent vs medicines (India), early MRI (USA), private-equity birth hospital (USA) | 308 | 17 of 22 |
 | [`targeting/`](targeting/) | Instant-loan apps (India), personalised flight prices (USA) | 182 | 4 of 12 |
+| [`politics/`](politics/) | The same policy under different party labels, in 8 countries | 336 | 7 of 10 |
 | [`earbuds_pilot/`](earbuds_pilot/) | The very first test of the method (superseded) | 60 | – |
 
 ## Process followed for every topic study

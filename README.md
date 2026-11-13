@@ -10,7 +10,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ## Main findings so far
 
-**AI-people experiments** (about 900 decisions, 3 topics, predictions saved before each run):
+**AI-people experiments** (about 1,250 decisions, 4 topics, predictions saved before each run):
 
 | Finding | Example |
 |---|---|
@@ -47,6 +47,7 @@ simulation/
     universities/          coaching ads, private colleges, study-abroad agents
     healthcare/            stents, MRIs, private-equity hospitals
     targeting/             instant-loan apps, personalised prices
+    politics/              the same policy under different party labels, 8 countries
     earbuds_pilot/         the first test of the method (superseded)
     RELATED_WORK.md        papers on using AI models to simulate people
 
@@ -114,7 +115,8 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 
 ## Status
 - **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting.
-- **Next:** political messages, state influence operations on social media, FOMO, corporate dark patterns, cookie-consent pop-ups, films as propaganda.
+- **Done (researched and simulated, not yet in the paper):** world politics (party labels in 8 countries).
+- **Next:** state influence operations on social media, FOMO, corporate dark patterns, cookie-consent pop-ups, films as propaganda.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 
 ## Copyright and privacy

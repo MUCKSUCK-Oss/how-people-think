@@ -7,7 +7,7 @@
 ## Step 1: Topics
 | Topic | Status |
 |---|---|
-| Politics (Trump-style speeches; same message, different party) | ✅ in |
+| Politics (world politics: same message, different party; rally-style speech) | ✅ done: researched + simulated in 8 countries, see simulation/ai_people/politics/RESULTS.md |
 | Corporations tricking customers (defaults, scarcity, etc.) | ✅ in (earbuds pilot done) |
 | Healthcare (pay now vs maybe get sick) | ✅ done: researched + simulated (India stent, US MRI, US childbirth + private equity), see simulation/ai_people/healthcare/RESULTS.md |
 | University traps | ✅ done: researched + simulated, see simulation/ai_people/universities/RESULTS_v2.md |
