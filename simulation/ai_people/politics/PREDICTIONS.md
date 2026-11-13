@@ -52,3 +52,9 @@ The proposer also makes one claim: *"This will cut youth unemployment in half wi
 ## Run plan
 - **Pilot:** 24 people × 7 versions = **168 decisions** (about 20–25% of a 5-hour window).
 - **Extra batch:** 24 new people, only if the pilot passes.
+
+## Go-ahead and implementation notes (added before the pilot, no data yet)
+- Maulik approved running the pilot on 13 Nov 2026. The header's "DRAFT" status ends here; the design above is final for the pilot.
+- **Loyalty strength** alternates strong/mild across people; decision style cycles through the four levels.
+- **The populist version** puts the same policy and claim into a rally speech with repetition and "the elites" as the enemy; the cost line is kept.
+- Script: `politics.py`; analysis: `analyse_pol.py`.
