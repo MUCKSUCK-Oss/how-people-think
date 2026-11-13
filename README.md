@@ -18,6 +18,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 | The same fear works from a doctor and fails from an ad | "Ticking time bomb" from a cardiologist: stent choices 43% → 64%. "Could be something serious" from a clinic ad: MRI choices 43% → 36% |
 | People are easier to push when deciding for someone they love | After the doctor's warning: 86% of sons and daughters chose the stent, against 43% of patients |
 | Honest disclosure undoes most tricks, but not stories or desperation | Canada: 65% → 10% with honest facts. Instant-loan app for someone ashamed to ask family: 71% → 71% |
+| Party supporters judge a policy by who proposed it | The same policy scored 5.5 of 7 from their own party and 2.9 from the rival, in all 8 countries tested |
 | Unfairness angers people more than privacy loss | "Other users see this seat for $279" cut flight booking from 43% to 14% |
 
 **Rule-based simulation** (1,000 simulated people, tricks tuned to published experiments):
@@ -35,7 +36,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ```
 paper/                     The paper
-  draft_v2.md              current draft (about 10,000 words)
+  draft_v2.md              current draft (about 10,800 words)
   archive/                 earlier drafts and the strict review of draft 1
 
 simulation/
@@ -108,14 +109,13 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 
 ## Research rules followed
 1. **Research each topic before simulating it.**
-2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (26 of 47 fully right so far).
+2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (33 of 57 fully right so far).
 3. **Small pilot first.** If a design change is needed, record it before re-running.
 4. **Label what was actually read.** Most papers were checked through abstracts or reliable summaries; anything unconfirmed is marked **[CHECK]**.
 5. **Balance:** cases from India and abroad, and from both left and right.
 
 ## Status
-- **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting.
-- **Done (researched and simulated, not yet in the paper):** world politics (party labels in 8 countries).
+- **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries).
 - **Next:** state influence operations on social media, FOMO, corporate dark patterns, cookie-consent pop-ups, films as propaganda.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 

@@ -6,7 +6,7 @@
 - **[TO WRITE]** marks a place where I still have to write my own view. The paper is stronger when my view is clearly separate from the evidence.
 - **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
 - The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
-- This draft is about 10,000 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
+- This draft is about 10,800 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
 **How this paper was made**
 - **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
@@ -22,7 +22,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 2. **Experiments:** what modern psychology has measured.
 3. **Real cases:** about 155 podcast and lecture episodes (the *WTF* podcast with Nikhil Kamath and the *Predictive History* channel by Jiang Xueqin), plus news investigations and regulator reports from India and abroad.
 4. **A rule-based simulation:** 1,000 simulated people choosing between two equally good options while a "manipulator" uses six tricks. Where a published experiment exists, each trick's strength is tuned to it.
-5. **AI people:** about 900 decisions by AI-model "people" with Indian and American life stories, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, and taking an instant-loan app or a "personalised" price.
+5. **AI people:** about 1,250 decisions by AI-model "people" with life stories from India, the USA and six other countries, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, taking an instant-loan app or a "personalised" price, and judging the same policy under different party labels in eight countries.
 
 **Rule-based simulation:**
 - Each trick alone moves a 50/50 choice by 6–21 percentage points.
@@ -34,8 +34,9 @@ People like to think they choose freely. But many everyday choices, such as whic
 
 **AI people:**
 - They matched humans in *direction* on 3 of 3 classic experiments, but in *size* on only 1, so their results are read as directions.
-- In all three topics, **stories about "people like us"** (a neighbour, a cousin, a coworker) moved choices more than any advertisement. Loud tricks such as hype, countdowns and fake discounts were often spotted and backfired.
+- In the three everyday-choice topics, **stories about "people like us"** (a neighbour, a cousin, a coworker) moved choices more than any advertisement. Loud tricks such as hype, countdowns and fake discounts were often spotted and backfired.
 - **The same fear message worked from a doctor and failed from an ad.**
+- **The same policy, word for word, was rated 5.5 out of 7 from a supporter's own party and 2.9 from the rival party**, in all eight countries. Most of the gap came from disliking the rival, and a fact-check barely changed it.
 - **Honest disclosure undid most tricks, but not stories or desperation.**
 
 Both simulations are teaching tools, not proof about real people. Together with the other evidence, they suggest one main point: **the tactics are old, only the tools are new, and they work best when they come through people we trust, when they are stacked, and when people are rushed or desperate.**
@@ -164,7 +165,7 @@ Persuasion looks strong in other settings: when one source controls the informat
 2. they are rushed;
 3. they have no competing information.
 
-Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 5.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 6.7).
+Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 5.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 6.8).
 
 **[TO WRITE]** Which kind of choice in your life is most like an "I don't really care" choice that is easy to steer, and which is a choice where you'd resist?
 
@@ -240,6 +241,8 @@ This is a large-scale "default" too: a belief everyone grows up with and rarely 
 The cases come from people across the spectrum: Trump supporters (Chamath Palihapitiya), centre-right leaders (Christopher Luxon), an anti-elite commentator who is hard to place on left or right (Jiang), business leaders, a Gulf government minister and pharma executives. Manipulation is not a left or right habit. But this list still leans one way, because of who appears on these two channels: it has no clear case from the left and no Indian political case from either side.
 - **One technique used by all sides:** pre-election "freebie" promises (cash transfers, free electricity, free devices) are made by almost every Indian party. They fit "a gift that creates a debt" in Section 2.5.
 - **The same fraud, framed by party:** in a 2026 video, the investigator Coffeezilla shows US officials calling California the "kingdom of fraud" under its Democratic governor while describing Florida, under a Republican governor, as "very well-run, despite elements of fraud", even though the video documents large fraud in both states. He also criticises pardons and clemency for healthcare fraudsters granted by both Trump and Biden.
+
+- **Tested directly:** in the AI-people politics experiment (Section 6.7), supporters on both sides of each rivalry in eight countries showed the same label effect, with the same size on each side.
 
 **[TO WRITE]** Did you notice any bias in which cases you found most interesting?
 
@@ -421,13 +424,13 @@ So before using AI people on new topics, I tested them on three classic experime
    - Do the answers sound in character?
 4. **Only then, extra batches of new people.**
 
-**Four times the pilot failed the "stuck near 0%" check:**
+**Four times, in the first three topics, the pilot failed the "stuck near 0%" check:**
 - **What went wrong:** the cheap option had been made unrealistically easy. Examples: a government college with no downsides, "back pain slowly getting better", "relatives may lend you money in 3 days".
 - **The fix:** each time I added a realistic downside taken from the research, wrote the change down *before* re-running, and left the predictions unchanged.
 
 **Reading the tables:** a row starting with "+" adds one thing to the basic version (in the university tables, to the row above it). "All tricks" rows combine them.
 
-**Size:** 14–20 AI people per situation, each seeing every version, so **one person moves a percentage by 5–7 points.** Small differences mean nothing; only large, consistent ones are reported as findings.
+**Size:** 14–20 AI people per situation in the first three topics (48 in the politics topic), each seeing every version, so **one person moves a percentage by 5–7 points.** Small differences mean nothing; only large, consistent ones are reported as findings.
 
 ### 6.4 Universities: the agent, the brochure and the neighbour's son
 *(240 decisions, 20 people per situation: 10 students and 10 parents.)*
@@ -508,14 +511,45 @@ So before using AI people on new topics, I tested them on three classic experime
 - **Unfairness, not privacy, made people angry.** "Others pay $279" cut booking from 43% to 14%, and nobody called the price fair.
 - **Only 4 of 12 predictions were right.** I badly underestimated how little honest terms help someone in a money crisis.
 
-### 6.7 What all three topics share
-1. **"People like us" is the strongest trick every time.** The neighbour's son in Canada, the neighbour who died of a heart attack and the coworker's brother-in-law each moved AI people more than any ad. Many said outright that the ad was a lie, then followed the story. Real people do the same: patient anecdotes change treatment choices even when correct statistics are shown (Fagerlin, Wang & Ubel 2005).
+### 6.7 World politics: the same policy under different party labels
+*(336 decisions; 48 AI people in 8 countries: India, the USA, Brazil, the UK, Poland, Nigeria, Turkey and South Korea. In each country there were supporters of two rival parties and people with no party.)*
+
+**What real experiments show.**
+- People often follow their party's label more than a policy's content. This has been found in the USA (Cohen 2003; Barber & Pope 2019), Britain, Hungary and Poland (Brader & Tucker 2012), and Brazil (Samuels & Zucco 2014). In Denmark, when two parties suddenly reversed their position on welfare cuts, their voters' opinions followed within weeks (Slothuus & Bisgaard 2021).
+- The same reality looks different through the party. In Greece in 2025, 71% of governing-party supporters said the economy was good, against 9% of everyone else (Pew Research Center 2025).
+- Fact-checks correct beliefs without changing support (Nyhan et al. 2020).
+- I found no experiment in India that swaps the party label on the same policy.
+
+**The test.** Every AI person rated one invented policy with no obvious "side" (six months of paid community work and job training for every 18-year-old) on a 1–7 scale. The words stayed the same; only the proposer changed.
+
+| Who proposed it | Party supporters | People with no party |
+|---|---|---|
+| "A group of economists" | 5.0 | 4.4 |
+| **Their own party** | **5.5** | 3.9 |
+| **The rival party** | **2.9** | 3.8 |
+| Own party, in a rally style ("the elites don't care… jobs, jobs, jobs") | 5.6 | 3.5 |
+| Own party + an independent fact-check of its claim | 5.3 | 3.7 |
+| Own party + "two years ago your party called this idea 'forced labour'" | 5.0 | 3.4 |
+
+**Findings:**
+- **The label decided the rating.** All 32 supporters rated their own party's version higher, in all 8 countries and equally on both sides of each rivalry. *"It's a PT idea, so I start out suspicious"* (a PL supporter, Brazil); *"PT proposed it, so I'm with it"* (a PT supporter, Brazil).
+- **Disliking the rival mattered far more than liking one's own side.** Against the neutral version, the own-party label added 0.5 points and the rival label took away 2.1. This is the "negative partisanship" that Samuels & Zucco describe.
+- **People with no party didn't follow the labels**, but they liked the policy less whenever any party's name was on it.
+- **Speaking style added almost nothing.** The rally-style speech scored the same as the plain one. Who speaks mattered; how they speak barely did.
+- **A fact-check lowered support by 0.2 points, and a reminder of the party's own U-turn by 0.5.**
+- **7 of 10 predictions were right, 3 partly, none wrong.**
+
+⚠ **The main limit:** each supporter's instructions said they support one party and dislike its rival. So part of the gap is the AI doing what it was told, and 32 out of 32 is tidier than real people would be. The size of the gap is not a human number. The useful part is its shape: mostly anti-rival, resistant to correction, and absent in people with no party. Also, the belief question failed: almost nobody believed the party's exaggerated claim in any version, so the fact-check's effect on belief couldn't be tested.
+
+### 6.8 What the topics share
+1. **"People like us" is the strongest trick in every everyday-choice topic.** The neighbour's son in Canada, the neighbour who died of a heart attack and the coworker's brother-in-law each moved AI people more than any ad. Many said outright that the ad was a lie, then followed the story. Real people do the same: patient anecdotes change treatment choices even when correct statistics are shown (Fagerlin, Wang & Ubel 2005).
 2. **Loud tricks get spotted; quiet ones don't.** Hype, countdowns and "special price" discounts often backfired. A doctor's warning, a relative's story and the shame of asking family worked.
-3. **The messenger matters more than the message.** The same fear works from a doctor and fails from an ad. This is Bernays's "get the doctors to say it" (Section 2.2), now measured.
+3. **The messenger matters more than the message.** The same fear works from a doctor and fails from an ad, and the same policy is welcomed from one's own party and rejected from the rival. This is Bernays's "get the doctors to say it" (Section 2.2), now measured.
 4. **Honest disclosure is the best fix, but it has two limits:**
    - it works well against agents and ads (65% → 10%), and badly against stories and desperation (still 20–43%);
    - **concrete, personal numbers work better than labels:** "1 nurse per 4 women" and "others pay $279" beat "private equity" and "personalised pricing".
 5. **People are easier to push when deciding for someone they love**: parents choosing for children (universities) and children choosing for parents (healthcare).
+6. **Facts change what people know more easily than what they choose.** Honest loan terms didn't stop people in a crisis, and a fact-check didn't dent party supporters' backing.
 
 ---
 
@@ -530,6 +564,7 @@ So before using AI people on new topics, I tested them on three classic experime
 6. **People trust people, not ads.** In every AI-people topic, a neighbour's or cousin's story beat advertising, even among AI people who called the ad a lie (Section 6.7). Bernays understood this in 1928.
 7. **The messenger is the trick.** The same fear works from a doctor and fails from an ad. Authority channels (doctors, counsellors, agents, relatives) deserve more regulation than ads do.
 8. **Information helps the comfortable more than the desperate.** Disclosure undid most tricks, but not for people in a money crisis or under family shame.
+9. **In politics, the label can stand in for the argument.** Supporters judged the same policy by who proposed it, and mostly by whom they were against. Section 3.2 still holds: this doesn't mean people switch sides easily. It means their side tells them what to think about a new issue.
 
 ### 7.2 What this means for real life
 - **For individuals:** when you see "only 2 left", a countdown, a pre-ticked box *and* "10,000 people bought this" together, that's a stack. Slow down. When a decision is about someone you love, be extra careful: that is when both AI people and real families were easiest to push.
@@ -554,7 +589,8 @@ The rule-based simulation's big effects come from choices where people start at 
    - "Very careful" AI people are unrealistically rational.
    - Their reasons sometimes include invented details ("my coworker's sister went there").
    - They may carry stereotypes (the husband/wife gap in Section 6.5).
-   - Only one AI model (Claude Haiku) was used, with 14–20 people per situation.
+   - Only one AI model (Claude Haiku) was used, with 14–20 people per situation (48 in the politics topic).
+   - In the politics topic, party loyalty was written into each AI person, so the label effect is partly built in (Section 6.7).
    - Several pilots had to be redesigned after hitting a floor (all changes recorded before re-running).
    - The key results should be checked with real people, with consent and an ethics check.
 9. **Some scenario numbers are invented but realistic** (e.g. the hospital report card in Section 6.5); the research they are based on is cited in each topic's `RESEARCH.md`.
@@ -566,7 +602,7 @@ The rule-based simulation's big effects come from choices where people start at 
    - **What this paper did about it:**
      - It leans on effects that **have** been repeated many times (defaults, framing, repetition, social proof).
      - It flags fragile ones (the decoy effect, prebunking, hotel towels).
-     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (26 of 47 fully right across the three topics), and they are reported as wrong.
+     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (33 of 57 fully right across the four topics), and they are reported as wrong.
 
 ---
 
@@ -585,11 +621,14 @@ The rule-based simulation's big effects come from choices where people start at 
 - Aguirre, E., Mahr, D., Grewal, D., de Ruyter, K., & Wetzels, M. (2015). Unraveling the personalization paradox: The effect of information collection and trust-building strategies on online advertisement effectiveness. *Journal of Retailing*, 91(1), 34–49. ✔
 - Aher, G., Arriaga, R. I., & Kalai, A. T. (2023). Using large language models to simulate multiple humans and replicate human subject studies. *ICML*. [CHECK]
 - Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments.
+- Barber, M., & Pope, J. C. (2019). Does party trump ideology? Disentangling party and ideology in America. *American Political Science Review*, 113(1), 38–54. ✔
 - Bernays, E. (1928). *Propaganda*. Horace Liveright.
 - Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch's line judgment task. *Psychological Bulletin*, 119(1). [CHECK]
+- Brader, T., & Tucker, J. A. (2012). Following the party's lead: Party cues, policy opinion, and the power of partisanship in three multiparty systems. *Comparative Politics*, 44(4). ✔ (via summary)
 - Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). Emotion shapes the diffusion of moralized content in social networks. *PNAS*, 114(28), 7313–7318. ✔
 - Chetty, R., Deming, D. J., & Friedman, J. N. (2023). Diversifying society's leaders? The determinants and causal effects of admission to highly selective private colleges. NBER Working Paper 31492 (published in *Quarterly Journal of Economics*, 2026, 141(1), 51–145). ✔
 - Cialdini, R. B. (1984/2021). *Influence: The Psychology of Persuasion*. Harper Business.
+- Cohen, G. L. (2003). Party over policy: The dominating impact of group influence on political beliefs. *Journal of Personality and Social Psychology*, 85(5), 808–822. ✔
 - Coppock, A., Hill, S. J., & Vavreck, L. (2020). The small effects of political advertising are small regardless of context, message, sender, or receiver. *Science Advances*, 6(36).
 - Deffuant, G., et al. (2000). Mixing beliefs among interacting agents. *Advances in Complex Systems*, 3.
 - DeJong, C., et al. (2016). Pharmaceutical industry–sponsored meals and physician prescribing patterns for Medicare beneficiaries. *JAMA Internal Medicine*, 176(8), 1114–1122. ✔ (Even a single meal was associated with more prescribing of the promoted brand. An association, not proof of cause.)
@@ -626,15 +665,19 @@ The rule-based simulation's big effects come from choices where people start at 
 - Muchnik, L., Aral, S., & Taylor, S. J. (2013). Social influence bias. *Science*, 341.
 - Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know. *Psychological Review*, 84(3).
 - Open Science Collaboration (2015). Estimating the reproducibility of psychological science. *Science*, 349(6251). [CHECK]
+- Nyhan, B., Porter, E., Reifler, J., & Wood, T. J. (2020). Taking fact-checks literally but not seriously? The effects of journalistic fact-checking on factual beliefs and candidate favorability. *Political Behavior*, 42(3), 939–960. ✔
 - Peisakhin, L., & Rozenas, A. (2018). Electoral effects of biased media: Russian television in Ukraine. *AJPS*, 62(3).
 - Perry, G. (2013). *Behind the Shock Machine: The Untold Story of the Notorious Milgram Psychology Experiments*. The New Press. [CHECK]
 - Plato. *Republic*, Book VII (trans. Jowett).
 - Reicher, S. (1984). The St. Pauls' riot: An explanation of the limits of crowd action in terms of a social identity model. *European Journal of Social Psychology*, 14.
 - Reicher, S., Spears, R., & Postmes, T. (1995). A social identity model of deindividuation phenomena. *European Review of Social Psychology*, 6.
+- Pew Research Center (2025). In many countries, views of the national economy are closely related to partisanship. ✔ (via summary)
 - Roozenbeek, J., & van der Linden, S. (2019). Fake news game confers psychological resistance against online misinformation. *Palgrave Communications*, 5, 65. ✔
 - Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. *Science*, 311.
+- Samuels, D., & Zucco, C. (2014). The power of partisanship in Brazil: Evidence from survey experiments. *American Journal of Political Science*, 58(1), 212–225. ✔
 - Salvi, F., Horta Ribeiro, M., Gallotti, R., & West, R. (2025). On the conversational persuasiveness of GPT-4. *Nature Human Behaviour*.
 - Tannenbaum, M. B., Hepler, J., Zimmerman, R. S., Saul, L., Jacobs, S., Wilson, K., & Albarracín, D. (2015). Appealing to fear: A meta-analysis of fear appeal effectiveness and theories. *Psychological Bulletin*, 141(6), 1178–1204. ✔
+- Slothuus, R., & Bisgaard, M. (2021). How political parties shape public opinion in the real world. *American Journal of Political Science*, 65(4), 896–911. ✔
 - Tappin, B. M., Wittenberg, C., Hewitt, L. B., Berinsky, A. J., & Rand, D. G. (2023). Quantifying the potential persuasive returns to political microtargeting. *PNAS*, 120(25). ✔
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science*, 211.
 - van der Linden, S. Interview on *Speaking of Psychology* (American Psychological Association podcast).
@@ -654,6 +697,6 @@ The rule-based simulation's big effects come from choices where people start at 
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 7 and 9 in your own words.**
-5. **Decide on length.** This draft is about 10,000 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
+5. **Decide on length.** This draft is about 10,800 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
 6. **Add one figure:** a bar chart of the Canada table in Section 6.4 (10% → 25% → 65% → 10%) would show the paper's main point at a glance.
 7. **Optional:** test 2–3 situations with real classmates (with consent and an ethics check) to see whether the AI people's directions hold.
