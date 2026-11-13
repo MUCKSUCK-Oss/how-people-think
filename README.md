@@ -36,7 +36,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ```
 paper/                     The paper
-  draft_v2.md              current draft (about 10,800 words)
+  draft_v2.md              current draft (about 11,500 words)
   archive/                 earlier drafts and the strict review of draft 1
 
 simulation/

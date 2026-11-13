@@ -6,7 +6,7 @@
 - **[TO WRITE]** marks a place where I still have to write my own view. The paper is stronger when my view is clearly separate from the evidence.
 - **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
 - The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
-- This draft is about 10,800 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
+- This draft is about 11,500 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
 **How this paper was made**
 - **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
@@ -561,7 +561,7 @@ So before using AI people on new topics, I tested them on three classic experime
 3. **Whoever sets the default sets the outcome.** In the simulation and the business cases, owning the default (the pre-ticked box, the pre-installed app, the "normal" belief) is the strongest move.
 4. **Being smart isn't enough; time is.** Careful thinkers resist only when they are given time. Urgency is the trick that disarms them. The best simple defence is to slow down.
 5. **Confirmation bias cuts both ways.** It blocks extreme influencers and locks in division, but moderate-sounding messages slip through.
-6. **People trust people, not ads.** In every AI-people topic, a neighbour's or cousin's story beat advertising, even among AI people who called the ad a lie (Section 6.7). Bernays understood this in 1928.
+6. **People trust people, not ads.** In every everyday-choice topic, a neighbour's or cousin's story beat advertising, even among AI people who called the ad a lie (Section 6.8). Bernays understood this in 1928.
 7. **The messenger is the trick.** The same fear works from a doctor and fails from an ad. Authority channels (doctors, counsellors, agents, relatives) deserve more regulation than ads do.
 8. **Information helps the comfortable more than the desperate.** Disclosure undid most tricks, but not for people in a money crisis or under family shame.
 9. **In politics, the label can stand in for the argument.** Supporters judged the same policy by who proposed it, and mostly by whom they were against. Section 3.2 still holds: this doesn't mean people switch sides easily. It means their side tells them what to think about a new issue.
@@ -697,6 +697,6 @@ The rule-based simulation's big effects come from choices where people start at 
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 7 and 9 in your own words.**
-5. **Decide on length.** This draft is about 10,800 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
+5. **Decide on length.** This draft is about 11,500 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
 6. **Add one figure:** a bar chart of the Canada table in Section 6.4 (10% → 25% → 65% → 10%) would show the paper's main point at a glance.
 7. **Optional:** test 2–3 situations with real classmates (with consent and an ethics check) to see whether the AI people's directions hold.
