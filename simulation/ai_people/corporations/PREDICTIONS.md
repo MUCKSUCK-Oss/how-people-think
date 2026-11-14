@@ -1,5 +1,5 @@
 # Corporations: design and predictions
-*DRAFT, 14 Nov 2026. Written BEFORE any data and built from `RESEARCH.md`. Waiting for Maulik's approval; it gets committed again (final) before the pilot runs.*
+*Final, 14 Nov 2026. Written BEFORE any data and built from `RESEARCH.md`. Maulik approved it on 14 Nov, and it was committed before the pilot ran.*
 
 ## The main question
 Across every earlier topic, **loud tricks** (hype, countdowns, influencers) were spotted and backfired, while **quiet ones** (a default, a friend, a doctor) worked. Real companies' most profitable tricks are quiet: fees that appear at the end, and cancelling made tiring. **Does quiet beat loud when a company does it?**
