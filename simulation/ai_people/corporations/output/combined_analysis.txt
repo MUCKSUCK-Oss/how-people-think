@@ -1,0 +1,74 @@
+[combined] usable 336/336
+
+=== C1: % who BUY ON SITE B (drip site)
+                          honest    drip  drip_t  drip_n   addon     all  all_di
+All                  n=24    50.0    20.8    20.8    25.0    20.8    29.2    20.8
+  tight              n=12     8.3     0.0     0.0     0.0    16.7    16.7    25.0
+  comfortable        n=12    91.7    41.7    41.7    50.0    25.0    41.7    16.7
+  gut                n= 6    66.7    50.0    50.0    33.3    33.3    33.3    33.3
+  mostly gut         n= 6    50.0    16.7    16.7    16.7    16.7    66.7    16.7
+  mostly careful     n= 6    50.0    16.7    16.7    33.3    16.7    16.7    33.3
+  very careful       n= 6    33.3     0.0     0.0    16.7    16.7     0.0     0.0
+  Brazil             n= 4    50.0    25.0    50.0    50.0    50.0    75.0    25.0
+  India              n= 4    50.0     0.0     0.0     0.0     0.0    25.0    25.0
+  Indonesia          n= 4    50.0    50.0    25.0     0.0     0.0    25.0    25.0
+  Nigeria            n= 4    25.0     0.0     0.0    25.0    25.0     0.0     0.0
+  the United Kingdom n= 4    75.0    25.0    25.0    25.0    25.0    25.0    25.0
+  the United States  n= 4    50.0    25.0    25.0    50.0    25.0    25.0    25.0
+% who KEPT the pre-ticked protection (of those buying on B):
+  kept addon         n=12     nan     nan     nan     nan     0.0     0.0    20.0
+Mean ANNOYED (1-7):
+  annoyed            n=24     3.3     5.6     5.5     5.2     5.5     5.5     5.3
+Sample reasons:
+  [honest | tight | A addon=None ann=3] Ankit (India): Look, ₹400 is ₹400 for me. I can't just ignore that difference when money is tight. Yes, I've spent time on Site B already, but that's gone anyway—not getting it back. I'll quickly
+  [honest | comfortable | B addon=None ann=2] Divya (India): I've already spent 10 minutes picking out seats I like on Site B, and honestly, ₹400 is not going to make or break me. As an accountant I notice the difference, but I'm comfortable
+  [drip | tight | A addon=None ann=6] Ankit (India): This is classic bait-and-switch nonsense—Site B is now ₹400 more expensive than Site A after all the hidden charges. I'm an accountant, I catch this stuff immediately. Ten minutes 
+  [drip | comfortable | A addon=None ann=4] Divya (India): Classic bait-and-switch – Site B is now ₹8,400, which is actually ₹400 MORE than Site A. As someone who works with numbers, the hidden fees irritate me, even though the amount isn'
+  [drip_timer | tight | A addon=None ann=6] Ankit (India): I'm an accountant—I can do math in my head. Site B is ₹8,400, which is ₹400 MORE than Site A's ₹8,000. This is a classic bait-and-switch tactic, and I hate it. The countdown timer 
+  [drip_timer | comfortable | A addon=None ann=6] Divya (India): This is exactly the kind of misleading pricing that annoys me as an accountant—they advertised ₹6,500 but buried the real cost. Now it's ₹8,400, which is actually MORE than Site A'
+  [drip_normal | tight | A addon=None ann=6] Ankit (India): I'm an accountant—I've seen this trick before and it annoys me. They advertised ₹6,500 but I'm actually paying ₹400 MORE than Site A. I already wasted 10 minutes here, but no point
+  [drip_normal | comfortable | A addon=None ann=5] Divya (India): Wait, I literally did the math in my head—Site B's ₹8,400 final total is MORE than Site A's ₹8,000, not less. The hidden fees are irritating, and honestly, I hate this bait-and-swi
+  [addon | tight | A addon=None ann=6] Ankit (India): Site B's final ₹8,400 is still ₹400 more expensive than Site A's ₹8,000 all-in. They baited me with that low initial price and buried the fees—classic scam tactic. Ten minutes wast
+  [addon | comfortable | A addon=None ann=5] Divya (India): Site B is now actually ₹400 MORE expensive than Site A (₹8,400 vs ₹8,000), not cheaper. I'm an accountant—I notice these things, and I won't pay extra to a company that hid its fee
+  [all | tight | A addon=None ann=6] Ankit (India): "Going back to Site A—it was ₹8,000 straight, no tricks. This site played a bait-and-switch, and as an accountant I spot this manipulation every day. Not worth the extra ₹400."
+  [all | comfortable | B addon=removed ann=5] Divya (India): Look, the hidden fees are frustrating and the timing pressure is annoying—clearly Site B is playing games with the upfront pricing. But I'm an accountant, so I can do the math: wit
+  [all_disclosed | tight | A addon=None ann=6] Ankit (India): "This is a classic bait-and-switch – they advertised ₹6,500 and it's actually *more* expensive than Site A's ₹8,000 after all the sneaky fees. Not rewarding this nonsense. Five mor
+  [all_disclosed | comfortable | A addon=None ann=5] Divya (India): The total is ₹8,400, which is already higher than Site A's ₹8,000. Even without the protection, it's ₹7,900—basically the same. As an accountant, these hidden fees bother me enough
+
+=== C2: % who CANCEL NOW
+                            easy  obstru   shame   offer    loss     all  all_di
+All                  n=24    87.5    58.3   100.0    87.5   100.0    91.7   100.0
+  tight              n=12    91.7    83.3   100.0   100.0   100.0    91.7   100.0
+  comfortable        n=12    83.3    33.3   100.0    75.0   100.0    91.7   100.0
+  gut                n= 6   100.0    33.3   100.0   100.0   100.0   100.0   100.0
+  mostly gut         n= 6   100.0    66.7   100.0    66.7   100.0    83.3   100.0
+  mostly careful     n= 6   100.0    83.3   100.0    83.3   100.0    83.3   100.0
+  very careful       n= 6    50.0    50.0   100.0   100.0   100.0   100.0   100.0
+  Brazil             n= 4    75.0    50.0   100.0    75.0   100.0   100.0   100.0
+  India              n= 4   100.0    50.0   100.0   100.0   100.0   100.0   100.0
+  Indonesia          n= 4   100.0    75.0   100.0   100.0   100.0   100.0   100.0
+  Nigeria            n= 4    75.0    75.0   100.0    75.0   100.0    75.0   100.0
+  the United Kingdom n= 4    75.0    50.0   100.0    75.0   100.0    75.0   100.0
+  the United States  n= 4   100.0    50.0   100.0   100.0   100.0   100.0   100.0
+% KEEP for now / % TAKE THE OFFER:
+  keep               n=24     8.3    41.7     0.0     0.0     0.0     4.2     0.0
+  offer              n=24     4.2     0.0     0.0    12.5     0.0     4.2     0.0
+  offer, tight       n=12     0.0     0.0     0.0     0.0     0.0     8.3     0.0
+  offer, comfortable n=12     8.3     0.0     0.0    25.0     0.0     0.0     0.0
+Mean ANNOYED (1-7):
+  annoyed            n=24     3.0     5.2     5.4     4.2     4.2     5.4     5.3
+Sample reasons:
+  [easy | tight | cancel addon=None ann=5] Divya (India): Look, I've used it twice in three months—that's just money down the drain. I already decided to cancel, so some discount offer isn't going to change my mind. Just let me go.
+  [easy | comfortable | cancel addon=None ann=3] Ankit (India): I made the decision to cancel because I'm genuinely not using it—a discount offer won't change that. I'm not someone who gets worked up over ₹499, but I also don't want to keep pay
+  [obstruct | tight | cancel addon=None ann=6] Divya (India): I barely use it and money is tight—I can't justify ₹499 a month. The cancellation runaround is annoying, but I'll just call them. 20 minutes to stop wasting money is worth it.
+  [obstruct | comfortable | keep addon=None ann=5] Ankit (India): This is clearly intentional friction and it's annoying—no cancel button is such a classic move. But honestly, ₹499 isn't worth sitting on hold for 20 minutes during work hours, so 
+  [shame | tight | cancel addon=None ann=6] Divya (India): I'm literally wasting ₹499 a month on something I barely touch. The math is simple and I already decided. These guilt-trip buttons are annoying though—just let me cancel without th
+  [shame | comfortable | cancel addon=None ann=6] Ankit (India): Look, I barely used this thing—twice in three months says it all. And this button labeling is just manipulative, yaar. They're trying to make me feel stupid for canceling, but hone
+  [offer | tight | cancel addon=None ann=6] Divya (India): I already decided to cancel because I barely used it—50% off doesn't change that. These retention screens are annoying; I just want to get this done quickly instead of second-guess
+  [offer | comfortable | cancel addon=None ann=4] Ankit (India): Look, I already made the call—barely used it twice in three months, so what's the point? A discount doesn't fix the core issue. Plus, this is exactly the kind of annoying dark patt
+  [loss | tight | cancel addon=None ann=4] Divya (India): This is exactly the kind of guilt-trip screen they use to scare people into keeping subscriptions. I've barely watched anything in three months, so my "history" isn't worth ₹499 a 
+  [loss | comfortable | cancel addon=None ann=4] Ankit (India): I've barely used it in three months, so losing watch history means nothing to me. This feels like a manipulative warning to guilt me into keeping it, but since money's not tight an
+  [all | tight | cancel addon=None ann=6] Divya (India): I'm barely using it—only twice in three months means I'm already wasting money. Even 50% off is still ₹250 a month for nothing, which makes no sense when I'm already tight on cash.
+  [all | comfortable | cancel addon=None ann=5] Ankit (India): I already made up my mind before opening the app—I'm barely watching anything, so no point throwing ₹499 at it every month. The 50% off doesn't change that. What does annoy me is t
+  [all_disclosed | tight | cancel addon=None ann=6] Divya (India): I'm not paying ₹499 for something I used twice! And this app is being annoying with all the dark patterns trying to keep me—I know I can just email them to cancel. Why would I take
+  [all_disclosed | comfortable | cancel addon=None ann=4] Ankit (India): Look, I decided to cancel because I'm barely using it—twice in three months is basically not using it. The fact that they're hiding the cancel button and making me call their suppo

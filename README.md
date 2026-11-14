@@ -10,7 +10,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ## Main findings so far
 
-**AI-people experiments** (about 2,000 decisions, 6 topics, predictions saved before each run):
+**AI-people experiments** (about 2,350 decisions, 7 topics, predictions saved before each run):
 
 | Finding | Example |
 |---|---|
@@ -21,6 +21,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 | Party supporters judge a policy by who proposed it | The same policy scored 5.5 of 7 from their own party and 2.9 from the rival, in all 8 countries tested |
 | Fake "local" accounts move the undecided, and exposing them backfires on the sender | 12 fake parent posts cut vaccination 62% → 31% (undecided parents 88% → 0%); a label saying a foreign government ran them brought it to 75% |
 | FOMO works through friends, and "9 in 10 lose" only shrinks the bet | A friend's gains: careful people investing 12% → 31%. "9 in 10 lose money": 60% → 56%. The friend admitting their losses: → 29% |
+| Hidden fees backfire when an honest price is in view; friction works until loud tricks expose it | Honest but dearer ticket site kept 50%, fee-at-checkout site 21%. Phone-only cancelling kept 42% paying; adding guilt buttons on top: 8% |
 | Unfairness angers people more than privacy loss | "Other users see this seat for $279" cut flight booking from 43% to 14% |
 
 **Rule-based simulation** (1,000 simulated people, tricks tuned to published experiments):
@@ -53,6 +54,7 @@ simulation/
     politics/              the same policy under different party labels, 8 countries
     state_ops/             fake-account campaigns (secret agencies, meme wars), 8 countries
     fomo/                  FOMO and risky investing, 8 countries
+    corporations/          drip pricing and subscription traps, 6 countries
     earbuds_pilot/         the first test of the method (superseded)
     RELATED_WORK.md        papers on using AI models to simulate people
 
@@ -113,14 +115,15 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 
 ## Research rules followed
 1. **Research each topic before simulating it.**
-2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (44 of 78 fully right so far).
+2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (51 of 94 fully right so far).
 3. **Small pilot first.** If a design change is needed, record it before re-running.
 4. **Label what was actually read.** Most papers were checked through abstracts or reliable summaries; anything unconfirmed is marked **[CHECK]**.
 5. **Balance:** cases from India and abroad, and from both left and right.
 
 ## Status
 - **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries), secret agencies and meme wars (fake-account campaigns, 8 countries), FOMO (risky investing, 8 countries).
-- **Next:** corporate dark patterns, cookie-consent pop-ups, films as propaganda.
+- **Simulated, not yet in the paper:** corporations (drip pricing and subscription traps, 6 countries).
+- **Next:** cookie-consent pop-ups, films as propaganda.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 
 ## Copyright and privacy
