@@ -6,7 +6,7 @@
 - **[TO WRITE]** marks a place where I still have to write my own view. The paper is stronger when my view is clearly separate from the evidence.
 - **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
 - The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
-- This draft is about 13,500 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
+- This draft is about 14,500 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
 **How this paper was made**
 - **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
@@ -22,7 +22,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 2. **Experiments:** what modern psychology has measured.
 3. **Real cases:** about 155 podcast and lecture episodes (the *WTF* podcast with Nikhil Kamath and the *Predictive History* channel by Jiang Xueqin), plus news investigations and regulator reports from India and abroad.
 4. **A rule-based simulation:** 1,000 simulated people choosing between two equally good options while a "manipulator" uses six tricks. Where a published experiment exists, each trick's strength is tuned to it.
-5. **AI people:** about 2,000 decisions by AI-model "people" with life stories from India, the USA and six other countries, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, taking an instant-loan app or a "personalised" price, judging the same policy under different party labels, scrolling a feed full of fake "local parent" accounts, and deciding whether to put savings into a token "everyone" is buying, mostly in eight countries per topic.
+5. **AI people:** about 2,350 decisions by AI-model "people" with life stories from India, the USA and six other countries, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, taking an instant-loan app or a "personalised" price, judging the same policy under different party labels, scrolling a feed full of fake "local parent" accounts, deciding whether to put savings into a token "everyone" is buying, buying tickets with fees added at checkout, and cancelling a subscription, mostly in six to eight countries per topic.
 
 **Rule-based simulation:**
 - Each trick alone moves a 50/50 choice by 6–21 percentage points.
@@ -39,6 +39,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 - **The same policy, word for word, was rated 5.5 out of 7 from a supporter's own party and 2.9 from the rival party**, in all eight countries. Most of the gap came from disliking the rival, and a fact-check barely changed it.
 - **Fake "local" accounts moved only the undecided** (from 88% to 0% vaccinating), and **revealing that a foreign government ran them backfired on the sender.**
 - **FOMO worked through friends, not influencers:** a friend's gains pulled in careful people, while "9 in 10 lose money" only made bets smaller.
+- **Companies' tricks:** fees added at checkout backfired when an honest price was in view, and making cancelling hard kept 42% paying, **until loud guilt-trip tricks were added on top and exposed it.**
 - **Honest disclosure undid most tricks, but not stories or desperation.**
 
 Both simulations are teaching tools, not proof about real people. Together with the other evidence, they suggest one main point: **the tactics are old, only the tools are new, and they work best when they come through people we trust, when they are stacked, and when people are rushed or desperate.**
@@ -167,7 +168,7 @@ Persuasion looks strong in other settings: when one source controls the informat
 2. they are rushed;
 3. they have no competing information.
 
-Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 5.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 6.10).
+Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 5.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 6.11).
 
 **[TO WRITE]** Which kind of choice in your life is most like an "I don't really care" choice that is easy to steer, and which is a choice where you'd resist?
 
@@ -432,7 +433,7 @@ So before using AI people on new topics, I tested them on three classic experime
 
 **Reading the tables:** a row starting with "+" adds one thing to the basic version (in the university tables, to the row above it). "All tricks" rows combine them.
 
-**Size:** 14–20 AI people per situation in the first three topics (48 in the politics, fake-account and FOMO topics), each seeing every version, so **one person moves a percentage by 2–7 points** (and by about 6 points within a group of 16). Small differences mean nothing; only large, consistent ones are reported as findings.
+**Size:** 14–20 AI people per situation in the first three topics (24–48 in the last four topics), each seeing every version, so **one person moves a percentage by 2–7 points** (and by about 6 points within a group of 16). Small differences mean nothing; only large, consistent ones are reported as findings.
 
 ### 6.4 Universities: the agent, the brochure and the neighbour's son
 *(240 decisions, 20 people per situation: 10 students and 10 parents.)*
@@ -611,9 +612,47 @@ So before using AI people on new topics, I tested them on three classic experime
 
 ⚠ **Limits:** the AI people are almost certainly more careful with money than real 22-year-olds (compare SEBI's 93%). Every version showed the 40%-drop warning, and real FOMO builds over weeks, not one reading.
 
-### 6.10 What the topics share
+### 6.10 Corporations: quiet tricks, loud tricks
+*(336 decisions; 48 AI people in India, the USA, the UK, Brazil, Nigeria and Indonesia, half on tight incomes. Two situations, 24 people each.)*
+
+**What the research shows.**
+- **The tricks are common.** A crawl of about 11,000 shopping sites found "dark patterns" on about 11%, more on popular sites (Mathur et al. 2019). An EU check of 399 online shops found 37% using at least one, including 42 with fake countdown timers (European Commission 2023). India banned 13 of them in 2023, including drip pricing, basket sneaking and subscription traps (CCPA 2023), and moved from self-audits to fines in 2025.
+- **They are expensive when caught.** Amazon paid **$2.5 billion** (2025) over Prime sign-ups without clear consent and cancelling made hard on purpose, affecting about 35 million customers. Epic Games refunded $245 million over buttons that triggered unwanted purchases. The UK made Booking.com and five other hotel sites stop "only 1 room left" pressure (2019).
+- **The quiet tricks work.** When StubHub randomly showed half its US users fees only at checkout, they spent about **21% more**, and even experienced users were fooled (Blake et al. 2021). In a field experiment, auto-renewing subscriptions kept far more subscribers, because many people fail to cancel subscriptions they'd rather not have.
+
+**The test.** Across every earlier topic, loud tricks backfired and quiet ones worked. Real companies' most profitable tricks are quiet, so I tested two of them against loud ones.
+- **C1:** buying 2 concert tickets. Site A showed about $96 all-in. Site B was either honest from the start ($101), or showed $78 and added fees at the final step, after 10 minutes of choosing seats (total $101).
+- **C2:** cancelling a $12-a-month streaming service used twice in 3 months.
+
+| C1: concert tickets | Bought on Site B |
+|---|---|
+| **B honest from the start, $5 dearer** | **50%** (comfortable people 92%) |
+| **B shows $78, adds fees at checkout** | **21%** |
+| + "seats held for 04:59" | 21% |
+| + a pre-ticked "ticket protection" | 21% (nobody kept the protection) |
+| All tricks | 29% |
+
+| C2: cancelling a subscription | Cancelled now |
+|---|---|
+| One "Cancel" button | 88% |
+| **No cancel button: phone only, 9–5, about 20 minutes on hold** | **58%** |
+| Guilt buttons ("No, I prefer being bored") | 100% |
+| "Stay for 50% off" | 88% |
+| "You'll lose your watch history forever" | 100% |
+| **All four together** | **92%** |
+
+**Findings:**
+- **Honest beat cheap-looking.** A slightly dearer honest site kept half its buyers (*"five bucks doesn't move the needle, and I've already picked my seats"*). The same site with fees added at checkout kept 21% (*"Classic bait-and-switch"*). This is the opposite of the StubHub result, and the reason matters: here, people knew the honest competitor's total. **All-in pricing laws work by creating exactly that comparison.**
+- **Friction was the only trick that worked.** With phone-only cancelling, 42% kept paying "for now" (*"I'm not spending 20 minutes on hold during work hours for $12"*). Friction doesn't persuade anyone; it just makes leaving more effort than staying.
+- **Loud tricks did nothing or backfired.** Guilt buttons and the loss warning raised cancelling to 100%, and the countdown added nothing.
+- **Adding loud tricks on top of a quiet one exposed it.** Phone-only cancelling alone kept 42%. With guilt buttons, the loss warning and the offer added, only 8% stayed: *"I can spot a dark pattern from a mile away."* **Stacking doesn't always add up.** This challenges the rule-based simulation's assumption (Section 5.2), which only holds while the stack goes unnoticed.
+- **7 of 16 predictions were right, 2 partly, 7 wrong.** I had treated drip pricing as a quiet trick, but a price that jumps at the last step is loud once an honest price is in view.
+
+⚠ **Limits:** AI people read every line, while real people skim, so pre-ticked boxes and small fees are noticed far more here. The real effects of quiet tricks are probably **bigger** than these results show. In C2, the person had firmly decided to cancel, so most versions were near 100%.
+
+### 6.11 What the topics share
 1. **"People like us" is the strongest trick in every everyday-choice topic.** The neighbour's son in Canada, the neighbour who died of a heart attack, the coworker's brother-in-law, a crowd of fake "local parents" and a friend's crypto gains each moved AI people more than any ad. Many said outright that the ad was a lie, then followed the story. Real people do the same: patient anecdotes change treatment choices even when correct statistics are shown (Fagerlin, Wang & Ubel 2005).
-2. **Loud tricks get spotted; quiet ones don't.** Hype, countdowns and "special price" discounts often backfired, and so did the finance influencer and the trading app's confetti. A doctor's warning, a relative's story and the shame of asking family worked.
+2. **Loud tricks get spotted; quiet ones don't.** Hype, countdowns and "special price" discounts often backfired, and so did the finance influencer, the trading app's confetti and the guilt-trip cancel buttons. A phone-only cancellation (friction) worked. A doctor's warning, a relative's story and the shame of asking family worked.
 3. **The messenger matters more than the message.** The same fear works from a doctor and fails from an ad, and the same policy is welcomed from one's own party and rejected from the rival. This is Bernays's "get the doctors to say it" (Section 2.2), now measured.
 4. **Honest disclosure is the best fix, but it has two limits:**
    - it works well against agents and ads (65% → 10%), and badly against stories and desperation (still 20–43%);
@@ -622,6 +661,7 @@ So before using AI people on new topics, I tested them on three classic experime
 6. **Facts change what people know more easily than what they choose.** Honest loan terms didn't stop people in a crisis, a fact-check didn't dent party supporters' backing, and "9 in 10 lose money" made people bet smaller but not stay out.
 7. **The best fix answers the story, not just the odds.** Revealing who ran the fake accounts, or the friend admitting their losses, worked far better than a general warning or a statistic.
 8. **Manipulation works best on the undecided.** In the fake-account study, only unsure parents moved. This may be why studies of real troll campaigns find small *average* effects.
+9. **A loud trick can expose a quiet one.** Adding guilt buttons to a hard-to-cancel subscription made people see the whole thing as manipulation, and almost all cancelled. Stacking only works while it goes unnoticed.
 
 ---
 
@@ -629,11 +669,11 @@ So before using AI people on new topics, I tested them on three classic experime
 
 ### 7.1 The main points
 1. **Old tactics, new tools.** Every trick in the simulation was described by Le Bon, Bernays, Lippmann or Machiavelli long before experiments measured it. What's new is scale, speed and the ability to test and stack tricks automatically.
-2. **Stacking is the danger.** Each trick alone looks small (6–21 points). Combined, they move most people. A single regulator banning a single trick may miss the stack.
+2. **Stacking is the danger, while nobody notices.** Each trick alone looks small (6–21 points). Combined, they move most people. A single regulator banning a single trick may miss the stack. But the AI-people results add a condition: when one trick in the stack is loud, people may see the whole stack as manipulation (Section 6.10).
 3. **Whoever sets the default sets the outcome.** In the simulation and the business cases, owning the default (the pre-ticked box, the pre-installed app, the "normal" belief) is the strongest move.
 4. **Being smart isn't enough; time is.** Careful thinkers resist only when they are given time. Urgency is the trick that disarms them. The best simple defence is to slow down.
 5. **Confirmation bias cuts both ways.** It blocks extreme influencers and locks in division, but moderate-sounding messages slip through.
-6. **People trust people, not ads.** In every everyday-choice topic, a neighbour's or cousin's story beat advertising, even among AI people who called the ad a lie (Section 6.10). Bernays understood this in 1928.
+6. **People trust people, not ads.** In every everyday-choice topic, a neighbour's or cousin's story beat advertising, even among AI people who called the ad a lie (Section 6.11). Bernays understood this in 1928.
 7. **The messenger is the trick.** The same fear works from a doctor and fails from an ad. Authority channels (doctors, counsellors, agents, relatives) deserve more regulation than ads do.
 8. **Information helps the comfortable more than the desperate.** Disclosure undid most tricks, but not for people in a money crisis or under family shame.
 9. **In politics, the label can stand in for the argument.** Supporters judged the same policy by who proposed it, and mostly by whom they were against. Section 3.2 still holds: this doesn't mean people switch sides easily. It means their side tells them what to think about a new issue.
@@ -663,7 +703,8 @@ The rule-based simulation's big effects come from choices where people start at 
    - "Very careful" AI people are unrealistically rational.
    - Their reasons sometimes include invented details ("my coworker's sister went there").
    - They may carry stereotypes (the husband/wife gap in Section 6.5).
-   - Only one AI model (Claude Haiku) was used, with 14–20 people per situation (48 in the politics, fake-account and FOMO topics).
+   - Only one AI model (Claude Haiku) was used, with 14–20 people per situation in the first three topics and 24–48 in the last four.
+   - AI people read every line, while real people skim, so quiet tricks such as pre-ticked boxes and small fees are probably weaker here than in real life (Section 6.10).
    - In the politics topic, party loyalty was written into each AI person, so the label effect is partly built in (Section 6.7). In the same way, trust in vaccines (Section 6.8) and attitude to risk (Section 6.9) were written in, which is why some groups barely moved.
    - AI people are probably more careful with money than real young traders (Section 6.9).
    - Several pilots had to be redesigned after hitting a floor (all changes recorded before re-running).
@@ -677,7 +718,7 @@ The rule-based simulation's big effects come from choices where people start at 
    - **What this paper did about it:**
      - It leans on effects that **have** been repeated many times (defaults, framing, repetition, social proof).
      - It flags fragile ones (the decoy effect, prebunking, hotel towels).
-     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (44 of 78 fully right across the six topics), and they are reported as wrong.
+     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (51 of 94 fully right across the seven topics), and they are reported as wrong.
 
 ---
 
@@ -700,10 +741,12 @@ The rule-based simulation's big effects come from choices where people start at 
 - Bail, C. A., et al. (2020). Assessing the Russian Internet Research Agency's impact on the political attitudes and behaviors of American Twitter users in late 2017. *PNAS*, 117(1), 243–250. ✔ (via summary)
 - Betzer, et al. (2025). State media tagging does not affect perceived tweet accuracy: Evidence from a U.S. Twitter experiment in 2022. *Harvard Kennedy School Misinformation Review*. ✔ (via summary) [CHECK author list]
 - Bernays, E. (1928). *Propaganda*. Horace Liveright.
+- Blake, T., Moshary, S., Sweeney, K., & Tadelis, S. (2021). Price salience and product choice. *Marketing Science*, 40(4), 619–636. ✔ (via summary)
 - Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch's line judgment task. *Psychological Bulletin*, 119(1). [CHECK]
 - Brader, T., & Tucker, J. A. (2012). Following the party's lead: Party cues, policy opinion, and the power of partisanship in three multiparty systems. *Comparative Politics*, 44(4). ✔ (via summary)
 - Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). Emotion shapes the diffusion of moralized content in social networks. *PNAS*, 114(28), 7313–7318. ✔
 - Chetty, R., Deming, D. J., & Friedman, J. N. (2023). Diversifying society's leaders? The determinants and causal effects of admission to highly selective private colleges. NBER Working Paper 31492 (published in *Quarterly Journal of Economics*, 2026, 141(1), 51–145). ✔
+- Central Consumer Protection Authority, India (2023). Guidelines for Prevention and Regulation of Dark Patterns, 2023. ✔ (via summary)
 - Cialdini, R. B. (1984/2021). *Influence: The Psychology of Persuasion*. Harper Business.
 - Cohen, G. L. (2003). Party over policy: The dominating impact of group influence on political beliefs. *Journal of Personality and Social Psychology*, 85(5), 808–822. ✔
 - Coppock, A., Hill, S. J., & Vavreck, L. (2020). The small effects of political advertising are small regardless of context, message, sender, or receiver. *Science Advances*, 6(36).
@@ -713,6 +756,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Department of Pharmaceuticals, Government of India (2024). Uniform Code for Pharmaceutical Marketing Practices (UCPMP) 2024.
 - Eady, G., Paskhalis, T., Zilinsky, J., Bonneau, R., Nagler, J., & Tucker, J. A. (2023). Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior. *Nature Communications*, 14, 62. ✔ (via summary)
 - EU DisinfoLab (2020). *Indian Chronicles: deep dive into a 15-year operation targeting the EU and UN to serve Indian interests*. ✔ (via summary)
+- European Commission (2023, 30 January). Consumer protection: manipulative online practices found on 148 out of 399 online shops screened. Press release IP/23/418. ✔
 - Fagerlin, A., Wang, C., & Ubel, P. A. (2005). Reducing the influence of anecdotal reasoning on people's health care decisions: Is a picture worth a thousand statistics? *Medical Decision Making*, 25(4), 398–405. ✔
 - Frederick, S., Lee, L., & Baskin, E. (2014). The limits of attraction. *Journal of Marketing Research*, 51(4).
 - Gupta, A., Howell, S. T., Yannelis, C., & Gupta, A. (2024). Owner incentives and performance in healthcare: Private equity investment in nursing homes. *Review of Financial Studies*. ✔
@@ -726,6 +770,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Huber, J., Payne, J. W., & Puto, C. (1982). Adding asymmetrically dominated alternatives. *J. Consumer Research*, 9.
 - Jensen, R. (2010). The (perceived) returns to education and the demand for schooling. *Quarterly Journal of Economics*, 125(2). ✔ (via summary)
 - Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? *Science*, 302, 1338–1339. ✔ (Same experiment also reported in Johnson & Goldstein 2004, *Transplantation*, 78(12).)
+- Federal Trade Commission (2025, 25 September). FTC secures historic $2.5 billion settlement against Amazon (Prime enrolment and cancellation). ✔ (via coverage)
 - Kalla, J., & Broockman, D. (2018). The minimal persuasive effects of campaign contact in general elections. *APSR*, 112(1).
 - Kannan, S., Bruch, J. D., & Song, Z. (2023). Changes in hospital adverse events and patient outcomes associated with private equity acquisition. *JAMA*, 330(24), 2365–2375. ✔
 - Kaustia, M., & Knüpfer, S. (2012). Peer performance and stock market entry. *Journal of Financial Economics*, 104(2), 321–338. ✔ (via summary)
@@ -737,6 +782,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Luguri, J., & Strahilevitz, L. (2021). Shining a light on dark patterns. *J. Legal Analysis*, 13.
 - Machiavelli, N. (1532). *The Prince*.
 - Maron, D. J., et al. (ISCHEMIA Research Group) (2020). Initial invasive or conservative strategy for stable coronary disease. *New England Journal of Medicine*, 382, 1395–1407. [CHECK]
+- Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. *Proceedings of the ACM on Human-Computer Interaction*, 3(CSCW). ✔
 - Matz, S. C., Kosinski, M., Nave, G., & Stillwell, D. J. (2017). Psychological targeting as an effective approach to digital mass persuasion. *PNAS*, 114(48), 12714–12719. ✔
 - McPherson, M., Smith-Lovin, L., & Cook, J. (2001). Birds of a feather. *Annual Review of Sociology*, 27.
 - Mercier, H. (2017). How gullible are we? *Review of General Psychology*, 21(2).
@@ -782,6 +828,6 @@ The rule-based simulation's big effects come from choices where people start at 
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 7 and 9 in your own words.**
-5. **Decide on length.** This draft is about 13,500 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
+5. **Decide on length.** This draft is about 14,500 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
 6. **Add one figure:** a bar chart of the Canada table in Section 6.4 (10% → 25% → 65% → 10%) would show the paper's main point at a glance.
 7. **Optional:** test 2–3 situations with real classmates (with consent and an ethics check) to see whether the AI people's directions hold.

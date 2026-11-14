@@ -39,7 +39,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ```
 paper/                     The paper
-  draft_v2.md              current draft (about 13,500 words)
+  draft_v2.md              current draft (about 14,500 words)
   archive/                 earlier drafts and the strict review of draft 1
 
 simulation/
@@ -121,8 +121,7 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 5. **Balance:** cases from India and abroad, and from both left and right.
 
 ## Status
-- **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries), secret agencies and meme wars (fake-account campaigns, 8 countries), FOMO (risky investing, 8 countries).
-- **Simulated, not yet in the paper:** corporations (drip pricing and subscription traps, 6 countries).
+- **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries), secret agencies and meme wars (fake-account campaigns, 8 countries), FOMO (risky investing, 8 countries), corporations (drip pricing and subscription traps, 6 countries).
 - **Next:** cookie-consent pop-ups, films as propaganda.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 
