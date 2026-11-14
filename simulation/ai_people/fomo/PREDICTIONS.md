@@ -57,3 +57,20 @@
 ## Run plan
 - Pilot: 24 people × 8 versions = **192 decisions** (about 35–40 minutes).
 - An extra batch only if the pilot passes the checks, then pooled.
+
+---
+## Pilot result (added after the pilot, before any more runs)
+- **The checks:**
+  - **It parses:** 192/192.
+  - **No overall floor or ceiling:** base is 58%, all is 58%.
+  - **The answers are in character.**
+  - ⚠ **Within groups:** careful people were near 0% and risk-lovers near 100% in most versions, so the average-risk group and the AMOUNT measure carry most of the information. This comes from the design (the risk attitudes were written into the personas). It is not changed, so the extra batch can be pooled.
+  - ⚠ **Base is higher than predicted (58% vs 15–40%):** many people say "yes, but only 5–15%". **AMOUNT (% of savings) is therefore the better measure of FOMO**, and it is reported alongside INVEST. This is a finding about the prediction, not a reason to change the design.
+- **Early numbers (24 people):**
+
+| | base | friend | influencer | crowd | app | all | + loss rate | + silent losers |
+|---|---|---|---|---|---|---|---|---|
+| Invest | 58% | 67% | 46% | 67% | 62% | 58% | 58% | 38% |
+| Average % of savings | 16 | 17 | 10 | 17 | 15 | 15 | 10 | 6 |
+
+- **Next:** an extra batch of 24 new people with the same design (`extra`), then pooled. Predictions unchanged.

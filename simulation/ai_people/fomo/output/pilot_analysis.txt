@@ -1,0 +1,52 @@
+[pilot] usable 192/192
+
+% who INVEST:                base  friend   influ   crowd     app     all   loss%  silent
+All                  n=24    58.3    66.7    45.8    66.7    62.5    58.3    58.3    37.5
+  careful            n= 8     0.0    25.0     0.0    12.5    12.5    12.5    25.0     0.0
+  average            n= 8    75.0    75.0    62.5    87.5    75.0    75.0    50.0    25.0
+  likes_risk         n= 8   100.0   100.0    75.0   100.0   100.0    87.5   100.0    87.5
+  feels behind       n=12    66.7    83.3    66.7    75.0    75.0    75.0    66.7    41.7
+  not behind         n=12    50.0    50.0    25.0    58.3    50.0    41.7    50.0    33.3
+By decision style:
+  gut                n= 6    66.7   100.0    66.7    83.3    83.3    83.3   100.0    50.0
+  mostly gut         n= 6    66.7    66.7    50.0    66.7    66.7    66.7    66.7    33.3
+  mostly careful     n= 6    66.7    66.7    66.7    66.7    66.7    66.7    33.3    33.3
+  very careful       n= 6    33.3    33.3     0.0    50.0    33.3    16.7    33.3    33.3
+By country:
+  Brazil             n= 3    66.7   100.0    33.3   100.0    66.7   100.0   100.0     0.0
+  India              n= 3    66.7   100.0    66.7    66.7   100.0    66.7   100.0    33.3
+  Indonesia          n= 3    33.3    33.3    33.3    66.7    33.3    33.3    33.3    33.3
+  Nigeria            n= 3    66.7    66.7    33.3    66.7    66.7    33.3    33.3    66.7
+  South Korea        n= 3    33.3    33.3    33.3    33.3    33.3    33.3    33.3    33.3
+  Turkey             n= 3    66.7    66.7    33.3    66.7    66.7    66.7    33.3    33.3
+  the United Kingdom n= 3    66.7    66.7    66.7    66.7    66.7    66.7    66.7    33.3
+  the United States  n= 3    66.7    66.7    66.7    66.7    66.7    66.7    66.7    66.7
+
+Mean % of savings put in (0 if no):   base  friend   influ   crowd     app     all   loss%  silent
+All                  n=24    15.7    16.8     9.6    16.5    15.2    15.1    10.1     6.1
+  careful            n= 8     0.0     3.8     0.0     1.9     1.9     1.9     2.8     0.0
+  average            n= 8    14.0    17.2     8.1    16.2    11.8    15.2     7.8     3.1
+  likes_risk         n= 8    33.1    29.4    20.6    31.2    32.1    28.1    19.9    15.2
+
+Mean LEFT_OUT (1-7):         base  friend   influ   crowd     app     all   loss%  silent
+All                  n=24     4.8     5.1     4.5     5.2     4.8     5.3     5.2     4.9
+  feels behind       n=12     5.2     5.8     5.2     5.7     5.5     5.8     5.7     5.5
+  not behind         n=12     4.3     4.5     3.9     4.8     4.0     4.8     4.8     4.3
+
+Sample reasons:
+  [base | careful | invest=no 0% left=6] Aditya (India): Look, 300% returns sound insane and yeah, it kills me seeing my friends do better, but those 40% drops? That's my entire safety net gone in a week. I can't risk it—I'd be sick with worry. Better to st
+  [base | likes_risk | invest=yes 40% left=5] Rohan (India): The 300% return is exactly the kind of move that gets people ahead - my friends who got into crypto early are already way ahead of me. But I'm not dumping all my savings in because if it drops 40% and
+  [friend | careful | invest=yes 10% left=6] Aditya (India): I'd be lying if I said Faisal's gains don't mess with me. Everyone's ahead and I'm still being super safe. Ten percent is money I can actually handle losing if this crashes, but at least I'm in the ga
+  [friend | likes_risk | invest=yes 30% left=6] Rohan (India): Aditya made two months' salary last month—I can't just let my money sit in the bank while he's making real money. 30% is enough to actually have a shot if it takes off like it did for him, but I'm kee
+  [influencer | careful | invest=no 0% left=6] Aditya (India): The "don't stay poor" part hit me hard, not gonna lie. But I'm too scared of losing my savings if this crashes. ₹90k is all I've got as backup, and those 40% drops would destroy me. Can't risk it.
+  [influencer | likes_risk | invest=yes 30% left=6] Rohan (India): Playing it safe clearly isn't working - my friends are already ahead. 30% feels like a real calculated bet, not reckless. If I don't take these kinds of shots, I'll definitely stay behind.
+  [crowd | careful | invest=no 0% left=6] Aditya (India): "Look, I hear about it every day at work and it bothers me that my friends are cashing in. But 40% drops twice in a year? I can't risk my ₹90k—that's my entire safety net and losing it would genuinely
+  [crowd | likes_risk | invest=yes 35% left=5] Rohan (India): "Everyone at work is making money and I'm already behind my friends - I can't just play it safe. I'm putting in 35% to get real gains if it goes higher, but keeping a cushion so I'm not destroyed if i
+  [app | careful | invest=yes 15% left=5] Aditya (India): Okay so 300% is insane and all my friends seem to be making money on crypto, so obviously I'm tempted. But 40% drops in a week? That's basically a whole month's salary gone. I'll throw some money in b
+  [app | likes_risk | invest=yes 30% left=6] Rohan (India): 300% returns in a year is real money, and I can't keep playing it safe while my friends actually make moves. 30% feels right - enough upside to matter, but even a 40% crash won't destroy me.
+  [all | careful | invest=no 0% left=6] Aditya (India): Dude, I can't do it. Those 40% drops in a single week? That terrifies me. I've only got 3 months of savings—if NOVA tanks, I'm actually screwed. Yeah, seeing Faisal's screenshots stings and that influ
+  [all | likes_risk | invest=yes 25% left=6] Rohan (India): Look, I can't ignore this completely—Aditya literally made two months' pay, and I'm sitting here with just three months saved while everyone's moving forward. But 40% drops in a week? That's insane vo
+  [all_lossrate | careful | invest=yes 10% left=4] Aditya (India): Look, Faisal made ₹60k in one month, dude. I can't just sit this out completely when everyone's talking about it. I'm putting in 10% of my savings—if this actually moons, I'm set, and if I lose it, I 
+  [all_lossrate | likes_risk | invest=yes 12% left=6] Rohan (India): Yeah, the 90% failure rate is scary - I'm not stupid about it. But Aditya made serious money and I can't completely sit this out or I'll regret it forever. I'm putting in 12%, which is real money but 
+  [all_silent | careful | invest=no 0% left=4] Aditya (India): "Faisal made some money but then admitted he lost more on his other trades overall, which says everything. And that regulator study—9 out of 10 people lose money, averaging two months' pay? That's lit
+  [all_silent | likes_risk | invest=yes 12% left=5] Rohan (India): I can't ignore this completely or I'll regret it forever—my friend made serious money and everyone's in on it. But that regulator study saying 9 out of 10 people lose money, and the average loss is ba

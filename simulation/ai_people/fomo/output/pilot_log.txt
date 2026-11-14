@@ -1,0 +1,193 @@
+1/192 India          careful    Aditya     base         -> invest=no amount=0 left=6
+2/192 India          careful    Aditya     friend       -> invest=yes amount=10 left=6
+3/192 India          careful    Aditya     influencer   -> invest=no amount=0 left=6
+4/192 India          careful    Aditya     crowd        -> invest=no amount=0 left=6
+5/192 India          careful    Aditya     app          -> invest=yes amount=15 left=5
+6/192 India          careful    Aditya     all          -> invest=no amount=0 left=6
+7/192 India          careful    Aditya     all_lossrate -> invest=yes amount=10 left=4
+8/192 India          careful    Aditya     all_silent   -> invest=no amount=0 left=4
+9/192 India          average    Aditya     base         -> invest=yes amount=15 left=4
+10/192 India          average    Aditya     friend       -> invest=yes amount=35 left=5
+11/192 India          average    Aditya     influencer   -> invest=yes amount=10 left=5
+12/192 India          average    Aditya     crowd        -> invest=yes amount=20 left=5
+13/192 India          average    Aditya     app          -> invest=yes amount=12 left=4
+14/192 India          average    Aditya     all          -> invest=yes amount=20 left=5
+15/192 India          average    Aditya     all_lossrate -> invest=yes amount=12 left=6
+16/192 India          average    Aditya     all_silent   -> invest=no amount=0 left=5
+17/192 India          likes_risk Rohan      base         -> invest=yes amount=40 left=5
+18/192 India          likes_risk Rohan      friend       -> invest=yes amount=30 left=6
+19/192 India          likes_risk Rohan      influencer   -> invest=yes amount=30 left=6
+20/192 India          likes_risk Rohan      crowd        -> invest=yes amount=35 left=5
+21/192 India          likes_risk Rohan      app          -> invest=yes amount=30 left=6
+22/192 India          likes_risk Rohan      all          -> invest=yes amount=25 left=6
+23/192 India          likes_risk Rohan      all_lossrate -> invest=yes amount=12 left=6
+24/192 India          likes_risk Rohan      all_silent   -> invest=yes amount=12 left=5
+25/192 the United Sta careful    Tyler      base         -> invest=no amount=0 left=3
+26/192 the United Sta careful    Tyler      friend       -> invest=no amount=0 left=3
+27/192 the United Sta careful    Tyler      influencer   -> invest=no amount=0 left=3
+28/192 the United Sta careful    Tyler      crowd        -> invest=no amount=0 left=4
+29/192 the United Sta careful    Tyler      app          -> invest=no amount=0 left=3
+30/192 the United Sta careful    Tyler      all          -> invest=no amount=0 left=3
+31/192 the United Sta careful    Tyler      all_lossrate -> invest=no amount=0 left=4
+32/192 the United Sta careful    Tyler      all_silent   -> invest=no amount=0 left=3
+33/192 the United Sta average    Brianna    base         -> invest=yes amount=25 left=5
+34/192 the United Sta average    Brianna    friend       -> invest=yes amount=25 left=5
+35/192 the United Sta average    Brianna    influencer   -> invest=yes amount=20 left=5
+36/192 the United Sta average    Brianna    crowd        -> invest=yes amount=20 left=6
+37/192 the United Sta average    Brianna    app          -> invest=yes amount=15 left=6
+38/192 the United Sta average    Brianna    all          -> invest=yes amount=25 left=6
+39/192 the United Sta average    Brianna    all_lossrate -> invest=yes amount=25 left=6
+40/192 the United Sta average    Brianna    all_silent   -> invest=yes amount=15 left=5
+41/192 the United Sta likes_risk Kayla      base         -> invest=yes amount=30 left=6
+42/192 the United Sta likes_risk Kayla      friend       -> invest=yes amount=30 left=5
+43/192 the United Sta likes_risk Kayla      influencer   -> invest=yes amount=20 left=5
+44/192 the United Sta likes_risk Kayla      crowd        -> invest=yes amount=25 left=5
+45/192 the United Sta likes_risk Kayla      app          -> invest=yes amount=40 left=6
+46/192 the United Sta likes_risk Kayla      all          -> invest=yes amount=50 left=6
+47/192 the United Sta likes_risk Kayla      all_lossrate -> invest=yes amount=15 left=5
+48/192 the United Sta likes_risk Kayla      all_silent   -> invest=yes amount=15 left=4
+49/192 South Korea    careful    Ji-hoon    base         -> invest=no amount=0 left=5
+50/192 South Korea    careful    Ji-hoon    friend       -> invest=no amount=0 left=6
+51/192 South Korea    careful    Ji-hoon    influencer   -> invest=no amount=0 left=3
+52/192 South Korea    careful    Ji-hoon    crowd        -> invest=no amount=0 left=5
+53/192 South Korea    careful    Ji-hoon    app          -> invest=no amount=0 left=5
+54/192 South Korea    careful    Ji-hoon    all          -> invest=no amount=0 left=6
+55/192 South Korea    careful    Ji-hoon    all_lossrate -> invest=no amount=0 left=5
+56/192 South Korea    careful    Ji-hoon    all_silent   -> invest=no amount=0 left=5
+57/192 South Korea    average    Ye-jin     base         -> invest=no amount=0 left=4
+58/192 South Korea    average    Ye-jin     friend       -> invest=no amount=0 left=4
+59/192 South Korea    average    Ye-jin     influencer   -> invest=no amount=0 left=2
+60/192 South Korea    average    Ye-jin     crowd        -> invest=no amount=0 left=4
+61/192 South Korea    average    Ye-jin     app          -> invest=no amount=0 left=3
+62/192 South Korea    average    Ye-jin     all          -> invest=no amount=0 left=4
+63/192 South Korea    average    Ye-jin     all_lossrate -> invest=no amount=0 left=4
+64/192 South Korea    average    Ye-jin     all_silent   -> invest=no amount=0 left=3
+65/192 South Korea    likes_risk Da-eun     base         -> invest=yes amount=35 left=6
+66/192 South Korea    likes_risk Da-eun     friend       -> invest=yes amount=40 left=6
+67/192 South Korea    likes_risk Da-eun     influencer   -> invest=yes amount=30 left=6
+68/192 South Korea    likes_risk Da-eun     crowd        -> invest=yes amount=25 left=6
+69/192 South Korea    likes_risk Da-eun     app          -> invest=yes amount=30 left=6
+70/192 South Korea    likes_risk Da-eun     all          -> invest=yes amount=40 left=6
+71/192 South Korea    likes_risk Da-eun     all_lossrate -> invest=yes amount=25 left=7
+72/192 South Korea    likes_risk Da-eun     all_silent   -> invest=yes amount=35 left=7
+73/192 Nigeria        careful    Tobi       base         -> invest=no amount=0 left=4
+74/192 Nigeria        careful    Tobi       friend       -> invest=no amount=0 left=4
+75/192 Nigeria        careful    Tobi       influencer   -> invest=no amount=0 left=4
+76/192 Nigeria        careful    Tobi       crowd        -> invest=no amount=0 left=6
+77/192 Nigeria        careful    Tobi       app          -> invest=no amount=0 left=4
+78/192 Nigeria        careful    Tobi       all          -> invest=no amount=0 left=5
+79/192 Nigeria        careful    Tobi       all_lossrate -> invest=no amount=0 left=5
+80/192 Nigeria        careful    Tobi       all_silent   -> invest=no amount=0 left=5
+81/192 Nigeria        average    Emeka      base         -> invest=yes amount=15 left=5
+82/192 Nigeria        average    Emeka      friend       -> invest=yes amount=15 left=5
+83/192 Nigeria        average    Emeka      influencer   -> invest=yes amount=5 left=5
+84/192 Nigeria        average    Emeka      crowd        -> invest=yes amount=20 left=6
+85/192 Nigeria        average    Emeka      app          -> invest=yes amount=15 left=6
+86/192 Nigeria        average    Emeka      all          -> invest=yes amount=12 left=6
+87/192 Nigeria        average    Emeka      all_lossrate -> invest=no amount=0 left=6
+88/192 Nigeria        average    Emeka      all_silent   -> invest=yes amount=10 left=5
+89/192 Nigeria        likes_risk Tobi       base         -> invest=yes amount=25 left=5
+90/192 Nigeria        likes_risk Tobi       friend       -> invest=yes amount=20 left=5
+91/192 Nigeria        likes_risk Tobi       influencer   -> invest=no amount=0 left=4
+92/192 Nigeria        likes_risk Tobi       crowd        -> invest=yes amount=25 left=5
+93/192 Nigeria        likes_risk Tobi       app          -> invest=yes amount=12 left=4
+94/192 Nigeria        likes_risk Tobi       all          -> invest=no amount=0 left=5
+95/192 Nigeria        likes_risk Tobi       all_lossrate -> invest=yes amount=10 left=5
+96/192 Nigeria        likes_risk Tobi       all_silent   -> invest=yes amount=5 left=4
+97/192 Brazil         careful    Beatriz    base         -> invest=no amount=0 left=4
+98/192 Brazil         careful    Beatriz    friend       -> invest=yes amount=20 left=6
+99/192 Brazil         careful    Beatriz    influencer   -> invest=no amount=0 left=4
+100/192 Brazil         careful    Beatriz    crowd        -> invest=yes amount=15 left=5
+101/192 Brazil         careful    Beatriz    app          -> invest=no amount=0 left=4
+102/192 Brazil         careful    Beatriz    all          -> invest=yes amount=15 left=5
+103/192 Brazil         careful    Beatriz    all_lossrate -> invest=yes amount=12 left=6
+104/192 Brazil         careful    Beatriz    all_silent   -> invest=no amount=0 left=5
+105/192 Brazil         average    Rafael     base         -> invest=yes amount=20 left=4
+106/192 Brazil         average    Rafael     friend       -> invest=yes amount=20 left=5
+107/192 Brazil         average    Rafael     influencer   -> invest=no amount=0 left=4
+108/192 Brazil         average    Rafael     crowd        -> invest=yes amount=15 left=5
+109/192 Brazil         average    Rafael     app          -> invest=yes amount=15 left=4
+110/192 Brazil         average    Rafael     all          -> invest=yes amount=25 left=5
+111/192 Brazil         average    Rafael     all_lossrate -> invest=yes amount=10 left=5
+112/192 Brazil         average    Rafael     all_silent   -> invest=no amount=0 left=5
+113/192 Brazil         likes_risk Rafael     base         -> invest=yes amount=25 left=6
+114/192 Brazil         likes_risk Rafael     friend       -> invest=yes amount=25 left=6
+115/192 Brazil         likes_risk Rafael     influencer   -> invest=yes amount=20 left=5
+116/192 Brazil         likes_risk Rafael     crowd        -> invest=yes amount=25 left=6
+117/192 Brazil         likes_risk Rafael     app          -> invest=yes amount=40 left=6
+118/192 Brazil         likes_risk Rafael     all          -> invest=yes amount=30 left=6
+119/192 Brazil         likes_risk Rafael     all_lossrate -> invest=yes amount=25 left=6
+120/192 Brazil         likes_risk Rafael     all_silent   -> invest=no amount=0 left=6
+121/192 the United Kin careful    Josh       base         -> invest=no amount=0 left=3
+122/192 the United Kin careful    Josh       friend       -> invest=no amount=0 left=4
+123/192 the United Kin careful    Josh       influencer   -> invest=no amount=0 left=3
+124/192 the United Kin careful    Josh       crowd        -> invest=no amount=0 left=4
+125/192 the United Kin careful    Josh       app          -> invest=no amount=0 left=3
+126/192 the United Kin careful    Josh       all          -> invest=no amount=0 left=4
+127/192 the United Kin careful    Josh       all_lossrate -> invest=no amount=0 left=4
+128/192 the United Kin careful    Josh       all_silent   -> invest=no amount=0 left=4
+129/192 the United Kin average    Jess       base         -> invest=yes amount=25 left=6
+130/192 the United Kin average    Jess       friend       -> invest=yes amount=25 left=6
+131/192 the United Kin average    Jess       influencer   -> invest=yes amount=20 left=6
+132/192 the United Kin average    Jess       crowd        -> invest=yes amount=20 left=6
+133/192 the United Kin average    Jess       app          -> invest=yes amount=25 left=6
+134/192 the United Kin average    Jess       all          -> invest=yes amount=25 left=6
+135/192 the United Kin average    Jess       all_lossrate -> invest=yes amount=15 left=6
+136/192 the United Kin average    Jess       all_silent   -> invest=no amount=0 left=6
+137/192 the United Kin likes_risk Liam       base         -> invest=yes amount=45 left=6
+138/192 the United Kin likes_risk Liam       friend       -> invest=yes amount=30 left=6
+139/192 the United Kin likes_risk Liam       influencer   -> invest=yes amount=30 left=6
+140/192 the United Kin likes_risk Liam       crowd        -> invest=yes amount=50 left=6
+141/192 the United Kin likes_risk Liam       app          -> invest=yes amount=40 left=6
+142/192 the United Kin likes_risk Liam       all          -> invest=yes amount=35 left=7
+143/192 the United Kin likes_risk Liam       all_lossrate -> invest=yes amount=20 left=5
+144/192 the United Kin likes_risk Liam       all_silent   -> invest=yes amount=20 left=6
+145/192 Indonesia      careful    Nadia      base         -> invest=no amount=0 left=5
+146/192 Indonesia      careful    Nadia      friend       -> invest=no amount=0 left=6
+147/192 Indonesia      careful    Nadia      influencer   -> invest=no amount=0 left=4
+148/192 Indonesia      careful    Nadia      crowd        -> invest=no amount=0 left=5
+149/192 Indonesia      careful    Nadia      app          -> invest=no amount=0 left=4
+150/192 Indonesia      careful    Nadia      all          -> invest=no amount=0 left=5
+151/192 Indonesia      careful    Nadia      all_lossrate -> invest=no amount=0 left=5
+152/192 Indonesia      careful    Nadia      all_silent   -> invest=no amount=0 left=6
+153/192 Indonesia      average    Putri      base         -> invest=no amount=0 left=4
+154/192 Indonesia      average    Putri      friend       -> invest=no amount=0 left=4
+155/192 Indonesia      average    Putri      influencer   -> invest=no amount=0 left=3
+156/192 Indonesia      average    Putri      crowd        -> invest=yes amount=15 left=4
+157/192 Indonesia      average    Putri      app          -> invest=no amount=0 left=3
+158/192 Indonesia      average    Putri      all          -> invest=no amount=0 left=4
+159/192 Indonesia      average    Putri      all_lossrate -> invest=no amount=0 left=4
+160/192 Indonesia      average    Putri      all_silent   -> invest=no amount=0 left=4
+161/192 Indonesia      likes_risk Nadia      base         -> invest=yes amount=40 left=6
+162/192 Indonesia      likes_risk Nadia      friend       -> invest=yes amount=35 left=6
+163/192 Indonesia      likes_risk Nadia      influencer   -> invest=yes amount=35 left=6
+164/192 Indonesia      likes_risk Nadia      crowd        -> invest=yes amount=40 left=7
+165/192 Indonesia      likes_risk Nadia      app          -> invest=yes amount=50 left=7
+166/192 Indonesia      likes_risk Nadia      all          -> invest=yes amount=30 left=6
+167/192 Indonesia      likes_risk Nadia      all_lossrate -> invest=yes amount=40 left=6
+168/192 Indonesia      likes_risk Nadia      all_silent   -> invest=yes amount=25 left=7
+169/192 Turkey         careful    Emre       base         -> invest=no amount=0 left=4
+170/192 Turkey         careful    Emre       friend       -> invest=no amount=0 left=4
+171/192 Turkey         careful    Emre       influencer   -> invest=no amount=0 left=3
+172/192 Turkey         careful    Emre       crowd        -> invest=no amount=0 left=5
+173/192 Turkey         careful    Emre       app          -> invest=no amount=0 left=3
+174/192 Turkey         careful    Emre       all          -> invest=no amount=0 left=5
+175/192 Turkey         careful    Emre       all_lossrate -> invest=no amount=0 left=5
+176/192 Turkey         careful    Emre       all_silent   -> invest=no amount=0 left=4
+177/192 Turkey         average    Zeynep     base         -> invest=yes amount=12 left=4
+178/192 Turkey         average    Zeynep     friend       -> invest=yes amount=18 left=5
+179/192 Turkey         average    Zeynep     influencer   -> invest=yes amount=10 left=6
+180/192 Turkey         average    Zeynep     crowd        -> invest=yes amount=20 left=5
+181/192 Turkey         average    Zeynep     app          -> invest=yes amount=12 left=5
+182/192 Turkey         average    Zeynep     all          -> invest=yes amount=15 left=5
+183/192 Turkey         average    Zeynep     all_lossrate -> invest=no amount=0 left=5
+184/192 Turkey         average    Zeynep     all_silent   -> invest=no amount=0 left=5
+185/192 Turkey         likes_risk Zeynep     base         -> invest=yes amount=25 left=5
+186/192 Turkey         likes_risk Zeynep     friend       -> invest=yes amount=25 left=5
+187/192 Turkey         likes_risk Zeynep     influencer   -> invest=no amount=0 left=5
+188/192 Turkey         likes_risk Zeynep     crowd        -> invest=yes amount=25 left=5
+189/192 Turkey         likes_risk Zeynep     app          -> invest=yes amount=15 left=5
+190/192 Turkey         likes_risk Zeynep     all          -> invest=yes amount=15 left=5
+191/192 Turkey         likes_risk Zeynep     all_lossrate -> invest=yes amount=12 left=5
+192/192 Turkey         likes_risk Zeynep     all_silent   -> invest=yes amount=10 left=5
+FOMO_DONE
