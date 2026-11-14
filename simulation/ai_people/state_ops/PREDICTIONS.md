@@ -1,5 +1,5 @@
 # Secret agencies and meme wars: design and predictions
-*DRAFT, 14 Nov 2026, written BEFORE any data and built from `RESEARCH.md`. Waiting for Maulik's approval; it gets committed again (final) before the pilot runs.*
+*Final, 14 Nov 2026. Written BEFORE any data and built from `RESEARCH.md`. Maulik approved it on 14 Nov, and it was committed before the pilot ran.*
 
 ## The idea
 The design copies the real Pentagon case (fake "local" accounts attacking a foreign vaccine), but **everything is invented**: the vaccine, the maker and the foreign government. No real country or product is accused.
