@@ -58,3 +58,23 @@ The design copies the real Pentagon case (fake "local" accounts attacking a fore
 ## Run plan
 - Pilot: 24 people × 7 versions = **168 decisions** (about 25–40% of a 5-hour window).
 - An extra batch of new people only if the pilot passes the checks, then pooled.
+
+---
+## Pilot result (added after the pilot, before any more runs)
+- **The checks:**
+  - **It parses:** 168/168.
+  - **No overall floor or ceiling:** news_only is 67%.
+  - **The answers are in character.**
+  - ⚠ **Within groups:** trusting parents were at 100% and doubtful parents at 0% in every version without a label, so **only the 8 unsure parents could move**. This comes from the design (the starting views were written into the personas), and it's a finding in itself (see below). It is not changed, so the extra batch can be pooled.
+- **% who vaccinate:**
+
+| Version | news | few fakes | many fakes | memes | label | prebunk | doctor |
+|---|---|---|---|---|---|---|---|
+| All | 67% | 54% | 33% | 67% | 75% | 46% | 50% |
+| Unsure parents | 100% | 62% | 0% | 100% | 100% | 38% | 50% |
+
+- **Early pattern:**
+  - The fake crowd moved only the undecided middle, not the already-doubtful (who said no anyway) and not the trusting.
+  - The label undid all of the fakes' effect and even flipped 2 doubtful parents to yes ("that makes me trust the vaccine MORE").
+  - A real doctor got back only half of what the fake crowd took away.
+- **Next:** an extra batch of 24 new people with the same design (`extra`), then pooled. Predictions unchanged.
