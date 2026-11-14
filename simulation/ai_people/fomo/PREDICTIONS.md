@@ -1,5 +1,5 @@
 # FOMO: design and predictions
-*DRAFT, 14 Nov 2026. Written BEFORE any data and built from `RESEARCH.md`. Waiting for Maulik's approval; it gets committed again (final) before the pilot runs.*
+*Final, 14 Nov 2026. Written BEFORE any data and built from `RESEARCH.md`. Maulik approved it on 14 Nov, and it was committed before the pilot ran.*
 
 ## The situation (invented, the same everywhere)
 - The person is a young worker who has saved up **about 3 months' salary** (shown in local currency).
