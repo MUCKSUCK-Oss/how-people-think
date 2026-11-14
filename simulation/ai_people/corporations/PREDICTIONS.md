@@ -79,3 +79,18 @@ Across every earlier topic, **loud tricks** (hype, countdowns, influencers) were
 ## Run plan
 - Pilot: 12 people × 7 versions × 2 scenarios = **168 decisions** (about 35 minutes).
 - An extra batch of new people only if the pilot passes the checks, then pooled.
+
+---
+## Pilot result (added after the pilot, before any more runs)
+- **The checks:**
+  - **It parses:** 168/168.
+  - **No floor in C1:** honest 58%, drip 17%.
+  - **C2 is near a ceiling:** easy 92%, and 4 of 7 versions are at 100%, so only obstruct, offer and all left room to move.
+  - **The answers are in character.**
+- **C1, % buying on the drip site B:** honest 58 · drip 17 · drip+timer 17 · drip+"standard" 25 · drip+pre-ticked add-on 17 · all 25 · all + disclosure 0.
+  - **The opposite of prediction 2.** When B was honest but $5 dearer, most comfortable people stayed on B ("I've already picked seats"). When B hid the fees, almost everyone called it "bait-and-switch" and went back to A.
+  - **Why:** every version tells people Site A's all-in price, so the AI people did the comparison at once. In StubHub's real experiment, people did not have an honest competitor's total in front of them. **This is the condition all-in-pricing laws create**, so it is a finding about when drip pricing stops working, not a broken design.
+  - **Nobody kept the pre-ticked add-on** (0 of 4 who bought on B).
+- **C2, % cancelling now:** easy 92 · obstruct 75 · shame 100 · offer 75 · loss 100 · all 92 · all + disclosure 100.
+  - **Friction** ("not worth 20 minutes on hold") and **the 50% offer** (only comfortable people) were the only tricks that kept anyone.
+- **Decision:** no design change. Changing C1 now to hide Site A's price would be tuning the situation towards my prediction. Instead, the result is reported with this explanation, and the limit is named. Next: an extra batch of 24 new people with the same design, then pooled. Predictions unchanged.

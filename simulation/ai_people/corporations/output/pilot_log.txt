@@ -1,0 +1,169 @@
+1/168 C1 India        tight       Ankit      honest         -> A addon=None annoyed=3
+2/168 C1 India        tight       Ankit      drip           -> A addon=None annoyed=6
+3/168 C1 India        tight       Ankit      drip_timer     -> A addon=None annoyed=6
+4/168 C1 India        tight       Ankit      drip_normal    -> A addon=None annoyed=6
+5/168 C1 India        tight       Ankit      addon          -> A addon=None annoyed=6
+6/168 C1 India        tight       Ankit      all            -> A addon=None annoyed=6
+7/168 C1 India        tight       Ankit      all_disclosed  -> A addon=None annoyed=6
+8/168 C1 India        comfortable Divya      honest         -> B addon=None annoyed=2
+9/168 C1 India        comfortable Divya      drip           -> A addon=None annoyed=4
+10/168 C1 India        comfortable Divya      drip_timer     -> A addon=None annoyed=6
+11/168 C1 India        comfortable Divya      drip_normal    -> A addon=None annoyed=5
+12/168 C1 India        comfortable Divya      addon          -> A addon=None annoyed=5
+13/168 C1 India        comfortable Divya      all            -> B addon=removed annoyed=5
+14/168 C1 India        comfortable Divya      all_disclosed  -> A addon=None annoyed=5
+15/168 C1 the United S comfortable Lauren     honest         -> B addon=None annoyed=2
+16/168 C1 the United S comfortable Lauren     drip           -> A addon=None annoyed=5
+17/168 C1 the United S comfortable Lauren     drip_timer     -> A addon=None annoyed=5
+18/168 C1 the United S comfortable Lauren     drip_normal    -> B addon=None annoyed=5
+19/168 C1 the United S comfortable Lauren     addon          -> A addon=None annoyed=6
+20/168 C1 the United S comfortable Lauren     all            -> A addon=None annoyed=5
+21/168 C1 the United S comfortable Lauren     all_disclosed  -> A addon=None annoyed=5
+22/168 C1 the United S tight       Andre      honest         -> A addon=None annoyed=5
+23/168 C1 the United S tight       Andre      drip           -> A addon=None annoyed=6
+24/168 C1 the United S tight       Andre      drip_timer     -> A addon=None annoyed=6
+25/168 C1 the United S tight       Andre      drip_normal    -> A addon=None annoyed=6
+26/168 C1 the United S tight       Andre      addon          -> A addon=removed annoyed=6
+27/168 C1 the United S tight       Andre      all            -> A addon=None annoyed=6
+28/168 C1 the United S tight       Andre      all_disclosed  -> A addon=removed annoyed=5
+29/168 C1 the United K tight       Daniel     honest         -> B addon=None annoyed=4
+30/168 C1 the United K tight       Daniel     drip           -> A addon=None annoyed=6
+31/168 C1 the United K tight       Daniel     drip_timer     -> A addon=None annoyed=6
+32/168 C1 the United K tight       Daniel     drip_normal    -> A addon=None annoyed=5
+33/168 C1 the United K tight       Daniel     addon          -> A addon=None annoyed=6
+34/168 C1 the United K tight       Daniel     all            -> A addon=None annoyed=6
+35/168 C1 the United K tight       Daniel     all_disclosed  -> A addon=None annoyed=5
+36/168 C1 the United K comfortable Daniel     honest         -> B addon=None annoyed=2
+37/168 C1 the United K comfortable Daniel     drip           -> B addon=None annoyed=5
+38/168 C1 the United K comfortable Daniel     drip_timer     -> B addon=None annoyed=4
+39/168 C1 the United K comfortable Daniel     drip_normal    -> B addon=None annoyed=4
+40/168 C1 the United K comfortable Daniel     addon          -> B addon=removed annoyed=5
+41/168 C1 the United K comfortable Daniel     all            -> B addon=removed annoyed=4
+42/168 C1 the United K comfortable Daniel     all_disclosed  -> A addon=removed annoyed=5
+43/168 C1 Brazil       comfortable Thiago     honest         -> B addon=None annoyed=3
+44/168 C1 Brazil       comfortable Thiago     drip           -> A addon=None annoyed=6
+45/168 C1 Brazil       comfortable Thiago     drip_timer     -> B addon=None annoyed=5
+46/168 C1 Brazil       comfortable Thiago     drip_normal    -> B addon=None annoyed=5
+47/168 C1 Brazil       comfortable Thiago     addon          -> A addon=None annoyed=5
+48/168 C1 Brazil       comfortable Thiago     all            -> B addon=removed annoyed=6
+49/168 C1 Brazil       comfortable Thiago     all_disclosed  -> A addon=None annoyed=5
+50/168 C1 Brazil       tight       Fernanda   honest         -> A addon=None annoyed=5
+51/168 C1 Brazil       tight       Fernanda   drip           -> A addon=None annoyed=6
+52/168 C1 Brazil       tight       Fernanda   drip_timer     -> A addon=None annoyed=6
+53/168 C1 Brazil       tight       Fernanda   drip_normal    -> A addon=None annoyed=6
+54/168 C1 Brazil       tight       Fernanda   addon          -> B addon=removed annoyed=5
+55/168 C1 Brazil       tight       Fernanda   all            -> A addon=removed annoyed=6
+56/168 C1 Brazil       tight       Fernanda   all_disclosed  -> A addon=None annoyed=6
+57/168 C1 Nigeria      tight       Chidi      honest         -> A addon=None annoyed=5
+58/168 C1 Nigeria      tight       Chidi      drip           -> A addon=None annoyed=6
+59/168 C1 Nigeria      tight       Chidi      drip_timer     -> A addon=None annoyed=6
+60/168 C1 Nigeria      tight       Chidi      drip_normal    -> A addon=None annoyed=6
+61/168 C1 Nigeria      tight       Chidi      addon          -> A addon=None annoyed=6
+62/168 C1 Nigeria      tight       Chidi      all            -> A addon=None annoyed=6
+63/168 C1 Nigeria      tight       Chidi      all_disclosed  -> A addon=None annoyed=6
+64/168 C1 Nigeria      comfortable Ifeoma     honest         -> B addon=None annoyed=2
+65/168 C1 Nigeria      comfortable Ifeoma     drip           -> A addon=None annoyed=6
+66/168 C1 Nigeria      comfortable Ifeoma     drip_timer     -> A addon=None annoyed=5
+67/168 C1 Nigeria      comfortable Ifeoma     drip_normal    -> A addon=None annoyed=5
+68/168 C1 Nigeria      comfortable Ifeoma     addon          -> A addon=None annoyed=5
+69/168 C1 Nigeria      comfortable Ifeoma     all            -> A addon=None annoyed=5
+70/168 C1 Nigeria      comfortable Ifeoma     all_disclosed  -> A addon=None annoyed=5
+71/168 C1 Indonesia    comfortable Andi       honest         -> B addon=None annoyed=3
+72/168 C1 Indonesia    comfortable Andi       drip           -> B addon=None annoyed=5
+73/168 C1 Indonesia    comfortable Andi       drip_timer     -> A addon=None annoyed=5
+74/168 C1 Indonesia    comfortable Andi       drip_normal    -> A addon=None annoyed=5
+75/168 C1 Indonesia    comfortable Andi       addon          -> A addon=None annoyed=6
+76/168 C1 Indonesia    comfortable Andi       all            -> A addon=None annoyed=5
+77/168 C1 Indonesia    comfortable Andi       all_disclosed  -> A addon=None annoyed=4
+78/168 C1 Indonesia    tight       Wulan      honest         -> A addon=None annoyed=4
+79/168 C1 Indonesia    tight       Wulan      drip           -> A addon=None annoyed=6
+80/168 C1 Indonesia    tight       Wulan      drip_timer     -> A addon=None annoyed=6
+81/168 C1 Indonesia    tight       Wulan      drip_normal    -> A addon=None annoyed=6
+82/168 C1 Indonesia    tight       Wulan      addon          -> A addon=removed annoyed=6
+83/168 C1 Indonesia    tight       Wulan      all            -> A addon=None annoyed=5
+84/168 C1 Indonesia    tight       Wulan      all_disclosed  -> A addon=None annoyed=6
+85/168 C2 India        tight       Divya      easy           -> cancel addon=None annoyed=5
+86/168 C2 India        tight       Divya      obstruct       -> cancel addon=None annoyed=6
+87/168 C2 India        tight       Divya      shame          -> cancel addon=None annoyed=6
+88/168 C2 India        tight       Divya      offer          -> cancel addon=None annoyed=6
+89/168 C2 India        tight       Divya      loss           -> cancel addon=None annoyed=4
+90/168 C2 India        tight       Divya      all            -> cancel addon=None annoyed=6
+91/168 C2 India        tight       Divya      all_disclosed  -> cancel addon=None annoyed=6
+92/168 C2 India        comfortable Ankit      easy           -> cancel addon=None annoyed=3
+93/168 C2 India        comfortable Ankit      obstruct       -> keep addon=None annoyed=5
+94/168 C2 India        comfortable Ankit      shame          -> cancel addon=None annoyed=6
+95/168 C2 India        comfortable Ankit      offer          -> cancel addon=None annoyed=4
+96/168 C2 India        comfortable Ankit      loss           -> cancel addon=None annoyed=4
+97/168 C2 India        comfortable Ankit      all            -> cancel addon=None annoyed=5
+98/168 C2 India        comfortable Ankit      all_disclosed  -> cancel addon=None annoyed=4
+99/168 C2 the United S comfortable Andre      easy           -> cancel addon=None annoyed=3
+100/168 C2 the United S comfortable Andre      obstruct       -> keep addon=None annoyed=5
+101/168 C2 the United S comfortable Andre      shame          -> cancel addon=None annoyed=5
+102/168 C2 the United S comfortable Andre      offer          -> cancel addon=None annoyed=5
+103/168 C2 the United S comfortable Andre      loss           -> cancel addon=None annoyed=4
+104/168 C2 the United S comfortable Andre      all            -> cancel addon=None annoyed=4
+105/168 C2 the United S comfortable Andre      all_disclosed  -> cancel addon=None annoyed=5
+106/168 C2 the United S tight       Nicole     easy           -> cancel addon=None annoyed=5
+107/168 C2 the United S tight       Nicole     obstruct       -> cancel addon=None annoyed=6
+108/168 C2 the United S tight       Nicole     shame          -> cancel addon=None annoyed=5
+109/168 C2 the United S tight       Nicole     offer          -> cancel addon=None annoyed=5
+110/168 C2 the United S tight       Nicole     loss           -> cancel addon=None annoyed=4
+111/168 C2 the United S tight       Nicole     all            -> cancel addon=None annoyed=6
+112/168 C2 the United S tight       Nicole     all_disclosed  -> cancel addon=None annoyed=5
+113/168 C2 the United K tight       Aisha      easy           -> cancel addon=None annoyed=5
+114/168 C2 the United K tight       Aisha      obstruct       -> keep addon=None annoyed=6
+115/168 C2 the United K tight       Aisha      shame          -> cancel addon=None annoyed=6
+116/168 C2 the United K tight       Aisha      offer          -> cancel addon=None annoyed=4
+117/168 C2 the United K tight       Aisha      loss           -> cancel addon=None annoyed=6
+118/168 C2 the United K tight       Aisha      all            -> cancel addon=None annoyed=6
+119/168 C2 the United K tight       Aisha      all_disclosed  -> cancel addon=None annoyed=6
+120/168 C2 the United K comfortable Aisha      easy           -> cancel addon=None annoyed=2
+121/168 C2 the United K comfortable Aisha      obstruct       -> cancel addon=None annoyed=5
+122/168 C2 the United K comfortable Aisha      shame          -> cancel addon=None annoyed=5
+123/168 C2 the United K comfortable Aisha      offer          -> offer addon=None annoyed=3
+124/168 C2 the United K comfortable Aisha      loss           -> cancel addon=None annoyed=4
+125/168 C2 the United K comfortable Aisha      all            -> keep addon=None annoyed=4
+126/168 C2 the United K comfortable Aisha      all_disclosed  -> cancel addon=None annoyed=4
+127/168 C2 Brazil       comfortable Isabela    easy           -> cancel addon=None annoyed=3
+128/168 C2 Brazil       comfortable Isabela    obstruct       -> cancel addon=None annoyed=4
+129/168 C2 Brazil       comfortable Isabela    shame          -> cancel addon=None annoyed=5
+130/168 C2 Brazil       comfortable Isabela    offer          -> offer addon=None annoyed=4
+131/168 C2 Brazil       comfortable Isabela    loss           -> cancel addon=None annoyed=4
+132/168 C2 Brazil       comfortable Isabela    all            -> cancel addon=None annoyed=4
+133/168 C2 Brazil       comfortable Isabela    all_disclosed  -> cancel addon=None annoyed=5
+134/168 C2 Brazil       tight       Thiago     easy           -> keep addon=None annoyed=4
+135/168 C2 Brazil       tight       Thiago     obstruct       -> cancel addon=None annoyed=6
+136/168 C2 Brazil       tight       Thiago     shame          -> cancel addon=None annoyed=6
+137/168 C2 Brazil       tight       Thiago     offer          -> cancel addon=None annoyed=5
+138/168 C2 Brazil       tight       Thiago     loss           -> cancel addon=None annoyed=5
+139/168 C2 Brazil       tight       Thiago     all            -> cancel addon=None annoyed=6
+140/168 C2 Brazil       tight       Thiago     all_disclosed  -> cancel addon=None annoyed=4
+141/168 C2 Nigeria      tight       Musa       easy           -> cancel addon=None annoyed=1
+142/168 C2 Nigeria      tight       Musa       obstruct       -> cancel addon=None annoyed=6
+143/168 C2 Nigeria      tight       Musa       shame          -> cancel addon=None annoyed=5
+144/168 C2 Nigeria      tight       Musa       offer          -> cancel addon=None annoyed=4
+145/168 C2 Nigeria      tight       Musa       loss           -> cancel addon=None annoyed=6
+146/168 C2 Nigeria      tight       Musa       all            -> cancel addon=None annoyed=6
+147/168 C2 Nigeria      tight       Musa       all_disclosed  -> cancel addon=None annoyed=6
+148/168 C2 Nigeria      comfortable Femi       easy           -> cancel addon=None annoyed=1
+149/168 C2 Nigeria      comfortable Femi       obstruct       -> cancel addon=None annoyed=5
+150/168 C2 Nigeria      comfortable Femi       shame          -> cancel addon=None annoyed=5
+151/168 C2 Nigeria      comfortable Femi       offer          -> offer addon=None annoyed=3
+152/168 C2 Nigeria      comfortable Femi       loss           -> cancel addon=None annoyed=3
+153/168 C2 Nigeria      comfortable Femi       all            -> cancel addon=None annoyed=5
+154/168 C2 Nigeria      comfortable Femi       all_disclosed  -> cancel addon=None annoyed=5
+155/168 C2 Indonesia    comfortable Sari       easy           -> cancel addon=None annoyed=5
+156/168 C2 Indonesia    comfortable Sari       obstruct       -> cancel addon=None annoyed=4
+157/168 C2 Indonesia    comfortable Sari       shame          -> cancel addon=None annoyed=5
+158/168 C2 Indonesia    comfortable Sari       offer          -> cancel addon=None annoyed=3
+159/168 C2 Indonesia    comfortable Sari       loss           -> cancel addon=None annoyed=4
+160/168 C2 Indonesia    comfortable Sari       all            -> cancel addon=None annoyed=5
+161/168 C2 Indonesia    comfortable Sari       all_disclosed  -> cancel addon=None annoyed=6
+162/168 C2 Indonesia    tight       Indah      easy           -> cancel addon=None annoyed=4
+163/168 C2 Indonesia    tight       Indah      obstruct       -> cancel addon=None annoyed=6
+164/168 C2 Indonesia    tight       Indah      shame          -> cancel addon=None annoyed=6
+165/168 C2 Indonesia    tight       Indah      offer          -> cancel addon=None annoyed=6
+166/168 C2 Indonesia    tight       Indah      loss           -> cancel addon=None annoyed=4
+167/168 C2 Indonesia    tight       Indah      all            -> cancel addon=None annoyed=5
+168/168 C2 Indonesia    tight       Indah      all_disclosed  -> cancel addon=None annoyed=5
+CORP_DONE
