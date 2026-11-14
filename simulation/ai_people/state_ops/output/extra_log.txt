@@ -1,0 +1,169 @@
+1/168 the Philippine trusting Maria      news_only            -> vacc=yes worry=2 real=None
+2/168 the Philippine trusting Maria      few_fakes            -> vacc=yes worry=2 real=yes
+3/168 the Philippine trusting Maria      many_fakes           -> vacc=yes worry=4 real=yes
+4/168 the Philippine trusting Maria      memes                -> vacc=yes worry=2 real=no
+5/168 the Philippine trusting Maria      many_fakes_labelled  -> vacc=yes worry=2 real=no
+6/168 the Philippine trusting Maria      prebunk              -> vacc=yes worry=2 real=no
+7/168 the Philippine trusting Maria      doctor_reply         -> vacc=yes worry=3 real=yes
+8/168 the Philippine unsure   Maria      news_only            -> vacc=no worry=4 real=None
+9/168 the Philippine unsure   Maria      few_fakes            -> vacc=no worry=4 real=yes
+10/168 the Philippine unsure   Maria      many_fakes           -> vacc=no worry=6 real=yes
+11/168 the Philippine unsure   Maria      memes                -> vacc=yes worry=3 real=yes
+12/168 the Philippine unsure   Maria      many_fakes_labelled  -> vacc=yes worry=3 real=no
+13/168 the Philippine unsure   Maria      prebunk              -> vacc=yes worry=4 real=no
+14/168 the Philippine unsure   Maria      doctor_reply         -> vacc=yes worry=4 real=yes
+15/168 the Philippine doubtful Angelica   news_only            -> vacc=no worry=6 real=None
+16/168 the Philippine doubtful Angelica   few_fakes            -> vacc=no worry=6 real=yes
+17/168 the Philippine doubtful Angelica   many_fakes           -> vacc=no worry=7 real=yes
+18/168 the Philippine doubtful Angelica   memes                -> vacc=no worry=6 real=yes
+19/168 the Philippine doubtful Angelica   many_fakes_labelled  -> vacc=no worry=5 real=no
+20/168 the Philippine doubtful Angelica   prebunk              -> vacc=no worry=6 real=yes
+21/168 the Philippine doubtful Angelica   doctor_reply         -> vacc=no worry=6 real=yes
+22/168 India          trusting Arjun      news_only            -> vacc=yes worry=2 real=None
+23/168 India          trusting Arjun      few_fakes            -> vacc=yes worry=2 real=yes
+24/168 India          trusting Arjun      many_fakes           -> vacc=yes worry=2 real=yes
+25/168 India          trusting Arjun      memes                -> vacc=yes worry=2 real=yes
+26/168 India          trusting Arjun      many_fakes_labelled  -> vacc=yes worry=2 real=no
+27/168 India          trusting Arjun      prebunk              -> vacc=yes worry=2 real=no
+28/168 India          trusting Arjun      doctor_reply         -> vacc=yes worry=2 real=yes
+29/168 India          unsure   Sunita     news_only            -> vacc=yes worry=4 real=None
+30/168 India          unsure   Sunita     few_fakes            -> vacc=yes worry=3 real=yes
+31/168 India          unsure   Sunita     many_fakes           -> vacc=no worry=5 real=yes
+32/168 India          unsure   Sunita     memes                -> vacc=yes worry=4 real=yes
+33/168 India          unsure   Sunita     many_fakes_labelled  -> vacc=yes worry=2 real=no
+34/168 India          unsure   Sunita     prebunk              -> vacc=yes worry=5 real=no
+35/168 India          unsure   Sunita     doctor_reply         -> vacc=yes worry=4 real=yes
+36/168 India          doubtful Fatima     news_only            -> vacc=no worry=6 real=None
+37/168 India          doubtful Fatima     few_fakes            -> vacc=no worry=6 real=yes
+38/168 India          doubtful Fatima     many_fakes           -> vacc=no worry=6 real=yes
+39/168 India          doubtful Fatima     memes                -> vacc=no worry=6 real=yes
+40/168 India          doubtful Fatima     many_fakes_labelled  -> vacc=no worry=4 real=no
+41/168 India          doubtful Fatima     prebunk              -> vacc=no worry=6 real=no
+42/168 India          doubtful Fatima     doctor_reply         -> vacc=no worry=6 real=no
+43/168 Brazil         trusting Ana        news_only            -> vacc=yes worry=1 real=None
+44/168 Brazil         trusting Ana        few_fakes            -> vacc=yes worry=2 real=yes
+45/168 Brazil         trusting Ana        many_fakes           -> vacc=yes worry=2 real=yes
+46/168 Brazil         trusting Ana        memes                -> vacc=yes worry=2 real=yes
+47/168 Brazil         trusting Ana        many_fakes_labelled  -> vacc=yes worry=1 real=no
+48/168 Brazil         trusting Ana        prebunk              -> vacc=yes worry=2 real=no
+49/168 Brazil         trusting Ana        doctor_reply         -> vacc=yes worry=2 real=yes
+50/168 Brazil         unsure   Paulo      news_only            -> vacc=yes worry=3 real=None
+51/168 Brazil         unsure   Paulo      few_fakes            -> vacc=yes worry=4 real=yes
+52/168 Brazil         unsure   Paulo      many_fakes           -> vacc=no worry=5 real=yes
+53/168 Brazil         unsure   Paulo      memes                -> vacc=yes worry=3 real=no
+54/168 Brazil         unsure   Paulo      many_fakes_labelled  -> vacc=yes worry=2 real=no
+55/168 Brazil         unsure   Paulo      prebunk              -> vacc=no worry=4 real=no
+56/168 Brazil         unsure   Paulo      doctor_reply         -> vacc=yes worry=3 real=yes
+57/168 Brazil         doubtful Fernanda   news_only            -> vacc=no worry=6 real=None
+58/168 Brazil         doubtful Fernanda   few_fakes            -> vacc=no worry=6 real=yes
+59/168 Brazil         doubtful Fernanda   many_fakes           -> vacc=no worry=6 real=yes
+60/168 Brazil         doubtful Fernanda   memes                -> vacc=no worry=6 real=yes
+61/168 Brazil         doubtful Fernanda   many_fakes_labelled  -> vacc=yes worry=4 real=no
+62/168 Brazil         doubtful Fernanda   prebunk              -> vacc=no worry=4 real=no
+63/168 Brazil         doubtful Fernanda   doctor_reply         -> vacc=no worry=6 real=yes
+64/168 Indonesia      trusting Agus       news_only            -> vacc=yes worry=3 real=None
+65/168 Indonesia      trusting Agus       few_fakes            -> vacc=yes worry=3 real=yes
+66/168 Indonesia      trusting Agus       many_fakes           -> vacc=yes worry=3 real=yes
+67/168 Indonesia      trusting Agus       memes                -> vacc=yes worry=2 real=yes
+68/168 Indonesia      trusting Agus       many_fakes_labelled  -> vacc=yes worry=2 real=no
+69/168 Indonesia      trusting Agus       prebunk              -> vacc=yes worry=3 real=no
+70/168 Indonesia      trusting Agus       doctor_reply         -> vacc=yes worry=3 real=yes
+71/168 Indonesia      unsure   Budi       news_only            -> vacc=yes worry=3 real=None
+72/168 Indonesia      unsure   Budi       few_fakes            -> vacc=yes worry=4 real=yes
+73/168 Indonesia      unsure   Budi       many_fakes           -> vacc=no worry=6 real=yes
+74/168 Indonesia      unsure   Budi       memes                -> vacc=yes worry=4 real=yes
+75/168 Indonesia      unsure   Budi       many_fakes_labelled  -> vacc=yes worry=2 real=no
+76/168 Indonesia      unsure   Budi       prebunk              -> vacc=no worry=5 real=yes
+77/168 Indonesia      unsure   Budi       doctor_reply         -> vacc=yes worry=5 real=yes
+78/168 Indonesia      doubtful Agus       news_only            -> vacc=no worry=5 real=None
+79/168 Indonesia      doubtful Agus       few_fakes            -> vacc=no worry=6 real=yes
+80/168 Indonesia      doubtful Agus       many_fakes           -> vacc=no worry=7 real=yes
+81/168 Indonesia      doubtful Agus       memes                -> vacc=no worry=6 real=yes
+82/168 Indonesia      doubtful Agus       many_fakes_labelled  -> vacc=no worry=6 real=no
+83/168 Indonesia      doubtful Agus       prebunk              -> vacc=no worry=6 real=yes
+84/168 Indonesia      doubtful Agus       doctor_reply         -> vacc=no worry=6 real=yes
+85/168 Nigeria        trusting Tunde      news_only            -> vacc=yes worry=2 real=None
+86/168 Nigeria        trusting Tunde      few_fakes            -> vacc=yes worry=3 real=yes
+87/168 Nigeria        trusting Tunde      many_fakes           -> vacc=yes worry=3 real=yes
+88/168 Nigeria        trusting Tunde      memes                -> vacc=yes worry=2 real=yes
+89/168 Nigeria        trusting Tunde      many_fakes_labelled  -> vacc=yes worry=2 real=no
+90/168 Nigeria        trusting Tunde      prebunk              -> vacc=yes worry=3 real=no
+91/168 Nigeria        trusting Tunde      doctor_reply         -> vacc=yes worry=2 real=no
+92/168 Nigeria        unsure   Ibrahim    news_only            -> vacc=no worry=4 real=None
+93/168 Nigeria        unsure   Ibrahim    few_fakes            -> vacc=no worry=4 real=yes
+94/168 Nigeria        unsure   Ibrahim    many_fakes           -> vacc=no worry=5 real=yes
+95/168 Nigeria        unsure   Ibrahim    memes                -> vacc=no worry=4 real=no
+96/168 Nigeria        unsure   Ibrahim    many_fakes_labelled  -> vacc=yes worry=2 real=no
+97/168 Nigeria        unsure   Ibrahim    prebunk              -> vacc=no worry=4 real=no
+98/168 Nigeria        unsure   Ibrahim    doctor_reply         -> vacc=yes worry=4 real=yes
+99/168 Nigeria        doubtful Funke      news_only            -> vacc=no worry=6 real=None
+100/168 Nigeria        doubtful Funke      few_fakes            -> vacc=no worry=6 real=yes
+101/168 Nigeria        doubtful Funke      many_fakes           -> vacc=no worry=6 real=yes
+102/168 Nigeria        doubtful Funke      memes                -> vacc=no worry=6 real=yes
+103/168 Nigeria        doubtful Funke      many_fakes_labelled  -> vacc=no worry=6 real=no
+104/168 Nigeria        doubtful Funke      prebunk              -> vacc=no worry=6 real=yes
+105/168 Nigeria        doubtful Funke      doctor_reply         -> vacc=no worry=7 real=yes
+106/168 Mexico         trusting Luis       news_only            -> vacc=yes worry=2 real=None
+107/168 Mexico         trusting Luis       few_fakes            -> vacc=yes worry=2 real=yes
+108/168 Mexico         trusting Luis       many_fakes           -> vacc=yes worry=2 real=yes
+109/168 Mexico         trusting Luis       memes                -> vacc=yes worry=2 real=no
+110/168 Mexico         trusting Luis       many_fakes_labelled  -> vacc=yes worry=2 real=no
+111/168 Mexico         trusting Luis       prebunk              -> vacc=yes worry=2 real=no
+112/168 Mexico         trusting Luis       doctor_reply         -> vacc=yes worry=2 real=yes
+113/168 Mexico         unsure   Guadalupe  news_only            -> vacc=yes worry=3 real=None
+114/168 Mexico         unsure   Guadalupe  few_fakes            -> vacc=yes worry=4 real=yes
+115/168 Mexico         unsure   Guadalupe  many_fakes           -> vacc=no worry=5 real=yes
+116/168 Mexico         unsure   Guadalupe  memes                -> vacc=yes worry=4 real=no
+117/168 Mexico         unsure   Guadalupe  many_fakes_labelled  -> vacc=yes worry=3 real=no
+118/168 Mexico         unsure   Guadalupe  prebunk              -> vacc=yes worry=2 real=no
+119/168 Mexico         unsure   Guadalupe  doctor_reply         -> vacc=yes worry=4 real=yes
+120/168 Mexico         doubtful Javier     news_only            -> vacc=no worry=6 real=None
+121/168 Mexico         doubtful Javier     few_fakes            -> vacc=no worry=6 real=yes
+122/168 Mexico         doubtful Javier     many_fakes           -> vacc=no worry=6 real=yes
+123/168 Mexico         doubtful Javier     memes                -> vacc=no worry=6 real=no
+124/168 Mexico         doubtful Javier     many_fakes_labelled  -> vacc=no worry=4 real=no
+125/168 Mexico         doubtful Javier     prebunk              -> vacc=no worry=6 real=no
+126/168 Mexico         doubtful Javier     doctor_reply         -> vacc=no worry=6 real=yes
+127/168 Vietnam        trusting Mai        news_only            -> vacc=yes worry=2 real=None
+128/168 Vietnam        trusting Mai        few_fakes            -> vacc=yes worry=2 real=yes
+129/168 Vietnam        trusting Mai        many_fakes           -> vacc=yes worry=3 real=yes
+130/168 Vietnam        trusting Mai        memes                -> vacc=yes worry=2 real=yes
+131/168 Vietnam        trusting Mai        many_fakes_labelled  -> vacc=yes worry=1 real=no
+132/168 Vietnam        trusting Mai        prebunk              -> vacc=yes worry=2 real=no
+133/168 Vietnam        trusting Mai        doctor_reply         -> vacc=yes worry=2 real=yes
+134/168 Vietnam        unsure   Hoa        news_only            -> vacc=yes worry=3 real=None
+135/168 Vietnam        unsure   Hoa        few_fakes            -> vacc=yes worry=3 real=yes
+136/168 Vietnam        unsure   Hoa        many_fakes           -> vacc=no worry=5 real=yes
+137/168 Vietnam        unsure   Hoa        memes                -> vacc=yes worry=4 real=yes
+138/168 Vietnam        unsure   Hoa        many_fakes_labelled  -> vacc=yes worry=2 real=no
+139/168 Vietnam        unsure   Hoa        prebunk              -> vacc=yes worry=3 real=no
+140/168 Vietnam        unsure   Hoa        doctor_reply         -> vacc=yes worry=3 real=no
+141/168 Vietnam        doubtful Duc        news_only            -> vacc=no worry=6 real=None
+142/168 Vietnam        doubtful Duc        few_fakes            -> vacc=no worry=6 real=yes
+143/168 Vietnam        doubtful Duc        many_fakes           -> vacc=no worry=6 real=yes
+144/168 Vietnam        doubtful Duc        memes                -> vacc=no worry=5 real=yes
+145/168 Vietnam        doubtful Duc        many_fakes_labelled  -> vacc=yes worry=4 real=no
+146/168 Vietnam        doubtful Duc        prebunk              -> vacc=no worry=6 real=no
+147/168 Vietnam        doubtful Duc        doctor_reply         -> vacc=no worry=6 real=yes
+148/168 Bangladesh     trusting Rahim      news_only            -> vacc=yes worry=2 real=None
+149/168 Bangladesh     trusting Rahim      few_fakes            -> vacc=yes worry=2 real=yes
+150/168 Bangladesh     trusting Rahim      many_fakes           -> vacc=no worry=4 real=yes
+151/168 Bangladesh     trusting Rahim      memes                -> vacc=yes worry=3 real=no
+152/168 Bangladesh     trusting Rahim      many_fakes_labelled  -> vacc=yes worry=2 real=no
+153/168 Bangladesh     trusting Rahim      prebunk              -> vacc=yes worry=3 real=no
+154/168 Bangladesh     trusting Rahim      doctor_reply         -> vacc=yes worry=4 real=yes
+155/168 Bangladesh     unsure   Rahim      news_only            -> vacc=yes worry=3 real=None
+156/168 Bangladesh     unsure   Rahim      few_fakes            -> vacc=no worry=5 real=yes
+157/168 Bangladesh     unsure   Rahim      many_fakes           -> vacc=no worry=6 real=yes
+158/168 Bangladesh     unsure   Rahim      memes                -> vacc=yes worry=3 real=yes
+159/168 Bangladesh     unsure   Rahim      many_fakes_labelled  -> vacc=yes worry=2 real=no
+160/168 Bangladesh     unsure   Rahim      prebunk              -> vacc=no worry=5 real=yes
+161/168 Bangladesh     unsure   Rahim      doctor_reply         -> vacc=yes worry=4 real=yes
+162/168 Bangladesh     doubtful Kamal      news_only            -> vacc=no worry=6 real=None
+163/168 Bangladesh     doubtful Kamal      few_fakes            -> vacc=no worry=6 real=yes
+164/168 Bangladesh     doubtful Kamal      many_fakes           -> vacc=no worry=6 real=yes
+165/168 Bangladesh     doubtful Kamal      memes                -> vacc=no worry=6 real=yes
+166/168 Bangladesh     doubtful Kamal      many_fakes_labelled  -> vacc=no worry=5 real=no
+167/168 Bangladesh     doubtful Kamal      prebunk              -> vacc=no worry=6 real=yes
+168/168 Bangladesh     doubtful Kamal      doctor_reply         -> vacc=no worry=6 real=yes
+OPS_DONE

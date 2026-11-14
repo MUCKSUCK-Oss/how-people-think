@@ -1,0 +1,52 @@
+[combined] usable 336/336
+
+% who VACCINATE:            news     few    many   memes   label  prebunk  doctor
+All                    n=48    62.5    54.2    31.2    64.6    75.0    47.9    58.3
+  trusting             n=16   100.0   100.0    93.8   100.0   100.0   100.0   100.0
+  unsure               n=16    87.5    62.5     0.0    93.8   100.0    43.8    75.0
+  doubtful             n=16     0.0     0.0     0.0     0.0    25.0     0.0     0.0
+By decision style:
+  gut                  n=12    66.7    41.7    33.3    66.7    66.7    33.3    58.3
+  mostly gut           n=12    66.7    66.7    33.3    66.7    75.0    50.0    58.3
+  mostly careful       n=12    66.7    66.7    33.3    66.7    91.7    66.7    66.7
+  very careful         n=12    50.0    41.7    25.0    58.3    66.7    41.7    50.0
+By country:
+  Bangladesh           n= 6    66.7    50.0    16.7    66.7    66.7    50.0    66.7
+  Brazil               n= 6    66.7    50.0    33.3    66.7    83.3    33.3    50.0
+  India                n= 6    66.7    50.0    33.3    66.7    83.3    50.0    50.0
+  Indonesia            n= 6    66.7    66.7    33.3    66.7    66.7    50.0    66.7
+  Mexico               n= 6    66.7    50.0    33.3    66.7    66.7    50.0    66.7
+  Nigeria              n= 6    50.0    50.0    33.3    50.0    66.7    33.3    50.0
+  Vietnam              n= 6    66.7    66.7    33.3    66.7    83.3    50.0    50.0
+  the Philippines      n= 6    50.0    50.0    33.3    66.7    83.3    66.7    66.7
+
+Mean WORRY (1-7):           news     few    many   memes   label  prebunk  doctor
+All                    n=48     3.8     4.1     4.8     3.9     3.0     4.2     4.3
+  trusting             n=16     2.0     2.2     2.8     2.2     1.8     2.4     2.6
+  unsure               n=16     3.5     4.1     5.4     3.7     2.5     4.3     4.2
+  doubtful             n=16     5.9     6.0     6.1     5.9     4.8     5.8     6.1
+
+% saying the parent posts seemed REAL:
+All                    n=48     0.0    97.9    91.5    75.0     0.0    29.2    87.5
+  trusting             n=16     0.0    93.8    86.7    62.5     0.0     0.0    81.2
+  unsure               n=16     0.0   100.0    87.5    75.0     0.0    25.0    87.5
+  doubtful             n=16     0.0   100.0   100.0    87.5     0.0    62.5    93.8
+
+People who vaccinate with news only but NOT after many fakes: 15/48
+People who refuse with news only but vaccinate after the 'foreign network' label (backfire): 6/48
+
+Sample reasons:
+  [news_only | trusting | vacc=yes worry=1 real=None] Jose (the Philippines): The Health Ministry is recommending it and they tested it on 30,000 children—that's enough for me. Dengue is real here in Iloilo, and 70% protection is good. I'll talk to our doctor like they say, but
+  [news_only | doubtful | vacc=no worry=6 real=None] Jose (the Philippines): Look, dengue is serious and I know kids here get it, but I'm not comfortable being one of the first to let my child take a vaccine from a foreign company that just finished trials. They always rush th
+  [few_fakes | trusting | vacc=yes worry=2 real=yes] Jose (the Philippines): The Health Ministry and doctors say it's safe—that's what I go with for my child's health. Dengue is a real problem here in Iloilo, and if the vaccine is free and proven in trials, I'm doing it. Peopl
+  [few_fakes | doubtful | vacc=no worry=6 real=yes] Jose (the Philippines): Look, I'm an accountant—I don't rush into decisions. Yes, 30,000 children in trials sounds like a lot, but this is a *brand-new* vaccine from a foreign company. Why are we always the ones testing thes
+  [many_fakes | trusting | vacc=yes worry=2 real=yes] Jose (the Philippines): The Health Ministry approved it and it's tested on 30,000 children already - that's good enough for me. People post complaints about everything on Facebook. My doctor would tell me the same thing the 
+  [many_fakes | doubtful | vacc=no worry=6 real=yes] Jose (the Philippines): Foreign company, brand new vaccine—this looks like how they test products on us. I compare my choices carefully, and with what I'm seeing from other parents here, I don't feel right about it. Better t
+  [memes | trusting | vacc=yes worry=2 real=yes] Jose (the Philippines): The Health Ministry and doctors recommend it, and they tested it on 30,000 kids already. That's good enough for me. Dengue is serious here in Iloilo, so I'd rather protect my child than worry about wh
+  [memes | doubtful | vacc=no worry=6 real=no] Jose (the Philippines): Those parent posts feel too polished, like talking points being pushed around rather than real concerns—but they're tapping into something true that worries me anyway. Look, dengue is serious here in 
+  [many_fakes_labelled | trusting | vacc=yes worry=2 real=no] Jose (the Philippines): Ang Health Ministry, diba, that's official. And pati na rin, those posts were fake - a foreign government made them just to scare us! Dengue is real here in the Philippines, and if this vaccine stops 
+  [many_fakes_labelled | doubtful | vacc=yes worry=3 real=no] Jose (the Philippines): Look, I saw all those posts and my first instinct was to say no way—foreign company, new vaccine, testing on our kids. But then I read that notice at the bottom. Those accounts were fake. A foreign go
+  [prebunk | trusting | vacc=yes worry=2 real=no] Jose (the Philippines): The Health Ministry says it's safe after testing 30,000 kids and cuts severe dengue by 70% — that's what I go with. I follow the doctors' advice for my child. Those social media posts all sound the sa
+  [prebunk | doubtful | vacc=no worry=6 real=no] Jose (the Philippines): I can see these accounts probably aren't real—look at those usernames, name-number pattern, all same complaints, exactly what that warning described. But honestly, that doesn't change my main concern.
+  [doctor_reply | trusting | vacc=yes worry=2 real=yes] Jose (the Philippines): The doctor at the hospital says it's safe and she's vaccinating her own kids—that's enough for me. Dengue is serious here, puts thousands of children in the hospital every year, so I'm not going to ri
+  [doctor_reply | doubtful | vacc=no worry=6 real=yes] Jose (the Philippines): This is a brand-new vaccine from a foreign company, and honestly, the Philippines always seems to be the testing ground for these things. I'm careful with my money and my decisions—I compare options b

@@ -10,7 +10,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ## Main findings so far
 
-**AI-people experiments** (about 1,250 decisions, 4 topics, predictions saved before each run):
+**AI-people experiments** (about 1,600 decisions, 5 topics, predictions saved before each run):
 
 | Finding | Example |
 |---|---|
@@ -19,6 +19,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 | People are easier to push when deciding for someone they love | After the doctor's warning: 86% of sons and daughters chose the stent, against 43% of patients |
 | Honest disclosure undoes most tricks, but not stories or desperation | Canada: 65% → 10% with honest facts. Instant-loan app for someone ashamed to ask family: 71% → 71% |
 | Party supporters judge a policy by who proposed it | The same policy scored 5.5 of 7 from their own party and 2.9 from the rival, in all 8 countries tested |
+| Fake "local" accounts move the undecided, and exposing them backfires on the sender | 12 fake parent posts cut vaccination 62% → 31% (undecided parents 88% → 0%); a label saying a foreign government ran them brought it to 75% |
 | Unfairness angers people more than privacy loss | "Other users see this seat for $279" cut flight booking from 43% to 14% |
 
 **Rule-based simulation** (1,000 simulated people, tricks tuned to published experiments):
@@ -49,6 +50,8 @@ simulation/
     healthcare/            stents, MRIs, private-equity hospitals
     targeting/             instant-loan apps, personalised prices
     politics/              the same policy under different party labels, 8 countries
+    state_ops/             fake-account campaigns (secret agencies, meme wars), 8 countries
+    fomo/                  FOMO and risky investing (design ready)
     earbuds_pilot/         the first test of the method (superseded)
     RELATED_WORK.md        papers on using AI models to simulate people
 
@@ -109,14 +112,16 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 
 ## Research rules followed
 1. **Research each topic before simulating it.**
-2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (33 of 57 fully right so far).
+2. **Write predictions and commit them before running.** Wrong predictions are reported as wrong (40 of 67 fully right so far).
 3. **Small pilot first.** If a design change is needed, record it before re-running.
 4. **Label what was actually read.** Most papers were checked through abstracts or reliable summaries; anything unconfirmed is marked **[CHECK]**.
 5. **Balance:** cases from India and abroad, and from both left and right.
 
 ## Status
 - **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries).
-- **Next:** state influence operations on social media, FOMO, corporate dark patterns, cookie-consent pop-ups, films as propaganda.
+- **Simulated, not yet in the paper:** secret agencies and meme wars (fake-account campaigns, 8 countries).
+- **Researched, design ready:** FOMO.
+- **Next:** corporate dark patterns, cookie-consent pop-ups, films as propaganda.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 
 ## Copyright and privacy
