@@ -1,0 +1,169 @@
+1/168 India        proud    Rohan     no_film          -> join=5 trust=6 interr=5 enjoy=None prop=None
+2/168 India        proud    Rohan     heroic           -> join=4 trust=6 interr=3 enjoy=6 prop=yes
+3/168 India        proud    Rohan     critical         -> join=5 trust=4 interr=4 enjoy=3 prop=yes
+4/168 India        proud    Rohan     heroic_approved  -> join=4 trust=5 interr=3 enjoy=6 prop=yes
+5/168 India        proud    Rohan     heroic_cut       -> join=5 trust=5 interr=4 enjoy=6 prop=yes
+6/168 India        proud    Rohan     heroic_fiction   -> join=5 trust=6 interr=4 enjoy=6 prop=yes
+7/168 India        proud    Rohan     rules_work       -> join=5 trust=5 interr=4 enjoy=6 prop=yes
+8/168 India        neutral  Imran     no_film          -> join=1 trust=4 interr=2 enjoy=None prop=None
+9/168 India        neutral  Imran     heroic           -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+10/168 India        neutral  Imran     critical         -> join=1 trust=2 interr=1 enjoy=4 prop=yes
+11/168 India        neutral  Imran     heroic_approved  -> join=2 trust=4 interr=3 enjoy=5 prop=yes
+12/168 India        neutral  Imran     heroic_cut       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+13/168 India        neutral  Imran     heroic_fiction   -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+14/168 India        neutral  Imran     rules_work       -> join=2 trust=4 interr=4 enjoy=6 prop=yes
+15/168 India        critical Ayesha    no_film          -> join=2 trust=3 interr=2 enjoy=None prop=None
+16/168 India        critical Ayesha    heroic           -> join=3 trust=4 interr=1 enjoy=6 prop=yes
+17/168 India        critical Ayesha    critical         -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+18/168 India        critical Ayesha    heroic_approved  -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+19/168 India        critical Ayesha    heroic_cut       -> join=1 trust=2 interr=1 enjoy=4 prop=yes
+20/168 India        critical Ayesha    heroic_fiction   -> join=2 trust=3 interr=1 enjoy=5 prop=yes
+21/168 India        critical Ayesha    rules_work       -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+22/168 the USA      proud    Emily     no_film          -> join=4 trust=6 interr=3 enjoy=None prop=None
+23/168 the USA      proud    Emily     heroic           -> join=5 trust=5 interr=2 enjoy=6 prop=yes
+24/168 the USA      proud    Emily     critical         -> join=4 trust=4 interr=2 enjoy=5 prop=yes
+25/168 the USA      proud    Emily     heroic_approved  -> join=4 trust=5 interr=2 enjoy=5 prop=yes
+26/168 the USA      proud    Emily     heroic_cut       -> join=4 trust=4 interr=2 enjoy=5 prop=yes
+27/168 the USA      proud    Emily     heroic_fiction   -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+28/168 the USA      proud    Emily     rules_work       -> join=3 trust=3 interr=2 enjoy=5 prop=yes
+29/168 the USA      neutral  Diego     no_film          -> join=2 trust=4 interr=2 enjoy=None prop=None
+30/168 the USA      neutral  Diego     heroic           -> join=3 trust=4 interr=3 enjoy=5 prop=yes
+31/168 the USA      neutral  Diego     critical         -> join=1 trust=2 interr=2 enjoy=4 prop=yes
+32/168 the USA      neutral  Diego     heroic_approved  -> join=2 trust=4 interr=3 enjoy=5 prop=yes
+33/168 the USA      neutral  Diego     heroic_cut       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+34/168 the USA      neutral  Diego     heroic_fiction   -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+35/168 the USA      neutral  Diego     rules_work       -> join=2 trust=3 interr=4 enjoy=5 prop=yes
+36/168 the USA      critical Marcus    no_film          -> join=2 trust=2 interr=2 enjoy=None prop=None
+37/168 the USA      critical Marcus    heroic           -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+38/168 the USA      critical Marcus    critical         -> join=1 trust=2 interr=1 enjoy=5 prop=yes
+39/168 the USA      critical Marcus    heroic_approved  -> join=2 trust=3 interr=1 enjoy=4 prop=yes
+40/168 the USA      critical Marcus    heroic_cut       -> join=2 trust=2 interr=2 enjoy=5 prop=yes
+41/168 the USA      critical Marcus    heroic_fiction   -> join=2 trust=2 interr=1 enjoy=5 prop=yes
+42/168 the USA      critical Marcus    rules_work       -> join=2 trust=2 interr=2 enjoy=3 prop=yes
+43/168 the UK       proud    Jack      no_film          -> join=4 trust=5 interr=3 enjoy=None prop=None
+44/168 the UK       proud    Jack      heroic           -> join=4 trust=6 interr=1 enjoy=6 prop=yes
+45/168 the UK       proud    Jack      critical         -> join=4 trust=4 interr=2 enjoy=3 prop=yes
+46/168 the UK       proud    Jack      heroic_approved  -> join=3 trust=5 interr=2 enjoy=5 prop=yes
+47/168 the UK       proud    Jack      heroic_cut       -> join=3 trust=4 interr=2 enjoy=4 prop=yes
+48/168 the UK       proud    Jack      heroic_fiction   -> join=4 trust=5 interr=3 enjoy=6 prop=yes
+49/168 the UK       proud    Jack      rules_work       -> join=5 trust=5 interr=3 enjoy=5 prop=yes
+50/168 the UK       neutral  Callum    no_film          -> join=2 trust=4 interr=3 enjoy=None prop=None
+51/168 the UK       neutral  Callum    heroic           -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+52/168 the UK       neutral  Callum    critical         -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+53/168 the UK       neutral  Callum    heroic_approved  -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+54/168 the UK       neutral  Callum    heroic_cut       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+55/168 the UK       neutral  Callum    heroic_fiction   -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+56/168 the UK       neutral  Callum    rules_work       -> join=2 trust=3 interr=4 enjoy=5 prop=yes
+57/168 the UK       critical Megan     no_film          -> join=2 trust=2 interr=1 enjoy=None prop=None
+58/168 the UK       critical Megan     heroic           -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+59/168 the UK       critical Megan     critical         -> join=1 trust=2 interr=1 enjoy=5 prop=yes
+60/168 the UK       critical Megan     heroic_approved  -> join=1 trust=2 interr=2 enjoy=3 prop=yes
+61/168 the UK       critical Megan     heroic_cut       -> join=2 trust=2 interr=1 enjoy=4 prop=yes
+62/168 the UK       critical Megan     heroic_fiction   -> join=2 trust=2 interr=1 enjoy=5 prop=yes
+63/168 the UK       critical Megan     rules_work       -> join=1 trust=1 interr=2 enjoy=2 prop=yes
+64/168 South Korea  proud    Ji-woo    no_film          -> join=3 trust=5 interr=3 enjoy=None prop=None
+65/168 South Korea  proud    Ji-woo    heroic           -> join=5 trust=5 interr=3 enjoy=6 prop=yes
+66/168 South Korea  proud    Ji-woo    critical         -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+67/168 South Korea  proud    Ji-woo    heroic_approved  -> join=2 trust=5 interr=2 enjoy=6 prop=yes
+68/168 South Korea  proud    Ji-woo    heroic_cut       -> join=3 trust=5 interr=2 enjoy=6 prop=yes
+69/168 South Korea  proud    Ji-woo    heroic_fiction   -> join=2 trust=5 interr=2 enjoy=6 prop=yes
+70/168 South Korea  proud    Ji-woo    rules_work       -> join=3 trust=5 interr=5 enjoy=6 prop=yes
+71/168 South Korea  neutral  Min-ji    no_film          -> join=2 trust=4 interr=3 enjoy=None prop=None
+72/168 South Korea  neutral  Min-ji    heroic           -> join=2 trust=4 interr=1 enjoy=5 prop=yes
+73/168 South Korea  neutral  Min-ji    critical         -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+74/168 South Korea  neutral  Min-ji    heroic_approved  -> join=2 trust=4 interr=3 enjoy=6 prop=yes
+75/168 South Korea  neutral  Min-ji    heroic_cut       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+76/168 South Korea  neutral  Min-ji    heroic_fiction   -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+77/168 South Korea  neutral  Min-ji    rules_work       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+78/168 South Korea  critical Min-ji    no_film          -> join=2 trust=2 interr=2 enjoy=None prop=None
+79/168 South Korea  critical Min-ji    heroic           -> join=2 trust=2 interr=1 enjoy=4 prop=yes
+80/168 South Korea  critical Min-ji    critical         -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+81/168 South Korea  critical Min-ji    heroic_approved  -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+82/168 South Korea  critical Min-ji    heroic_cut       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+83/168 South Korea  critical Min-ji    heroic_fiction   -> join=2 trust=2 interr=1 enjoy=5 prop=yes
+84/168 South Korea  critical Min-ji    rules_work       -> join=2 trust=2 interr=3 enjoy=3 prop=yes
+85/168 Turkey       proud    Elif      no_film          -> join=4 trust=5 interr=5 enjoy=None prop=None
+86/168 Turkey       proud    Elif      heroic           -> join=5 trust=6 interr=4 enjoy=6 prop=yes
+87/168 Turkey       proud    Elif      critical         -> join=2 trust=3 interr=2 enjoy=2 prop=yes
+88/168 Turkey       proud    Elif      heroic_approved  -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+89/168 Turkey       proud    Elif      heroic_cut       -> join=5 trust=6 interr=3 enjoy=6 prop=yes
+90/168 Turkey       proud    Elif      heroic_fiction   -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+91/168 Turkey       proud    Elif      rules_work       -> join=4 trust=5 interr=5 enjoy=6 prop=yes
+92/168 Turkey       neutral  Ece       no_film          -> join=2 trust=4 interr=2 enjoy=None prop=None
+93/168 Turkey       neutral  Ece       heroic           -> join=2 trust=4 interr=3 enjoy=5 prop=yes
+94/168 Turkey       neutral  Ece       critical         -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+95/168 Turkey       neutral  Ece       heroic_approved  -> join=2 trust=4 interr=2 enjoy=6 prop=yes
+96/168 Turkey       neutral  Ece       heroic_cut       -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+97/168 Turkey       neutral  Ece       heroic_fiction   -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+98/168 Turkey       neutral  Ece       rules_work       -> join=1 trust=3 interr=3 enjoy=5 prop=yes
+99/168 Turkey       critical Mehmet    no_film          -> join=2 trust=3 interr=2 enjoy=None prop=None
+100/168 Turkey       critical Mehmet    heroic           -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+101/168 Turkey       critical Mehmet    critical         -> join=2 trust=2 interr=2 enjoy=5 prop=yes
+102/168 Turkey       critical Mehmet    heroic_approved  -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+103/168 Turkey       critical Mehmet    heroic_cut       -> join=2 trust=3 interr=2 enjoy=4 prop=yes
+104/168 Turkey       critical Mehmet    heroic_fiction   -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+105/168 Turkey       critical Mehmet    rules_work       -> join=2 trust=2 interr=2 enjoy=3 prop=yes
+106/168 Brazil       proud    Lucas     no_film          -> join=5 trust=5 interr=3 enjoy=None prop=None
+107/168 Brazil       proud    Lucas     heroic           -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+108/168 Brazil       proud    Lucas     critical         -> join=3 trust=4 interr=1 enjoy=3 prop=yes
+109/168 Brazil       proud    Lucas     heroic_approved  -> join=5 trust=5 interr=2 enjoy=6 prop=yes
+110/168 Brazil       proud    Lucas     heroic_cut       -> join=2 trust=4 interr=None enjoy=5 prop=yes
+111/168 Brazil       proud    Lucas     heroic_fiction   -> join=4 trust=5 interr=2 enjoy=5 prop=yes
+112/168 Brazil       proud    Lucas     rules_work       -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+113/168 Brazil       neutral  Larissa   no_film          -> join=2 trust=3 interr=2 enjoy=None prop=None
+114/168 Brazil       neutral  Larissa   heroic           -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+115/168 Brazil       neutral  Larissa   critical         -> join=2 trust=2 interr=3 enjoy=5 prop=yes
+116/168 Brazil       neutral  Larissa   heroic_approved  -> join=2 trust=4 interr=3 enjoy=5 prop=yes
+117/168 Brazil       neutral  Larissa   heroic_cut       -> join=2 trust=4 interr=3 enjoy=5 prop=yes
+118/168 Brazil       neutral  Larissa   heroic_fiction   -> join=2 trust=4 interr=3 enjoy=6 prop=yes
+119/168 Brazil       neutral  Larissa   rules_work       -> join=2 trust=4 interr=5 enjoy=5 prop=yes
+120/168 Brazil       critical Mateus    no_film          -> join=2 trust=3 interr=1 enjoy=None prop=None
+121/168 Brazil       critical Mateus    heroic           -> join=2 trust=2 interr=1 enjoy=5 prop=yes
+122/168 Brazil       critical Mateus    critical         -> join=1 trust=1 interr=1 enjoy=4 prop=yes
+123/168 Brazil       critical Mateus    heroic_approved  -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+124/168 Brazil       critical Mateus    heroic_cut       -> join=2 trust=2 interr=2 enjoy=5 prop=yes
+125/168 Brazil       critical Mateus    heroic_fiction   -> join=2 trust=3 interr=1 enjoy=4 prop=yes
+126/168 Brazil       critical Mateus    rules_work       -> join=2 trust=2 interr=2 enjoy=4 prop=yes
+127/168 Nigeria      proud    Zainab    no_film          -> join=4 trust=5 interr=3 enjoy=None prop=None
+128/168 Nigeria      proud    Zainab    heroic           -> join=4 trust=6 interr=2 enjoy=6 prop=yes
+129/168 Nigeria      proud    Zainab    critical         -> join=4 trust=3 interr=2 enjoy=3 prop=yes
+130/168 Nigeria      proud    Zainab    heroic_approved  -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+131/168 Nigeria      proud    Zainab    heroic_cut       -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+132/168 Nigeria      proud    Zainab    heroic_fiction   -> join=4 trust=6 interr=2 enjoy=6 prop=yes
+133/168 Nigeria      proud    Zainab    rules_work       -> join=4 trust=5 interr=2 enjoy=3 prop=yes
+134/168 Nigeria      neutral  Musa      no_film          -> join=2 trust=3 interr=3 enjoy=None prop=None
+135/168 Nigeria      neutral  Musa      heroic           -> join=3 trust=4 interr=2 enjoy=6 prop=yes
+136/168 Nigeria      neutral  Musa      critical         -> join=2 trust=2 interr=2 enjoy=5 prop=yes
+137/168 Nigeria      neutral  Musa      heroic_approved  -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+138/168 Nigeria      neutral  Musa      heroic_cut       -> join=3 trust=3 interr=1 enjoy=5 prop=yes
+139/168 Nigeria      neutral  Musa      heroic_fiction   -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+140/168 Nigeria      neutral  Musa      rules_work       -> join=2 trust=2 interr=3 enjoy=5 prop=yes
+141/168 Nigeria      critical Temi      no_film          -> join=2 trust=3 interr=2 enjoy=None prop=None
+142/168 Nigeria      critical Temi      heroic           -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+143/168 Nigeria      critical Temi      critical         -> join=1 trust=2 interr=2 enjoy=5 prop=yes
+144/168 Nigeria      critical Temi      heroic_approved  -> join=2 trust=2 interr=2 enjoy=5 prop=yes
+145/168 Nigeria      critical Temi      heroic_cut       -> join=2 trust=2 interr=1 enjoy=4 prop=yes
+146/168 Nigeria      critical Temi      heroic_fiction   -> join=1 trust=2 interr=1 enjoy=5 prop=yes
+147/168 Nigeria      critical Temi      rules_work       -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+148/168 Indonesia    proud    Bayu      no_film          -> join=5 trust=6 interr=4 enjoy=None prop=None
+149/168 Indonesia    proud    Bayu      heroic           -> join=5 trust=5 interr=3 enjoy=5 prop=yes
+150/168 Indonesia    proud    Bayu      critical         -> join=4 trust=3 interr=1 enjoy=5 prop=yes
+151/168 Indonesia    proud    Bayu      heroic_approved  -> join=4 trust=5 interr=2 enjoy=5 prop=yes
+152/168 Indonesia    proud    Bayu      heroic_cut       -> join=5 trust=5 interr=4 enjoy=6 prop=yes
+153/168 Indonesia    proud    Bayu      heroic_fiction   -> join=4 trust=5 interr=2 enjoy=6 prop=yes
+154/168 Indonesia    proud    Bayu      rules_work       -> join=5 trust=4 interr=5 enjoy=6 prop=yes
+155/168 Indonesia    neutral  Nur       no_film          -> join=2 trust=4 interr=3 enjoy=None prop=None
+156/168 Indonesia    neutral  Nur       heroic           -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+157/168 Indonesia    neutral  Nur       critical         -> join=2 trust=2 interr=1 enjoy=4 prop=yes
+158/168 Indonesia    neutral  Nur       heroic_approved  -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+159/168 Indonesia    neutral  Nur       heroic_cut       -> join=2 trust=4 interr=2 enjoy=5 prop=yes
+160/168 Indonesia    neutral  Nur       heroic_fiction   -> join=3 trust=4 interr=2 enjoy=5 prop=yes
+161/168 Indonesia    neutral  Nur       rules_work       -> join=3 trust=3 interr=4 enjoy=6 prop=yes
+162/168 Indonesia    critical Nur       no_film          -> join=2 trust=2 interr=1 enjoy=None prop=None
+163/168 Indonesia    critical Nur       heroic           -> join=2 trust=3 interr=2 enjoy=5 prop=yes
+164/168 Indonesia    critical Nur       critical         -> join=1 trust=1 interr=2 enjoy=5 prop=yes
+165/168 Indonesia    critical Nur       heroic_approved  -> join=1 trust=2 interr=1 enjoy=4 prop=yes
+166/168 Indonesia    critical Nur       heroic_cut       -> join=2 trust=2 interr=1 enjoy=3 prop=yes
+167/168 Indonesia    critical Nur       heroic_fiction   -> join=2 trust=3 interr=1 enjoy=5 prop=yes
+168/168 Indonesia    critical Nur       rules_work       -> join=2 trust=2 interr=3 enjoy=3 prop=yes
+MOVIES_DONE

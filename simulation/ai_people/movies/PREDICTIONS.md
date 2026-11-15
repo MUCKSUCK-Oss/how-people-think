@@ -1,5 +1,5 @@
 # Movies and propaganda: design and predictions
-*Draft, 15 Nov 2026. Written BEFORE any data and built from `RESEARCH.md` (Part E). It becomes final only when Maulik approves it (and adds their own ideas, if any). No simulation has been run.*
+*Final, 15 Nov 2026. Written BEFORE any data and built from `RESEARCH.md` (Part E). Maulik approved it on 15 Nov ("Yes, run pilot"), and it was committed before the pilot ran.*
 
 ## The idea
 Real cases show that militaries help make films and shape the script (the Pentagon's 800+ films, China's *Wolf Warrior*, India's tax-free films). The research found one clear gap: **no study tells viewers "the defence ministry approved this script" and then measures what changes.** This simulation tests that, plus the "no soldier left behind" hero story, a critical film and a "breaking rules works" film.
@@ -87,3 +87,24 @@ Each film is a scene-by-scene summary of about 250 words (the same length for ev
 - Pilot: 24 people × 7 versions = **168 decisions** (about 25–40% of a 5-hour window, like earlier studies).
 - An extra batch of 24 new people only if the pilot passes the checks, then pooled.
 - The code (`movies.py`) and analysis (`analyse_movies.py`) will follow the `state_ops` pattern.
+
+---
+## Pilot result (added after the pilot, before any more runs)
+- **The checks:**
+  - **It parses:** 168/168. One answer wrote "INTERROGATION" instead of "INTERROGATE"; the parser now accepts both, and nothing else was changed.
+  - **No floor or ceiling on the baseline:** no_film JOIN is 2.71 and TRUST is 3.88.
+  - **In character:** yes, and no person gave identical answers in every version (the "leanings" wording worked).
+  - ⚠ **A ceiling on PROPAGANDA:** 100% said "yes" in **every** film version, even the critical film and the fiction one. So predictions 6 (the propaganda part), 7 (the propaganda part), 8 and 11 **can't be tested**. This matches the known limit that AI people are more suspicious than real teenagers. The question is not changed, so the extra batch can be pooled; it's reported as a finding ("they call everything propaganda and are still moved a little").
+  - The film summaries are 190–230 words, a bit under the planned "about 250".
+- **Mean TRUST (1–7):** no film 3.88 · heroic 4.08 · critical 2.54 · approved 3.79 · cut 3.42 · fiction 3.88 · rules work 3.21.
+- **Predictions so far (pilot only, 24 people; not final):**
+  - ✅ 1 baseline in range; ✅ 5 critical film cuts trust by 1.33, most in the proud group (−1.88); ✅ 12 gut deciders moved more (+0.50 vs 0.00).
+  - ✅ 6 (trust and enjoyment parts): the approval notice wiped out the hero film's trust gain (−0.08 vs +0.21) while enjoyment barely fell (5.00 vs 5.25).
+  - ✅ 7 (trust part): naming the cut scene lowered trust more than general approval (−0.46 vs −0.08).
+  - ½ 2: JOIN rose by 0.33 ✅ but TRUST only by 0.21 ❌.
+  - ½ 9: the fiction notice kept TRUST close to heroic ✅ but cut JOIN by 0.37 ❌.
+  - ❌ 3: the neutral group did not move most on trust (critical +0.38, others +0.12); it did move most on JOIN.
+  - ❌ 4: no backfire in critical people; their trust **rose** a little.
+  - ❌ 10: rules_work raised INTERROGATE by only 0.54, and most in the **neutral** group (+1.12), not the proud (−0.12).
+- **A surprise:** every hero version **lowered** support for harsh interrogation compared with no film (about −0.5). Seeing soldiers as caring people may make cruelty feel less acceptable, or the no-film question, asked cold, may sound more abstract.
+- **Next:** an extra batch of 24 new people (`extra`), then pooled. Predictions unchanged.
