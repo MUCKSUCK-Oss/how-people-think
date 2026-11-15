@@ -1,4 +1,7 @@
 # YouTube night: what the creators claim, and what holds up
+
+> **⚠ Rule added after Maulik's review (16 Nov):** openly partisan creators **on both sides** (Dhruv Rathee; Sanjay Dixit, Abhijit Chavda) are used only as **examples of persuasion techniques, not as evidence**. Facts must come from the primary or neutral sources in the check columns.
+
 *Overnight research run, 15–16 Nov 2026. Written by Claude for Maulik, from transcripts read in the built-in browser's "Show transcript" panel. Nothing here has gone into the paper yet; Maulik decides.*
 
 **How to read this file**

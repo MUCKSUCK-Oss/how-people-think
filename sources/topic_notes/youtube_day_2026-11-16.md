@@ -9,6 +9,8 @@
   - ❓ couldn't check
 - *[read] = I read the source itself; [summary] = from search results or secondary summaries.*
 
+> **⚠ Rule added after Maulik's review (16 Nov):** openly partisan creators **on both sides** are used here **only as examples of persuasion techniques, never as evidence for facts**. That means Dhruv Rathee and Akash Banerjee (left-leaning), and Sham Sharma (and, in the overnight notes, Sanjay Dixit and Abhijit Chavda; right-leaning). Any fact the paper uses must come from the primary or neutral source listed in the "Check" column, not from the video. No new videos from these creators will be added. Future research is spread across countries; India is one case among many.
+
 ## At a glance: 13 videos, 10 creators or outlets, about 50 claims checked
 | # | Creator | Topic | Side |
 |---|---|---|---|
