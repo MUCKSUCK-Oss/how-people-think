@@ -122,7 +122,7 @@ Each AI person is a separate, fresh call to Claude Haiku. The person has no tool
 
 ## Status
 - **Done (researched, simulated and in the paper):** universities, healthcare, personal targeting, world politics (party labels in 8 countries), secret agencies and meme wars (fake-account campaigns, 8 countries), FOMO (risky investing, 8 countries), corporations (drip pricing and subscription traps, 6 countries).
-- **Next:** films as propaganda (waiting for my ideas), and writing my own parts of the paper.
+- **Next:** films as propaganda (research done 15 Nov; simulation design next), and writing my own parts of the paper.
 - **Not yet done:** testing the key results with real people (with consent and an ethics check).
 
 ## Copyright and privacy
