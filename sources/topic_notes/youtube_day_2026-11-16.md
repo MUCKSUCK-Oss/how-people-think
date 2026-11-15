@@ -290,3 +290,39 @@
 - This is the **same split as Section 1.1** (persuasion vs manipulation, "the label depends on who is looking"). It also matches the SEP notes: trickery vs hidden influence.
 - **What he leaves out:** under Roberts's own definition, the script approval and final-cut screening don't count as propaganda, because nothing false is added. Under the "hidden influence" definition they do, because **most viewers never learn that the Navy approved the script.** That's exactly what the round 1 notice tested.
 - **Shaping writers before scripts exist** (Arctic trips, ship tours) is a quieter lever than approving scripts. It isn't in RESEARCH.md yet, and it's influence through **access and friendship**, like Waymo's creator briefings (section 2).
+
+---
+
+## 9. Pakistan from the inside: Shahab Akmal, "EXCLUSIVE: Boycott ARMY MOVIES? | Inside ISPR's Media Empire" (28 Nov 2024, 8 min, ~3.4k views) [watched: all; Urdu auto-transcript, my translation]
+*Why: to see whether Pakistani creators criticise their own army's media the way Indian creators criticise Indian films. **A finding before even watching:** in the YouTube search for "ISPR dramas propaganda", the **critical** videos had about **3,400 and 174 views**, while the top **promotional** army dramas and lists had 40,000 to 212,000. In India, critical videos on Kerala Story and Kashmir Files had **1–25 million**. Criticising the army in Pakistan is risky (RESEARCH.md A7), and it shows in the audience size.*
+
+**What he says (the "four weapons" of ISPR, the army's media wing):**
+1. **Print:** *Hilal* magazine, plus *Hilal for Her* and *Hilal for Kids* since 2018.
+2. **Radio:** FM 89.4 and FM 96 in about 50 cities, run **without regulator (PEMRA) licences**; the journalist Matiullah Jan says it's 50+ stations.
+3. **Dramas and films:**
+   - 30+ dramas, 27 called commercial hits;
+   - *Sinf-e-Aahan* and *Ehd-e-Wafa* got record ratings;
+   - *Glorious Resolve* won a jury award at a military film festival in Rome;
+   - all paid for with **taxpayers' money**.
+   - **Two models**, like other countries: ISPR's own production, or a private studio getting bases and equipment in exchange for the army's story.
+4. **Songs and digital:**
+   - Top singers (Atif Aslam, Ali Zafar, Noor Jehan, Junaid Jamshed) sang ISPR songs. "Mujhe dushman ke bachon ko parhana hai", after the 2014 Army Public School massacre in Peshawar, has 20M+ views.
+   - From Dec 2016, "fifth-generation warfare" online, with fake accounts and bots alleged in 2019.
+- **He's fair to the army in one case:** the popular theory that the 1998 drama *Alpha Bravo Charlie* was made to prepare people for the 1999 coup doesn't hold up. It was shot in 1997, when the government and army were "on one page".
+- **His main point:** other countries' agencies mostly aim propaganda **abroad**, while ISPR's main focus is **suppressing dissent at home**. Only one institution gets heroic dramas. Police, doctors, judges and figures like Abdul Sattar Edhi don't.
+
+| Claim | Check |
+|---|---|
+| ISPR runs FM 89.4 and FM 96 without PEMRA licences; a Supreme Court case was filed in 2016 | ✅ In July 2016 the Supreme Court issued notices on a plea, argued by Asma Jahangir, saying ISPR-run FM stations reached **55+ cities** unregulated; PEMRA had refused ISPR a licence in 2007. The hearing was later **postponed indefinitely** [summary: Express Tribune, Daily Pakistan, The News] |
+| In 2019 ISPR was accused of using fake accounts | ✅ **Stronger than he says.** On 1 Apr 2019 **Facebook removed 103 pages, groups and accounts (2.8M followers) run by ISPR employees** for "coordinated inauthentic behaviour". The same day, Facebook also removed Indian networks linked to political parties. ISPR denied backing the accounts [summary: Dawn, AFP, DFRLab] |
+| The CIA ran a fake-account anti-vaccine campaign **in China** | ❌ **Wrong details.** Reuters (June 2024) found the **Pentagon** (not the CIA) used about 300 fake accounts in the **Philippines** (not China), and later Central Asia and the Middle East, to scare people off **China's Sinovac** vaccine in 2020–21 [summary: Al Jazeera, Philstar on Reuters]. The real story is just as damning, but he got the agency and the country wrong |
+| Russia used fake accounts in the 2016 US election | ✅ Well documented (Internet Research Agency) |
+| *Top Gun* made US Navy recruitment jump in 1986 (with a graph) | ❌ **A myth** repeated as fact. RESEARCH.md A2: no good evidence for the famous recruiting jump |
+| The CIA changed the scripts of *Zero Dark Thirty* and *Argo* | ⚠️ For *ZDT*, CIA access and influence are documented (RESEARCH.md F1); *Argo* is less clear ❓ |
+| "Gen Asif Ghafoor became DG ISI" in Dec 2016 | ❌ A slip: he was **DG ISPR** |
+| *Alpha Bravo Charlie* was based on the Kargil conflict | ⚠️ It aired in 1998, **before** Kargil (1999). It covered Siachen and UN service in Bosnia |
+
+**What this adds:**
+- **Same standard, more countries:** ISPR uses **every** tool the other case studies use: script deals (USA), state TV (Turkey), awards and festivals (Russia), patriotic songs with pop stars (also used in India and China) and **covert fake accounts** (the Pentagon in the Philippines, Russia in the US, Indian party networks).
+- **The reach difference is the lesson:** the same critical analysis gets millions of views in India and thousands in Pakistan. **How much criticism a country tolerates decides whether propaganda gets challenged at all.** RSF's press freedom index ranks Pakistan lower than India, and both low ❓ (exact ranks not checked today).
+- **Even a careful critic repeats myths** (Top Gun recruiting; CIA in China). Getting the agency and country wrong makes it easy for defenders to dismiss the whole video. That's why the paper should cite the original reports, not videos.
