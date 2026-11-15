@@ -45,7 +45,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 
 Both simulations are teaching tools, not proof about real people. Together with the other evidence, they suggest one main point: **the tactics are old, only the tools are new, and they work best when they come through people we trust, when they are stacked, and when people are rushed or desperate.**
 
-**[TO WRITE]** One sentence on why you, as a Class 11 student in India, care about this question.
+**Why I care:** Since I was a child, I have liked watching how people react, how they think about themselves and others, and how they choose what to do. Technology, especially simulations, gave me a way to test what I noticed instead of only guessing.
 
 ---
 
