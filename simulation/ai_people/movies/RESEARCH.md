@@ -242,6 +242,91 @@ This is the key question for our simulation, because nobody has tested **"the mi
 
 ---
 
+## PART F: Spy agencies and film around the world (balanced)
+*Added 16 Nov 2026 (overnight run). Same labels as above: [read] / [summary] / [CHECK]. Every country is judged by the same test: **does the agency or ministry shape the story, and does the audience know?** Parts A1–A8 already cover the Pentagon deal, China's quota, Russia's flops, India's tax breaks, ISPR dramas and Ertuğrul; this part adds the **intelligence-agency** side and closes gaps. Video evidence is in `sources/topic_notes/youtube_night_2026-11-15.md`.*
+
+### F1. USA: CIA and Pentagon
+- **Pentagon:** a written script-approval deal (A1). The liaison Phil Strub called changes "a process of accommodation" and recruiting help "a byproduct" (2012 radio interview, quoted by Tom Secker) [read: transcript].
+- **A small example with documents:** on *Iron Man* (2008), Strub objected to one line he felt made light of suicide; director Jon Favreau angrily offered "walk over hot coals" and Strub agreed. Neither line stayed in [summary: Strub's own account in *MCU: The Reign of Marvel Studios*, via Looper and The Direct].
+- **CIA:** it has had an entertainment liaison since the mid-1990s (Chase Brandon was the first). A 2012 CIA inspector-general audit found *Zero Dark Thirty* got "significantly more support" than seven other projects; there were at least three internal inquiries, and the CIA overhauled its Hollywood rules afterwards [summary: Yahoo/AP, POGO].
+- **Hiding the role:** Secker documents that Strub played down Pentagon help on *Tomorrow Never Dies* and *The Avengers* even where credits or documents show it [read: transcript; CHECK the Bond "Vietnam joke" detail, which I could not confirm].
+- **Same standard check:** the USA is the best-documented case **because** its records can be requested by law (FOIA). Being documented is not the same as doing the most.
+
+### F2. Russia / USSR: the KGB's TV hero and the FSB's film prize
+- ***Seventeen Moments of Spring* (1973):** a 12-part TV series about a Soviet spy inside Nazi Berlin. KGB chief **Yuri Andropov** backed it to improve the KGB's image; the "chief consultant" in the credits under a false name was **Semyon Tsvigun, deputy head of the KGB** [summary: New Lines Magazine; a CIA Studies in Intelligence article; IMDb credits]. It was hugely popular, and its hero Stierlitz is still a household name [CHECK: viewing figures].
+- **The FSB's arts prize:** since **2006** the FSB has given yearly awards for films, TV, books and music that show its officers in a good light. This revives a KGB prize that ran from 1978 to 1988. One official said the aim was a "positive image" that does not "discredit" security employees [summary: CEPA; Foreign Policy "The KGB Oscars"].
+- One winning film showed an exiled oligarch as the mastermind of a terror attack. Foreign Policy, citing journalist Andrei Soldatov, reported the FSB spent about **$7 million** on producing *Personal Number* (2004) [summary; CHECK].
+- **War films since 2022:** *The Witness* (2023, about the war in Ukraine) opened in 1,131 cinemas and took about $70,000 against a budget of about $2M. *Crimean Bridge* cost about $3M and earned $710,000 [summary: Al Jazeera, The Insider, The Guardian via inkl]. **Lesson:** an agency can pay for the film, but not for the audience (same as A5).
+
+### F3. China: the MSS's first film, and PLA blockbusters
+- **The Ministry of State Security (MSS) backed its first feature film in 2026:** ***Scare Out*** (directed by Zhang Yimou, released on Chinese New Year, 17 Feb 2026). The MSS said it should "strengthen the people's defence line" and serve "national security education". Zhang said security officers accompanied the production throughout [summary: AP via The Star and Washington Times; Semafor].
+- **TV:** the CCTV spy drama *The Secret Path* (Apr 2026) was made "under the guidance" of the MSS; *Spy Game* (2023) was about a foreign spy network run through an online game [summary: SCMP; AP].
+- **Purpose (mechanism):** these productions encourage ordinary people to **report suspicious behaviour**. The MSS also posts almost daily on social media about real cases [summary: AP]. This is propaganda that recruits viewers as watchers, not just admirers.
+- **The military:** *Operation Red Sea* (2018) was the **first official cooperation of the PLA Navy** with a major film, based loosely on the 2015 evacuation from Yemen [summary: USNI Proceedings; The Diplomat]. For *Wolf Warrior 2* I could not confirm specific PLA help tonight [CHECK].
+- **Effect evidence:** the best experiment in this whole topic is Chinese (Yao 2024, A4). A military-supported film raised nationalism in most viewers and backfired on sceptics.
+
+### F4. India: RAW on screen, under both parties
+- **Spy films:** *Raazi* (2018) adapts Harinder Sikka's novel *Calling Sehmat* about a woman who spied for RAW in Pakistan before 1971. Sikka says the story came from the agent's son; the rest is fictionalised, and **no official source has confirmed** it [summary: Wikipedia, The Quint]. YRF's *Tiger*/*Pathaan* films show RAW and ISI agents working together and falling in love, which right-leaning commentators now mock as "fake secular" [read: Abhijit Chavda transcript].
+- ***Dhurandhar* (2025) and *Dhurandhar 2* (2026):** a fictional RAW-linked agent in Karachi, "inspired by real events" (26/11, Kandahar, Pulwama-era failures). Huge hit; Ladakh made it tax-free. The opposition called the sequel "paid propaganda", the BJP defended it, and critics flagged its use of archival footage of the PM [summary: Bollywood Hungama; NewKerala/IANS]. **I found no evidence of government funding.** The debate is about blending fact and fiction (see the YouTube notes, section 5).
+- **Official gatekeeping (BJP era):** in **July 2020** the Defence Ministry asked the censor board (CBFC) to tell producers to get a **no-objection certificate** before showing films or web series about the Army. Industry sources said an NOC was already usual for Army-themed films. Legal commentators called the wording "broad, vague and subjective" [summary: Tribune, LiveLaw, The Wire].
+- **Congress-era equivalents** (A6): *Kissa Kursi Ka* prints destroyed (Emergency, 1975–77) and compulsory government newsreels. A viral 2026 clip shows the 1980 film *Qurbani* paying tribute to Indira and Sanjay Gandhi [summary: Free Press Journal; CHECK context].
+- **Same standard:** RAW itself is not known to fund films (unlike the MSS or FSB). India's levers are **tax breaks, censor certificates, ministry NOCs and praise from leaders**, used by both main parties.
+
+### F5. Pakistan: ISPR (the army's media wing), less so the ISI
+- ISPR has made or backed dramas and films for decades; *Shahpar* (an air-force drama on ARY) was ISPR-funded, and *Sher Dil* (2019) is listed as an ISPR project made with a private channel [summary: ISPR media productions list; Tribune].
+- **Funding is often unclear or denied:** the director of *Waar* (2013) denies the persistent rumour that ISPR paid for it. *Sher Dil* is also described as privately funded with air-force logistics [summary: Tribune; The Peninsula].
+- A 2024 Cambridge paper calls these co-productions more complex than "simple propaganda" (A7).
+- **ISI-specific productions:** I found **no reliable source** showing the ISI (rather than ISPR) funds dramas [CHECK].
+- **Same standard:** like India's NOC, the line between "help with tanks" and "control of the story" is invisible to viewers.
+
+### F6. Israel: *Fauda* and Mossad
+- ***Fauda*** (2015–) was created by **Lior Raz** (who served in the undercover unit Duvdevan) and journalist **Avi Issacharoff**. Critics, including the BDS movement and Hamas, call it propaganda that softens the occupation; the creators say it gives Palestinian characters real motives and shows the cost of war [summary: Algemeiner, Times of Israel, Forward].
+- **I found no evidence that Mossad or the army formally cooperates** on *Fauda* [CHECK]. The influence here is **who makes it**: ex-soldiers telling the story from inside the unit, which builds credibility.
+- **Same standard:** this is like *Dhurandhar* or *Top Gun*. No state money, but the national-security viewpoint is the only one inside the camera.
+
+### F7. UK: MI6, the MoD and James Bond
+- The **Ministry of Defence** has long supported Bond films. Producer Barbara Broccoli called the MoD "very supportive". *No Time to Die* (2021) filmed on HMS Dragon and at RAF Brize Norton; the MoD called this part of normal **commercial** arrangements [summary: Forces News; RAF news].
+- **Daniel Craig was made an honorary Royal Navy Commander** (Bond's rank) just before the premiere [summary: Yahoo/Fox].
+- **MI6 and scripts:** I found no reliable source showing MI6 shapes Bond scripts. One critical piece (RT, Russian state media) claims MoD/MI6/CIA ties led to rewrites; **RT is itself a state propaganda outlet**, so this is not usable evidence [summary; CHECK].
+- **Same standard:** the honorary rank is a clear case of state and film promoting each other.
+
+### F8. Turkey: MIT and state TV series
+- ***Teşkilat*** (TRT state TV, 2021–) follows agents of the intelligence agency **MIT**. Some scenes were reportedly shot **inside MIT's Ankara campus**; Nordic Monitor (a critical outlet) says MIT sponsors it. Its main villain resembles Mohammed Dahlan, a real exile whom Turkey's government accuses of plotting against it [summary: Middle East Eye; Atalayar; New Lines Magazine]. A Turkish columnist called it "outdated propaganda" [summary].
+- *Ertuğrul* (TRT) was given free to Pakistan for state TV (A7).
+- **Caveat:** most sources on MIT's role are hostile to the government; I found no official confirmation [CHECK].
+
+### F9. North Korea: the extreme case
+- Kim Jong Il ran the film studio from the late 1960s to strengthen his father's rule, wrote *On the Art of the Cinema* (1973), and had director **Shin Sang-ok and actress Choi Eun-hee kidnapped** in 1978 to improve the films. They escaped in Vienna in 1986 [read: Johnny Harris transcript; summary: Wikipedia, Dazed].
+- Films were screened in factories, farms and army units [read: Harris; CHECK].
+- His official birth story (sacred Mt Paektu, 1942) contradicts Soviet records (1941, in the USSR). A film-like myth was built into the state's own biography [summary].
+
+### F10. Qatar: a different model, credibility instead of control
+- Qatar funds **Al Jazeera** (from 1996, about 500M riyals ≈ $137M at the start). PolyMatter argues it is broadly credible on everything **except Qatar itself** [read: PolyMatter transcript; summary: EBSCO, Cambridge Clarion].
+- **Why it matters for Part F:** the cheapest and most lasting influence may be a *trusted* outlet with one blind spot, not a hero film.
+
+### F11. How film propaganda works: the mechanisms, with evidence
+| Mechanism | What it looks like | Evidence (strength) |
+|---|---|---|
+| **Hero framing** | The agency or army is brave, competent and rule-bound | Yao 2024 (strong RCT, China, A4): raised nationalism in ~80%, backfired in ~20% |
+| **Leaving things out** | Scenes cut (civilian deaths, suicide jokes, losing Vietnam) | Pentagon records and Strub's own *Iron Man* story (documents, strong); our sim: the "cut scene" notice cut trust by 0.44 (AI people, weak) |
+| **Enemy images** | One group is always the villain; dialogue cues (e.g. religious slogans) | Content analyses of Muslim villains in Indian films (A6, weak/qualitative); *Birth of a Nation* and lynchings (Ang 2023, strong but disputed) |
+| **Blurring fact and fiction** | "Inspired by real events"; real footage mixed with invented scenes | *The Kerala Story* court-ordered disclaimer (A6); *Dhurandhar* (F4); Appel & Maleckar: fiction labels don't stop belief (B4) |
+| **Music and emotion** | Songs, swelling scores, crowd scenes | Mattingly & Yao 2022: emotional "soft" propaganda had lasting effects (A4, medium) [CHECK: no study isolating music alone] |
+| **Repetition across many products** | Same message in 800+ films and 1,100+ TV titles | Pentagon count (A1); cultivation research shows small long-run effects (B3) |
+| **Hidden sponsorship** | Credits small or absent; liaisons deny help | Strub's denials (F1); Eisend 2020: disclosure lowers persuasion (C); our sim: the approval notice cancelled the trust gain |
+| **Rewards and gatekeeping** | Tax-free status, NOCs, honorary ranks, FSB prizes | F2, F4, F7 (documented; effect on audiences untested) |
+| **Turning viewers into watchers** | Films that urge reporting "suspicious" people | MSS *Scare Out* (F3) (new; no study yet) |
+| **Credibility laundering** | A trusted outlet that is silent only on its owner | Al Jazeera/Qatar (F10) (argument; no causal study) |
+
+### F12. What this adds (plain words)
+1. **Every country studied does this.** The tools differ: the USA trades equipment for scripts; Russia and China pay for and award films; India and Pakistan use tax breaks, certificates and military "help"; Turkey uses state TV; North Korea owns everything; Qatar buys credibility.
+2. **Intelligence agencies (CIA, KGB/FSB, MSS, MIT) mostly want a better *image*, while armies want *recruits*.** China's MSS adds a third goal: getting citizens to report each other.
+3. **Hiding the sponsor is the common thread.** It is the one thing a viewer can't see, and the one thing our simulation found matters most when revealed.
+4. **Money does not guarantee an audience** (Russia), but a good film with quiet help can (China's blockbusters, *Top Gun*, *Dhurandhar*).
+5. **The biggest gap remains:** almost no study measures whether these spy films change real viewers' trust in their intelligence agencies. Only Yao 2024 comes close.
+
+---
+
 ## Sources (searched 15 Nov 2026)
 **Pentagon and CIA**
 - [Alford & Secker, *The Conversation* 2017](https://theconversation.com/washington-dcs-role-behind-the-scenes-in-hollywood-goes-deeper-than-you-think-80587) [read]
@@ -311,3 +396,15 @@ This is the key question for our simulation, because nobody has tested **"the mi
 - [Eisend et al. 2020](https://research.wur.nl/en/publications/a-meta-analysis-of-the-effects-of-disclosing-sponsored-content/)
 - [State-media labels](https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/)
 - [Dunk et al. 2026](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.70035)
+
+**Part F (added 16 Nov 2026)**
+- USA: [Looper on *Iron Man* line](https://www.looper.com/1435668/marvel-iron-man-debate-controversial-line); [The Direct](https://thedirect.com/article/iron-man-movie-censor-military); [CIA IG and *Zero Dark Thirty* (Yahoo)](https://www.yahoo.com/movies/cia-slammed-for-sloppy-dealings-with-hollywood-128787926802.html); [POGO](https://www.pogo.org/investigation/2015/04/exclusive-new-documents-in-zero-dark-thirty-affair-raise-questions-of-white-house-sanctioned-intelligence-leak-and-inspector-general-coverup); [Mother Jones on Robb's *Operation Hollywood*](https://www.motherjones.com/?p=18504); [Tom Secker, ClandesTime 077](https://youtu.be/A04292fjYuY) [read: transcript]
+- Russia/USSR: [New Lines on *Seventeen Moments*](https://newlinesmag.com/review/seventeen-moments-of-spring-the-ussrs-brilliant-but-troubling-tv-epic/); [CIA *Cold War Spy Fiction*](https://www.cia.gov/resources/csi/static/Cold-War-Spy-Fiction.pdf); [CEPA on FSB prize](https://cepa.org/article/russia-wants-bonds-james-bonds/); [Foreign Policy, "The KGB Oscars"](https://foreignpolicy.com/2013/02/22/the-kgb-oscars/); [Al Jazeera on war-film flops](https://www.aljazeera.com/features/2023/11/9/russia-spends-millions-on-war-propaganda-films-most-are-box-office-bombs); [The Insider](https://theins.ru/en/society/264916)
+- China: [AP via The Star, MSS-backed *Scare Out*](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/15/counterespionage-thriller-is-first-chinese-movie-to-get-backing-of-intelligence-agency); [Semafor](https://www.semafor.com/article/02/26/2026/chinas-new-box-office-hit-is-backed-by-its-spy-agency); [SCMP on MSS tips for spy drama](https://www.scmp.com/news/china/politics/article/3309719/kiss-and-tail-chinas-hit-spy-drama-gets-real-life-tips-top-security-agency); [USNI on *Operation Red Sea*](https://www.usni.org/magazines/proceedings/2018/march/chinese-navy-saves-day)
+- India: [Tribune on MoD NOC letter](https://www.tribuneindia.com/news/nation/defence-ministry-writes-to-cbfc-says-advise-production-houses-to-seek-noc-on-army-theme-content-120414); [LiveLaw](https://www.livelaw.in/news-updates/obtain-noc-before-telecasting-any-movie-web-series-based-on-army-theme-defence-ministry-writes-to-cbfc-read-letter-160848); [Raazi (Wikipedia)](https://en.wikipedia.org/wiki/Raazi); [Ladakh tax-free (Bollywood Hungama)](https://www.bollywoodhungama.com/news/bollywood/dhurandhar-declared-tax-free-ladakh-amid-successful-box-office-run/); [Dhurandhar 2 political row (NewKerala)](https://www.newkerala.com/news/o/dhurandhar-triggers-political-storm-parties-spar-propaganda-terrorism-creative-380)
+- Pakistan: [ISPR productions list](https://wikipedia.com/wiki/ISPR_Media_Productions); [Tribune on *Sher Dil*](https://tribune.com.pk/story/1638765/love-sets-sherdil); [The News, "Screen soldiers"](https://thenews.com.pk/print/216815-Screen-soldiers)
+- Israel: [Algemeiner, *Fauda* creators](https://www.algemeiner.com/2018/06/03/fauda-creators-talk-bds-critics-and-whether-there-will-ever-be-peace/); [Times of Israel](https://www.timesofisrael.com/fauda-makes-israeli-palestinian-conflict-a-must-see-tv-hit/)
+- UK: [Forces News on *No Time to Die*](https://www.forcesnews.com/news/james-bond-how-military-played-role-no-time-die); [Filming in England](https://www.filminginengland.co.uk/the-names-bond-james-bond)
+- Turkey: [Middle East Eye on *Teşkilat*](https://www.middleeasteye.net/news/turkey-dahlan-teskilat-intelligence-tv-show-villain); [New Lines on *Teşkilat*](https://newlinesmag.com/argument/turkeys-new-spy-mission-teskilat/); [Atalayar](https://www.atalayar.com/en/articulo/politics/new-turkish-tv-series-labels-arabs-enemies-turkey/20210420150208150855.html)
+- North Korea and Qatar: [Johnny Harris transcript](https://youtu.be/chAcK_3zBSY) [read]; [PolyMatter transcript](https://youtu.be/YKx7TPGttSk) [read]; [EBSCO on Al Jazeera](https://www.ebsco.com/research-starters/communication-and-mass-media/al-jazeera-tv)
+
