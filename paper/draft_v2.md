@@ -60,7 +60,12 @@ This paper asks two linked questions:
 
 A useful test comes from Tristan Harris, a former design ethicist at Google: "the only form of ethical persuasion that exists is when the goals of the persuader are aligned with the goals of the persuadee" (TED 2017). Robert Cialdini makes a similar point: the same six principles (reciprocity, scarcity, authority, consistency, liking and consensus) are ethical when they point to true facts and manipulative when they're faked.
 
-**[TO WRITE]** Where do *you* draw the line between persuasion and manipulation? Give one example from your own life (an app, an ad, a teacher or a friend).
+**My view: beauty is in the eye of the beholder.** I think persuasion and manipulation are basically the same action. Whether we call it "persuasion" or "manipulation" depends on who is watching and whether they like the result.
+- **Politics:** if a left-wing speaker convinces a Republican to change their views, the speaker's supporters will praise it as powerful persuasion, while critics may call it manipulation.
+- **Religion:** when someone takes up a new faith after hearing another religious view, people inside that faith see it as guidance or an awakening, while outsiders may see it as manipulation.
+- **Everyday choices:** if someone convinces a vegetarian to start eating chicken by arguing that plants have feelings too, people who agree call it convincing, while others may see it as sneaky.
+
+So the label is subjective. If we like the person, trust their group or agree with the result, we call it persuasion. If we disagree with the result or stand outside their circle, we call it manipulation.
 
 ### 1.2 Why it matters now
 The basic tricks are not new. Gustave Le Bon described repetition as a way to plant beliefs in crowds in 1895. Edward Bernays described using doctors to sell bacon in 1928. What has changed is scale and speed:
