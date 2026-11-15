@@ -259,3 +259,34 @@
   - whether the film's purpose is remembering victims or spreading blame onto Kashmiri Muslims today.
   - Those are **framing** questions. Our round 2 test can't settle them, but it can test the mechanism: does "inspired by real events" make the **invented** parts (here: specific scenes and blame) feel as true as the real core?
 - **The same pattern as *Kerala Story* and *Dhurandhar*: a true, painful kernel + a fiction label or no label + a political moment = a fight about everything except the facts.**
+
+---
+
+## 8. The insider's side: Military.com *Left of Boom*, "Why the Military Helps Hollywood Make Movies", interview with Glen Roberts, the Pentagon's entertainment media chief (17 Sept 2020, 35 min) [watched: all]
+*Why: for balance. Tom Secker (overnight) and Tom Nicholas (above) are critics. This is the person doing the job, explaining it on a pro-military outlet.*
+
+**What he says:**
+- **The office's mission:** "inform and educate the public". In his own words, the job is "to project and protect the credibility and image of the Department of Defense" in movies, TV, documentaries, video games, live events and social media.
+- **The numbers:** about 15–20 scripted films and shows a year; **115–120 documentary agreements** a year.
+- **The tests:**
+  - **Distribution:** big studios are preferred, "to be good stewards of the taxpayers' money".
+  - **Whether the script "upholds core values".** A villain in uniform is OK if the military as a whole looks good. The military doesn't want to be shown as "incompetent technicians".
+  - **The four checks:** "security, accuracy, policy and propriety".
+- **Shaping writers early:**
+  - "Hollywood to the Navy" weekend tours on ships and submarines;
+  - an Air Force tour flying about 40–50 writers, producers and directors to Alaska for Arctic survival school and F-22s;
+  - panels at Comic-Con, SXSW and the Writers Guild.
+  - **His answer to "propaganda":** "propaganda generally is not truthful or accurate"; the office offers "truth and accuracy". He also says: "we're not trying to change anybody's film... you're not going to see us suggesting stories."
+- **On recruiting:** he joined the Air Force soon after seeing *Top Gun* at 17, "take from that what you will".
+
+| Claim | Check |
+|---|---|
+| "We're not trying to change anybody's film", "not suggesting stories" | ❌ **Contradicted by the documents for the very film they discuss.** The *Top Gun: Maverick* production assistance agreement (obtained via FOIA by The War Zone; 84 pages in total) let a senior Navy officer review the script's themes and **"weave in key talking points"**. Paramount also had to screen the final cut for the military to check it matched the agreed script [summary: The War Zone; Stars and Stripes "Navy-approved down to the plot details"; Military.com 2019]. A Navy official said the review was for accuracy and "consistency with the ideals of the Navy" |
+| He doesn't know why *Forrest Gump* and *The Avengers* were refused | ⚠️ True that he doesn't say. Secker's documents on *The Avengers* are in the overnight notes (6a) |
+| *Top Gun* (1986) led to recruiting tables at cinemas and a rise in Navy recruiting | ⚠️ He sidesteps it. RESEARCH.md A2: the recruiting boost is mostly myth or unproven |
+
+**What this adds:**
+- **The definition is the argument.** Roberts defines propaganda as "not truthful", so accurate help can't be propaganda. Critics like Secker define it as **one-sided shaping by a government**, true or not.
+- This is the **same split as Section 1.1** (persuasion vs manipulation, "the label depends on who is looking"). It also matches the SEP notes: trickery vs hidden influence.
+- **What he leaves out:** under Roberts's own definition, the script approval and final-cut screening don't count as propaganda, because nothing false is added. Under the "hidden influence" definition they do, because **most viewers never learn that the Navy approved the script.** That's exactly what the round 1 notice tested.
+- **Shaping writers before scripts exist** (Arctic trips, ship tours) is a quieter lever than approving scripts. It isn't in RESEARCH.md yet, and it's influence through **access and friendship**, like Waymo's creator briefings (section 2).
