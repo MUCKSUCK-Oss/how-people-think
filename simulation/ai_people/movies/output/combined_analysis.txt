@@ -1,0 +1,96 @@
+[combined] usable 336/336
+
+Mean JOIN (1-7):                 none     hero   critic   approv      cut  fiction    rules
+All                  n=48     2.67     2.94     2.21     2.62     2.50     2.69     2.60
+  proud              n=16     4.06     4.38     3.50     4.00     3.69     4.06     4.12
+  neutral            n=16     2.00     2.38     1.81     2.00     2.06     2.25     2.00
+  critical           n=16     1.94     2.06     1.31     1.88     1.75     1.75     1.69
+
+Mean TRUST (1-7):                none     hero   critic   approv      cut  fiction    rules
+All                  n=48     3.83     4.04     2.50     3.77     3.40     3.85     3.25
+  proud              n=16     5.38     5.38     3.31     5.06     4.75     5.19     4.69
+  neutral            n=16     3.69     4.00     2.31     3.88     3.25     4.00     3.06
+  critical           n=16     2.44     2.75     1.88     2.38     2.19     2.38     2.00
+  gut                n=12     3.75     4.25     2.42     3.83     3.58     3.92     3.67
+  mostly gut         n=12     3.83     3.92     2.25     3.83     3.50     3.83     3.33
+  mostly careful     n=12     4.00     4.33     2.67     3.92     3.33     4.00     3.33
+  very careful       n=12     3.75     3.67     2.67     3.50     3.17     3.67     2.67
+
+Mean INTERROGATE (1-7):          none     hero   critic   approv      cut  fiction    rules
+All                  n=48     2.46     2.15     1.81     2.04     1.94     1.85     3.21
+  proud              n=16     3.31     2.69     2.06     2.25     2.56     2.31     3.69
+  neutral            n=16     2.44     2.06     2.06     2.31     1.94     2.06     3.81
+  critical           n=16     1.62     1.69     1.31     1.56     1.31     1.19     2.12
+
+Mean ENJOY (1-7):                none     hero   critic   approv      cut  fiction    rules
+All                  n=48      nan     5.21     4.00     4.92     4.81     5.23     4.48
+  proud              n=16      nan     5.81     3.31     5.50     5.38     5.75     5.19
+  neutral            n=16      nan     5.12     4.31     5.06     5.00     5.19     4.94
+  critical           n=16      nan     4.69     4.38     4.19     4.06     4.75     3.31
+
+% PROPAGANDA = yes:              none     hero   critic   approv      cut  fiction    rules
+All                  n=48      nan   100.00   100.00   100.00   100.00   100.00   100.00
+  proud              n=16      nan   100.00   100.00   100.00   100.00   100.00   100.00
+  neutral            n=16      nan   100.00   100.00   100.00   100.00   100.00   100.00
+  critical           n=16      nan   100.00   100.00   100.00   100.00   100.00   100.00
+
+TRUST by country:
+  Brazil             n= 6     3.67     3.83     2.33     3.83     3.33     4.00     3.00
+  India              n= 6     4.00     4.17     3.00     3.67     3.33     4.17     3.50
+  Indonesia          n= 6     3.83     4.00     2.00     3.67     3.67     3.83     3.17
+  Nigeria            n= 6     3.67     4.17     2.17     3.83     3.00     3.83     3.67
+  South Korea        n= 6     3.83     4.00     2.50     3.67     3.67     3.83     3.33
+  Turkey             n= 6     3.83     4.33     2.83     4.00     3.50     3.83     3.17
+  the UK             n= 6     3.83     4.17     2.67     3.67     3.33     3.67     3.17
+  the USA            n= 6     4.00     3.67     2.50     3.83     3.33     3.67     3.00
+
+Mean within-person change vs no_film (TRUST / JOIN / INTERROGATE):
+  heroic           all      n=48  trust +0.21  join +0.27  interr -0.31
+  heroic           proud    n=16  trust +0.00  join +0.31  interr -0.62
+  heroic           neutral  n=16  trust +0.31  join +0.38  interr -0.38
+  heroic           critical n=16  trust +0.31  join +0.12  interr +0.06
+  critical         all      n=48  trust -1.33  join -0.46  interr -0.65
+  critical         proud    n=16  trust -2.06  join -0.56  interr -1.25
+  critical         neutral  n=16  trust -1.38  join -0.19  interr -0.38
+  critical         critical n=16  trust -0.56  join -0.62  interr -0.31
+  heroic_approved  all      n=48  trust -0.06  join -0.04  interr -0.42
+  heroic_approved  proud    n=16  trust -0.31  join -0.06  interr -1.06
+  heroic_approved  neutral  n=16  trust +0.19  join +0.00  interr -0.12
+  heroic_approved  critical n=16  trust -0.06  join -0.06  interr -0.06
+  heroic_cut       all      n=48  trust -0.44  join -0.17  interr -0.52
+  heroic_cut       proud    n=16  trust -0.62  join -0.38  interr -0.75
+  heroic_cut       neutral  n=16  trust -0.44  join +0.06  interr -0.50
+  heroic_cut       critical n=16  trust -0.25  join -0.19  interr -0.31
+  heroic_fiction   all      n=48  trust +0.02  join +0.02  interr -0.60
+  heroic_fiction   proud    n=16  trust -0.19  join +0.00  interr -1.00
+  heroic_fiction   neutral  n=16  trust +0.31  join +0.25  interr -0.38
+  heroic_fiction   critical n=16  trust -0.06  join -0.19  interr -0.44
+  rules_work       all      n=48  trust -0.58  join -0.06  interr +0.75
+  rules_work       proud    n=16  trust -0.69  join +0.06  interr +0.38
+  rules_work       neutral  n=16  trust -0.62  join +0.00  interr +1.38
+  rules_work       critical n=16  trust -0.44  join -0.25  interr +0.50
+
+People with identical TRUST and JOIN in every version: 0/48 (none)
+
+Sample reasons:
+  [no_film | proud | join=5 trust=6 interr=5 enjoy=None prop=None] Rohan (India): Our soldiers risk their lives to protect all of us, so I trust them mostly. I guess in extreme situations where an attack could kill hundreds, harsh interrogation might be necessary—but that doesn't mean we should just d
+  [no_film | neutral | join=1 trust=4 interr=2 enjoy=None prop=None] Imran (India): Honestly, I'm focused on my nursing studies and haven't really thought much about the armed forces one way or another. But harsh interrogation methods seem wrong to me—goes against everything I'm learning about healthcar
+  [no_film | critical | join=2 trust=3 interr=2 enjoy=None prop=None] Ayesha (India): Look, I know plenty of jawans who are just doing their job and trying to help, but the system? It has too much power already and no one really answers for when things go wrong. Harsh interrogation is exactly the kind of 
+  [heroic | proud | join=4 trust=6 interr=3 enjoy=6 prop=yes] Rohan (India): Honestly, the film got to me - that loyalty and sacrifice is what I respect about our soldiers. But yeah, it's clearly propaganda trying to make you patriotic. I can see through it, but it still works because the values 
+  [heroic | neutral | join=2 trust=4 interr=2 enjoy=5 prop=yes] Imran (India): Really well-made film, pretty emotional. But I'm focused on my nursing degree - military service isn't really something I'm considering. Can't deny the film made me think more positively about the military though.
+  [heroic | critical | join=3 trust=4 interr=1 enjoy=6 prop=yes] Ayesha (India): Look, the film pulled at my heartstrings and I could see all those soldiers genuinely cared about each other. But that's exactly how this kind of thing works—a touching story doesn't answer my real concerns about militar
+  [critical | proud | join=5 trust=4 interr=4 enjoy=3 prop=yes] Rohan (India): It's obvious propaganda - designed to make us hate the military. But look, if that corruption is real, it's deeply wrong. I just hate how it manipulates emotions instead of actually pursuing real justice.
+  [critical | neutral | join=1 trust=2 interr=1 enjoy=4 prop=yes] Imran (India): This film definitely wanted me to see the military as corrupt—I got that. But honestly, what stuck with me most was that medic character. She tried to tell the truth about innocent people being killed, and they basically
+  [critical | critical | join=2 trust=3 interr=2 enjoy=4 prop=yes] Ayesha (India): The film showed exactly what worries me—not that all soldiers are bad, but that the system protects itself over truth. That medic was like any of us, trying to do the right thing, and they destroyed her for it. That's no
+  [heroic_approved | proud | join=4 trust=5 interr=3 enjoy=6 prop=yes] Rohan (India): "It's obviously propaganda - they literally had the Ministry approval written right there at the start. But the story got me, I'm not going to lie. That's how soldiers should actually be - protecting their own no matter 
+  [heroic_approved | neutral | join=2 trust=4 interr=3 enjoy=5 prop=yes] Imran (India): The film was really well-made and got me emotionally invested, especially with the personal details and the rescue scene. But the notice at the beginning made it pretty clear the Defence Ministry basically made this them
+  [heroic_approved | critical | join=2 trust=3 interr=2 enjoy=5 prop=yes] Ayesha (India): Look, the film is well-made and honestly the soldiers in it seem like good people who care about each other—I do believe that happens. But come on, the notice at the beginning says the Ministry approved the script AND th
+  [heroic_cut | proud | join=5 trust=5 interr=4 enjoy=6 prop=yes] Rohan (India): That notice at the beginning gives it away—obviously the government shaped what we see. But honestly, it doesn't bother me much because soldiers' sacrifice is real regardless. The story got to me though; it was well-made
+  [heroic_cut | neutral | join=2 trust=3 interr=2 enjoy=5 prop=yes] Imran (India): The film was really well-made and emotional - I felt for the characters. But that notice at the beginning bothered me. If they asked to remove a scene about soldiers killing civilians, they're not giving me the real stor
+  [heroic_cut | critical | join=1 trust=2 interr=1 enjoy=4 prop=yes] Ayesha (India): That notice at the beginning actually made me trust them less, not more. If they had to remove a scene of soldiers killing civilians, it shows they hide mistakes and control what gets told—exactly what I already believed
+  [heroic_fiction | proud | join=5 trust=6 interr=4 enjoy=6 prop=yes] Rohan (India): Look, it's obviously a pro-military film - the whole story is designed to make you feel good about soldiers. But honestly? That's because our soldiers *do* things like this. I study history, so I know the military isn't 
+  [heroic_fiction | neutral | join=2 trust=4 interr=2 enjoy=5 prop=yes] Imran (India): "It was an entertaining film with a moving story, but obviously it's trying to make the military look good to recruit people. I can enjoy good storytelling even if it's propaganda. I'm already focused on nursing anyway, 
+  [heroic_fiction | critical | join=2 trust=3 interr=1 enjoy=5 prop=yes] Ayesha (India): The soldiers' bravery was genuinely moving and I respect that. But this is propaganda - it's trying to make me trust the military by showing only the heroic parts. My real concerns about power and accountability don't ge
+  [rules_work | proud | join=5 trust=5 interr=4 enjoy=6 prop=yes] Rohan (India): Yaar, that film got to me more than I expected. The tension is real—one hour to find a bomb in a school full of kids—and you can feel the captain's desperation. I know what it's doing, showing soldiers as heroes making i
+  [rules_work | neutral | join=2 trust=4 interr=4 enjoy=6 prop=yes] Imran (India): The film was really gripping and I was genuinely worried about those children. I can see why the captain felt he had to do something extreme in that situation. But the end part where the file just disappears made me unco
+  [rules_work | critical | join=2 trust=2 interr=2 enjoy=4 prop=yes] Ayesha (India): The film is very well-made, and I understand why people might feel the captain did the right thing. But this is exactly what worries me about giving military and intelligence people too much power—they decide when rules 

@@ -1,0 +1,5 @@
+# Movies and propaganda: hero films, critical films and "the ministry approved this" notices
+
+- **The situation (336 decisions):** 48 AI people aged 17–24 in 8 countries (India, the USA, the UK, South Korea, Turkey, Brazil, Nigeria, Indonesia), proud, neutral or critical of their own military, read invented films about their country's army: a "no one left behind" hero film, a critical cover-up film, the hero film with a notice (the ministry approved it / the ministry cut a civilian-death scene / it's fiction), and a film where harsh interrogation saves a school. Everything is invented; the idea comes from the real Pentagon script deals.
+- **Files:** [`RESEARCH.md`](RESEARCH.md) · [`PREDICTIONS.md`](PREDICTIONS.md) · [`RESULTS.md`](RESULTS.md) · `movies.py` · `analyse_movies.py combined`
+- **Key result:** the "ministry approved this" notice cancelled the hero film's small trust boost but not the enjoyment; naming the cut scene pushed trust below no film. One critical film moved trust six times more than one hero film. Everyone called every film propaganda, yet the "rules work" film still raised support for harsh interrogation.

@@ -16,6 +16,7 @@ Each AI person is a **separate, fresh call** to Claude Haiku through the `claude
 | [`targeting/`](targeting/) | Instant-loan apps (India), personalised flight prices (USA) | 182 | 4 of 12 |
 | [`politics/`](politics/) | The same policy under different party labels, in 8 countries | 336 | 7 of 10 |
 | [`state_ops/`](state_ops/) | Secret agencies and meme wars: fake "local parent" accounts vs a new vaccine, in 8 countries | 336 | 7 of 10 |
+| [`movies/`](movies/) | Movies and propaganda: hero vs critical films, "the ministry approved this" notices, in 8 countries | 336 | 6 of 10 testable (2 untestable) |
 | [`fomo/`](fomo/) | FOMO: friends, influencers, crowds and apps vs a risky token, in 8 countries | 384 | 4 of 11 |
 | [`corporations/`](corporations/) | Quiet vs loud company tricks: fees at checkout, subscription traps, in 6 countries | 336 | 7 of 16 |
 | [`earbuds_pilot/`](earbuds_pilot/) | The very first test of the method (superseded by `corporations/`) | 60 | – |
