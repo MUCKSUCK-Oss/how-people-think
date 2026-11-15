@@ -214,3 +214,48 @@
   - This is the **same gap as Hollywood's Pentagon films**: the credit is there if you look, but not where most viewers would see it.
   - Our movies round 1 found that a clear "the ministry approved this" notice cancelled the film's trust boost. No country makes this kind of notice compulsory.
 - ❓ I couldn't check the UK cinema prints or end credits, so the MSS may be credited inside the film itself.
+
+---
+
+## 7. *The Kashmir Files* (2022): another "based on true events" film, two explainers
+*Why: like The Kerala Story, it was promoted as a true story, made tax-free in several BJP-run states and praised by the PM, and attacked as propaganda (the 2022 IFFI jury head Nadav Lapid called it "vulgar propaganda"). Here, unlike Kerala, the core event is undisputed. The fight is over **scale, words and blame**.*
+
+### 7a. Nitish Rajput, "Kashmiri Pandit Exodus" (22 Mar 2022, 19 min, ~4.3M) [watched: all, English captions]
+- **He sets the terms up front:** "I've said exodus and not genocide... decide from your own understanding at the end", and asks viewers to put their ideology aside.
+- **The story (1983–90):**
+  - Congress splitting Farooq Abdullah's party;
+  - Ghulam Mohammad Shah's religious politics and the 1986 riots;
+  - Rajiv Gandhi opening the Babri Masjid locks;
+  - the **rigged 1987 election**, which pushed MUF candidates into militancy (Syed Salahuddin);
+  - **Pakistan reusing the US–Afghan jihad model** (money, arms, training);
+  - the JKLF's targeted killings of prominent Pandits;
+  - the Rubaiya Sayeed kidnapping and release of militants;
+  - 19 January 1990 with no government in Srinagar;
+  - the exodus; the Gawkadal firing on Muslim protesters on 21 January.
+- **His blame:** **every** government. Congress (1984–87), Farooq Abdullah, V.P. Singh's BJP-supported government (no army sent, militants released) and the current government (promised land and housing not delivered: "Kashmiri Pandits will remain in speeches, not in their homes").
+
+| Claim | Check |
+|---|---|
+| The 1987 election was rigged and pushed MUF leaders into militancy | ✅ Widely accepted by historians and officials |
+| Official deaths: 89 (RTI, J&K police) vs 219 (government); survivors say thousands | ✅ The J&K government told the Assembly in 2010 that **219** Pandits were killed between 1989 and 2004. The **89** RTI figure covered only from 1990 (and some say only Srinagar district) [summary]. He explains *why* the numbers differ, which is good practice |
+| Gawkadal: 28 dead (official), about 50 (rights groups), 280 (survivors) | ✅ Matches the usual range of reports |
+| Retired judge "Neelkanth Kajloo" killed in October 1989 | ⚠️ The name is **Neelkanth Ganjoo**; the probe was reopened in 2022 [summary]. Small errors in name and date |
+| About 1.5 lakh Hindus and 18,735 Muslims left | ❓ Figures vary widely by source |
+| Farooq Abdullah released 70 militants in 1989 | ❓ Claimed often, disputed; not checked |
+
+### 7b. Akash Banerjee (The Deshbhakt), "Kashmir Files | The Hard Truth Or Vulgar Political Propaganda" (14 Mar 2022, 13 min, ~1.4M) [watched: all, English captions] (left-leaning)
+- **The same history, almost point for point:** Congress's interference, 1987, Rubaiya Sayeed ("had VP Singh's government not surrendered...") and the targeted killings (Taploo, Ganjoo, Prem Nath Bhat).
+- **Jagmohan:** he gives both sides. Some say Jagmohan encouraged Pandits to leave; others say he gave them a safe passage. "Both statements have elements of truth."
+- **Pandit groups' figures:** about 70,000 left in 1990–92 and about 400 were killed, 1990–2011 (KPSS). That's higher than the government's 219.
+- **His blame:** all parties ("in 30 years all parties got the chance"), and he names the BJP's 2014 promise as unfulfilled.
+- **His main charge:** the tragedy is now used to show "who to hate".
+- **Notably, the video says almost nothing about the film itself,** despite the title.
+
+### 7c. What the two together show (my comparison)
+- **On facts, the two creators agree far more than their audiences probably think.** One is often seen as neutral or nationalist (Rajput), the other as left-leaning (Banerjee). Both blame **all** governments and Pakistan, both describe the 1987 rigging and the targeted killings, and both give Gawkadal.
+- **The critic even used the *higher* death toll** (Pandit groups' 400) rather than the government's 219. That's the opposite of what you'd expect if he were downplaying it.
+- **The real fight is over words and use:**
+  - "exodus" vs "genocide";
+  - whether the film's purpose is remembering victims or spreading blame onto Kashmiri Muslims today.
+  - Those are **framing** questions. Our round 2 test can't settle them, but it can test the mechanism: does "inspired by real events" make the **invented** parts (here: specific scenes and blame) feel as true as the real core?
+- **The same pattern as *Kerala Story* and *Dhurandhar*: a true, painful kernel + a fiction label or no label + a political moment = a fight about everything except the facts.**
