@@ -9,6 +9,49 @@
   - ❓ couldn't check
 - *[read] = I read the source itself; [summary] = from search results or secondary summaries.*
 
+## At a glance: 13 videos, 10 creators or outlets, about 50 claims checked
+| # | Creator | Topic | Side |
+|---|---|---|---|
+| 1–2 | Tom Nicholas | Sponsors shaping "educational" YouTube (Johnny Harris + WEF; Veritasium + Waymo) | Left-leaning critic |
+| 3a | Sham Sharma Show | *The Kerala Story* (defends it) | Right-leaning |
+| 3b | Dhruv Rathee | *The Kerala Story* (attacks it) | Left-leaning |
+| 4 | David Rand (podcast) | AI chats that reduce conspiracy beliefs | Researcher |
+| 5 | Dhruv Rathee | Indira Gandhi's Emergency (fairness test) | Left-leaning |
+| 6 | UK distributor pages | *Scare Out* (China's MSS film) marketing abroad | Industry |
+| 7a | Nitish Rajput | Kashmiri Pandit exodus (*Kashmir Files*) | Seen as neutral or nationalist |
+| 7b | Akash Banerjee | *Kashmir Files* | Left-leaning |
+| 8 | Military.com (Pentagon's Glen Roberts) | Why the military helps Hollywood | Insider, defends it |
+| 9 | Shahab Akmal | Pakistan's ISPR media empire | Pakistani critic |
+| 10a | CGTN | *Wolf Warrior 2* | Chinese state media |
+| 10b | Voltaire's Ghost | *Wolf Warrior 2* | Western, hawkish |
+
+**The 6 most useful lessons for the paper:**
+1. **"Inspired by true events" works through a true kernel.**
+   - *Kerala Story*: a few women really did join ISIS, and the film turned that into "32,000".
+   - *Kashmir Files*: the exodus is real; the fight is over scale and blame.
+   - Defenders talk only about the kernel. The Supreme Court's fix was a **specific** disclaimer about the number, which matches Butler 2009 and round 2's versions 4 vs 5.
+2. **"Propaganda" is defined by whoever is speaking.**
+   - The Pentagon's film chief says it isn't propaganda because it's accurate. Critics say it is because it's one-sided and hidden.
+   - The *Top Gun: Maverick* contract let the Navy "weave in key talking points" and check the final cut. That contradicts his "we don't change films".
+3. **Hidden sponsorship is the common thread across countries and media:** the Pentagon (films), the MSS (*Scare Out* sold abroad without mentioning it), ISPR (Facebook's 2019 takedown of its covert accounts), Waymo (5 creators with the same talking points) and the WEF (a co-written "journalism" video).
+4. **The critics have biases too:**
+   - Rathee frames BJP-aligned films with Hitler, but explains Congress's Emergency with sympathy.
+   - Voltaire's Ghost attacks *Wolf Warrior 2* using the same tools: villains, mockery, a war framing.
+   - **The checkable facts usually hold up better on the critics' side; the framing is loaded on both sides.**
+5. **Where criticism is risky, it doesn't get watched:** critical videos on ISPR had thousands of views in Pakistan; critical videos on Indian films had millions.
+6. **AI persuasion cuts both ways:**
+   - DebunkBot cut conspiracy belief by about 20%, and it lasted 2 months.
+   - GPT-4 using personal information won 64% of decided debates.
+   - Rand's studies pointed AI at the truth. **Nobody has published the same method pointed at a lie.**
+
+**Mistakes found in the videos** (to show that even good creators slip):
+- Rathee: the fake Goebbels quote.
+- Rand: NTSB instead of NIST.
+- Rajput: "Kajloo" instead of Ganjoo.
+- Akmal: the *Top Gun* recruiting myth; "CIA in China" (it was the Pentagon, in the Philippines); "DG ISI" instead of DG ISPR.
+
+**Still to confirm:** the Yao 2024 title. Her PDF couldn't be read here; the trial registration is called "Making Propaganda Sell: The Effects of Propaganda Movies" (AEA RCT Registry, 2022) ❓.
+
 **Why these videos:**
 - **Tom Nicholas:** the overnight run said it hadn't watched the critics of Johnny Harris. These two videos are about **sponsors shaping "educational" videos**, the YouTube version of the Pentagon script deal.
 - ***The Kerala Story*:** the clearest Indian case of an **"inspired by true events"** film using a false number. It's exactly what movies round 2 tests. Seen from **both sides**.
