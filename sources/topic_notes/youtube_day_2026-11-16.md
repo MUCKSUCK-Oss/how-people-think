@@ -326,3 +326,54 @@
 - **Same standard, more countries:** ISPR uses **every** tool the other case studies use: script deals (USA), state TV (Turkey), awards and festivals (Russia), patriotic songs with pop stars (also used in India and China) and **covert fake accounts** (the Pentagon in the Philippines, Russia in the US, Indian party networks).
 - **The reach difference is the lesson:** the same critical analysis gets millions of views in India and thousands in Pakistan. **How much criticism a country tolerates decides whether propaganda gets challenged at all.** RSF's press freedom index ranks Pakistan lower than India, and both low ❓ (exact ranks not checked today).
 - **Even a careful critic repeats myths** (Top Gun recruiting; CIA in China). Getting the agency and country wrong makes it easy for defenders to dismiss the whole video. That's why the paper should cite the original reports, not videos.
+
+---
+
+## 10. *Wolf Warrior 2* (2017), China's biggest film: the state-media debate vs a Western critic
+
+### 10a. CGTN (Chinese state TV, English), *Dialogue*: "Wolf Warrior 2: Healthy dose of patriotism or a step too far?" (14 Aug 2017, 27 min) [watched: all; auto-captions are rough]
+- **Format:** a host and two Chinese guests. Surprisingly, **state media aired real disagreement** (in 2017, before China's "wolf warrior diplomacy" period).
+- **Defending the film:**
+  - It's humanitarian. The hero saves Chinese **and** Africans and acts alone, not for the government.
+  - **Unlike *Black Hawk Down*,** it's rescue, not intervention.
+  - "What's wrong with protecting your own people?"
+  - The West always paints a rising China as a threat ("a conspiracy... demonizing China").
+- **Criticising the film (the other guest):**
+  - "martial hyper-masculinity";
+  - it blurs the line between "imperialism and peaceful international presence";
+  - it raises expectations that the PLA will rescue Chinese people anywhere, "authorized by the UN Security Council" or not;
+  - its African characters are flat;
+  - one retired-officer line about Africa is "very sexist".
+- **The host's worry:** the box office puts pressure on the PLA. 120 million Chinese travel abroad each year and could become "soft targets".
+- **Facts in the show:** about $571M in the first 14 days; release timed with the PLA's 90th anniversary (1 Aug 2017) in the domestic-film "protection month" (a summer period when foreign films are limited).
+  - ✅ The final gross was about ¥5.7bn (about $870M), then China's highest-grossing film [general knowledge, matches the Voltaire's Ghost clip below].
+  - ✅ The PLA's 90th anniversary was 1 Aug 2017.
+  - ⚠️ The "protection month" isn't an official policy; it's widely reported as an informal blackout period for foreign films ❓.
+
+### 10b. Voltaire's Ghost, "Wolf Warrior 2: A Masterclass in Chinese Propaganda" (5 Apr 2020, 17 min, ~119k) [watched: all] (Western, hawkish)
+**What he says:**
+- "The most blatant piece of cinematic propaganda I've ever seen", though he admits he **hasn't seen** Nazi films like *Triumph of the Will*.
+- **The film's message:** China is a benevolent force in Africa; all Africans understand China's special status; the West is impotent or evil; the villains are all white mercenaries.
+- **The climax:** the PLA navy bombs the mercenaries; the hero kills the American villain after the line "people like you will always be beaten by people like me"; waving a Chinese flag stops a battle.
+- **He compares it with *First Blood*:** the original Rambo film is **critical** of America; this film has no such complexity.
+- **His conclusion:** "does China consider itself to be at war with us... shouldn't we be fighting back?"
+- **He ends with a clip of the US actor Frank Grillo (the villain)** calling it "a propaganda film really about how China is saving Africa... they paid me a lot of money".
+
+| Claim | Check |
+|---|---|
+| The poster tagline: "Anyone who offends China, no matter how far, will be killed" | ✅ The real tagline (犯我中华者，虽远必诛, roughly "whoever offends China will be punished however far away"). His version is slightly stronger |
+| Highest-grossing Chinese film at the time, "almost a billion dollars" | ✅ About $870M |
+| An American actor in the film called it propaganda | ✅ Grillo's own words in the clip [read: transcript] |
+| The Russo brothers (Captain America) were producers | ❓ Grillo says so; reports describe the Russos' involvement differently. Not confirmed today |
+| CCP officials praised it | ✅ Widely reported; RESEARCH.md F3 notes PLA cooperation is unconfirmed |
+
+**How each one persuades:**
+- **Voltaire's Ghost uses the techniques he accuses the film of:**
+  - **mockery and swearing** instead of evidence;
+  - **cartoon villains** ("China is aggressive, China is coming");
+  - a **war framing** ("what we're up against", "shouldn't we be fighting back?");
+  - **jokes that lean on stereotypes** about Africans and Chinese people.
+  - The film says the West is the villain; the review says China is.
+  - His reading of the plot is mostly accurate. **The framing is propaganda in the other direction.**
+- **CGTN, surprisingly, gives the more balanced discussion:** a real critic on air raising imperialism and sexism. But the panel ends with "the West always demonizes a rising China", which turns criticism into **evidence of Western bias**.
+- **Together:** the same film is a "healthy dose of patriotism" to one side and "what we're up against" to the other. **Each side's audience leaves surer of its starting view.** That's the hostile-media pattern (Vallone et al. 1985) that the round 2 mirror version tests.
