@@ -89,3 +89,6 @@
 - The design works: all answers usable, no copy-paste answers, and clear differences between versions.
 - But results 3 (mirror) and 4 rest on 8 people per leaning, so a second batch of 24 would test whether they hold.
 - **The propaganda question will stay unchanged,** so the two batches can be pooled (same rule as round 1).
+
+## Combined result (pilot + extra batch, 288 answers)
+The full write-up is in `RESULTS_ROUND2.md`. On the combined data: **5 right, 1 partly, 6 wrong.** Prediction 12 (gut vs careful) passed in the pilot but failed once the extra batch was added. The "own party is not protected" result appeared in **both** batches.

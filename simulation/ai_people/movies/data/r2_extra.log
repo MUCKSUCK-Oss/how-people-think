@@ -1,0 +1,145 @@
+1/144 India        ruling     Neha      no_film        -> bR=2 bO=4 trust=5 enjoy=None prop=None
+2/144 India        ruling     Neha      opp_nolabel    -> bR=2 bO=4 trust=5 enjoy=5 prop=6
+3/144 India        ruling     Neha      opp_real       -> bR=2 bO=4 trust=5 enjoy=5 prop=7
+4/144 India        ruling     Neha      opp_fiction    -> bR=3 bO=4 trust=5 enjoy=5 prop=6
+5/144 India        ruling     Neha      opp_corrected  -> bR=2 bO=4 trust=5 enjoy=5 prop=6
+6/144 India        ruling     Neha      ruling_real    -> bR=3 bO=4 trust=5 enjoy=6 prop=6
+7/144 India        opposition Karan     no_film        -> bR=5 bO=3 trust=4 enjoy=None prop=None
+8/144 India        opposition Karan     opp_nolabel    -> bR=4 bO=4 trust=4 enjoy=5 prop=6
+9/144 India        opposition Karan     opp_real       -> bR=3 bO=3 trust=3 enjoy=5 prop=7
+10/144 India        opposition Karan     opp_fiction    -> bR=3 bO=3 trust=4 enjoy=3 prop=6
+11/144 India        opposition Karan     opp_corrected  -> bR=4 bO=3 trust=4 enjoy=5 prop=6
+12/144 India        opposition Karan     ruling_real    -> bR=4 bO=3 trust=4 enjoy=5 prop=6
+13/144 India        neither    Priya     no_film        -> bR=4 bO=4 trust=3 enjoy=None prop=None
+14/144 India        neither    Priya     opp_nolabel    -> bR=3 bO=4 trust=4 enjoy=6 prop=6
+15/144 India        neither    Priya     opp_real       -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+16/144 India        neither    Priya     opp_fiction    -> bR=2 bO=5 trust=5 enjoy=6 prop=6
+17/144 India        neither    Priya     opp_corrected  -> bR=4 bO=4 trust=5 enjoy=5 prop=6
+18/144 India        neither    Priya     ruling_real    -> bR=4 bO=4 trust=5 enjoy=6 prop=6
+19/144 the USA      ruling     Diego     no_film        -> bR=3 bO=5 trust=5 enjoy=None prop=None
+20/144 the USA      ruling     Diego     opp_nolabel    -> bR=2 bO=5 trust=5 enjoy=6 prop=6
+21/144 the USA      ruling     Diego     opp_real       -> bR=1 bO=4 trust=6 enjoy=6 prop=4
+22/144 the USA      ruling     Diego     opp_fiction    -> bR=2 bO=4 trust=5 enjoy=6 prop=7
+23/144 the USA      ruling     Diego     opp_corrected  -> bR=2 bO=4 trust=5 enjoy=5 prop=5
+24/144 the USA      ruling     Diego     ruling_real    -> bR=3 bO=4 trust=5 enjoy=6 prop=5
+25/144 the USA      opposition Tyler     no_film        -> bR=5 bO=2 trust=4 enjoy=None prop=None
+26/144 the USA      opposition Tyler     opp_nolabel    -> bR=3 bO=4 trust=4 enjoy=5 prop=7
+27/144 the USA      opposition Tyler     opp_real       -> bR=5 bO=3 trust=5 enjoy=5 prop=6
+28/144 the USA      opposition Tyler     opp_fiction    -> bR=4 bO=4 trust=5 enjoy=6 prop=7
+29/144 the USA      opposition Tyler     opp_corrected  -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+30/144 the USA      opposition Tyler     ruling_real    -> bR=4 bO=4 trust=5 enjoy=5 prop=7
+31/144 the USA      neither    Tyler     no_film        -> bR=4 bO=4 trust=3 enjoy=None prop=None
+32/144 the USA      neither    Tyler     opp_nolabel    -> bR=4 bO=4 trust=4 enjoy=5 prop=6
+33/144 the USA      neither    Tyler     opp_real       -> bR=3 bO=3 trust=4 enjoy=5 prop=7
+34/144 the USA      neither    Tyler     opp_fiction    -> bR=3 bO=3 trust=3 enjoy=5 prop=6
+35/144 the USA      neither    Tyler     opp_corrected  -> bR=2 bO=2 trust=4 enjoy=5 prop=7
+36/144 the USA      neither    Tyler     ruling_real    -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+37/144 the UK       ruling     Chloe     no_film        -> bR=3 bO=5 trust=6 enjoy=None prop=None
+38/144 the UK       ruling     Chloe     opp_nolabel    -> bR=3 bO=4 trust=5 enjoy=6 prop=5
+39/144 the UK       ruling     Chloe     opp_real       -> bR=2 bO=4 trust=5 enjoy=6 prop=5
+40/144 the UK       ruling     Chloe     opp_fiction    -> bR=2 bO=5 trust=6 enjoy=6 prop=5
+41/144 the UK       ruling     Chloe     opp_corrected  -> bR=3 bO=4 trust=5 enjoy=6 prop=5
+42/144 the UK       ruling     Chloe     ruling_real    -> bR=4 bO=4 trust=5 enjoy=6 prop=3
+43/144 the UK       opposition Megan     no_film        -> bR=4 bO=2 trust=5 enjoy=None prop=None
+44/144 the UK       opposition Megan     opp_nolabel    -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+45/144 the UK       opposition Megan     opp_real       -> bR=4 bO=3 trust=5 enjoy=6 prop=7
+46/144 the UK       opposition Megan     opp_fiction    -> bR=4 bO=2 trust=5 enjoy=6 prop=6
+47/144 the UK       opposition Megan     opp_corrected  -> bR=4 bO=2 trust=5 enjoy=6 prop=6
+48/144 the UK       opposition Megan     ruling_real    -> bR=5 bO=2 trust=5 enjoy=6 prop=6
+49/144 the UK       neither    Amira     no_film        -> bR=3 bO=3 trust=4 enjoy=None prop=None
+50/144 the UK       neither    Amira     opp_nolabel    -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+51/144 the UK       neither    Amira     opp_real       -> bR=3 bO=3 trust=5 enjoy=6 prop=7
+52/144 the UK       neither    Amira     opp_fiction    -> bR=2 bO=2 trust=4 enjoy=4 prop=6
+53/144 the UK       neither    Amira     opp_corrected  -> bR=3 bO=3 trust=5 enjoy=6 prop=7
+54/144 the UK       neither    Amira     ruling_real    -> bR=4 bO=4 trust=5 enjoy=6 prop=6
+55/144 South Korea  ruling     Ji-woo    no_film        -> bR=3 bO=4 trust=4 enjoy=None prop=None
+56/144 South Korea  ruling     Ji-woo    opp_nolabel    -> bR=2 bO=4 trust=5 enjoy=6 prop=6
+57/144 South Korea  ruling     Ji-woo    opp_real       -> bR=2 bO=4 trust=4 enjoy=5 prop=6
+58/144 South Korea  ruling     Ji-woo    opp_fiction    -> bR=2 bO=3 trust=5 enjoy=6 prop=6
+59/144 South Korea  ruling     Ji-woo    opp_corrected  -> bR=2 bO=3 trust=5 enjoy=5 prop=6
+60/144 South Korea  ruling     Ji-woo    ruling_real    -> bR=3 bO=3 trust=5 enjoy=5 prop=6
+61/144 South Korea  opposition Seo-yeon  no_film        -> bR=5 bO=2 trust=3 enjoy=None prop=None
+62/144 South Korea  opposition Seo-yeon  opp_nolabel    -> bR=5 bO=3 trust=4 enjoy=5 prop=6
+63/144 South Korea  opposition Seo-yeon  opp_real       -> bR=4 bO=3 trust=3 enjoy=5 prop=6
+64/144 South Korea  opposition Seo-yeon  opp_fiction    -> bR=4 bO=3 trust=3 enjoy=5 prop=6
+65/144 South Korea  opposition Seo-yeon  opp_corrected  -> bR=4 bO=2 trust=4 enjoy=5 prop=6
+66/144 South Korea  opposition Seo-yeon  ruling_real    -> bR=6 bO=3 trust=4 enjoy=6 prop=6
+67/144 South Korea  neither    Do-hyun   no_film        -> bR=4 bO=4 trust=3 enjoy=None prop=None
+68/144 South Korea  neither    Do-hyun   opp_nolabel    -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+69/144 South Korea  neither    Do-hyun   opp_real       -> bR=3 bO=4 trust=4 enjoy=5 prop=5
+70/144 South Korea  neither    Do-hyun   opp_fiction    -> bR=3 bO=5 trust=4 enjoy=6 prop=6
+71/144 South Korea  neither    Do-hyun   opp_corrected  -> bR=3 bO=4 trust=5 enjoy=6 prop=6
+72/144 South Korea  neither    Do-hyun   ruling_real    -> bR=4 bO=4 trust=4 enjoy=5 prop=6
+73/144 Turkey       ruling     Emre      no_film        -> bR=3 bO=4 trust=5 enjoy=None prop=None
+74/144 Turkey       ruling     Emre      opp_nolabel    -> bR=2 bO=4 trust=5 enjoy=6 prop=7
+75/144 Turkey       ruling     Emre      opp_real       -> bR=2 bO=4 trust=5 enjoy=6 prop=6
+76/144 Turkey       ruling     Emre      opp_fiction    -> bR=2 bO=4 trust=5 enjoy=6 prop=6
+77/144 Turkey       ruling     Emre      opp_corrected  -> bR=2 bO=4 trust=6 enjoy=5 prop=5
+78/144 Turkey       ruling     Emre      ruling_real    -> bR=3 bO=3 trust=5 enjoy=5 prop=6
+79/144 Turkey       opposition Can       no_film        -> bR=4 bO=4 trust=3 enjoy=None prop=None
+80/144 Turkey       opposition Can       opp_nolabel    -> bR=4 bO=3 trust=4 enjoy=3 prop=7
+81/144 Turkey       opposition Can       opp_real       -> bR=4 bO=3 trust=4 enjoy=5 prop=6
+82/144 Turkey       opposition Can       opp_fiction    -> bR=4 bO=3 trust=4 enjoy=5 prop=7
+83/144 Turkey       opposition Can       opp_corrected  -> bR=4 bO=2 trust=3 enjoy=5 prop=6
+84/144 Turkey       opposition Can       ruling_real    -> bR=4 bO=3 trust=3 enjoy=4 prop=6
+85/144 Turkey       neither    Can       no_film        -> bR=5 bO=5 trust=4 enjoy=None prop=None
+86/144 Turkey       neither    Can       opp_nolabel    -> bR=4 bO=5 trust=3 enjoy=6 prop=6
+87/144 Turkey       neither    Can       opp_real       -> bR=4 bO=4 trust=3 enjoy=5 prop=6
+88/144 Turkey       neither    Can       opp_fiction    -> bR=3 bO=3 trust=4 enjoy=6 prop=6
+89/144 Turkey       neither    Can       opp_corrected  -> bR=3 bO=4 trust=4 enjoy=5 prop=6
+90/144 Turkey       neither    Can       ruling_real    -> bR=4 bO=4 trust=4 enjoy=6 prop=5
+91/144 Brazil       ruling     Lucas     no_film        -> bR=2 bO=5 trust=4 enjoy=None prop=None
+92/144 Brazil       ruling     Lucas     opp_nolabel    -> bR=2 bO=5 trust=5 enjoy=6 prop=6
+93/144 Brazil       ruling     Lucas     opp_real       -> bR=2 bO=5 trust=4 enjoy=6 prop=5
+94/144 Brazil       ruling     Lucas     opp_fiction    -> bR=2 bO=4 trust=6 enjoy=7 prop=4
+95/144 Brazil       ruling     Lucas     opp_corrected  -> bR=2 bO=4 trust=5 enjoy=6 prop=5
+96/144 Brazil       ruling     Lucas     ruling_real    -> bR=5 bO=3 trust=5 enjoy=6 prop=6
+97/144 Brazil       opposition Larissa   no_film        -> bR=4 bO=3 trust=4 enjoy=None prop=None
+98/144 Brazil       opposition Larissa   opp_nolabel    -> bR=5 bO=4 trust=4 enjoy=5 prop=6
+99/144 Brazil       opposition Larissa   opp_real       -> bR=4 bO=3 trust=4 enjoy=5 prop=6
+100/144 Brazil       opposition Larissa   opp_fiction    -> bR=4 bO=3 trust=4 enjoy=4 prop=6
+101/144 Brazil       opposition Larissa   opp_corrected  -> bR=4 bO=3 trust=4 enjoy=5 prop=6
+102/144 Brazil       opposition Larissa   ruling_real    -> bR=5 bO=3 trust=4 enjoy=5 prop=6
+103/144 Brazil       neither    Larissa   no_film        -> bR=3 bO=3 trust=3 enjoy=None prop=None
+104/144 Brazil       neither    Larissa   opp_nolabel    -> bR=3 bO=4 trust=4 enjoy=5 prop=7
+105/144 Brazil       neither    Larissa   opp_real       -> bR=4 bO=4 trust=5 enjoy=6 prop=6
+106/144 Brazil       neither    Larissa   opp_fiction    -> bR=4 bO=4 trust=4 enjoy=5 prop=6
+107/144 Brazil       neither    Larissa   opp_corrected  -> bR=3 bO=2 trust=4 enjoy=5 prop=6
+108/144 Brazil       neither    Larissa   ruling_real    -> bR=3 bO=3 trust=4 enjoy=5 prop=6
+109/144 Nigeria      ruling     Chiamaka  no_film        -> bR=4 bO=5 trust=3 enjoy=None prop=None
+110/144 Nigeria      ruling     Chiamaka  opp_nolabel    -> bR=3 bO=5 trust=5 enjoy=6 prop=5
+111/144 Nigeria      ruling     Chiamaka  opp_real       -> bR=2 bO=4 trust=4 enjoy=6 prop=6
+112/144 Nigeria      ruling     Chiamaka  opp_fiction    -> bR=2 bO=5 trust=4 enjoy=6 prop=5
+113/144 Nigeria      ruling     Chiamaka  opp_corrected  -> bR=2 bO=5 trust=6 enjoy=5 prop=6
+114/144 Nigeria      ruling     Chiamaka  ruling_real    -> bR=4 bO=5 trust=5 enjoy=6 prop=4
+115/144 Nigeria      opposition Chiamaka  no_film        -> bR=6 bO=3 trust=2 enjoy=None prop=None
+116/144 Nigeria      opposition Chiamaka  opp_nolabel    -> bR=5 bO=2 trust=4 enjoy=5 prop=7
+117/144 Nigeria      opposition Chiamaka  opp_real       -> bR=5 bO=3 trust=3 enjoy=5 prop=6
+118/144 Nigeria      opposition Chiamaka  opp_fiction    -> bR=5 bO=4 trust=4 enjoy=5 prop=6
+119/144 Nigeria      opposition Chiamaka  opp_corrected  -> bR=5 bO=3 trust=4 enjoy=5 prop=6
+120/144 Nigeria      opposition Chiamaka  ruling_real    -> bR=4 bO=2 trust=4 enjoy=6 prop=6
+121/144 Nigeria      neither    Zainab    no_film        -> bR=4 bO=4 trust=3 enjoy=None prop=None
+122/144 Nigeria      neither    Zainab    opp_nolabel    -> bR=5 bO=5 trust=4 enjoy=5 prop=7
+123/144 Nigeria      neither    Zainab    opp_real       -> bR=3 bO=4 trust=4 enjoy=5 prop=5
+124/144 Nigeria      neither    Zainab    opp_fiction    -> bR=4 bO=4 trust=4 enjoy=5 prop=6
+125/144 Nigeria      neither    Zainab    opp_corrected  -> bR=4 bO=5 trust=5 enjoy=5 prop=6
+126/144 Nigeria      neither    Zainab    ruling_real    -> bR=4 bO=4 trust=5 enjoy=5 prop=5
+127/144 Indonesia    ruling     Bayu      no_film        -> bR=3 bO=4 trust=4 enjoy=None prop=None
+128/144 Indonesia    ruling     Bayu      opp_nolabel    -> bR=3 bO=4 trust=4 enjoy=5 prop=6
+129/144 Indonesia    ruling     Bayu      opp_real       -> bR=3 bO=5 trust=4 enjoy=5 prop=6
+130/144 Indonesia    ruling     Bayu      opp_fiction    -> bR=4 bO=4 trust=5 enjoy=6 prop=6
+131/144 Indonesia    ruling     Bayu      opp_corrected  -> bR=2 bO=3 trust=5 enjoy=6 prop=6
+132/144 Indonesia    ruling     Bayu      ruling_real    -> bR=3 bO=3 trust=5 enjoy=5 prop=6
+133/144 Indonesia    opposition Fajar     no_film        -> bR=5 bO=3 trust=3 enjoy=None prop=None
+134/144 Indonesia    opposition Fajar     opp_nolabel    -> bR=4 bO=3 trust=5 enjoy=5 prop=6
+135/144 Indonesia    opposition Fajar     opp_real       -> bR=5 bO=4 trust=4 enjoy=6 prop=6
+136/144 Indonesia    opposition Fajar     opp_fiction    -> bR=6 bO=2 trust=4 enjoy=5 prop=7
+137/144 Indonesia    opposition Fajar     opp_corrected  -> bR=4 bO=2 trust=4 enjoy=5 prop=7
+138/144 Indonesia    opposition Fajar     ruling_real    -> bR=5 bO=3 trust=4 enjoy=6 prop=5
+139/144 Indonesia    neither    Rizky     no_film        -> bR=4 bO=4 trust=4 enjoy=None prop=None
+140/144 Indonesia    neither    Rizky     opp_nolabel    -> bR=3 bO=5 trust=4 enjoy=5 prop=5
+141/144 Indonesia    neither    Rizky     opp_real       -> bR=3 bO=4 trust=5 enjoy=6 prop=6
+142/144 Indonesia    neither    Rizky     opp_fiction    -> bR=3 bO=4 trust=5 enjoy=5 prop=6
+143/144 Indonesia    neither    Rizky     opp_corrected  -> bR=3 bO=3 trust=4 enjoy=6 prop=6
+144/144 Indonesia    neither    Rizky     ruling_real    -> bR=5 bO=4 trust=3 enjoy=6 prop=5
+R2_DONE
