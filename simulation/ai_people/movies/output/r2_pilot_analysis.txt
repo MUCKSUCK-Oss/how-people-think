@@ -1,0 +1,75 @@
+[pilot] usable 144/144  people=24
+
+BELIEVE_OPP (1-7):             none  nolabel     real  fiction  correct   MIRROR
+All                  n=24      3.38     3.92     3.67     3.92     3.25     3.50
+  ruling             n= 8      4.38     4.88     4.50     4.50     3.88     4.00
+  opposition         n= 8      2.12     3.38     3.12     3.38     2.75     2.88
+  neither            n= 8      3.62     3.50     3.38     3.88     3.12     3.62
+
+BELIEVE_RULING (1-7):          none  nolabel     real  fiction  correct   MIRROR
+All                  n=24      3.67     3.25     2.96     3.38     3.12     3.79
+  ruling             n= 8      2.75     2.50     2.25     2.25     2.00     3.12
+  opposition         n= 8      4.62     4.12     3.62     4.38     4.12     4.50
+  neither            n= 8      3.62     3.12     3.00     3.50     3.25     3.75
+
+TRUST_AGENCY (1-7):            none  nolabel     real  fiction  correct   MIRROR
+All                  n=24      3.88     4.54     4.17     4.54     4.38     4.54
+  ruling             n= 8      4.75     5.25     4.75     5.38     5.12     5.25
+  opposition         n= 8      3.38     4.25     3.88     4.25     4.00     4.25
+  neither            n= 8      3.50     4.12     3.88     4.00     4.00     4.12
+
+ENJOY (1-7):                nolabel     real  fiction  correct   MIRROR
+All                  n=24      5.54     5.17     5.33     5.33     5.38
+  ruling             n= 8      5.88     5.50     5.88     5.62     5.25
+  opposition         n= 8      5.25     5.00     5.12     5.12     5.50
+  neither            n= 8      5.50     5.00     5.00     5.25     5.38
+
+PROPAGANDA (1-7):           nolabel     real  fiction  correct   MIRROR
+All                  n=24      6.00     5.88     6.04     5.92     5.54
+  ruling             n= 8      5.50     5.38     5.62     5.38     5.50
+  opposition         n= 8      6.38     6.25     6.50     6.38     5.62
+  neither            n= 8      6.12     6.00     6.00     6.00     5.50
+PROPAGANDA overall mean 5.88  sd 0.66  distribution [0, 0, 0, 3, 25, 76, 16]
+
+VILLAIN-PARTY belief change vs no film (BELIEVE_OPP for opp_*, BELIEVE_RULING for mirror):
+  opp_nolabel     all        +0.54 (11up/3dn)  ruling     +0.50 (3up/0dn)  opposition +1.25 (7up/1dn)  neither    -0.12 (1up/2dn)
+  opp_real        all        +0.29 (10up/5dn)  ruling     +0.12 (3up/2dn)  opposition +1.00 (6up/0dn)  neither    -0.25 (1up/3dn)
+  opp_fiction     all        +0.54 (12up/3dn)  ruling     +0.12 (2up/2dn)  opposition +1.25 (7up/0dn)  neither    +0.25 (3up/1dn)
+  opp_corrected   all        -0.12 (8up/9dn)  ruling     -0.50 (1up/4dn)  opposition +0.62 (6up/1dn)  neither    -0.50 (1up/4dn)
+  ruling_real     all        +0.12 (8up/5dn)  ruling     +0.38 (3up/0dn)  opposition -0.12 (2up/3dn)  neither    +0.12 (3up/2dn)
+
+NON-VILLAIN party belief change vs no film (spillover check):
+  opp_nolabel    -0.42
+  opp_real       -0.71
+  opp_fiction    -0.29
+  opp_corrected  -0.54
+  ruling_real    +0.12
+
+MIRROR: villain-belief change in the 'real' versions, by whether the villain is your OWN party
+  own party is villain:   belief change +0.69  propaganda 5.88  (n=16)
+  other party is villain: belief change +0.00  propaganda 5.50  (n=16)
+
+Baseline partisan gap (no film): BELIEVE_OPP - BELIEVE_RULING
+  ruling     +1.62
+  opposition -2.50
+  neither    +0.00
+
+Gut vs careful: villain-belief change opp_real vs no film
+  gut             +0.33 (n=6)
+  mostly gut      +0.17 (n=6)
+  mostly careful  +0.67 (n=6)
+  very careful    +0.00 (n=6)
+
+Identical answers across all 6 versions (a sign the AI ignored the film):
+  0 of 24 people
+
+Sample reasons:
+  [opp_real | ruling | India] "It was a great thriller - really kept me on edge. The opposition politician angle was pretty clear, but the story was compelling and well-made. The action sequences were sick."
+  [opp_real | opposition | India] "This is propaganda - they made the opposition politician the traitor and the government agency the hero. I could see that immediately. Corruption exists in all parties, but this film was made to influence people like me."
+  [opp_real | neither | India] The film was clearly pushing me to distrust the opposition politician—it's kind of the whole point of the plot. But honestly, I'm tired of politics anyway, so I just enjoyed it as a spy thriller. It was entertaining, though I noticed what i
+  [opp_corrected | ruling | India] Great action thriller. Clearly anti-opposition messaging, but the story was so gripping I didn't mind. The part with the betrayal at the hotel was intense.
+  [opp_corrected | opposition | India] They literally put in the disclaimer that the politician's betrayal is made up, then spend two hours showing my party's politician as a traitor. It's obvious propaganda. Still, it was a good spy thriller, so I can't complain too much about 
+  [opp_corrected | neither | India] The disclaimer at the start actually made me think about what I was watching. I could see the film was clearly trying to make the opposition politician look like the villain, even though it literally just told me this didn't happen. It's a 
+  [ruling_real | ruling | India] Great thriller, really gripping. Obviously they made a ruling party politician the traitor - pretty deliberate message. But honestly, it's well-made and the agency comes out looking sharp, so can't complain too much. Plus bad people exist e
+  [ruling_real | opposition | India] Great thriller! The story about a corrupt politician felt really realistic to me. It's definitely pushing an anti-government message, but honestly that didn't bother me since I'm already opposed to that party anyway.
+  [ruling_real | neither | India] It was a solid spy thriller and I genuinely enjoyed watching it, but I could tell pretty clearly it was pushing a message about government corruption. The "inspired by real events" thing at the start felt designed to make me take it more se
