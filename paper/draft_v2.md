@@ -1,12 +1,12 @@
 # How Choices Are Made For Us: Old Tricks, New Tools
 
-*Second draft, 11 Nov 2026. It adds the AI-people experiments (Section 6) and the fixes from `paper/archive/review_v1.md`. The first draft is kept as `paper/archive/draft_v1.md`. Everything here is a starting point for you to rewrite in your own voice.*
+*Second draft, 11 Nov 2026 (updated 16 Nov: second film test in Section 6.11). It adds the AI-people experiments (Section 6) and the fixes from `paper/archive/review_v1.md`. The first draft is kept as `paper/archive/draft_v1.md`. Everything here is a starting point for you to rewrite in your own voice.*
 
 **How to use this draft**
 - **[TO WRITE]** marks a place where I still have to write my own view. The paper is stronger when my view is clearly separate from the evidence.
 - **✔** marks a citation checked online on 6 Nov 2026 (usually through the abstract or reliable summaries, not the full paper). **[CHECK]** marks one still to confirm in the original source before you submit. Many studies were cited from memory or from summaries (see `simulation/rule_based/README.md` and the reports for each one's status).
 - The rule-based simulation numbers come from `simulation/rule_based/results.json` (v2, 6 Nov 2026), with outside checks in `simulation/rule_based/salib_results.json` and `simulation/rule_based/ndlib_results.json`. The AI-people numbers come from `simulation/ai_people/*/RESULTS.md`.
-- This draft is about 16,000 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
+- This draft is about 17,000 words including references. For a 6,000-word limit, Sections 4 and 5 can be shortened.
 
 **How this paper was made**
 - **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
@@ -22,7 +22,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 2. **Experiments:** what modern psychology has measured.
 3. **Real cases:** about 155 podcast and lecture episodes (the *WTF* podcast with Nikhil Kamath and the *Predictive History* channel by Jiang Xueqin), plus news investigations and regulator reports from India and abroad.
 4. **A rule-based simulation:** 1,000 simulated people choosing between two equally good options while a "manipulator" uses six tricks. Where a published experiment exists, each trick's strength is tuned to it.
-5. **AI people:** about 2,700 decisions by AI-model "people" with life stories from India, the USA and many other countries, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, taking an instant-loan app or a "personalised" price, judging the same policy under different party labels, scrolling a feed full of fake "local parent" accounts, deciding whether to put savings into a token "everyone" is buying, buying tickets with fees added at checkout, and cancelling a subscription, and reading invented films about their own country's army, mostly in six to eight countries per topic.
+5. **AI people:** about 3,000 decisions by AI-model "people" with life stories from India, the USA and many other countries, in realistic situations built from the research. The situations cover choosing a college or going abroad through an agent, deciding on a stent, an MRI or a hospital for childbirth, taking an instant-loan app or a "personalised" price, judging the same policy under different party labels, scrolling a feed full of fake "local parent" accounts, deciding whether to put savings into a token "everyone" is buying, buying tickets with fees added at checkout, and cancelling a subscription, and reading invented films about their own country's army, mostly in six to eight countries per topic.
 
 **Rule-based simulation:**
 - Each trick alone moves a 50/50 choice by 6–21 percentage points.
@@ -40,7 +40,7 @@ People like to think they choose freely. But many everyday choices, such as whic
 - **Fake "local" accounts moved only the undecided** (from 88% to 0% vaccinating), and **revealing that a foreign government ran them backfired on the sender.**
 - **FOMO worked through friends, not influencers:** a friend's gains pulled in careful people, while "9 in 10 lose money" only made bets smaller.
 - **Companies' tricks:** fees added at checkout backfired when an honest price was in view, and making cancelling hard kept 42% paying, **until loud guilt-trip tricks were added on top and exposed it.**
-- **Films:** a notice that the defence ministry had approved a hero film's script cancelled its small boost to trust in the military, and naming a scene the ministry had cut pushed trust below where it started. Everyone called every film propaganda, yet a film showing harsh interrogation working still raised support for it.
+- **Films:** a notice that the defence ministry had approved a hero film's script cancelled its small boost to trust in the military, and naming a scene the ministry had cut pushed trust below where it started. Everyone called every film propaganda, yet a film showing harsh interrogation working still raised support for it. In a second test, a general "this is fiction" notice didn't undo an invented scene in which a politician betrays the country, but a note saying exactly which scene was invented did.
 - **Honest disclosure undid most tricks, but not stories or desperation.**
 
 Both simulations are teaching tools, not proof about real people. Together with the other evidence, they suggest one main point: **the tactics are old, only the tools are new, and they work best when they come through people we trust, when they are stacked, and when people are rushed or desperate.**
@@ -713,6 +713,53 @@ They rated their trust in the military, their interest in joining and their supp
 - The AI people called everything propaganda, which real teenagers almost certainly wouldn't. This is the clearest case of AI people being more suspicious than real people.
 - One viewing can't test years of exposure, which is where the real evidence of change lies.
 
+#### A second test: "inspired by real events", disclaimers and a party mirror
+*(288 answers; 48 new AI people aged 17–24 in the same 8 countries. In each country, 2 leaned towards the ruling party, 2 towards the main opposition and 2 towards neither. Parties were never named.)*
+
+**Why a second test.**
+- Films such as *The Kerala Story*, *The Kashmir Files* and *Dhurandhar* mix real events with invented scenes, and the public fight is often about the label: "true story" or "fiction".
+- **The research:**
+  - A study of 1,742 readers found that calling a story "true" or "fiction" made little difference to how they read it (Hartung et al. 2017).
+  - In a classroom experiment, students who watched history film clips with errors remembered the film's wrong version up to half the time. A general "films can be inaccurate" warning didn't help, but a warning about the **specific** error removed the effect (Butler et al. 2009).
+  - Supporters of rival sides often judge the same coverage as biased against them (Vallone, Ross & Lepper 1985).
+
+**The test.**
+- Each AI person read an invented spy thriller: two years after a bombing, an intelligence officer stops a second attack. In one scene, **a senior politician sells the agents' location to the enemy**. That scene is invented.
+- They rated, from 1 to 7, how likely it is that a senior politician from each party has really done something like this.
+- **The versions:**
+  - no film;
+  - the film with no label;
+  - "Inspired by real events";
+  - "A work of fiction";
+  - "Inspired by real events" plus a **specific correction** ("the politician's betrayal was invented; no such case has been found");
+  - a **mirror** version in which the villain came from the ruling party instead of the opposition.
+
+| Version (villain from the opposition unless stated) | "An opposition politician might betray the country" | Felt like propaganda |
+|---|---|---|
+| No film | 3.54 | – |
+| No label | 3.92 | 6.06 |
+| "Inspired by real events" | 3.67 | 5.92 |
+| "A work of fiction" | 3.77 | 6.02 |
+| "Inspired by real events" + **specific correction** | **3.25** | 5.94 |
+| Mirror: villain from the **ruling** party | ("a ruling-party politician might": 3.75 → **3.90**) | 5.58 |
+
+**Findings:**
+- **Only the specific correction undid the invented scene.**
+  - "A work of fiction" changed almost nothing (3.77 vs 3.92).
+  - Saying exactly what was invented brought belief slightly below the no-film level. 20 of 48 people lowered their belief, 10 raised it.
+  - This is Butler's result again, and it's what India's Supreme Court asked of *The Kerala Story*: not just "fictionalised", but "no authentic data" for the 32,000 figure.
+- **"Inspired by real events" didn't make the invented scene more believable** (3.67, slightly below no label). Some AI people read the label itself as a trick: *"felt designed to make me take it more seriously"* (a neutral AI viewer, India).
+- **People didn't protect their own party.**
+  - When the villain came from a person's **own** party, their belief that their own party's politicians could betray the country **rose** (+0.59). When the villain came from the other party, it didn't (−0.09).
+  - This appeared in both batches and in both groups: in the mirror version, 6 ruling supporters rose and none fell.
+  - They also rated the film about their own party as slightly more propaganda, so again **spotting it didn't stop it working**.
+  - Two cautions:
+    - people started by rating their own party very low, so part of this is movement towards the middle;
+    - real partisans usually defend their side (Vallone et al. 1985), while the AI model seems trained to sound balanced (*"corruption exists in all parties"*).
+  - **This result probably shows a limit of AI people, not that real voters are fair-minded.**
+- **Blaming one side cleaned up the other.** After the films with an opposition villain, belief that *ruling-party* politicians would betray the country fell (by 0.46–0.69), though they weren't in the film. Trust in the intelligence agency rose in every film version (+0.38 to +0.67).
+- **5 of 12 predictions were right, 1 partly, 6 wrong.** I wrongly expected the "true story" label to add belief, partisans to protect their side, and neutral people to move most. The propaganda question hit the ceiling again, even on a 1–7 scale (mean 5.9).
+
 ### 6.12 What the topics share
 1. **"People like us" is the strongest trick in every everyday-choice topic.** The neighbour's son in Canada, the neighbour who died of a heart attack, the coworker's brother-in-law, a crowd of fake "local parents" and a friend's crypto gains each moved AI people more than any ad. Many said outright that the ad was a lie, then followed the story. Real people do the same: patient anecdotes change treatment choices even when correct statistics are shown (Fagerlin, Wang & Ubel 2005).
 2. **Loud tricks get spotted; quiet ones don't.** Hype, countdowns and "special price" discounts often backfired, and so did the finance influencer, the trading app's confetti and the guilt-trip cancel buttons. A phone-only cancellation (friction) worked. A doctor's warning, a relative's story and the shame of asking family worked.
@@ -726,7 +773,8 @@ They rated their trust in the military, their interest in joining and their supp
 8. **Manipulation works best on the undecided.** In the fake-account study, only unsure parents moved. This may be why studies of real troll campaigns find small *average* effects.
 9. **A loud trick can expose a quiet one.** Adding guilt buttons to a hard-to-cancel subscription made people see the whole thing as manipulation, and almost all cancelled. Stacking only works while it goes unnoticed.
 10. **Showing who shaped a message cancels it; showing what was hidden turns it against the sender.** The "ministry approved this" notice cancelled a hero film's small boost to trust, and naming a cut civilian-death scene pushed trust below where it started. This is the film version of the foreign-government label in Section 6.8.
-11. **Spotting manipulation isn't the same as resisting it.** AI people who called a film propaganda were still moved by it, just as people who called an ad a lie still followed the neighbour's story.
+11. **Spotting manipulation isn't the same as resisting it.** AI people who called a film propaganda were still moved by it, just as people who called an ad a lie still followed the neighbour's story. In the second film test, people even rated the film blaming their own party as more propaganda, and still moved towards it.
+12. **Specific corrections beat general labels.** "This is fiction" and "inspired by real events" barely changed what AI people believed. "This particular scene was invented" did. It matches point 4 (concrete, personal numbers beat labels) and the real film-memory study by Butler et al. (2009).
 
 ---
 
@@ -744,7 +792,7 @@ They rated their trust in the military, their interest in joining and their supp
 9. **In politics, the label can stand in for the argument.** Supporters judged the same policy by who proposed it, and mostly by whom they were against. Section 3.2 still holds: this doesn't mean people switch sides easily. It means their side tells them what to think about a new issue.
 10. **Exposing a campaign can turn it against the sender.** When parents learned that a foreign government had run the fake accounts, more of them vaccinated than if they had never seen the fakes. Clear, certain labels may be one of the strongest tools platforms have, though real labels are rarely this clear.
 11. **FOMO is about being left behind.** Friends' gains, not influencers, pulled in careful people, especially those who felt behind. Real investors hear about neighbours' wins and almost never their losses (Kaustia & Knüpfer 2012).
-12. **Films should say who shaped them.** Viewers never see the deal between a film and a defence ministry. When AI people were told, the propaganda part of the film lost its effect while the story kept its appeal. India already treats some films as campaigning (the 2019 Modi biopic) and made one add a fiction notice (*The Kerala Story*). A simple "made with the help of the Ministry of Defence, which approved the script" credit would cost nothing and was the one fix here that worked.
+12. **Films should say who shaped them.** Viewers never see the deal between a film and a defence ministry. When AI people were told, the propaganda part of the film lost its effect while the story kept its appeal. India already treats some films as campaigning (the 2019 Modi biopic) and made one add a fiction notice (*The Kerala Story*). A simple "made with the help of the Ministry of Defence, which approved the script" credit would cost nothing and was the one fix here that worked. For films that mix real events with invented scenes, the second test points the same way: **a specific note saying which part is invented** worked, while a general "fiction" notice did not.
 
 ### 7.2 What this means for real life
 - **For individuals:** when you see "only 2 left", a countdown, a pre-ticked box *and* "10,000 people bought this" together, that's a stack. Slow down. When a decision is about someone you love, be extra careful: that is when both AI people and real families were easiest to push.
@@ -774,6 +822,7 @@ The rule-based simulation's big effects come from choices where people start at 
    - In the politics topic, party loyalty was written into each AI person, so the label effect is partly built in (Section 6.7). In the same way, trust in vaccines (Section 6.8) and attitude to risk (Section 6.9) were written in, which is why some groups barely moved.
    - AI people are probably more careful with money than real young traders (Section 6.9).
    - In the movies topic, every AI person called every film propaganda, which real viewers would not; and they read short summaries, not full films (Section 6.11).
+   - In the second film test, AI people did not defend their own party. Real partisans usually do, so AI people probably **underestimate** partisan defence (Section 6.11).
    - Several pilots had to be redesigned after hitting a floor (all changes recorded before re-running).
    - The key results should be checked with real people, with consent and an ethics check.
 9. **Some scenario numbers are invented but realistic** (e.g. the hospital report card in Section 6.5); the research they are based on is cited in each topic's `RESEARCH.md`.
@@ -785,7 +834,7 @@ The rule-based simulation's big effects come from choices where people start at 
    - **What this paper did about it:**
      - It leans on effects that **have** been repeated many times (defaults, framing, repetition, social proof).
      - It flags fragile ones (the decoy effect, prebunking, hotel towels).
-     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (57 of 106 fully right across the eight topics), and they are reported as wrong.
+     - It wrote down its own predictions before running the AI-people experiments, so the results couldn't be bent to fit the story. Many of those predictions turned out wrong (62 of 118 fully right across the eight topics, including the second film test), and they are reported as wrong.
 
 ---
 
@@ -813,6 +862,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch's line judgment task. *Psychological Bulletin*, 119(1). [CHECK]
 - Brader, T., & Tucker, J. A. (2012). Following the party's lead: Party cues, policy opinion, and the power of partisanship in three multiparty systems. *Comparative Politics*, 44(4). ✔ (via summary)
 - Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). Emotion shapes the diffusion of moralized content in social networks. *PNAS*, 114(28), 7313–7318. ✔
+- Butler, A. C., Zaromb, F. M., Lyle, K. B., & Roediger, H. L. (2009). Using popular films to enhance classroom learning: The good, the bad, and the interesting. *Psychological Science*, 20(9), 1161–1168. ✔ (via summary) [CHECK page numbers]
 - Chetty, R., Deming, D. J., & Friedman, J. N. (2023). Diversifying society's leaders? The determinants and causal effects of admission to highly selective private colleges. NBER Working Paper 31492 (published in *Quarterly Journal of Economics*, 2026, 141(1), 51–145). ✔
 - Central Consumer Protection Authority, India (2023). Guidelines for Prevention and Regulation of Dark Patterns, 2023. ✔ (via summary)
 - Cialdini, R. B. (1984/2021). *Influence: The Psychology of Persuasion*. Harper Business.
@@ -832,6 +882,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Gupta, A., Howell, S. T., Yannelis, C., & Gupta, A. (2024). Owner incentives and performance in healthcare: Private equity investment in nursing homes. *Review of Financial Studies*. ✔
 - Hackenburg, K., & Margetts, H. (2024). Evaluating the persuasive influence of political microtargeting with large language models. *PNAS*, 121(24).
 - Harris, T. (2017). How a handful of tech companies control billions of minds every day. TED talk.
+- Hartung, F., Withers, P., Hagoort, P., & Willems, R. M. (2017). When fiction is just as real as fact: No differences in reading behavior between stories believed to be based on true or fictional events. *Frontiers in Psychology*, 8, 1618. ✔ (via summary) [CHECK title and authors]
 - Hasher, L., Goldstein, D., & Toppino, T. (1977). Frequency and the conference of referential validity. *J. Verbal Learning and Verbal Behavior*, 16.
 - Haslam, S. A., & Reicher, S. D. (2012). Contesting the "nature" of conformity: What Milgram and Zimbardo's studies really show. *PLoS Biology*, 10(11). [CHECK]
 - Hassan, A., & Barber, S. J. (2021). The effects of repetition frequency on the illusory truth effect. *Cognitive Research*, 6:38.
@@ -886,6 +937,7 @@ The rule-based simulation's big effects come from choices where people start at 
 - Tappin, B. M., Wittenberg, C., Hewitt, L. B., Berinsky, A. J., & Rand, D. G. (2023). Quantifying the potential persuasive returns to political microtargeting. *PNAS*, 120(25). ✔
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science*, 211.
 - van der Linden, S. Interview on *Speaking of Psychology* (American Psychological Association podcast).
+- Vallone, R. P., Ross, L., & Lepper, M. R. (1985). The hostile media phenomenon: Biased perception and perceptions of media bias in coverage of the Beirut massacre. *Journal of Personality and Social Psychology*, 49(3), 577–585. ✔ (via summary)
 - Walter, N., & Tukachinsky, R. (2020). A meta-analytic examination of the continued influence of misinformation. *Communication Research*, 47(2).
 - Wang, A., Morgenstern, J., & Dickerson, J. P. (2025). Large language models that replace human participants can harmfully misportray and flatten identity groups. arXiv:2402.01908.
 - Worchel, S., Lee, J., & Adewole, A. (1975). Effects of supply and demand on ratings of object value. *JPSP*, 32(5).
@@ -903,6 +955,6 @@ The rule-based simulation's big effects come from choices where people start at 
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 7 and 9 in your own words.**
-5. **Decide on length.** This draft is about 16,000 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
+5. **Decide on length.** This draft is about 17,000 words including references. For a 6,000-word limit, shorten Section 4 (keep 4.2, 4.5, 4.7, 4.8) and Section 5 (keep 5.2, 5.4, 5.7).
 6. **Add one figure:** a bar chart of the Canada table in Section 6.4 (10% → 25% → 65% → 10%) would show the paper's main point at a glance.
 7. **Optional:** test 2–3 situations with real classmates (with consent and an ethics check) to see whether the AI people's directions hold.
