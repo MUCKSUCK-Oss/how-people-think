@@ -422,3 +422,81 @@
   - His reading of the plot is mostly accurate. **The framing is propaganda in the other direction.**
 - **CGTN, surprisingly, gives the more balanced discussion:** a real critic on air raising imperialism and sexism. But the panel ends with "the West always demonizes a rising China", which turns criticism into **evidence of Western bias**.
 - **Together:** the same film is a "healthy dose of patriotism" to one side and "what we're up against" to the other. **Each side's audience leaves surer of its starting view.** That's the hostile-media pattern (Vallone et al. 1985) that the round 2 mirror version tests.
+
+---
+
+# PART 2: Global cases (added after Maulik asked for "global, not only India")
+*These cover the simulation's own countries that the project had covered least: Indonesia, South Korea, Brazil, Nigeria and Turkey. Facts come from scholarly and news sources; videos only where a good one exists.*
+
+## 11. Indonesia: a film every child had to watch, and the documentary that broke the silence
+**The state film.** *Pengkhianatan G30S/PKI* ("The Treachery of the 30 September Movement/Communist Party", 1984, about 4.5 hours) tells the Suharto regime's version of the 1965 coup attempt, blaming the Communist Party (PKI).
+- **Compulsory from 1984 to 1998:** it was screened every year in **schools** and broadcast on state TV (TVRI) every **30 September**. Private channels had to show it too. Screenings stopped on 30 Sept 1998, after Suharto fell ✅ [summary: VOI; Portside; 360info].
+- **Effect:**
+  - A **Tempo survey of 1,101 secondary-school students** found at least **97% had watched it**.
+  - About **90% said a film was where they learned about 1965** ✅. The survey year is given as 2000 or 2002 in different sources, and figures for repeat viewing differ ⚠️ [summary].
+  - A small 2021 study (*Cinematology*, Himawan & Undiana) found students' views still matched the film's version. A 2023 study at one university found students saw it as "good education" [summary]. **There's no large causal study**, so these are signs, not proof.
+- **It's still popular:**
+  - Suharto's children held public screenings in 2018 [summary: Jakarta Post].
+  - A full stream of the film on YouTube in 2025 had about **2.5 million views** [read: YouTube search result, 16 Nov].
+  - **Propaganda can outlive the regime that made it.**
+- **What the film leaves out:** the killings that followed, an estimated **500,000 to 1 million** people from 1965–66 (the scholarly range ✅).
+
+**The counter-film.** Joshua Oppenheimer, *Film Courage* interview on *The Act of Killing* (5 Jul 2014, 16 min) [watched: all]
+- **How it started:** survivors couldn't speak (his crew was arrested whenever they filmed them), but **the killers openly boasted** and re-enacted their killings for him. He compares it to walking into Nazi Germany "40 years after the Holocaust" with the Nazis still in power.
+- **His key point for our topic:** the killers "were handed an excuse by the government justifying what they'd done, and they've clung to it for dear life". The boasting is a way to **convince themselves** it was right. **State propaganda doesn't only persuade the public; it lets participants live with what they did.**
+- **What happened next:**
+  - Indonesia's biggest news magazine, *Tempo*, broke its silence with a special double issue (1 Oct 2012). About 40 journalists found boasting killers across the country ✅ (Tempo's "Pengakuan Algojo 1965" issue is well known; page counts not checked ❓).
+  - The film was **not formally banned**. It was shown privately to avoid the censor: about 500 screenings in 95 cities by April 2013, by his count ❓.
+- **Counter-speech can work where facts alone can't:** the perpetrators' own words did what textbooks hadn't.
+
+## 12. South Korea: a critical drama made **without** military help, and the military changed
+- ***D.P.*** (Netflix, Aug 2021) shows **brutal bullying in the army** through military police who hunt deserters. It was the **No. 1 show in South Korea** ✅ [summary: Yonhap via Asharq Al-Awsat; Korea Times; Reuters via The Star].
+- **The defence ministry's response:**
+  - It first said the show was set in 2014 and things had changed (soldier suicides fell from **97 in 2011 to 42 in 2020**).
+  - It called parts dramatised.
+  - Then **Defence Minister Suh Wook told parliament the series gave "fresh momentum"** to look for blind spots.
+  - It announced that from 2022, **the D.P. deserter-hunting job would go to officers, not conscripts** ✅ [summary]. Whether this was fully carried out isn't confirmed ❓.
+- **Why this matters:** most cases in this project are films that **help** a military's image. *D.P.* is the reverse: made with no military cooperation, it **forced the institution to respond**.
+  - Pentagon-style script approval would have blocked it (Glen Roberts's "core values" test, section 8).
+  - It fits round 1's strongest result: **one critical film moved trust far more than one hero film.**
+- **South Korea in our simulation:** AI people there were asked about joining the army "as a career", because service is compulsory. *D.P.* is the real-world reason that question is sensitive.
+
+## 13. Brazil: football as propaganda under the military dictatorship (1964–85)
+- Under General Médici (1969–74), the official propaganda office **AERP** used the **1970 World Cup win** to celebrate the regime. Médici, a football fan, publicly linked the team's success to "Brasil Grande", during the **worst years of torture and censorship** ✅ [summary: Ribeiro & Almeida 2014, *Recorde*; *Das Amazônias* 2022; Nina Schneider's book on AERP/ARP, reviewed in *Luso-Brazilian Review*].
+- **A nuance from historians:** the AERP aimed mostly at **young people** (1970–71). Its propagandists sat **between** the hard-liners who supported violence and left-wing artists. **Even propaganda offices have internal disagreements** [summary: review of Schneider].
+- ❓ The famous slogan "Brasil, ame-o ou deixe-o" ("Brazil, love it or leave it") is widely linked to this period, but I couldn't confirm its origin in today's sources.
+- **Same pattern as elsewhere:** the regime doesn't need to make a film; it **attaches itself to something people already love** (football here; cricket and Bollywood elsewhere).
+
+## 14. Nigeria: the military discovers Nollywood
+- ***Eagle Wings* (2021):** described as the **first major collaboration between the Nigerian military (the Air Force) and Nollywood** ✅ [summary: Wikipedia-mirror entry; Nigerian press].
+- **Wider effort:**
+  - In 2019 the army chief **asked Nollywood and Kannywood (northern, Hausa-language) actors** to help counter-insurgency messaging [summary: PRNigeria].
+  - Later reports describe the army "wooing celebrities and media influencers" to spread its message about bandits and Boko Haram [summary].
+- **A backlash case:** a multi-million-naira, **army-sponsored film** portraying the Shia Islamic Movement in Nigeria as terrorists drew public criticism, including from the veteran actor Pete Edochie [summary]. ❓ Details not checked.
+- **A non-state contrast:** *The Milkmaid* (2020, Nigeria's Oscar entry) is about women held by Boko Haram. It was researched with NGOs that work with survivors, **not** the military. The *Christian Science Monitor* reported it was **cut by Nigeria's censors** and few Nigerians saw it [summary: CSM 2021 headline]. ❓ The reason for the cuts wasn't checked.
+- **Lesson:** a military entering the film business late uses the same playbook (equipment and access in exchange for the story) and faces the same backlash when its role is visible.
+
+## 15. Turkey: state TV history dramas as soft power
+- ***Diriliş: Ertuğrul*** (TRT state TV, Dec 2014 – May 2019) and *Payitaht: Abdülhamid* were **commissioned by TRT**. Analysts say they "aligned well with the [ruling] party's communications strategy" ✅ [summary: ISAS 2020].
+  - An academic analysis says *Ertuğrul* imagines "a morally superior Turkish-Islamic nation" (neo-Ottomanism) [summary: Turkish academic paper on DergiPark].
+- **Reach:** sold or shown in about **70 countries**. **Pakistan made up about 25% of its YouTube audience**, after Prime Minister Imran Khan had it dubbed for state TV in 2020 ✅ [summary: ISAS; TBS News]. Its successor, *Kuruluş Osman*, has run on a **private** channel (ATV) since 2019.
+- **Evidence gap:** sources are mostly think tanks and small qualitative studies. **No rigorous study measures whether the series changed viewers' attitudes** [summary]. As in India and China, we know the **intent** better than the **effect**.
+- *Teşkilat* (TRT's MIT spy drama) is in RESEARCH.md F8.
+
+## 16. What the global cases add (same standard everywhere)
+| Country | Tool | Who makes it | Disclosed? | Evidence of effect |
+|---|---|---|---|---|
+| Indonesia | One film, **compulsory** viewing for 14 years | State | Yes, openly state-made | Strong descriptive evidence (97% of students saw it; 90% learned 1965 from it); no causal study |
+| South Korea | **Critical** private drama (*D.P.*) | Netflix, no military help | n/a | Policy response from the ministry (documented) |
+| Brazil | Attaching to football (1970) | Propaganda office (AERP) | Partly | Historians' analysis only |
+| Nigeria | Military–Nollywood co-productions | Air Force, army | Mixed | None found |
+| Turkey | State TV history dramas, exported | TRT | Yes (state broadcaster) | Reach documented, effect not |
+| USA | Script approval for access | Pentagon, CIA | Rarely visible | Small causal studies; round 1 sim |
+| China | Agency-backed blockbusters | MSS, PLA | Yes at home, not abroad | Yao 2024 experiment |
+| Pakistan | Dramas, songs, radio, covert accounts | ISPR | Partly; covert accounts hidden | None found |
+| Russia | Paid films and FSB prizes | FSB, Ministry of Culture | Yes | Box-office flops |
+
+**Three patterns across all of them:**
+1. **Compulsion works where persuasion fails:** Indonesia made viewing compulsory, and a generation learned history from one film. Russia's paid films that no one was forced to watch flopped.
+2. **Critical films can move institutions** (*D.P.* in Korea; *The Act of Killing* in Indonesia), especially when made **without** state help.
+3. **Effects are rarely measured.** Outside Yao 2024 (China) and small US studies, almost no country has causal evidence. That's the gap our simulations try, imperfectly, to fill.
