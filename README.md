@@ -4,7 +4,7 @@
 
 An independent research project by **Maulik** (Class 11, India), started October 2026. It combines old writing on persuasion, published psychology experiments, real cases from India and abroad, and two kinds of simulation: a rule-based agent model, and pre-registered experiments with AI "people".
 
-📄 **Current paper draft:** [`paper/draft_v2.md`](paper/draft_v2.md)
+📄 **Current paper draft:** [`paper/draft_v3.md`](paper/draft_v3.md) (three parts: how people think and choose; how choices are made for us; what it means)
 
 ---
 
@@ -31,7 +31,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 - Slowing down protects more than learning the tricks in advance.
 - Checked across 1,408 combinations of assumptions (SALib).
 
-⚠ **AI people matched humans in direction on 3 of 3 classic experiments, but in size on only 1.** All AI-people results are read as directions, not exact human percentages. Details and limits: [`paper/draft_v2.md`](paper/draft_v2.md), Sections 6 and 8.
+⚠ **AI people matched humans in direction on 3 of 3 classic experiments, but in size on only 1.** All AI-people results are read as directions, not exact human percentages. Details and limits: [`paper/draft_v3.md`](paper/draft_v3.md), Sections 5 and 13.
 
 ---
 
@@ -39,7 +39,7 @@ An independent research project by **Maulik** (Class 11, India), started October
 
 ```
 paper/                     The paper
-  draft_v2.md              current draft (about 14,500 words)
+  draft_v3.md              current draft (about 18,000 words)
   archive/                 earlier drafts and the strict review of draft 1
 
 simulation/
