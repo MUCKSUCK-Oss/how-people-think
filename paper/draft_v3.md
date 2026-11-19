@@ -166,7 +166,7 @@ Persuasion looks strong in other settings: when one source controls the informat
 
 Product choices, app settings and sign-up forms often meet all three conditions. A vote for president usually doesn't. The rule-based simulation *cannot* test this yet, because its default rule ignores how much people care (Section 4.6). The AI-people experiments add a fourth condition: **4. the message comes through someone they trust** (Section 11).
 
-**[TO WRITE]** Which kind of choice in your life is most like an "I don't really care" choice that is easy to steer, and which is a choice where you'd resist?
+**My view:** My first thought is that I think more about choices that affect my future, the long-term ones, and less about everyday choices like what to eat. I think most people work this way, and we all know it. But that is exactly where big corporations and political campaigns come in: they use it to push us towards things we don't want or need. So I think this is a research question in itself.
 
 ---
 
@@ -1022,7 +1022,7 @@ The rule-based simulation's big effects come from choices where people start at 
 ---
 
 ## Your to-do list for this draft
-1. **Fill in every [TO WRITE]** (16 places). This is the part that makes the paper yours.
+1. **Fill in every [TO WRITE]** (15 places left). This is the part that makes the paper yours.
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 12 and 14 in your own words.**
