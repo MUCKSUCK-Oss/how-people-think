@@ -1802,3 +1802,34 @@ https://www.youtube.com/watch?v=_Nadmkj4caw · about 2 years old
   - **Fear of big goals:** "fear that… I would spend the rest of my life chasing something that isn't possible… if I try my absolute hardest it would have never been enough… that's embarrassing."
   - **Cynicism looks smart but feels worse:** "a cynic… is actually seen to be more intelligent than the person who's ignorantly positive… but cynics… live a worse quality of life… if you're constantly judging the intentions of other people… that worldview bleeds to other parts of your life." "Seeming dumb and ignorant is what is required to believe in your grand dreams" (the Wright brothers).
   - **Success can't be copied:** Warren Buffett's or an athlete's choices rest on judgment "impossible to articulate", so "there's no step-by-step plan."
+
+## O7. This Self Help Book is RUINING People...
+https://www.youtube.com/watch?v=ZTKmYR6Om70 · about 2 years old · books compared: *The Subtle Art of Not Giving a F\*ck* (Mark Manson) vs *The Courage to Be Disliked* (Kishimi & Koga)
+- **His thinking:**
+  - **He followed the herd himself:** "I am a sheep… I watched all the YouTube videos 'oh my god this book is so awesome'… the entire lesson of the entire book is the title."
+  - **Against "become a machine" optimisation:** he rejects the message of "throwing away your emotions… because that is the most optimized effective way to live". He links it to longevity influencers: "I'd rather add more life to my years than the opposite."
+  - **Hedged bold claims:** "they never take a full stance… there's always a failsafe just in case what I say becomes wrong later."
+  - ***The Courage to Be Disliked*** is "the greatest book I ever read… completely altered my life path, how I view the world, how I view other people." He bought it on a whim.
+
+## O8. She Thinks "Manifesting" Is Real
+https://www.youtube.com/watch?v=_8LemvNnvAI · *Skipped: no transcript available.*
+
+## O9. "Underdog" Characters Are Ruining Fiction
+https://www.youtube.com/watch?v=kP4_lgIAEHk · about 1 year old
+- **Main idea:** "underestimated hero" stories satisfy **our need to show off without seeming arrogant**. Social rules teach us to **act humble because others' envy is dangerous**.
+- **His thinking:**
+  - **Humility as a social shield:** "no matter what, people will be envious of what you have, and the best way to not seem braggadocious is to act humble… nobody wants to feel inferior to another person… The best way to create enemies is to make other people feel less than you."
+  - **"Bragging that I don't brag":** "everything in our culture is integrated in the idea of bragging", even dressing to look poor.
+  - **Generic heroes are designed for self-insertion:** "purposely designed to be as generic as possible so the audience could relate… so the reveal feels all the more powerful… as if you have earned what the character did."
+  - **"Stay humble" advice discourages risk:** "the easiest option people will choose to do is nothing… you are not encouraged to do something that requires risk… the problem… is not how true or useful it is but how it makes us feel."
+  - **Doubt from peers:** his cousin dropped out at 19 and everyone, including Ramboh, thought he was foolish. He now "makes around a million a month in revenue" *(Ramboh's figure)*. People "chose to do nothing under the guise of… going to college… letting other people decide for them." His advice: "be more braggadocious… but keep it secret."
+
+## O10. Why Philosophy Hates MrBeast
+https://www.youtube.com/watch?v=5PFn6yTmbF0 · about 1 year old
+- **Main idea:** the same person looks good or bad depending on the **ethical framework** you judge by.
+- **His thinking:**
+  - **Kant (deontology):** treat others as you'd want to be treated. MrBeast doesn't want to be lied to, yet "lies to people for the sake of content… treats them without autonomy… homeless people are given money as a means to an end, the end being the content." "Intention matters."
+  - **Utilitarianism:** judged only by results, "he helps people… creates so many jobs… compensates" those he harms, so he's "an awesome… saint". Haters profit from him too.
+  - **Plato:** shows built on excitement, fame and money are "superficial imitations that draw viewers away from… genuine knowledge and virtue". MrBeast "is the king of brain rot", even when teaching others to make more of it.
+  - **Aristotle:** asks whether content builds virtue. A show that rewards "greed, lying, betrayal, manipulation" teaches viewers "I would totally lie and betray my team for $1 million", at the cost of "dignity".
+  - **Ethical egoism:** creators who don't support him still appear with him "because long term it quantifiably benefits their career".
