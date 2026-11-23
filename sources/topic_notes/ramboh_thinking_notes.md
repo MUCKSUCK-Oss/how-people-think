@@ -1586,3 +1586,35 @@ https://www.youtube.com/watch?v=bKF4a-TGPpo · ramboh^2
   - **Music as a tool:** he only listens to music when running, to push harder.
   - **Willpower studies conflict:** "there's two people just… beefing with each other in the scientific community… willpower is this limited resource… [or] unlimited… who knows… believe what you want to believe." Asked why not believe it's unlimited, he answers that "you could hurt yourself", after running on a sprained ankle.
   - **Hard exercise carries over:** pushing himself physically makes him "more motivated to come to the desk and work even harder".
+
+## S45. Why I Am a Douchebag
+https://www.youtube.com/watch?v=5IPUMoQrGOM · ramboh^2
+- **His thinking:**
+  - **Negativity bias from evolution:** "the rustle in the bush could be a rabbit, but it also could be a lion, and it's much better to imagine it be a lion… we're evolved to be negative… but that doesn't mean it makes sense anymore… It doesn't matter if the stocks go down. You're still alive."
+  - **News is built to scare:** "all of it is not about new advancements… a firefighter saving a cat… but instead it's all about war, stocks… racism, COVID, new virus. It's meant to scare you."
+  - **Creators are pushed towards negativity:** "as a content creator, you're supposed to make negative content", and the sit-down "deep talk" format is "always negative". He tries to show a popular creator as an example, then admits "this is a bad example."
+  - **"The five friends you hang around"** and the content you watch represent who you are.
+
+## S46. Why Being Homeless is Actually Awesome
+https://www.youtube.com/watch?v=dylsR_tWg0w · ramboh^2 · *(the title provokes; it's about money, social obligation and freedom)*
+- **His thinking:**
+  - **Money as a trap:** "having a lot of money is the biggest trap of them all… lottery winners… wish I never won… bad relationships start creeping up… the biggest pitfall… is materialism" (doing things just to photograph them).
+  - **Status brings social obligations:** "if you… work at a nice corporate company… there are social expectations in how you should act." Diogenes could provoke people "because he did not have anything to lose."
+  - **Higher living standards can feel like confinement:** "you could make the argument that you are actually financially restricted because you have a higher standard of living."
+  - **Perspective makes the reality:** answering a joke about prison, he says "if you are in prison, are you actually confined? Everything that is your reality is based on your perspective."
+
+## S47. Why working out when you're short is retarded
+https://www.youtube.com/watch?v=hFAObzkTWDM · ramboh^2 · he replies to a viewer told "get ripped and people will respect you"
+> ⚠ *It contains demeaning language about short people and people with dwarfism. Recorded only for his main point.*
+- **His thinking:**
+  - **A single fix for a deeper insecurity is a coping strategy:** "the gym is not going to solve your problems… height… doesn't determine a person's life… you just got to maximize every other aspect of life."
+  - **Proportions, not just muscle:** he argues that heavy muscle makes short people look shorter. *(His view.)*
+  - **The real motive:** "most people [who are] short [are] insecure… definitely the main reason is about women… you can't deny that."
+
+## S48. How to Become Successful Gooning and Gaming
+https://www.youtube.com/watch?v=ghdNuKTB1OE · ramboh^2 · *(the title is bait; it's about fear of humiliation and accountability)*
+- **His thinking:**
+  - **Obvious questions mean resistance:** "If you're fat, you kind of already know what to do… people ask obvious questions because they don't really want the problem to be solved."
+  - **Humiliation doesn't go away:** "humiliation isn't something that you overcome, because it will never leave… [get] humiliated more."
+  - **What people pay for:** "you're paying for the time you are being saved" and for **accountability**. "With all those expectations and consequences in line, you start doing the things you should have been doing."
+  - **Deadlines need consequences:** "the reason why it never happens is because you do not have enough consequences." His extreme thought experiment: with a gun to a loved one's head, anyone would meet the deadline.
