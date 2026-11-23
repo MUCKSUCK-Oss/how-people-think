@@ -2092,3 +2092,18 @@ https://www.youtube.com/watch?v=CG1GUeyhwFU · about 2 years old
   - **The quiet decline (from *Atomic Habits*' "1% better"):** "nobody seems to talk about the… decline… so little that it is easy to fall deep into the vices… midlife crisis… because the decline is so difficult to notice."
   - **Use loss aversion:** "we value negativity more than positivity… evolutionary-wise", so picture the decline to motivate yourself.
   - **He disagrees with the book's small goals.**
+
+## O44. becoming attractive is easy, actually
+https://www.youtube.com/watch?v=rHy5J8_xwd4 · about 1 year old
+- **His thinking:**
+  - **Beauty standards follow culture and scarcity:** "a skinny person is attractive because it signals… restraint. Back in the famine era fat people were hot because it signaled… resource abundance." Today it's posting your car and watch "casually".
+  - **"Looks don't matter," said by beautiful people:** models think personality matters most "because they're surrounded by only good-looking people, so looks no longer matter in the vacuum of their circle."
+  - **Pleasing strangers creates confusion:** "am I wearing this… because someone told me to… or because [of] biology?" Changing your personality for someone "will lead to an identity crisis".
+  - **"Over-relying on personality, over-relying on looks is cope. Everything matters."** *(He then gives grooming tips.)*
+
+## O45. The Satisfying Downfall of Dating Apps
+https://www.youtube.com/watch?v=w0lFbhvuVLM · about 1 year old
+- **His thinking:**
+  - **Negative statistics keep people down:** facts like "three times more men on dating apps… top 33%… while true, benefit no one… relying on studies… doesn't inform people but keeps them down."
+  - **The negativity bias:** "we value negativity at around 2 to 5 times… the more you consume about the news cycle the more you think the world will end, but year by year we only become more peaceful, get more rich… our biology can't have a positive mindset."
+  - **Excuses that protect against accountability:** viewers blame "the economy… your rich parents". He says his parents were immigrants who didn't speak English. "Everything relies on perspective… they're right, people do struggle… but the problem is this hyperfixation of what I don't [have] and others do… creating this false reality, because it's all built on facts, but facts are built on more negativity than positivity."
