@@ -731,3 +731,70 @@ https://www.youtube.com/watch?v=C_5D1iOGGqQ · about 2 months old
   - **No finish line:** "I so desperately wanted to be a YouTuber and I feel exactly the same." "Your goal is not going to change who you are… the whole journey is about the process."
   - **Seneca (*Letters*):** "A change of character, not a change of air, is what you need." Many trips are "superficial", just photos for Instagram.
   - **"If you have the privilege to watch my videos, you have the privilege to make time for yourself."**
+
+## R31. "i'm old, please watch my advice video"
+https://www.youtube.com/watch?v=KQbHqEBRhIs · about 1 year old
+- **Main idea:** "life lessons from an old man" and motivational videos tell you **what you already know**. People watch them **to feel better, not to change**. "It's not an information deficit. It's an action deficit."
+- **His thinking:**
+  - **Motivation as comfort:** "It's pornography to make us feel better… I'm so motivated… I'm learning so much." He reads one creator's list (persistence, ignore judgment, invest early, money isn't everything) and asks "what has he genuinely said that will… change your life? Nothing." He points out contradictions in it: "invest early" vs "don't chase money".
+  - **Feeling good is a trap:** "they say stuff you already know and what you want to hear because it makes you feel good… making yourself feel better is itself a poison."
+  - **Age bias as a selling point:** "this implicit ageism in our mind that because they're older, they must know more." Stories of failure sell too.
+  - **Emotions are chosen tools (Adler, *The Courage to Be Disliked*; he doesn't name the book here):** the spilled-coffee story. Some people pick anger because anger "would get the result closest to what they want", and others pick calm. "Everyone wants to be happy. Why don't you choose to be happy right now?"
+  - **Social roles restrict you:** "because I am young, I must act in a young way… That's how you restrict yourself."
+  - **Stripping the "marketing flair":** he reads an old man's advice as plain bullet points, with no story or music, to show the pull came from the packaging. "They're not trying to seek actual life-changing advice. They're constantly trying to seek motivation… relying on other people… for themselves to change."
+
+## R32. Worst Types of Friends...
+https://www.youtube.com/watch?v=Xf8vOskc4BE · about 1 year old
+- **Main idea:** "worst types of friends" content **feeds confirmation bias** by putting the blame on others. The real issue is **your own unclear standards and low self-worth**, and the fear of being alone.
+- **His thinking:**
+  - **People never say what they want from a friendship,** so "the sudden realization that your pals don't fit… can make you feel lonely… guilty."
+  - **Blaming is easier than admitting a mistake:** "Cutting someone off… means admitting you were wrong about them… So instead, they look for evidence that the other person is the one to blame." Content "will justify your confirmation biases rather than offering true self-reflection."
+  - **"Superficial victory":** "You feel morally right, but you've only outsourced the tough work of self-reflection." The pattern repeats with the next friend.
+  - **Friendships fade instead of ending honestly:** people avoid "uncomfortable conversations", so the chance to learn is lost.
+  - **Lying is situational:** whether "you look good in that dress" is kind or harmful depends on the moment. A "bad friend" to one person may be a good friend to another.
+  - **Sunk cost fallacy:** "We've been friends since middle school." His test: "if this were a new friendship, would I start it today?"
+  - **Self-worth sets the bar:** "If deep down you believe you're unworthy of loyalty… you will accept less." Letting a friend's lateness slide "tells you and them that your time isn't worth protecting… if your friends see that you don't value yourself, why would they choose to value you?"
+
+## R33. worst types of regret
+https://www.youtube.com/watch?v=uYsRaB9jSvk · about 1 year old
+- **Main idea:** the worst regret is realising after years that you never asked **"what is it that I truly want to do?"** People fill the gap with small, fixable "micro-regrets" and busywork, and let jobs, parents and culture define them.
+- **His thinking:**
+  - **Becoming "someone convenient":** "who I am is not what I want to be, but… what the world has defined for me… Jobs, parents, social media, culture… fill in the blanks… You become someone convenient… not someone who is intentional."
+  - **Micro-regrets feel like progress:** "I regret eating that junk food. Now there's a guaranteed problem… I need to fix, rather than… something significantly more vague." Endless self-help keeps you busy. "The solution to all your problems exists right now. The real problem is that people do not want to solve them."
+  - **Comfort decays slowly:** "The more comfortable you are, the less urgency you'll feel… a silent decay." Regret has "no alarm, no boss, no penalty". He mentions a UK survey saying 40–60% of adults feel a "malaise" they can't explain. *(His figure.)*
+  - **Goals are not purpose:** money, status and followers are "performance checklists". He admits he wants them too.
+  - **"Regret doesn't come from being wrong. It comes from never choosing at all."**
+
+## R34. worst types of celebrities
+https://www.youtube.com/watch?v=pO9rRGxoOf0 · about 1 year old
+- **Main idea:** we don't judge celebrities by what they do. We react to **what they represent and what they reveal about us**: our envy, our powerlessness, our dependence. "We hate what reminds us of who we are not yet."
+- **His thinking:**
+  - **Intentions over actions:** MrBeast has done much measurable good, but people dislike him because he "feels inauthentic". "We do not judge people… [on] what he has objectively done that is good, but… what are his true intentions."
+  - **Celebrities become symbols:** Trump is "a whole representation of a larger group… no longer seen as a single human being." A viral clip "became a tool to justify the worldview people already had", proof for each side of what it already believed.
+  - **Content fills emotional gaps:** "It's not about the content. It's about what the content chooses to represent: stability, excitement, hope, community, whatever people feel like they're lacking." Each type of celebrity "serves a different emotional function".
+  - **Dependence turns into resentment:** when people notice how much a celebrity controls their time, "they either double down or turn on them… What we hate is what they reveal about ourselves."
+  - **Overexposure plus extreme highlights:** "You only know the most extreme sides… The algorithm is not a neutral ground… You're only fed information that are of the extreme… most things that are true are very boring." He compares it to parents believing everything on Facebook.
+  - **"We like to believe our opinions are based on logic and morals or facts, but half of the time, we're just reacting emotionally to what these people represent about us."**
+
+## R35. worst types of brainrot content
+https://www.youtube.com/watch?v=RQOU3CAI4ts · about 1 year old
+- **Main idea:** every generation blames its new medium for corrupting the young: novels in the 1800s, then video games, now TikTok. The medium isn't the problem; **how and why we consume** is. The worst "brain rot" is **content that pretends to educate** (outrage politics, commentary) and leaves you only riled up.
+- **His thinking:**
+  - **Moral panic repeats:** 18th- and 19th-century critics said novels instilled "a love of pleasure and dissipation". Later, video games were blamed for violence. "History proves it's never the content that's the problem."
+  - **Curiosity is the hook:** "we are inherently curious." Games and shorts are puzzles that keep the brain from boredom (the "how do I escape a sinking car" short). "Why is it so addicting? Because it fills the need of curiosity."
+  - **Social curiosity:** "I wonder what everyone's up to."
+  - **The "staying informed" illusion:** "We think we're deciding to stay informed by watching political videos… But… your goals don't really relate to what Trump is up to… if it did… you would know… through the grapevine."
+  - **Pseudo-learning:** outrage and commentary videos "blur the line of knowledge accumulation and entertainment… not entertaining and what you do learn is useless… you get riled up emotionally."
+  - **Products will keep getting more addictive:** "more humans will learn about our psychology… they will create products that will be more addicting than the last. It is your responsibility to separate… what you truly want."
+  - **"If you want to predict your future, look at your algorithm."** "Treat mindless clips like candy."
+
+## R36. Why Gaming Culture Sucks Now
+https://www.youtube.com/watch?v=3dyBUtFdZFM · about 1 year old
+- **Main idea:** online gaming culture is pure complaining ("greedy" companies, "too expensive"). Ramboh says people **project their real-life powerlessness onto companies**, and adults **copy the popular opinion because it's socially safer**, unlike children.
+- **His thinking:**
+  - **Nobody wants the practical fix:** he suggests buying second-hand, but "Nobody wants to hear my solution because what they want to do is be outraged." The same pattern shows up with fast-food prices and "every company is greedy".
+  - **Projected insecurity:** "you can't really influence… your parents… there is this insecurity… you feel like you can't do enough… it bleeds into internet culture… they project their real life insecurities onto… companies."
+  - **Copying for safety:** "You become smart enough to copy the same opinion as everyone else because it's safer… socially if you don't stand outside of the pack." Kids say what they think "because… there's this safety zone".
+  - **The happiness curve (his view):** "30, 40 year olds are the unhappiest… because there is so much pressure", while children and old people are happiest because they've learned "caring so much… is simply not worth it."
+  - **People who don't own the product make hour-long videos hating it,** and viewers watch "to constantly validate or change your opinion based on the current popular trend."
+  - **Enjoyment is your choice:** "People can be angry whilst they're on vacation and another person, same vacation, could have way more fun."
