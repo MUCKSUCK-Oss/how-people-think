@@ -14,12 +14,12 @@
 - **Round 3, his second channel ramboh^2 (S1–S61):** shorter, more personal videos and community Q&As.
 - **His Community tab:** title polls, copied as shown.
 - **R76** (Goggins), added later.
-- **Round 2b, older main-channel videos (O1…):** 1–3 years old, found by scrolling further back (manipulation, peer pressure, placebo, cults, sunk cost).
+- **Round 2b, older main-channel videos (O1–O51):** 1–3 years old, found by scrolling further back (manipulation, peer pressure, placebo, cults, sunk cost).
+- **Round 4, race-titled videos (X1–X7):** added after Maulik asked why they were skipped. Only his general points about group thinking are noted, with clear warnings.
 
 **Not read, and why:**
 - **No transcript on YouTube:** R1 (9-5 jobs), R10 (China), R22 (Logan Paul), R41–R42 (Gen-Z dating, OnlyFans), R55 (porn addiction).
 - **Left out by the agreed scope:**
-  - race-comparison titles (e.g. "Why Does Everyone Hate Blacks?", "Why Do Asians Hate Black People?", "Black Culture Is Machiavellian", "Black Culture Hates Asian Cuteness", "The Asian Fetish Problem", "He Sold Out His Race");
   - the two "philosophers and women" videos;
   - cruise and food vlogs, the 0:46 "Streamer University" clip, and Shorts (mostly clips of the long videos).
 - **Second channel titles left out for the same reasons:** race-bait, anti-trans, and "I hate women" style titles.
@@ -2187,3 +2187,17 @@ https://www.youtube.com/watch?v=w_Q3mgO6aO8 · about 1 month old
 - **His general points:**
   - **Cultural attention moves with economic power:** global media and taste are shifting towards East Asian aesthetics (hit shows, music, games) as those economies grow fast ("Vietnam, Singapore… 7%, 5%"), while some European economies stagnate. "They have equal opportunity to share their ideas, media… and… they are taking your attention."
   - **Copying as a formula:** he says some exported pop music "copies" Western songs. *(His opinion.)*
+
+## X5. Why Black Culture Is Machiavellian
+https://www.youtube.com/watch?v=WVV6QH5-hB4 · *Skipped: no transcript available.*
+
+## X6. Why Black Culture Hates Asian Cuteness
+https://www.youtube.com/watch?v=Pk3eXN8rlu4 · about 2 months old
+> ⛔ *Same warning as X1. Only his general point about environment and culture is noted.*
+- **His general point:** **how safe and trusting a society is shapes its culture and ads.** In high-trust societies, children are taught independence early (he plays clips about Japanese children running errands alone), which supports "cute" aesthetics and solo dining. Where communities face violence and poverty, parents keep children close, and **struggle is valued as a sign of maturity**: "someone who has gone through a lot of struggle is seen as more mature." *(His argument; he includes clips about gun violence in one US city.)*
+
+## X7. why hood n-🥷 might be medieval knights
+https://www.youtube.com/watch?v=42xHuo0wH9Y · *Skipped: no transcript available.*
+
+---
+**End of the long-video list:** every long video on both channels has now been checked.
