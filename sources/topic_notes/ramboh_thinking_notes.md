@@ -2075,3 +2075,20 @@ https://www.youtube.com/watch?v=IytwrdOTomk · about 1 year old
   - **Competitive friends are good:** don't feel threatened, because "a competitive friend is the person you wish and yearn for. They will make you better."
   - **Activity-based friendships:** "are you friends with that person because you like their… perspective… or is it the video game… the drugs… the partying?… most people don't have [goals]… and are more easily influenced by people… leading them to a path they actually would not like."
   - **The "scarcity" friend** (extreme penny-pinching) "builds anxiety", and he says it's linked to a lower quality of life.
+
+## O42. I 'Cold Approach' Everyone As An Introvert
+https://www.youtube.com/watch?v=MiB7FLXaG-w · about 2 years old · a 30-day "rejection" challenge
+- **His thinking:**
+  - **Failure speeds learning:** "your brain learns at a faster rate if you experience failures… through that embarrassment my brain becomes more plastic." *(His claim.)*
+  - **Moving the "maybe" to yes:** "some people will say yes no matter what… some… no… and people in between. It becomes your job to move that maybe into the yes."
+  - **He admits two manipulations:** (1) he invented a "rejection therapy community" "because I needed more rapport… I manipulated you", and (2) he lied to a stranger and had a friend hold "the camera in her face so she feels more obligated to say yes."
+  - **Lying works short term:** "people don't lie [mainly] because lying is only good for the short term", not mainly because it's wrong.
+  - **Honest motive:** "I'm doing all of this so I can get girls."
+
+## O43. Give Up, Try Again in 2025
+https://www.youtube.com/watch?v=CG1GUeyhwFU · about 2 years old
+- **His thinking:**
+  - **Arbitrary start dates:** New Year's resolutions mostly fail (he cites 9% success and 23% failing in week one, *his figures*). "If you have a goal that you actually want… why are you setting up some random arbitrary date?… do it now."
+  - **The quiet decline (from *Atomic Habits*' "1% better"):** "nobody seems to talk about the… decline… so little that it is easy to fall deep into the vices… midlife crisis… because the decline is so difficult to notice."
+  - **Use loss aversion:** "we value negativity more than positivity… evolutionary-wise", so picture the decline to motivate yourself.
+  - **He disagrees with the book's small goals.**
