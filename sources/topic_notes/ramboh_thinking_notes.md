@@ -1911,3 +1911,24 @@ https://www.youtube.com/watch?v=oxXoOYKGhc4 · about 1 year old
   - **His shortcut:** ask an AI to answer "as" an author (Robert Greene's *48 Laws of Power*) for actionable steps. His example is bullying, using Law 18: isolation invites attack, so "attach yourself to allies."
   - **Bullied people refuse help:** they assume "everyone else that is offering help also must hate them… I don't want you to look and give me pity."
   - **Wanting one answer makes people manipulable:** "the mistake people make is that they read a book… 'they know that I'm broke… so whatever they say must have the answer'… you fall down this slippery slope… MLM marketing schemes, being manipulated, losing all your money because you assume there's one solution for your problem." "People fundamentally want an answer given to them… but nothing in life gives you that direct answer."
+
+## O21. Why Suicide Is Retarded
+https://www.youtube.com/watch?v=JkjnHL-BQvw · about 1 month old · *Skipped: no transcript available.*
+
+## O22. Achieving Old People Confidence In Your 20's
+https://www.youtube.com/watch?v=xcVr0u9IYTM · about 2 years old · 99k views
+- **His thinking:**
+  - **"Insecurity is not what you lack… it is what you choose to desire."** Becoming attractive "solves an external problem when the root of all your goals is to simply satisfy a feeling… once we get what we want we will want more."
+  - **The hedonic treadmill:** "desire, strive, obtain, enjoy momentarily, adapt, and then finally desire more… there is no end… you get readjusted into a new standard… the medium-sized fish in a small pond."
+  - **Competence vs competition:** insecurity relates to how good you are compared with your competition (an NBA hopeful playing schoolkids feels confident until he wants a challenge).
+  - **Old people "just don't care"**, and the young "cannot afford to not care".
+  - **Subtract goals:** "it is not about adding more goals but subtracting every useless feeling that you are obligated to feel… more goals… make you feel insecure… distract you from your main goal."
+
+## O23. Why Addiction Creates Success…
+https://www.youtube.com/watch?v=HE6kqDEAmAA · about 1 year old · 706k views *(an earlier version of R61)*
+- **His thinking:**
+  - **Creators make problems your priority because they sell the fix:** "a lot of influencers… make problems your priority only because that's the solution they can offer… if it actually worked, there would be only one video… like… only one book about happiness."
+  - **Wanting it, not resources:** "everything online exists, you can learn everything for free. Time is your enemy."
+  - **Choosing goals by social acclaim:** "I want to become an influencer, a rapper, only because there is so much social acclaim… people think the general idea is the right idea."
+  - **Natural strengths matter:** "this is not an anime where effort… will get you everything… someone will put in equal effort… but be naturally physically better." Pick three things you're naturally good at, then look at each market.
+  - **Learning as procrastination:** "they never start but they feel like they've started because they're learning so much… action is the greatest way to learn."
