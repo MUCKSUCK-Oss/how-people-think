@@ -2028,3 +2028,19 @@ https://www.youtube.com/watch?v=GWwMnFMLG6c · about 3 years old
   - **The drowning-rats "hope" experiment:** rats swam far longer after being rescued once, because they had hope. *(He attributes it to "Harvard"; it's usually credited to Curt Richter in the 1950s.)* He says motivational videos misuse it as "never give up". His reading: "most of the time you should give up and move on like the rats… set limits upon yourself" (with gamblers as his example).
   - **"Purpose" is oversold:** "my purpose is to find my purpose… a never-ending cycle… all that effort for absolutely nothing." "Purpose exists… but you have to lower your expectations."
   - **The powerful use "purpose" as cover:** "rich and powerful people love to pinpoint their success towards purpose because nobody knows what it means… they use it as a way to shroud their intentions." His example is a jailed crypto founder.
+
+## O36. wasting your life is hard, actually
+https://www.youtube.com/watch?v=OXZMVUPCsd8 · about 1 year old
+- **His thinking (numbered "steps"):**
+  - **Change perspective, not just resources:** "people shave their heads because they want to force themselves to change the perspective. People spend money because they want to force themselves to feel like this has more value… the more accurate your perspective… the closer… to your goal."
+  - **Stress and decisions:** he says stress lowers IQ by "13 points" *(his figure)*, so "how could you make a good decision when your mind is muddled?" But "low stress is good… and high stress does the same thing… balance".
+  - **Hours as a brag:** "I work 16 hours a day… that is a lie… hard work does not define success, but the problems you choose to tackle."
+  - **"Not one thing is ever true":** "people develop a superiority complex… base all their opinions in science… but in science every truth is just a theory waiting to be disproven. Eggs were bad for you until it's not. Wine was good… until the science was paid for… it's really easy to fall for the appeal to authority."
+  - **Fixed reactions:** "you should never reuse the same reaction to different situations… the NPC insult is targeted towards people who react the same way towards any interaction."
+
+## O37. FAST FOOD PRICES MUST BE STOPPED
+https://www.youtube.com/watch?v=bS95KKkRnlM · about 3 years old
+- **His thinking:**
+  - **Price anchors, or plain greed?** He tests the "price anchor" explanation (an expensive item exists to make deals look good) and rejects it when "all the products are still expensive".
+  - **Inflation as cover for higher margins:** "inflation has allowed these companies to be greedy… they don't care if you buy less, because there are people out there that will still buy." He plays a news clip quoting company earnings calls: "consumers get used to it… when all prices go up it helps… inflation has been a positive for us". Record profits were "paid out to shareholders".
+  - **Feeling betrayed by a favourite brand:** "it's like your friend… you've been with them for five years."
