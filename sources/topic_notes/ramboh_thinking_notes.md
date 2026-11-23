@@ -2013,3 +2013,18 @@ https://www.youtube.com/watch?v=36ppUZRqA3M · about 1 year old
   - **Fear of judgment, not failure:** "people aren't scared of the consequences of failure, they're scared of being judged for it, because it threatens their ideal version of themselves." His example is a man avoiding ballet because "it attacks my sexuality and how I'm viewed".
   - **Painful experiences stick:** "the brain increases its learning… that moment is imprinted… [it can] become PTSD." He suggests using that deliberately: "I got rejected every day for 30 days and… exponentially got better."
   - **Think confidently, act humbly:** "think cocky and arrogant in secret, because the moment people know you think you're better… people will make it a mission to personally humble you." The drivers-above-average example again.
+
+## O34. Generational Losers Are Scary..
+https://www.youtube.com/watch?v=0owa9UP620s · about 1 year old
+- **Main idea:** viral "I'm a loser" confession videos use **three persuasion tactics** and keep creators and viewers stuck in **victimhood**.
+- **His thinking, in his three "tactics":**
+  1. **Stories over logic:** "to persuade, manipulate not one person but everyone is not through logic or credibility, but stories. People will kill each other and die because of a good story." The structure: "I blame my environment… I take accountability… look at how authentic I am", and he points out the contradiction.
+  2. **Feeling good depends on who's watching:** "these videos are targeted… [at] losers in a society [who] still [have] pride and ego… the perfect feel-good story that I am better than someone else." Everyone tends to "surround yourself by lower-level people to feel good."
+  3. **Victimhood pays short term:** one creator earned "over $110,000 in the past month" *(his estimate)* while "leaving all the finances out", and a year later "nothing has changed". "Acting like a victim creates positive results short term" through a loop of "positive affirmation" from similar viewers.
+
+## O35. a video about RATS and life purpose.
+https://www.youtube.com/watch?v=GWwMnFMLG6c · about 3 years old
+- **His thinking:**
+  - **The drowning-rats "hope" experiment:** rats swam far longer after being rescued once, because they had hope. *(He attributes it to "Harvard"; it's usually credited to Curt Richter in the 1950s.)* He says motivational videos misuse it as "never give up". His reading: "most of the time you should give up and move on like the rats… set limits upon yourself" (with gamblers as his example).
+  - **"Purpose" is oversold:** "my purpose is to find my purpose… a never-ending cycle… all that effort for absolutely nothing." "Purpose exists… but you have to lower your expectations."
+  - **The powerful use "purpose" as cover:** "rich and powerful people love to pinpoint their success towards purpose because nobody knows what it means… they use it as a way to shroud their intentions." His example is a jailed crypto founder.
