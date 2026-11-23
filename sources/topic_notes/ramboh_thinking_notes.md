@@ -1668,3 +1668,30 @@ https://www.youtube.com/watch?v=ejIwsOcgF90 · *Skipped: no transcript available
 https://www.youtube.com/watch?v=suLe3U4YJO8 · ramboh^2 · a 2-hour live interview with the commentary YouTuber "Internet Anarchist" *(the first part was read)*
 - **Mostly the guest's views, not Ramboh's.** Ramboh's own contribution is his interviewing approach: "I just like to talk to people and understand their thought process… I usually keep my questions vague, so whatever pops up in your head, I'd love to hear the answer."
 - *(The guest's points, recorded only for context: books opened his mind to lives he "wasn't aware of" because he "didn't come from money", and he treats YouTube as a trade-off against "the start of my adult life".)*
+
+## S56. Why I Am So Smart and Awesome
+https://www.youtube.com/watch?v=1kFyhty1Q88 · ramboh^2
+- **His thinking:**
+  - **Wisdom from breadth and free time:** "I read a lot of books and I try to experience… everything I can" (five sports, clubs, a play, trips). The trade-off: "I wasn't the best at any of the sports… my goal… was not to master anything. It was just to experience."
+  - **Narrow environments narrow your worldview:** advanced classes meant "you kind of end up with the same people in every single class… it narrows your entire world view where… this is what people normally do." Different activities let you meet people "you never get to meet".
+  - **Free time breeds thinking:** "philosophers… were rich… when you have no worries, you do nothing… what do you do when you do nothing all day? You just think." He says he deliberately does nothing and meditates.
+  - **"Everyone could be as wise as me":** many people have the hours to think but fill them.
+
+## S57. Why I Don't Show My Face In Videos
+https://www.youtube.com/watch?v=VAc3Ax2drd0 · *Skipped: no transcript available.*
+
+## S58. He Got BANNED From Graduation?
+https://www.youtube.com/watch?v=tUEAEd1QIgI · ramboh^2 · he reacts to a student YouTuber whose school banned him from graduation over filming
+- **His thinking:**
+  - **Authority without argument:** "a bunch of adults just… pressuring their authority onto little kids… there's no solid argument… 'I'm better than you'." He reads the school's reasons ("diversity, equity, inclusion… reflect negatively on the school") as protecting its image.
+  - **Most people defer to authority:** "There's a lot of people who just mindlessly fall to authority, especially in high school… 'the teacher told us to do this, we have to do it.' This guy doesn't care. And I actually like that."
+  - **Keep things quiet to avoid trouble:** "my lesson, just keep it low-key… don't tell anyone, and you wouldn't even run into these problems." He made the same mistake in high school because "I wanted the clout."
+  - **Right cause, wrong reaction:** even when the adults are wrong, "the way he's reacting is not proper… there's better ways to react to not get the reaction they're giving."
+  - **Reaction videos annoy him:** reactors "only say things just to sound more intelligent" without understanding the context.
+
+## S59. Quitting My Job To Become a Full Time YouTuber
+https://www.youtube.com/watch?v=aAhhAl2IxBE · ramboh^2 · he reacts to a satirical "quitting my job for YouTube" creator
+- **His thinking:**
+  - **Satire or sincerity?** He can't tell whether she's mocking people like him or serious, and feels insulted while agreeing with the message ("be independent, be free").
+  - **His own path was influenced by family:** "When I decided to drop out, it wasn't because of me… I was heavily influenced by my cousin because he dropped out [and] was very successful… deep down I knew [college] wasn't for me." He went to community college "just to stall everything out".
+  - *(He admits cheating on coursework at community college: "I was cheating everything." Recorded as his statement.)*
