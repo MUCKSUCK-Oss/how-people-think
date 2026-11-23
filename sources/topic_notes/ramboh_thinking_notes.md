@@ -289,3 +289,56 @@ https://www.youtube.com/watch?v=HWgW1LfCO3o · about 1 year old
   - **Envy and excuses:** "fundamentally, everyone is narcissistic". When others are better, people explain it away ("they're more talented"), when really those people "are better at the learning process".
   - **Confidence about your future, not just social confidence:** many people don't know what skill they want, so they "enter this cycle of just trying to please other people".
 - *(It ends by offering a free call to the first Patreon member to reply, plus "tutor $250 an hour".)*
+
+## 21. How to Manipulate Single Mothers
+https://www.youtube.com/watch?v=4gfqEax44iI · about 1 year old · examples used: dating-advice influencers ("the Wizard Liz" and others) who posted about lavish gifts and were later cheated on
+- **What the video is actually about:** not a how-to for manipulating single mothers. It's about **why people who show off their relationships online get manipulated, and why their audiences do too.**
+- **His main idea:** "Manipulating someone is extremely easy only if you know what their intentions, goals and desires are." If your desire is to *look* like you have the best life, anyone who feeds that image can control you.
+- **His thinking:**
+  - **Relationships as status symbols:** like rappers with "money, jewelry, cars", people use partners as "a tool, a metaphorical bag to show how much better I am than you" ("she has a bigger ass, he's taller").
+  - **Influencer insecurity:** "once you're on the stage, you kind of don't feel like you're enough", so you justify being there with money, looks, "I'm so spiritual", or "my relationship is the best".
+  - **The manipulator matched what she wanted:** a man who sent "750 flowers", wrote a book and a song a month in, then cheated. "Someone… knows what she wants [and] molds their personality in a way that everything seems perfect."
+  - **The "manipulation masterminds" got manipulated:** the same influencers teach tricks such as "keep your options open" and "make him think it was his idea". Their bag story: let him pick between two brands she was happy with, praise his "great style", and later he buys it. They believed they had control, and that belief is exactly what burned them.
+  - **Why their audiences fall for it:** perfect-relationship content is "a source of hope". You can mock money gurus' Lamborghinis, but questioning romance gurus "is blasphemous because it is a source of hope". Viewers' desire to believe is what gets used.
+  - **People consume content to feel superior** (he says his own next video is about this).
+  - **He catches himself doing the same:** "No, you just noticed that I'm also doing the same thing where I'm trying to brag."
+  - **His defence:** "A lot of manipulation… is because you have the wrong goal… If you actually know what you want, then a lot of these mistakes… can easily be avoided."
+
+> **Research I found** *(Maulik allowed research on these claims; this box is not Ramboh's view)*
+> - **"Keep your options open / playing hard to get":** in Walster et al. 1973 (*JPSP* 26:113–121), five experiments found that being hard to get **did not** make a woman more desirable. What worked was being **selectively** hard to get: easy for *him*, hard for everyone else. A later replication found that mildly frustrated men preferred women who showed interest in them. So the influencers' advice is only partly supported.
+> - **Posting about your relationship and insecurity:** Emery et al. 2014 (*Personality and Social Psychology Bulletin* 40:1466–1479), three studies including a 2-week diary of couples. People with more attachment anxiety wanted **more visible** relationships on Facebook. On days people felt **more insecure** about their partner's feelings, they posted about the relationship more. This **matches** Ramboh's idea that showing off a relationship can come from insecurity. The effects were modest.
+> - **"Make him think it was his idea" (the two-choice trick):**
+>   - Russo, Carlson & Meloy 2006: people can be steered into picking an option they had rated worse, and still feel just as confident.
+>   - Klusowski, Small & Simmons 2021 (*Psychological Science*, 17 experiments, 10,825 people): simply being given a choice rarely makes people feel more in control.
+>   - So the steering part has support; the "feeling of control" part is mixed.
+>   - Related classic: Aronson 1999, "The power of self-persuasion" (*American Psychologist*) **[CHECK]**: people are persuaded more by arguments they generate themselves.
+> - **Showing off and comparing:** this fits social comparison theory (Festinger 1954), which says people judge themselves by comparing with others.
+> - **Sources:**
+>   - https://instruct.uwo.ca/psychology/153-kings/overheads2/1-4.htm
+>   - https://scholarship.haverford.edu/psychology_facpubs/313
+>   - https://www.spsp.org/news-center/blog/relationship-visibility
+>   - https://longevity.stanford.edu/choosing-an-inferior-alternative/
+>   - https://www.psychologicalscience.org/journals/psychological-science/0956797620958009/
+
+## 22. How to manipulate ugly women
+https://www.youtube.com/watch?v=5Im6iOm_Ro0 · about 1 year old · example used: the musician Baby No Money; companies' Pride marketing
+- **What the video is actually about:** despite the title, it's **not about women's looks**. It's about how creators and companies **use people's emotional identities** (LGBTQ+, artists' fear of AI) to sell, and about **envy**. He admits he made Baby No Money the "villain… to increase retention".
+- **His thinking:**
+  - **Companies' Pride logos were never sincere:** "they just wanted customers". When companies pull back, "new grifters will come in" to take the abandoned market.
+  - **Unpaid promotion through contests:** like Doritos' Super Bowl ad contest, the musician offers cash prizes for fan-made animations using his songs. Fans make him "millions of views, hundreds of thousands of dollars" for a chance at "$500". He compares this to Andrew Tate paying followers to clip his videos.
+  - **"If you get people emotional, it becomes easier to manipulate them":** tie your product to politics or identity (LGBTQ+, anti-AI art) and supporters feel emotionally invested. It also gives "an aura of protectiveness": "What's wrong with supporting LGBTQ+?" There's "no downside because you can play the moral game."
+  - **Selective outrage:** the musician cut one controversial streamer from a music video and donated that video's earnings (which Ramboh says were "$1,000" against "300 grand in a day"), while not acting on other collaborators. Ramboh says this shows he "only picks trending topics".
+  - **Envy explains the hate:** young men hate him because he's attractive, rich and famous. He plays a clip: "Envy is one emotion that almost no one will ever admit to, because to admit to feeling envy is to admit that you feel inferior."
+  - **Everyone pretends to care:** people criticise companies' fake Pride support but keep buying their products. "If you cared enough, you would find a way not to use the product." The real lesson: "It's fine to not care. Just do not fake the idea that you do care to yourself, because that's how you get manipulated."
+
+> **Research I found** *(not Ramboh's view)*
+> - **Companies pulling back from Pride:** a Gravity Research poll of corporate executives (reported June 2025) found **39% planned to reduce Pride engagement in 2025**, compared with 9% in 2024, and none planned to increase it. Reports give different sample sizes and reasons, so check the original release before citing. This **matches** his "companies left" point.
+> - **Paying fans to spread clips:** the Observer (the Guardian's sister paper) reported in 2022 that Andrew Tate's "Hustlers University" members (about $49.99 a month) were told to repost his most controversial clips with affiliate links, which helped drive billions of TikTok views. The scheme was shut down after platform bans. This **matches** his Tate example.
+> - **Envy and inferiority:** Smith & Kim 2007, "Comprehending envy" (*Psychological Bulletin* 133:46–64), defines envy as a painful emotion marked by **feelings of inferiority** and hostility. *I didn't confirm the exact claim that "no one admits envy" from the paper itself.*
+> - **"People criticise companies but still buy":** Carrington, Neville & Whitwell 2010, "Why Ethical Consumers Don't Walk Their Talk" (*Journal of Business Ethics*). Ethically minded consumers **rarely buy** ethical products despite saying they intend to: the intention–behaviour gap. This **matches** his point, although researchers explain it with habits and situations, not only "not caring".
+> - **Sources:**
+>   - https://www.prdaily.com/how-fortune-500-companies-say-theyre-handling-pride-this-year
+>   - https://www.axios.com/2025/06/03/pride-month-corporate-sponsorship-poll-survey
+>   - https://www.buzzfeednews.com/article/ikrd/andrew-tate-hustlers-university
+>   - https://scholars.uky.edu/en/publications/comprehending-envy/
+>   - https://findanexpert.unimelb.edu.au/scholarlywork/329928-why-ethical-consumers-don't-walk-their-talk--towards-a-framework-for-understanding-the-gap-between-the-ethical-purchase-intentions-and-actual-buying-behaviour-of-ethically-minded-consumers
