@@ -1728,3 +1728,15 @@ https://www.youtube.com/@Ramboh/posts · the last ~20 posts, about 1 day to 1 mo
 - "worst types of depressed people" vs "Why Everyone Becomes Suicidal During Winter" vs "Why Depression Is Worse Than Death"
 - "the problem with asians" vs "Why Everyone Is Obsessed With Asian Culture"
 - *(This fits his own statements that he uses rage-bait titles to pull people in, R50 and R7.)*
+
+## R76. Why David Goggins Might Be Retarded *(main channel; missed earlier, added here)*
+https://www.youtube.com/watch?v=jqyaaBLm2S0 · about 3 weeks old · 145k views
+- **Main idea:** **"hard work" talk online is partly a reputational myth.** People who seem to grind are doing what they enjoy and present it as suffering to look impressive ("aura farming"). Goggins-style drive can also come from **fear and past trauma**, which he calls unsustainable.
+- **His thinking:**
+  - **Choose your problems:** "I don't do things I don't want to do… if you get to choose… why would you choose something that is hard for you?" Video games show people happily solve problems they've chosen.
+  - **Fear of new tools repeats:** "People were scared of newspapers… written text on stone… It's the same cycle… people are scared of the convenience." Using modern plumbing doesn't make you "less of a human being".
+  - **Grind talk as image:** "It is a social myth, a reputational lie to make yourself sound cooler by talking about doing things you don't want to do… how is a gymnast so good? Because he likes to be a gymnast." Influencers who say they work 12 hours "don't mind… because that's what they want to do." Viewers then think "I'm a loser… I can't push myself."
+  - **Drive from fear (his reading of Goggins's books):** "what pushes him forward is this fear that… if he doesn't do this thing, bad things are going to happen." The "cookie jar" technique (recalling past suffering to keep going) "works short term… Life is a marathon, not a sprint… why would I… live in past trauma… it's just a fading memory?"
+  - **Leverage over effort:** he plays Tony Robbins on compound interest. "Why force things in life by working so hard when things can work for you?"
+  - **What's hard depends on the person:** Goggins says studying was very hard for him. "What's hard for me might be easy for you."
+- *(It contains a paid ad for a leveraged-trading app.)*
