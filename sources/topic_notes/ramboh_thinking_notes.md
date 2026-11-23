@@ -2162,3 +2162,28 @@ https://www.youtube.com/watch?v=DgkSVk3xlXE · about 2 weeks old · 41k views
   - **Stereotypes as expectations:** "no matter what race you are… there's always going to be expectations and stereotypes placed upon you… I am quite literally a stereotype. I have just lived up to the expectations." Members of a stereotyped group are "constantly… persecuted in this context of 'if you do anything bad, it's because you were just [that group]'."
   - **Inherited trauma and expectations:** "the trauma of your past family has been slowly passed down… the same thing happens to how you were raised based on the race."
   - **Culture reflects insecurities:** "culture is a representation of how the identities and race view themselves, or… their insecurities, their desires." *(He gives group-specific examples, omitted here.)*
+
+## X2. Why Do Asians Hate Black People?
+https://www.youtube.com/watch?v=rLWCaZjdsHA · about 9 months old · 183k views
+> ⛔ *Same warning as X1. Midway through he says "this entire video is a lie" and flips his claim.*
+- **His general points:**
+  - **Groups are set against each other by comparison:** the "ideal immigrant" framing means "we're constantly being compared against each other: the smartest, the poorest… it's messed up."
+  - **Cultural passivity invites mistreatment:** "we are taught culturally to… put your head down and work in silence… too timid, too passive… it invites… bad faith people… long term it creates a lot of animosity."
+  - **Media pushes a race angle:** he plays a man robbed in London whom a TV channel kept pressing for the attacker's colour, "to push anti-immigration propaganda". The man refused to play along. Ramboh: identifying an attacker is fine, "however, I do have a problem… when you were using it to attack the entire group of people as a whole."
+  - **The flip:** "this entire video is a lie. Most Asian people actually love black people." He plays a clip arguing that blaming one minority for crimes against another is a "gotcha" that statistics don't support. *(He then plays prison statistics; unchecked.)*
+
+## X3. He Sold Out His Race For Money
+https://www.youtube.com/watch?v=CJpsirp3CYw · about 3 years old
+> ⛔ *Same warning as X1.*
+- **His general points:**
+  - **Stereotypes persist because people profit from them:** "Asian people are not [weak], black people are not uneducated, but the stereotype persists because there are a ton of people profiting off the stereotype", for example creators and ad campaigns built on a "typical [group] dad" persona.
+  - **Speaking "for everyone" is the problem:** "there's nothing wrong if you're being yourself, but it is a big problem if you're saying I'm speaking for everyone."
+  - **Money tempts everyone:** "if I had the opportunity… for 100k, a million, I would sell my race too."
+  - **Reasonable people can be persuaded into terrible things:** "Are you telling me the entirety of Germany is a stupid person? Do you not think reasonable people can be easily persuaded?… people think they wouldn't do the bad thing because they have hindsight."
+
+## X4. The Asian Fetish Problem
+https://www.youtube.com/watch?v=w_Q3mgO6aO8 · about 1 month old
+> ⛔ *Same warning as X1. It includes claims about immigrants in Europe, omitted here.*
+- **His general points:**
+  - **Cultural attention moves with economic power:** global media and taste are shifting towards East Asian aesthetics (hit shows, music, games) as those economies grow fast ("Vietnam, Singapore… 7%, 5%"), while some European economies stagnate. "They have equal opportunity to share their ideas, media… and… they are taking your attention."
+  - **Copying as a formula:** he says some exported pop music "copies" Western songs. *(His opinion.)*
