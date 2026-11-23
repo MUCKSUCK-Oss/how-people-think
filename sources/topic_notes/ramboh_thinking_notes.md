@@ -1996,3 +1996,20 @@ https://www.youtube.com/watch?v=Ju1uuALRpPo · about 2 years old
   - **Like partisan news:** "you already know that what you're going to watch from [a partisan channel] is not going to be an accurate representation… why do people still watch it? Because they want to hear what they already believe… because change is very uncomfortable."
   - **The reaction when expectations were broken:** threats, racism and "genuine confusion", which he reads as people being "so indoctrinated to believing that it is okay".
   - **He blames creators as well as viewers:** he names a mental-health creator (Healthy Gamer GG) as knowing his "target audience" and making "confirmation biased content". *(His accusation.)*
+
+## O32. Why Being Single Is Worse Than Death
+https://www.youtube.com/watch?v=md8nKuyoM_o · about 2 years old
+- **His thinking:**
+  - **"I'm focusing on my goals" as a cover:** a claim that costs nothing. "Saying you work hard actually requires no effort, so the cost to talking and the gain is extremely enticing for lazy, efficient people." It lets people avoid "confrontation with their sense of self".
+  - **Status by association:** "what we wear… expensive clothing… to associate ourselves with valuable items… people want to date attractive people… because by association it shows that we're on their level… people grasp at rare and valuable things… to be associated."
+  - **Money doesn't build a unique bond:** "money is liked by everyone… but not everyone can like me… if your goal is to have a unique personal connection… how… when you bond with money?" Rich people without relationship skills "get tricked by gold diggers".
+  - **Putting all the pressure on "the one":** expecting the right partner to "see past all my flaws" puts all the pressure on her.
+
+## O33. Gen Z Is The Unhappiest Generation For A Reason
+https://www.youtube.com/watch?v=36ppUZRqA3M · about 1 year old
+- **His thinking:**
+  - **Happiness across the life cycle:** children and the elderly are happiest because both have "low responsibility". People in between either "try to become a child again" or develop "the skills to become the person we want to be rather than who we want others to see us as".
+  - **Solutions sold to the stuck:** "this is the perfect opportunity for every company, every influencer to sell us a solution… my bed, caffeine, exercise routine will save you."
+  - **Fear of judgment, not failure:** "people aren't scared of the consequences of failure, they're scared of being judged for it, because it threatens their ideal version of themselves." His example is a man avoiding ballet because "it attacks my sexuality and how I'm viewed".
+  - **Painful experiences stick:** "the brain increases its learning… that moment is imprinted… [it can] become PTSD." He suggests using that deliberately: "I got rejected every day for 30 days and… exponentially got better."
+  - **Think confidently, act humbly:** "think cocky and arrogant in secret, because the moment people know you think you're better… people will make it a mission to personally humble you." The drivers-above-average example again.
