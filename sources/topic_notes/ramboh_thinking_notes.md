@@ -1093,3 +1093,44 @@ https://www.youtube.com/watch?v=4bIDbKzMZHI · about 1 year old · 554k views
   - **Envy (the clip again):** "to admit to feeling envy is to admit that you feel inferior." "The reason why they hate the other group is because deep down they know that they have something that the other gender wants." He links this to the Drake vs Kendrick feud: "it's easier to hate on him and root for the underdog."
   - **Extremes:** both sides "overly fixate on the extreme sides".
   - **"Envy… clouds your judgment. You no longer know what you actually like or dislike."**
+
+## R67. The Asian Obsession Is Getting Worse...
+https://www.youtube.com/watch?v=GfwLF9rimFw · about 1 year old · 274k views
+- **Main idea:** people idealise other countries (Japan, Korea, Dubai, the Philippines) as **an escape from their own lives**. The fantasy breaks when they move there, because "the problems… follow you."
+- **His thinking:**
+  - **Every place has flaws:** Korea and Japan are clean and polite but have high pressure, high suicide rates and very low birth rates (he plays a clip projecting Korea's shrinking population). Dubai's luxury hid a sewage-truck queue. *(Clips presented as fact; unchecked.)*
+  - **"Then why don't you move there? Because they need the hope."** "Every single other place will be seen as a better land of opportunity… because people struggle in their current and daily lives."
+  - **Running away vs running towards (a clip he plays):** "they are running away from something as opposed to running towards something… our problems tend to have a habit of following us no matter where we go."
+  - **Projection:** "People project their internal insecurities and fantasy onto foreign cultures… Japanese people are so disciplined… you're craving order." He ties this to isekai escapism (R57).
+
+## R68. Why Does Everyone Hate Asian Men?
+https://www.youtube.com/watch?v=Lw0l4ugjROM · about 1 year old
+- **Main idea:** he builds a grievance case (Asian women mocking Asian men, comedians doing accents to fit in), then **flips it**: "this entire video has been a lie… I don't believe a single thing I said." His real point is that **victim-group thinking separates people**, and every religion aims at **oneness**.
+- **His thinking:**
+  - **Self-deprecation to fit in:** "it's common to be around a group… where you end up making a lot of self-deprecating Asian jokes to fit in." He plays a clip: the audience laughs at the accent "cause they privately thought that your people were laughable, and now you've given them the chance to express that in public."
+  - **Every group has members who belittle their own group** for outside approval: "this applies… to literally every single demographic."
+  - **The flip:** "How can you actually achieve oneness if you're watching all these videos about 'we're victims'?… Statistics about [group] crime… it doesn't matter whatsoever… All that does is push you away from being one with everything."
+  - **"Just because someone makes very good points doesn't mean it's worth being listened to."**
+  - **What makes a better society:** "Would it be better where everyone is trusting of each other… or… to discriminate and be suspicious?"
+- *(It contains a paid job-application ad.)*
+
+## R69. Why Kodak Black MIGHT Be A Clash Royale Goblin…
+https://www.youtube.com/watch?v=TJdApTPxY40 · about 1 year old · 408k views
+- **Main idea:** a joke "theory" (which he admits he invented) used to talk about **fame without people who tell you no**, **envy**, and **the limits of perception**.
+- **His thinking:**
+  - **Admitted invention:** "No one's actually thinking about that… I made that up myself."
+  - **Fame without limits:** "once they developed a little bit of fame… they easily fell for the trap of overindulgence, believing that whatever they do could have had no mistakes", which is why "you shouldn't have so many yes-men beside you."
+  - **Envy and relief:** "this dumb [person] is still so much more successful than me. I hate this guy, and at the same time I feel bad for him because I'm happy I'm not him."
+  - **"Facts" change:** "new studies will always come out proving that you were wrong… people believed… we couldn't fly… those were facts until it wasn't."
+  - **Limited perception:** "Ants will never see the sky… You can only see as much as you have experience and as much as your brain allows you to compute." People judge others only from their own age and experience.
+  - **"Stop judging":** he says demeaning content is his own genre, but "old people… dumb people… young people… provide value to the world."
+
+## R70. christmas isn't magical anymore.
+https://www.youtube.com/watch?v=ZkStYvHm-RY · about 11 months old
+- **Main idea:** the "magic" seems to fade with age because **we live in the past or the future instead of the present**, and **comforting negativity and nostalgia** keep us there.
+- **His thinking:**
+  - **The feeling changed because we changed:** "Many adults feel like they've lost Christmas, when in truth the feelings have changed because we have." Adults become providers.
+  - **Recreating the past fails:** "the magic isn't meant to be recreated. It's meant to be experienced… if you're constantly delving into how good the past was, you're going to miss the Christmas magic right now."
+  - **Stuck between past and future:** "too many people are no longer in the present. They're stuck between… how good the past was or how bad the future is going to be."
+  - **Nostalgia and doom as comfort:** "living in the past makes me feel comfortable… every single time I turn on YouTube, the news… the world is going to end… I don't want to think about my current problems." "Why do people want to watch this?… they want life to be worse."
+  - **Content as pain relief:** content "makes us feel good… but I know deep down this isn't amounting to anything. It's only there to fulfil this quick momentary pain that I'm trying to run away from."
