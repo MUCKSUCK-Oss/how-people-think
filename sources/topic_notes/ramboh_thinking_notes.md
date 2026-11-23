@@ -342,3 +342,61 @@ https://www.youtube.com/watch?v=5Im6iOm_Ro0 · about 1 year old · example used:
 >   - https://www.buzzfeednews.com/article/ikrd/andrew-tate-hustlers-university
 >   - https://scholars.uky.edu/en/publications/comprehending-envy/
 >   - https://findanexpert.unimelb.edu.au/scholarlywork/329928-why-ethical-consumers-don't-walk-their-talk--towards-a-framework-for-understanding-the-gap-between-the-ethical-purchase-intentions-and-actual-buying-behaviour-of-ethically-minded-consumers
+
+---
+# The 4 videos read earlier (23 Nov evening), rewritten as his thinking only
+
+## A. I Accidentally Exposed Youtube's Biggest Scam
+https://www.youtube.com/watch?v=k8mhqXzA22I · about 1 month old
+- **Main idea:** fake charity accounts use other people's suffering (stolen photos of sick children, cancer patients, old men, starving cats) to collect donations, and nobody can catch them.
+- **The tricks he points out:**
+  - walls of text over stolen photos;
+  - sad copyrighted music, and emojis (crying, broken heart, praying hands);
+  - "please don't scroll";
+  - posting every day for months, with donation goals ("I need $3,000 right now");
+  - he says one campaign made "$7,000 in four days", and that campaigns get **reset** so donors think "no one's been donating… I need to make a big donation myself";
+  - a copied fake fundraising website with tiered "offers" ("urgent support", "max impact"), fake reviews, and only one working button.
+- **Why it matters (his view):** scams erode trust, so "people become less compassionate… it becomes the daily norm to look at someone's suffering and not give a [damn]".
+- **His view on blame:** scammers feel no shame and can't be found, so the defence is education and "due diligence". He quotes Aristotle: giving "to the right person, to the right extent, at the right time… is not for everyone, nor is it easy." He goes further than Coffeezilla: "you are at fault for donating towards all of these scammers… there is obvious writing on the wall."
+- **Money controls people:** "It controls people so much they will morally do messed-up things."
+- *(It ends with his paid community and "I am increasing the price in 30 days".)*
+
+## B. Why Youtubers Love Wasting Your Time
+https://www.youtube.com/watch?v=-cEGqT-fdHI · about 4 months old
+- **Main idea:** YouTube is full of recycled "slop", the same idea copied again and again ("this human centipede regurgitation"), and it's mostly **negative** because negativity gets views.
+- **His thinking:**
+  - **The copying cycle:** a video does well, someone copies it, then a big streamer reacts to it. Even his own video's idea "was actually stolen from a tweet."
+  - **Every hobby channel turns into complaining** (inflation, prices), so entertainment no longer lets you escape.
+  - **The negativity bias:** "a survival instinct where we focus on the negative… you can't look away from a car crash". Videos are "meant to strike and attack your nervous system". Negative videos also let viewers feel "morally better".
+  - **Audiences want slop, like fast food:** people say they want originality but watch the sequels and buy the new iPhone. "Having taste… is an active process"; it takes "discipline to not watch".
+  - **No neutrality:** "Things can only be good for the soul and mind, or bad for your life… people who are in the middle are the biggest cowards."
+  - "YouTube videos love wasting your time. But in reality, people love wasting their time."
+- *(It ends with "one day left for you to join for free until it becomes paid".)*
+
+## C. Why Losers Love Politics
+https://www.youtube.com/watch?v=qMvi3dSpVfs · about 2 months old *(the transcript was cut off near the end)*
+- **Main idea:** many people use politics to **feel** smart, important or good ("an activist") rather than to change anything. Politics is the new way people sort and judge each other.
+- **His thinking:**
+  - **Marketing logic:** "people gravitate towards a thing that [they] don't have". Politics gives a feeling of mattering, the way makeup sells to insecure people.
+  - **The brain simplifies people:** "the world is already complex and our brains would overload, so you… simplify human beings". That's why stereotypes are popular, and "politics is the new way to do it". He swaps "Republican" for a racial group in a dating video to show it's the same kind of judging.
+  - **Refusing to pick a side scares people,** because then they "don't know what you believe… you're unpredictable".
+  - **Performative activism:** people post about faraway causes while their own home, relationships and life are a mess. "It's all about propping themselves up to be something they are not."
+  - **The need for certainty:** political obsessives "want certainty… as if it's some mathematical equation". He says studies contradict each other (on willpower) and "the only thing that is real is your own belief". He gives the placebo/nocebo story (a man "overdosed" on placebo pills and got sick) to show that belief changes the body.
+  - **Why older people run politics:** they've built up power over time, and "people in positions of power don't care about the politics, but… the position."
+  - **"Politics is a distraction"** (the woman in the red dress in *The Matrix*). He plays a clip saying our minds aren't built to care about more than about 150 people or "all the world's information at once".
+  - **Politics as entertainment:** debate content, like MMA or police bodycam videos. "People think 'I hate negativity' but love watching it."
+  - **BLM:** he says many joined because they were "stuck inside during COVID… bored". *(His opinion.)*
+  - **His alternative:** build an earnest life (wealth, relationships, hobbies), and you'll naturally want the world to be better. "Those people are the ones you hope become politicians."
+
+## D. Why Democracy Is For Gay Retards
+https://www.youtube.com/watch?v=pG73C1nnqpk · about 7 months old
+- **Main idea:** he takes Plato's warning seriously: democracy can be captured by **demagogues who play on emotion**, and a crisis can let one become a **tyrant**.
+- **His thinking:**
+  - **Emotion beats policy:** "logic, policies, good arguments is not what is required to become president… you attack people's emotion." His examples are Trump's raised fist after being shot, and celebrity performers at a Harris rally. "The way to win in a democracy is all about emotion."
+  - **Plato's ship (*Republic*, Book VI):** you'd pick a ship's captain who knows how to sail, not by vote. In a democracy "the person cleaning the deck is equally as important" as the expert.
+  - **Plato on democracy to tyranny (*Republic*, Book VIII):** citizens follow their own interests, laws shift with the public's whims, and then "a tyrant will arise by presenting himself as a protector against the disorder". He applies this to war and emergency powers in the US.
+  - **Politicians chase every vote,** so they must "be as inclusive as possible", and "to gain power, you need to be fake."
+  - **Socrates** was put to death by a majority jury vote, which Ramboh calls "the ultimate [insult] to democracy".
+  - **"It is the people's fault":** leaders act to please the people, so the people shape the leaders.
+  - **Personal focus:** "Your life is not based off of Donald Trump… It is about you."
+- **His views on who should vote:** he argues that women, and "poor, uneducated people", shouldn't vote, and says the founders were "right" to exclude them. *(Recorded as his opinion.)*
