@@ -2201,3 +2201,35 @@ https://www.youtube.com/watch?v=42xHuo0wH9Y · *Skipped: no transcript available
 
 ---
 **End of the long-video list:** every long video on both channels has now been checked.
+
+---
+# Research I found: checking his race-related claims (added 24 Nov, ~00:30)
+> 🔎 **This box is research, not Ramboh's thinking.** Maulik asked me to check whether his race claims hold up or are just racist. Each row says what he claimed, where, and what outside sources show. Sources are listed under the table. I have not added my own opinion about him; the evidence column is what the sources say.
+
+| His claim (video) | What the evidence shows | Does it hold up? |
+|---|---|---|
+| **"40 beheaded babies" was atrocity propaganda / untrue** (6) | Israel's government later said it **could not confirm** babies were beheaded. CNN's reporter apologised for repeating it. PolitiFact retracted a story and added an editor's note. The original Israeli TV report did not say "40 babies were beheaded"; social posts merged two claims. Separately, **about 40 children (under 18) were killed on 7 Oct**, which is real. | **Mostly matches the record:** the specific claim was never verified. Caveat: "not confirmed" is not the same as "proven false", and individual atrocities were reported. |
+| **Blaming one minority (Black people) for attacks on Asians is a "gotcha" statistics don't support** (X2, via a clip) | After the FBI corrected its 2020 data, **over 55% of all hate-crime offenders were white** (this is all hate crimes, not anti-Asian only). A University of Maryland scholar says the idea that mostly Black people attack elderly Asian Americans has **no empirical basis**. Anti-Asian incidents rose from 279 (2020) to 746 (2021). Big caveat: Asian Americans under-report, and FBI data depends on which police agencies report. | **Supported, with data limits.** This is a claim *against* a racist stereotype. |
+| **Media pushes a race angle onto crime stories** (X2, London robbery clip) | Not checked (no data on that channel/interview). The pattern of "confirmation clips" fits research on negativity and out-group content spreading most online (Rathje et al. 2021; Robertson et al. 2023, already in `ramboh_channel_2026-11-23.md`). | General pattern supported; the specific clip unchecked. |
+| **Jewish people win a very large share of Nobel Prizes (~25%)** (said in passing in the Jews/racism videos) | About **22% of laureates (roughly 214–216 of ~965, through 2023)**, against about **0.2% of the world population**. The figure varies (20–25%) with how "Jewish" is counted (e.g. one Jewish parent). | **Roughly right** as a number. Note: the same fact is often used inside antisemitic "Jews control things" stories, which is how Predictive History uses it, so context matters. |
+| **"I'm not denying" a genetic racial IQ gap** (R40) | The main review (Nisbett et al. 2012, *American Psychologist* 67(2):130–159) found the Black–White gap **shrank by about 0.33 SD** in recent decades, which fits an environmental cause, and Nisbett concludes the genetic contribution is **"nil"**. The genetic view (Rushton & Jensen) is a contested minority position; no study has shown a genetic cause. | **Not supported** by mainstream evidence. This is the clearest place where he repeats a racist claim (already flagged ⛔ in R40). |
+| **"30% cause 50% of crime" / "13 fish in a pond" lines** (6, R40) | He quotes these as **examples of hate grifters' dehumanising lines**, not as his own claims, in video 6. In R40 he partly repeats them. Raw arrest-rate gaps exist in US data, but research links them to poverty, policing and neighbourhood, and arrest data is not the same as offending. | In 6 he is **criticising** the line; in R40 he leans into it. Not checked further. |
+| **Viral clips of one group's children (Halloween candy) "prove" a stereotype** (X1) | No data exists on this; the clips are selected by the uploader. Ramboh himself says children of every group did the same and calls the comparison "shitty". | He is **arguing against** the stereotype here. |
+| **Immigrants in Europe** (X4) | Omitted from notes; not checked. | – |
+
+**What the record shows, in one place (facts only):**
+- In **6, X1, X2 and X3** his main argument is *against* hating whole groups (propaganda, confirmation clips, "speaking for everyone"). The checkable claims he uses there mostly match outside evidence.
+- In **R40 and parts of X4–X6** he states group stereotypes himself; the one checkable core claim (genetic IQ gap) is **contradicted** by the main review.
+- His view changes **inside single videos** (X2: "this entire video is a lie"), so one quote does not show his position.
+- The Predictive History "end-times" claim he repeats (videos 4, 6) is already flagged as antisemitic content.
+
+**Sources:**
+- NBC News, anti-Asian hate crimes and offenders: https://www.nbcnews.com/news/amp/rcna3741
+- U.S. Commission on Civil Rights, FY2023 report: https://www.usccr.gov/files/2023-10/fy-2023-se-report.pdf
+- Hate crimes against Asian Americans, NIBRS study: https://pmc.ncbi.nlm.nih.gov/articles/PMC7790522
+- List of Jewish Nobel laureates: https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates ; https://jinfo.org/Nobel_Prizes.html
+- Nisbett et al. 2012: https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/cognitive/nesbitt.blair.american.psychologist.2012.pdf
+- Nisbett 2005, commentary on Rushton & Jensen: https://public.websites.umich.edu/~nisbett/racegen.pdf
+- NBC News, unverified "beheaded babies" claims: https://www.nbcnews.com/tech/internet/unverified-allegations-beheaded-babies-israel-hamas-war-inflame-social-rcna119902
+- PolitiFact editor's note: https://politifact.com/article/2023/nov/21/editors-note-politifacts-coverage-of-beheaded-babi/
+- Dawn: https://www.dawn.com/news/1780518
