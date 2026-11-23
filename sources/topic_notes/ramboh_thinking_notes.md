@@ -2124,3 +2124,13 @@ https://www.youtube.com/watch?v=rTtIa7EAe7o · about 2 years old (made at age 19
   - **Dopamine, motivation and personality:** he plays Huberman saying baseline dopamine shapes drive and is partly genetic, but says it's "at least controllable". "Treat dopamine as a resource."
   - **Peaks then dips:** pleasurable activities raise dopamine above baseline (chocolate "1.5×", sex "2×", Huberman's figures as he quotes them), followed by an equal dip below baseline. He uses this to explain procrastination.
   - **His aim:** to beat procrastination "other than just saying to do more work… to be more motivated… without exerting more effort".
+
+## O48. TikTok Productivity Hacks That ACTUALLY Work
+https://www.youtube.com/watch?v=a4QjYtZ4Y4c · *Skipped: no transcript available.*
+
+## O49. Why Music Addiction Is Getting Scary..
+https://www.youtube.com/watch?v=J90Fek5Au54 · about 1 year old *(an earlier version of R28)*
+- **New points beyond R28:**
+  - **Every generation panics about new media:** he shows a 1907 complaint about families "silent, each… with his head buried in his favorite magazine". "Every generation likes to belittle the younger one."
+  - **"Just because something makes us feel good does not mean it is bad"**, but unintentional, constant use is the problem. "There's nothing wrong with intentional brain rot."
+  - **Tolerance like a drug:** constant music or podcasts "to the point where it's no longer meant to make you feel good but normal… without background noise something always feels off… the food no longer tastes as good." *(His dopamine explanation, unchecked.)*
