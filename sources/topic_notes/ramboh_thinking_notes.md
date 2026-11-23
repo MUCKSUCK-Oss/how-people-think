@@ -1629,3 +1629,22 @@ https://www.youtube.com/watch?v=ZCce6hs_V9Q · ramboh^2 · a 69-minute talk with
   - **Peers egg on bad decisions:** the friend's college friends encouraged a drunk apology plan that Ramboh thought was obviously bad. He uses this to explain why he keeps few friends.
   - **Reaction matters more than events (the friend's line he agrees with):** "Everyone can experience the same [thing], but how you react… differentiates."
   - **His view of psychology as a subject:** "it's not a real science… every single time I enter a classroom about psychology or philosophy, I don't learn anything new." *(His opinion.)*
+
+## S50. Jynxzi Is What Philosophers Warned Us About
+https://www.youtube.com/watch?v=JxX4XyxttZY · ramboh^2 · topic: a creator-led charity drive where streamers were pressured live to donate
+- **Main idea:** **public guilt-tripping for charity** ("ends justify the means") creates resentment and **moral licensing**, and the organiser takes the credit.
+- **His thinking:**
+  - **"The ends justify the means" (Machiavelli):** the drive's logic is "I don't care if the people I'm guilt-tripping into donating money feel bad, because… I'm going to save [people]." He quotes the opposing view: "the first sign of corruption in a society that is still alive is [that] the end justifies the means."
+  - **Guilt-tripping on stream:** asking someone on camera about their "generous soul" makes them "feel obligated to donate money… via obligation and social pressure." One streamer donated a large sum and later said he was "so uncomfortable" the whole time.
+  - **Moral licensing (he plays a Vsauce clip):** "when you do something good, you subconsciously feel you've earned a license to then do something bad… Because I picked up trash, I can now… litter."
+  - **The organiser takes credit:** "once he reached his goal, he went on a big marketing campaign that 'I raised' [it]… simple power dynamics." He also questions how the large total was spent.
+  - **His view on giving:** he helps homeless people "out of my own selfish desire… I want them to say thank you… I want… [to know] I made an impact. But it's entirely different when you… feel like you need to."
+
+## S51. I'm Introverted and Scared to Talk to Girls
+https://www.youtube.com/watch?v=xJTZJ80cVpE · ramboh^2 · a viewer (23) loses attraction when a partner turns out to be genuinely good for him
+- **His thinking:**
+  - **Fear costs chances:** "you might have been lucky enough to meet the love of your life… and you let it slip by." He uses this to push shy friends.
+  - **Practised phrases as a bridge:** in coaching, he gave a shy client set phrases, "not a way to make everything robotic, but… the bridge to developing something that can be real."
+  - **High standards are fine:** "if you have high standards, maintain [them]."
+  - **Pulling away when it gets real:** he predicts the viewer "gets scared and can't connect". The viewer confirms that "the moment I realize I could actually build something with this person, part of me wants to run."
+  - **Using what's free:** he took free school therapy and golf in high school "to get my value".
