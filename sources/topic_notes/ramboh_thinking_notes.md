@@ -400,3 +400,130 @@ https://www.youtube.com/watch?v=pG73C1nnqpk · about 7 months old
   - **"It is the people's fault":** leaders act to please the people, so the people shape the leaders.
   - **Personal focus:** "Your life is not based off of Donald Trump… It is about you."
 - **His views on who should vote:** he argues that women, and "poor, uneducated people", shouldn't vote, and says the founders were "right" to exclude them. *(Recorded as his opinion.)*
+
+---
+# Round 2: more videos, in order of how well they fit "how people and society think"
+
+## R1. Why 9-5 Jobs Are Making Gen Z Suicidal
+https://www.youtube.com/watch?v=Q2bayWGdqfQ · *Skipped: this video has no transcript or captions on YouTube, so I couldn't read it.*
+
+## R2. You Need 140+ IQ To Understand This Video
+https://www.youtube.com/watch?v=IbownJoPASI · about 6 months old
+- **Main idea:** walking every day is the habit "every genius" shares (Darwin's "thinking path", Einstein, Tesla's long walks as an "incubation period"). He says walking is both physical and **spiritual**, and puts you in a state where you can make "big impactful decisions".
+- **His thinking about people:**
+  - **Grind posts are marketing:** "Elon Musk… 80 to 120 hours every week… that's a lie. That is marketing. Every single social media post you see about grinding… they're lying to you." The most successful "take their time" (Warren Buffett).
+  - **"Only one decision will change your life"** (drink-driving, one stock, going to college or not), so clear thinking matters more than constant work.
+  - **People only believe what they can touch.** "Many people are spiritually lost. They don't believe in it because they can't touch or taste it, but it exists."
+  - **"There are no coincidences"** (thinking of someone, then they call). He says thoughts are vibrations, and endorses "the law of attraction" through a clip: touch the Rolex or look at nice homes to "attract" them.
+  - **"The people that are the most confident of what the world is, is most definitely the most wrong."**
+  - **Other things he mentions:** the golden ratio, da Vinci's *Vitruvian Man* (square = physical, circle = spiritual), and the fourth dimension.
+- *(It contains a paid skincare ad. The title "You need 140+ IQ" is part of the hook.)*
+
+## R3. Why I (genuinely) Hate My Fans
+https://www.youtube.com/watch?v=mAarqvYqHb8 · about 5 months old
+- **Main idea:** for an influencer, **the audience is the boss**. Fame is "golden chains": rich or poor, anyone who must please others is not free.
+- **His thinking:**
+  - **The brain can't grasp big numbers:** he says above about 10,000 is "impossible to comprehend", and plays a clip saying we can instantly recognise only about 4 or 5 items. So "thank you to my millions of fans" isn't a real feeling. Influencers say it "because it makes them more money, makes the fans more devoted".
+  - **Faceless people stop being real:** he links this to the **Milgram (1963) obedience experiment** ("they can't see the person… why do people still press the button?") and to hoods on hostages. When you can't see someone, you can harm them more easily, the same way a big number feels unreal.
+  - **Everyone has to please someone:** stockholders, fans, a boss. "If you need to check in with someone's external opinion of you, you are a slave." He says that's why philosophers looked down on working for others.
+  - **Praise is poison too:** "criticism is a bitter poison, but praise can be a sweet one". His example is the YouTuber Outdoor Boys, who turns comments off. "Positive comments are just as harmful as negative comments."
+  - **Great people didn't try to become great:** the Buddha, Jesus and LeBron didn't think "I need to become LeBron". People followed them.
+  - **Others will try to plant doubt** (he plays a clip of a parent stopping an interviewer from undermining a confident 14-year-old tennis player).
+  - **His answer is moderation:** you still have to deal with people, so you can't run off to a mountain.
+- *(It ends with "my school community will no longer be free in 27 days".)*
+
+## R4. How Youtubers Accidentally Became AI Slop
+https://www.youtube.com/watch?v=rHFAm4AWP4o · about 2 months old
+- **Main idea:** "If it is art, it is not for the masses. If it is for the masses, it is not art." Mass content (movies, YouTube) is *made to be liked*, so it's "slop" with or without AI. AI just exposes that.
+- **His thinking:**
+  - **Made-to-be-liked vs made-for-you:** the new Spider-Man was "created for it to be good… liked by everyone", so it can't be a masterpiece. Your mum's cooking is the best "because your mum made that meal for you."
+  - **Consumers who hate AI often consume the most slop.** The people who make things (manga artists, studios) quietly use AI as a tool. He plays a report that Goro Miyazaki said Studio Ghibli "didn't think much of" the AI-Ghibli trend. "There is a disconnect between someone who actually creates stuff and someone who just mindlessly consumes."
+  - **Nothing is original:** "Every emotion… has been felt before." If AI can copy your channel, "it was never original in the first place."
+  - **Fear of new technology repeats:** people feared books ("you won't memorise"), then newspapers, TV, phones, and now AI. "People are scared of… technology because it's unknown."
+  - **People don't know what they want:** he uses Henry Ford's "faster horses" quote and Steve Jobs's line that people don't know what they want until you show them, plus the Microsoft CEO laughing at the iPhone.
+  - **Tools make art accessible:** painters once made their own paint, and digital tools let anyone with talent create. "The only reason why AI is bad is because it gives too much access to too many people."
+  - **Fake viral sympathy:** a streamer filmed being thrown out by his mum got about "$20,000 in a week", then copycats faked similar scenes. "People have no idea what they're putting into their bodies… all they think is 'this makes me feel good'."
+  - **Pretending to have high taste is ego:** "humans like to… waste their time… we like a little bit of slop… it becomes an issue when you start pretending you like higher quality stuff."
+
+## R5. Buying GTA 6 MIGHT be for Retards
+https://www.youtube.com/watch?v=4xOmCLmd9fg · about 5 days old · 336k views
+- **Main idea:** a $2 billion game "cannot fail", so it "can't take any risk". It will be liked by everyone and loved by no one. The hype is people being excited "for absolutely nothing".
+- **His thinking:**
+  - **Big budgets kill risk:** with "too much money behind this", the makers must appeal to everyone. He quotes: "The moment that an artist takes notice of what other people want and tries to supply the demand, he ceases to be an artist and becomes a… craftsman" *(he says it's a philosopher; source not named)*.
+  - **"Something for everyone" means specialising in nothing:** "the more inclusive you are to everyone, the more you're going to specialize in absolutely nothing", like a jack of all trades. He plays another YouTuber arguing that old GTA "just showed reality", while new GTA "sanitizes" characters for modern audiences.
+  - **People "buy based on the hype".**
+  - **Realism isn't fun:** "life is ultra realistic". He plays a game designer saying fun is when "the game recognizes and responds to the player's choices" (reinforcement); being ignored by the game world feels like "a narcissistic injury".
+  - **What games are for:** entering "a world you've never been in" (the future, the past, fantasy), not copying real life.
+
+## R6. Why You're Smart, But Not Successful…
+https://www.youtube.com/watch?v=VRrVV0s_-s0 · about 1 year old
+- **Main idea:** "The biggest scam you've been sold is that your ideas are unique." Intelligence and talent don't guarantee success. What matters is **taking the risk first** and the difference between **"I deserve it" and "I earn it".**
+- **His thinking:**
+  - **The Van Gogh trap:** people think "if I just suffer long enough… someone will find me". Van Gogh sold one painting and died poor. Ramboh argues that **the story** (his brother's widow promoted his reputation after he died) is a big part of why the art is loved today: "It's the story, not the art itself. He missed… the marketing aspect."
+  - **Everyone copies:** a bigger YouTuber copied his video, the iPhone was copied, and hexagons repeat in nature. "The universe does not care who had the first original idea."
+  - **"I deserve this" vs "I earn it":** feeling unique makes people believe they deserve success. "We are unique down to the very genome", but our thoughts and feelings "have been shared with thousands".
+  - **Intangible things lead back to reality:** love, art and emotions are "an escape", but "you have to do your art because it pays the bills".
+  - **He's honest about his own fear:** "I'm scared that's going to be me… I don't want to go back to college."
+
+## R7. Philosophy Youtube Is For Gay Retards
+https://www.youtube.com/watch?v=HhTpz6Y19sE · about 7 months old · 207k views
+- **Main idea:** "philosophy" YouTube ("X is what Nietzsche warned us about") is the same celebrity-bashing content with famous quotes added. People watch it **to feel superior**, and creators use philosophers as an **appeal to authority**. He admits he does this himself.
+- **His thinking:**
+  - **Carbon-copy videos:** they all use the same quotes ("gaze into the abyss") and swap in a new celebrity (Kai Cenat, Clavicular, MrBeast). They preach "be yourself" while copying each other, which is "a complete contradiction" of Nietzsche's *Übermensch* (become your true self).
+  - **Who watches celebrity-bashing:** "what you consume is a representation of yourself". People watch "X is a bad person" videos to feel "justice" and "superior over a celebrity that on paper is objectively better than them". "Why do we need… a 10-minute video about [what] we already know? It's not about the information itself, but the feeling it gives you."
+  - **Philosophy as an accessory:** reading, matcha, "dark academia". People talk philosophy without living it, like Brian Griffin, who "knows there's nothing special about them" but tries to stand out.
+  - **Appeal to authority, confessed:** "I only make philosophy content because I'm utilizing the appeal to authority… people will just blindly listen to philosophers." He plays a clip on smart people being wrong (Aristotle's Earth-centred universe, Galileo on comets, Newton's alchemy). "Every single politician utilizes this method."
+  - **Morality follows appearance:** he plays a clip: killing a cockroach makes you a hero, squishing a butterfly makes you a villain. "Morality doesn't come from justice. It comes from taste… We call good whatever gives us pleasure." So ask "am I judging the essence or just the appearance?"
+  - **His "Trojan horse":** slop titles and thumbnails pull in people who wouldn't click philosophy, and the real message comes at the end. *(He says a professor asked him about this.)*
+  - **Real philosophy is applied, not read:** Einstein's walks and violin. He says modern "philosophers" are people who apply old lessons (Steve Jobs, David Goggins).
+
+## R8. Why Does Instagram Hate Retards?
+https://www.youtube.com/watch?v=auB1UVhJTJg · about 10 months old · 462k views
+- **Main idea:** online comments about disabled people are fake **both ways**: cruel bullying and over-the-top praise. People feel kind when they see someone as "less than", and turn cruel the moment that person believes something they dislike.
+- **His thinking:**
+  - **The crowd makes cowards brave:** he quotes Kierkegaard: "never… was even the most cowardly of all single individuals so cowardly as the crowd always is." Online, people can "cosplay as if [they're] someone more brave" than they are, both when bullying and when "standing up".
+  - **School vs the internet:** "Most of the time the disabled weird kid just gets bullied all year round and nothing happens. So why are we pretending we're such good awesome human beings on the internet?"
+  - **"Pity is another form of domination" (Nietzsche):** watching others suffer makes people grateful for their own lives ("my problems aren't that bad"). He also uses it to explain why people are "overly nice" to those they see as unattractive.
+  - **Kindness is conditional:** a disabled woman who supports Trump gets mocked for her disability. "People will treat you very kind if they view you as less than. But the moment… you believe in something they don't like, they will use your disability… to put you down."
+  - **Lying to be nice helps the liar:** praising bad merch "does a larger disservice to the person… They do it for themselves… We lie to other people because we don't want to be seen as the bad person."
+  - **Honest treatment helps:** he says Temple Grandin's parents and teacher didn't pretend everything was normal, so she worked harder and became a PhD and professor.
+  - **Bullying as a test:** "you will get bullied when you do something different… Is bullying bad or is it a sign you're on the right path?" He uses his own college dropout and a cover singer who kept going as examples.
+
+## R9. Kai Cenat: The Begathon
+https://www.youtube.com/watch?v=QAuxlDWz8XQ · about 1 year old
+- **Main idea:** two layers. First, a streamer "selling out" (begging for subscriptions, gambling sponsors) loses authenticity. Second, and bigger: **people who make and watch hate videos about him do it to feel better than him**, and Ramboh admits he's in that loop too.
+- **His thinking:**
+  - **Reverse psychology on fans:** "Do not give 50, chat. Do not give 50", and "it did [work]. People did donate $50, $250."
+  - **Constant live-streaming can't keep up a front:** "if you're going to be on live 24/7, a lot of the fakeness… cannot be kept up."
+  - **Judging feeds the ego:** "If you look down on him then that means I can be better… It's always the weird pressure and societal need to put others down… because it fuels their own ego. I am in the position where I get to judge, which means by default, I am better."
+  - **Hate creators switch opinions to whatever benefits them,** and he says one even apologised to a group and then attacked it again when there was "free content".
+  - **Negativity as a distraction:** "It is an easy distraction from your real life problems." Society's problems (Republicans, Democrats) feel bigger than your grades, "but… you're wasting your time."
+  - **Conflict sells, so creators perform hate:** "There is never a good movie if there isn't any conflict… So I have to play the role that I care so much… and sometimes it sweeps me into this… I do hate them." It becomes a chain: people hate Kai to feel better, and he hates the haters to feel better.
+  - **Marcus Aurelius:** "Why give away your peace to shadows?"
+  - **People scroll instead of working on their goals** "because you think you can't handle the task."
+
+## R10. China Is Exactly What You Think It Is.
+https://www.youtube.com/watch?v=H_3HvxIBa4w · *Skipped: no transcript or captions available.*
+
+## R11. Gen-Z's Corporation Hating Problem...
+https://www.youtube.com/watch?v=XG1zGVdEwM8 · about 1 year old · example used: complaints about the price of the Nintendo Switch 2
+- **Main idea:** people hate mindlessly on companies and products while still buying them. "People are so indoctrinated into being hateful that they convince themselves if I am more hateful, I will make the world better."
+- **His thinking:**
+  - **Prices show what people value:** "Overpriced" products sell record numbers (the Switch 2, the first iPhone). "Economics is a law… you can't manipulate long term… Things are valued at a certain amount because it actually provides something."
+  - **Complaining about price is often wanting it but not being the target audience:** "They want that $1,000 shirt… but they just can't afford it."
+  - **Whining as the powerless person's tool:** "children whine… because they have no real power… so the only way they can do anything is whine… to emotionally manipulate you. And that's what real adults do today."
+  - **A negative lens makes everything negative:** looked at negatively, every gaming generation seems doomed. He says forced positivity "scientifically enhances happiness". *(His claim.)*
+  - **Media makes you care through fear:** "every single YouTuber… their job, my job, is to [make] you care about something you don't care about. And the best way… is striking fear into your mind." Our daily lives aren't threatened, so "the fear receptor" is fed through media.
+  - **The hate audience is the product:** critics "make their money from the negativity. And you guys feeding into the negativity are the product." His example: a creator who says he won't support Nintendo but still reviews its games.
+  - **"If you want to see change, be the change."** "Don't put control of your life, of your enjoyment onto other people."
+
+## R12. American College Is Designed To Break You
+https://www.youtube.com/watch?v=Dt1ZZPx2iVQ · about 1 year old
+- **Main idea:** "It doesn't matter how intelligent you are, how hard you work, but who you know." Elite colleges are a **closed circle** that protects itself. His answer is to believe you can be the outlier, and use the internet, which "evens out" access.
+- **His thinking:**
+  - **Elite networks:** he shows a chart saying Harvard and Ivy League graduates hold a large share of top CEO and government positions. His 2008 crisis story: bankers from the same elite schools caused the crash, then the government hired more of them, the banks were bailed out, and people who lost homes got nothing. "Because there is some sort of camaraderie, we are better than everyone else."
+  - **Admissions are subjective:** essays and "character" judgments allow bias. He also says legacy applicants (parents who went there) win, because "their goal is to keep it in the system." *(He also makes claims about racial quotas.)*
+  - **People protect their own group:** "If we were part of the elite, would you invite other people to come in?… I'd rather give priority to my family… compared to the homeless guy." *(In the same section he makes claims about immigrants in Europe, recorded here only as his view.)*
+  - **Learned helplessness:** people who worked hard and found it "didn't mean as much as they thought… have been singed by the flames of their efforts", so they reject grades and money altogether.
+  - **Environment beats IQ,** but outliers exist: "not a lot of people believe in themselves enough… They're so indoctrinated by society."
+  - **He's honest about the trade-off:** "if I had the opportunity, [I] would 100% go to an Ivy League school… almost a guaranteed way of success."
