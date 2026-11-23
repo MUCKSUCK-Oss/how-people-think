@@ -1695,3 +1695,17 @@ https://www.youtube.com/watch?v=aAhhAl2IxBE · ramboh^2 · he reacts to a satiri
   - **Satire or sincerity?** He can't tell whether she's mocking people like him or serious, and feels insulted while agreeing with the message ("be independent, be free").
   - **His own path was influenced by family:** "When I decided to drop out, it wasn't because of me… I was heavily influenced by my cousin because he dropped out [and] was very successful… deep down I knew [college] wasn't for me." He went to community college "just to stall everything out".
   - *(He admits cheating on coursework at community college: "I was cheating everything." Recorded as his statement.)*
+
+## S60. Why I Am So Egotistical (second video)
+https://www.youtube.com/watch?v=Ty9wTMfzC1U · ramboh^2
+- **His thinking:**
+  - **Self-belief as a mirror:** "Nobody likes it when you believe in yourself because it's a mirror… they need to… question, why do I not choose to believe in myself?" Two outcomes: support, or "more likely… I don't believe in myself, so I'm going to make them not believe in themselves."
+  - **Crabs in a bucket:** "as soon as one starts trying to climb out… the other one just grab onto it and bring it down. People want you to succeed, but not more than them."
+  - **Statistics as a weapon against ambition:** classmates told him "statistically, it's very unlikely" that he'd make it on YouTube. "The conversation is not about if I can or can't… it's… an internal battle of will… the world will always try to pull you down." He references *The Obstacle Is the Way* (Ryan Holiday).
+
+## S61. Why I Don't Do Interns
+https://www.youtube.com/watch?v=H_zwyAzWzjk · ramboh^2
+- **His thinking:**
+  - **Put a price on your time:** "you need to value your time a lot more… [give it] a dollar amount." His thought experiment: "would you die tomorrow for $1 billion? Everyone's saying no… your day tomorrow… is way more valuable."
+  - **"Free work" costs the teacher:** training an unpaid intern who may then leave is wasted time. Companies think "I'm doing you a favour" even if they don't say it.
+  - **Business as an ego play:** "it just feels great when people ask 'how's the business going?'… 'I just onboarded a new employee'… it's an ego play and it's a trap."
