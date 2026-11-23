@@ -1740,3 +1740,45 @@ https://www.youtube.com/watch?v=jqyaaBLm2S0 · about 3 weeks old · 145k views
   - **Leverage over effort:** he plays Tony Robbins on compound interest. "Why force things in life by working so hard when things can work for you?"
   - **What's hard depends on the person:** Goggins says studying was very hard for him. "What's hard for me might be easy for you."
 - *(It contains a paid ad for a leveraged-trading app.)*
+
+---
+# Round 2b: older main-channel videos (found by scrolling further back, 1–3 years old)
+
+## O1. Peer pressure is more powerful than you think
+https://www.youtube.com/watch?v=S_iAKbygatU · about 2 years old
+- **Main idea:** the strongest peer pressure isn't about vaping or drinking. It's the pressure **on your identity**: the labels others put on you, which "placebo" into truth. **Identity, not willpower, decides behaviour.**
+- **His thinking:**
+  - **Identity over willpower:** "the biggest reason why people are unable to lose weight is not… a willpower issue, but rather how people identify themselves." People who escaped poverty talk about "their shift in identity".
+  - **Labels as placebo:** "Placebo is very powerful… if your friend is constantly telling you that you are dumb… the entire school… you will begin to placebo that into truth." *(He admits there's no study proving placebo applies to identity.)*
+  - **Making a habit too hard kills it:** people make new habits "as difficult as possible… so impossible to maintain… they give up", and lose the identity ("someone who goes to the gym").
+  - **Willpower as limited (his chosen belief):** citing Andrew Huberman's podcast on the two scientific camps, "you literally have to decide which scientific study you would want to believe in". He picks "limited" because then you "treat your effort… sparingly".
+  - **Confidence needs evidence:** "you cannot fake it… do things that suck for a very brief moment… have the identity stick… that evidence archive of experiences where you have struggled."
+
+## O2. 4 Tricks That Convinced Me To Join A Cult
+https://www.youtube.com/watch?v=RvdyuTSRINo · about 3 years old · about a multi-level-marketing business he calls a "cult" *(he names the company; this is his description)*
+- **His thinking, in his four "tactics":**
+  1. **Recruit the gullible through people they know:** scams avoid public ads because "smarter people… [say] this is a scam". Schemes that get too famous collapse as their target audience shrinks. Instead they spread through "affiliate marketing, pyramid schemes, MLMs". *(His positive flip: "all you need is one person… capable of changing your life".)*
+  2. **Make people dependent and cut them off:** a woman he met had abandoned family and friends. "The people that cared about her the most were the first to go, because they said 'I think this is a scam'." Her "mentor" and "fancy letterings… make you feel special."
+  3. **Over-promise, under-deliver,** and his view that authority figures teach rules ("cheating is bad") for their own reasons.
+- *(The transcript was cut before tactic 4.)*
+
+## O3. Gen Z's Manipulation Problem Can't Be Solved
+https://www.youtube.com/watch?v=TQCIQFI0cpM · about 2 years old
+- **Main idea:** content is engineered to grab attention, but the deepest manipulation comes from **inside: the sunk cost fallacy, driven by ego and pride**, which keeps people in gambling, abusive relationships and pointless arguments.
+- **His thinking:**
+  - **Attention products:** "sound effects… music… fights for your time… such high-level products to take away from you rather than add… value… I still watch it."
+  - **Sunk cost:** "when I lose $100 gambling, that is when the addiction starts… I would hurt my ego if I dare walk away." Abusive relationships: "I've spent 3 years with him… I don't care." "Just because you have invested so much… doesn't mean you must persist."
+  - **"The manipulators are… themselves":** people stay because they want a specific reaction (the payout, the abuser to change). "There are other ways."
+  - **Arguments you know you're losing:** the "I was just trolling you" meme (1.7M likes) is really "you overcommitted… and no longer want to back down".
+  - **Not victim-blaming:** recovering gamblers say "never start". They don't blame the casino, "because they know that is how you truly stop".
+  - **Ego as a separate force:** many cultures and religions treat pride as "an entirely different entity trying to manipulate you to overcommit".
+
+## O4. Gen Z Manipulators Are Worse Than You Thought
+https://www.youtube.com/watch?v=Gldw9KlF8Ok · about 2 years old
+- **Main idea:** online views on manipulation are extreme ("dark manipulation tips" vs "all manipulation is evil"). He reframes manipulation as **seeking control**, which everyone does, and argues **you gain control by letting go of some**.
+- **His thinking:**
+  - **Extremes as coping:** both sides "have been manipulated before and they cope by going into the extremes… being manipulated sucks… 'I'm the idiot, I fell for it'."
+  - **Learning from being manipulated:** "it was my mistake. I will now learn from it, and I do not blame the other person because I do not know their circumstances."
+  - **The word itself manipulates:** "people are trying to manipulate you by adding the negative connotation to manipulation… The definition: to handle or control in a skillful manner. Is it bad to want control?"
+  - **Everyone seeks control:** through religion (control over vices), nihilism ("nothing matters" gives control), and animals competing for resources. "If you don't manipulate your innate desires, it will manipulate us… if you don't manipulate others, you will be manipulated." *(His claim.)*
+  - **The paradox of control (Buddhism):** "if you want more control you have to let go of control over other things." His example is a classmate who refused to drive for fear of other drivers, giving up freedom for a feeling of control.
