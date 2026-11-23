@@ -1648,3 +1648,23 @@ https://www.youtube.com/watch?v=xJTZJ80cVpE · ramboh^2 · a viewer (23) loses a
   - **High standards are fine:** "if you have high standards, maintain [them]."
   - **Pulling away when it gets real:** he predicts the viewer "gets scared and can't connect". The viewer confirms that "the moment I realize I could actually build something with this person, part of me wants to run."
   - **Using what's free:** he took free school therapy and golf in high school "to get my value".
+
+## S52. Why Self Improvement Is Retarded (ramboh^2 version)
+https://www.youtube.com/watch?v=E3byR8pLIC8 · *Skipped: no transcript available.*
+
+## S53. You Are NOT Too Broke to Travel
+https://www.youtube.com/watch?v=_1Z5f7twGeI · ramboh^2
+> ⚠ *It contains disparaging remarks about people in one country. Recorded only for his main points.*
+- **His thinking:**
+  - **Live now, not at retirement:** "why would I want to save up a lot of money at 65… so I can finally live my life? I'm going to suffer until I get retirement… Do the things you want now… It's not going to be as fun as when I'm 20."
+  - **Travel gives perspective:** seeing how people elsewhere live and work "adds a lot of perspective and gratefulness… and it just makes me more excited to go back to work."
+  - **Doing nothing is torture:** "every single billionaire… why do they still choose to do work?… doing nothing is torture." During COVID, a year-long "vacation… was the lowest point of my life… because I had no goal… people were excited to go back to school."
+  - **Seasons of building:** he turns down a cheap cruise because "I'm in this mode of just builder… building the foundation for the future."
+
+## S54. college dropout interviews a depressed fat guy
+https://www.youtube.com/watch?v=ejIwsOcgF90 · *Skipped: no transcript available.*
+
+## S55. Internet Anarchist Interview
+https://www.youtube.com/watch?v=suLe3U4YJO8 · ramboh^2 · a 2-hour live interview with the commentary YouTuber "Internet Anarchist" *(the first part was read)*
+- **Mostly the guest's views, not Ramboh's.** Ramboh's own contribution is his interviewing approach: "I just like to talk to people and understand their thought process… I usually keep my questions vague, so whatever pops up in your head, I'd love to hear the answer."
+- *(The guest's points, recorded only for context: books opened his mind to lives he "wasn't aware of" because he "didn't come from money", and he treats YouTube as a trade-off against "the start of my adult life".)*
