@@ -1050,3 +1050,46 @@ https://www.youtube.com/watch?v=mR-lOQ2AoWE · about 1 year old
   - **Shame keeps it hidden:** "there is this air of shame with every addiction of admitting… it is not a problem."
   - **Extreme over-corrections:** he calls "semen retention" promises ("day 30, women are magically more interested in you") fake. People "would like to feel like they have control and a choice in their life."
   - **His test for addiction:** if you have a healthy alternative available and still don't choose it.
+
+## R63. The Worst Types of Relationships...
+https://www.youtube.com/watch?v=o5wUsEq2WfE · about 1 year old · topic: "passport bro" and transactional relationships
+> ⚠ *It contains crude, demeaning remarks about women from poorer countries. Recorded only for his points about how such content works.*
+- **Main idea:** content about "passport bros" and transactional relationships abroad is made **to stir envy and outrage**, and it's often a funnel into **selling courses**.
+- **His thinking:**
+  - **Envy is the hook:** "Did you get upset? Did you feel a little bit of envy… Well, that's the point. They want you to feel upset."
+  - **Who gets sympathy depends on wealth:** people feel sympathy for poorer sex workers abroad but resent rich ones at home, which he says treats the poorer ones "as less than a human being".
+  - **Both sides use each other:** "Both parties view each other as a tool." *(His view.)*
+  - **It sells courses:** influencers marketing this lifestyle link "a course on how to pick up these women… a course on how to get a remote job."
+
+## R64. worst types of men
+https://www.youtube.com/watch?v=8kyRKGVG-KI · about 1 year old
+- **Main idea:** commentary channels pick **the most extreme examples** of a group and show them **as if they're normal**, which teaches viewers to stereotype. He admits he opens this video doing exactly that.
+- **His thinking:**
+  - **Self-demonstration:** he opens by mocking "men with mullets and mustaches", then says "I purposely nitpicked the most extreme opinion so I can purposely make myself seem smart… This is an entire genre of commentary YouTubers."
+  - **Stereotyping is accepted when the target is disliked:** creators won't stereotype by race, but "will stereotype on rich people, alpha males, females, Gen Z… and this only happens because it's about people we don't like."
+  - **The "gender war" storyline:** after 2020, podcasters "made a whole genre out of gender wars… nitpick these certain points and create this storyline." Society has made "significant strides", he says, yet the content suggests things are worse.
+  - **How extreme beliefs form:** "Women who hate men hate the really bad ones… but they've consumed commentary content that reports these extreme people as if it is normal and they say 'kill all men' because they think that is literally all men." "You only know the extreme people… you make this blanket assumption… because other YouTubers want to pick the most extreme opinions to profit off of it." "You fail to see the real representation of the world."
+  - **Pattern recognition:** "people… are trying to recognize a pattern, and everybody does not want other people to go outside of their pattern recognition framework."
+  - **Changing your mind isn't failure:** "Is being a hypocrite so bad when you choose to change for the better? Or is it better to appease this social idea that I am staying true and consistent to who I was?"
+
+## R65. worst types of women
+https://www.youtube.com/watch?v=BH74VMnvnn8 · about 1 year old
+- **Main idea:** despite the title, it's about how **identity makes conversations impossible**, plus the **power of self-talk**. *(The opening clip makes crude remarks about hairstyles.)*
+- **His thinking:**
+  - **Charity distrust:** he says he supports the BLM movement but not the organisation, citing reports that its leaders spent donations on houses and luxuries. "You are taking advantage from a group of people who are donating because they want to feel and see a difference… guilt tripping people to send them lots of money." *(His claims, from news clips.)* He calls this "a classic case of nonprofit organizations… 2% or 10% of the money actually goes towards the cause."
+  - **Fear of labels silences people:** "we couldn't have this conversation because I'm scared of being labeled racist… I am not going to ruin my reputation."
+  - **Identity locks the conversation:** her "identity was so deeply tied towards… defend[ing] all of my people" that they never got past one topic. "Everything that becomes controversial will be a guilt-tripping conversation."
+  - **Cultural appropriation:** braids appeared separately in different cultures, and he shows street interviews where people from a culture say an outfit "looks nice" while non-members say it's offensive. *(His argument.)*
+  - **Positive self-talk:** Ronaldo's self-talk before free kicks. He claims studies show positive affirmations make you "20 to 50% stronger" and negative words make you weaker. *(His figure.)* "Your thoughts are a representation of your reality."
+
+## R66. Why Do Gen-Z Women Hate Men?
+https://www.youtube.com/watch?v=4bIDbKzMZHI · about 1 year old · 554k views
+- **Main idea:** gender hatred online ("men's suffering motivates me") comes from **envy and unhappiness in the middle stage of life**. Putting down the other gender is a cheap way to feel better.
+- **His thinking:**
+  - **A trend format:** many TikToks use the same caption to mock the "male loneliness epidemic", and the comments are full of hate.
+  - **Suicide statistics by age (his reading):** middle-aged groups rank highest, and the oldest and youngest lowest. "Old people… are the happiest… children…" *(His reading of the statistics.)*
+  - **You can't copy childhood or old-age happiness:** "we kind of do need to care because… they're the ones that pay your bills." Adults who try to live like children "end up with worse consequences".
+  - **Hate as self-esteem:** "there are so many reasons to hate life. And the only way to make yourself feel a little bit more confident… is to belittle the other gender."
+  - **Envy (the clip again):** "to admit to feeling envy is to admit that you feel inferior." "The reason why they hate the other group is because deep down they know that they have something that the other gender wants." He links this to the Drake vs Kendrick feud: "it's easier to hate on him and root for the underdog."
+  - **Extremes:** both sides "overly fixate on the extreme sides".
+  - **"Envy… clouds your judgment. You no longer know what you actually like or dislike."**
