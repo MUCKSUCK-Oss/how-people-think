@@ -11,7 +11,10 @@
 - **Part 1, the overnight list (videos 1–22):** conformity, fake people, rage-bait, manipulators, propaganda and group hate, the "7 levels of slavery", cancel culture, protests, cops and bureaucracy, war profits, fence-sitting creators, religion, self-improvement, Gen Z depression, addiction, looks, society collapse, reading to brag, and the two manipulation videos (21–22, with research boxes).
 - **The 4 earlier videos (A–D),** rewritten: the YouTube charity scam, time-wasting YouTube, politics, democracy.
 - **Round 2, the rest of his main channel (R1–R75):** every remaining long video about how people think. Interviews (R72–R75) were read in part.
-- **Round 3, his second channel ramboh^2 (S1–S…):** shorter, more personal videos and community Q&As.
+- **Round 3, his second channel ramboh^2 (S1–S61):** shorter, more personal videos and community Q&As.
+- **His Community tab:** title polls, copied as shown.
+- **R76** (Goggins), added later.
+- **Round 2b, older main-channel videos (O1…):** 1–3 years old, found by scrolling further back (manipulation, peer pressure, placebo, cults, sunk cost).
 
 **Not read, and why:**
 - **No transcript on YouTube:** R1 (9-5 jobs), R10 (China), R22 (Logan Paul), R41–R42 (Gen-Z dating, OnlyFans), R55 (porn addiction).
