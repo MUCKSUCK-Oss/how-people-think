@@ -1880,3 +1880,34 @@ https://www.youtube.com/watch?v=zgZLb-3182k · about 3 years old
 
 ## O16. Gen Z's Rising Autism & ADHD Problem
 https://www.youtube.com/watch?v=YGD3AeMoI5Y · *Skipped: no transcript available.*
+
+## O17. Why Gen Z's Background Noise is a Problem...
+https://www.youtube.com/watch?v=rCUtiofQ_Fk · about 2 years old
+- **His thinking:**
+  - **Blaming others protects the ego:** "iPad kid" essays are popular because of the "responsibility fault fallacy": "most of the time people are not satisfied with their lives, and the best way to cope… is to blame others. If you take accountability… it will shatter your ego." "Nobody seems to admit their own problems."
+  - **Background noise as the quiet dependency:** adults who can't drive, cook or clean without music or AirPods have the same dependency as iPad kids. He says constant entertainment "depletes your dopamine… your motivation machine". *(His claim.)*
+  - **Goggins on self-motivation:** "What do you do when the headphones come off? It's you in your own mind." Music helps like caffeine helps, but heavy reliance has a cost.
+
+## O18. I F*cking Despise Self Improvement YouTubers
+https://www.youtube.com/watch?v=Czmo8jxA5yc · about 2 years old
+- **His thinking:**
+  - **Young self-help creators regurgitate:** "they've lived such a short life… regurgitating stuff they've heard from the grapevine… all their beliefs are confirmation biased." He includes himself.
+  - **Loss aversion (he plays Veritasium):** people refuse a coin flip to win $20 or lose $10 because "losses are felt much more intensely… most people weigh a loss around twice as heavily as a gain."
+  - **Most of life's bets cost nothing but ego:** asking a stranger for their number "costs nothing… the risk… is so in my favor… The real hidden cost is ego." "Fortune favours the bold."
+
+## O19. The Rise of World War 3… What Happened?
+https://www.youtube.com/watch?v=UNdAqB02SUY · about 1 year old
+> ⚠ *It opens with Predictive History's predictions (flagged channel, see video 4).*
+- **His thinking about propaganda and war:**
+  - **"Gen Z won't fall for war propaganda" is a myth:** "people make the assumption that because we are a newer generation, we are different… but fundamentally, everyone is human."
+  - **Good propaganda is invisible from inside:** "really good propaganda works to the point where you don't know that you're being propagandized… from the outside… looking at China and all their propaganda, we can see it. But when you're deep inside the culture, you can't tell… as time goes on, more and more propaganda will slowly ramp up, pushing the idea that war is something that makes sense."
+  - **Attention moves on:** "the ceasefire… is really a way to attempt to control the narrative. You guys won't hear about the war anymore… it'll just be an old conversational topic." He fears war gets started "and [we'll] be so invested that it is too late to protest."
+  - **Crises transfer wealth:** "COVID… was really bad for the normal people… but the majority of billionaires only got significantly richer." He mentions small family shops closing while some celebrities took relief money.
+
+## O20. Reading Self Improvement Books Is Gay
+https://www.youtube.com/watch?v=oxXoOYKGhc4 · about 1 year old
+- **His thinking:**
+  - **Books are inefficient for one problem:** "10 to 20% of the books… will only be used for that one problem." People "can't talk to [friends, parents, teachers]… a lot of the problems people suffer need to be solved internally."
+  - **His shortcut:** ask an AI to answer "as" an author (Robert Greene's *48 Laws of Power*) for actionable steps. His example is bullying, using Law 18: isolation invites attack, so "attach yourself to allies."
+  - **Bullied people refuse help:** they assume "everyone else that is offering help also must hate them… I don't want you to look and give me pity."
+  - **Wanting one answer makes people manipulable:** "the mistake people make is that they read a book… 'they know that I'm broke… so whatever they say must have the answer'… you fall down this slippery slope… MLM marketing schemes, being manipulated, losing all your money because you assume there's one solution for your problem." "People fundamentally want an answer given to them… but nothing in life gives you that direct answer."
