@@ -1377,3 +1377,38 @@ https://www.youtube.com/watch?v=HL0_0QYPDS0 · ramboh^2 · he answers a viewer
   - **Build the muscle to decide alone:** "look at something, come to [a] conclusion, and then not try to look around at other people's faces… to see if your reaction is justified… the more you look at other people for their validation, the more you choose to lose who you are."
   - **Wants put into your head (again):** "Lamborghini… 9 to 5… hot girlfriend… that's what social media tells you you should have. But is that something you want?"
   - **Being present (Buddhism):** "many people live in the past… a lot of people live in the future… they're not actually living here."
+
+## S21. Gen-Z Negativity Is For Retards
+https://www.youtube.com/watch?v=TNF5160VVLw · ramboh^2 · he re-watches and explains his main-channel video "Gen Z Depression…" (R16)
+- **His thinking (new points beyond R16):**
+  - **You find what you look for (Tony Robbins's colour exercise):** look for brown things in your room, then close your eyes. You can't name the red ones. "If you're constantly looking for… negativity, which by the way is factually true… you'll only find brown… You'll be missing the red in your life."
+  - **Why negative statistics dominate:** "there is no time or funding to look at positivity statistics, because just like the news… 'kid helps grandma cross the street', that's boring. You know what people want to hear about? How the world is ending."
+  - **Negativity bias in media:** "our brains have a negativity bias… if you constantly consume… neutral [media] you are… consuming negative content."
+  - **Your history shows who you are:** "if you don't like who you are, check your history… because that's who you truly are."
+  - **Negativity avoids accountability:** "these negativity videos are so encapsulating… because you don't have to take accountability on your problems." He contrasts this with viewers in Ukraine whose worry is survival and conscription.
+
+## S22. Why Nurses are so F*cking Miserable
+https://www.youtube.com/watch?v=ELtpTQxIthU · ramboh^2 · a personal rant during his father's emergency-room visit
+- **His thinking:**
+  - **Bragging about suffering:** he shows nurses' TikToks boasting about 16-hour shifts and asks how health workers can glorify sleep deprivation: "being sleep deprived is like one of the most unhealthiest things."
+  - **A "short" week that isn't:** a nurse friend boasts about working "only three, four days a week", which Ramboh notes is still about 40 hours.
+  - **A crowded emergency room:** he describes security confusion, parking problems, and patients with no home to go to. "No amount of money would make me want to be a nurse."
+  - **Support is what's left:** "there's nothing I can do… all I can do is be supportive." He mentions his father's reluctance to go to hospital (a cultural "it's okay" attitude).
+
+## S23. Why You Should Let Homeless People Starve Right Now
+https://www.youtube.com/watch?v=Xokmr-zYfmE · ramboh^2 · *(despite the title, it's about selfishness vs selflessness)*
+- **Main idea:** society **teaches** that selfishness is bad because everyone benefits when others are generous, which he calls a "hive mind". He argues that **most "selflessness" is itself selfish or socially demanded**, and that building yourself up first can help more people later.
+- **His thinking:**
+  - **Morality as social programming:** "we don't want people to be narcissistic and selfish because if they are, they're not going to help me… people only tell you to pick up the trash… because if everyone does it… I individually benefit… it's like programming."
+  - **Performed selflessness:** "most selfless people are only selfless because other people want them to be selfless… are you being selfish… to prove to other people that you're such a good person?"
+  - **The full cup:** "You're filling your cup… till it overflows and then everyone else gets help." *(His argument: become very rich first, then help at scale.)*
+  - **Religious good deeds as self-interest:** "it's pretty selfish to do good things because you just don't want to be in hell." He again says people turn to religion as death nears, "because you get scared."
+  - **The trolley problem:** he sets it up as the classic test of "obvious" utilitarian answers.
+
+## S24. Why Loaning Money is Retarded
+https://www.youtube.com/watch?v=ReTNk6y8td8 · ramboh^2
+- **His thinking:**
+  - **Lifestyle creep:** "you are broke… if the amount that you are constantly spending exceeds how much you're personally saving", even if you earn a lot.
+  - **Gift rather than lend:** when a relative asked for $100, he gave $200 and asked him not to ask again, because "the anxiety alone and constant reminders of 'give me my money' is going to cost me more than the hundred bucks." "The thoughts you have are extremely valuable."
+  - **Parents' example carries over:** his parents gave leftover restaurant food to homeless people every night, and "that level of parenting… has trickled down to me", so he bought a homeless man food. He says this is "very anti… the character I have online."
+  - **Learning by losing:** he says he lost money on meme coins: "a lesson learned."
