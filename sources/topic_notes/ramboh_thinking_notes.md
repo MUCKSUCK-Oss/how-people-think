@@ -798,3 +798,68 @@ https://www.youtube.com/watch?v=3dyBUtFdZFM · about 1 year old
   - **The happiness curve (his view):** "30, 40 year olds are the unhappiest… because there is so much pressure", while children and old people are happiest because they've learned "caring so much… is simply not worth it."
   - **People who don't own the product make hour-long videos hating it,** and viewers watch "to constantly validate or change your opinion based on the current popular trend."
   - **Enjoyment is your choice:** "People can be angry whilst they're on vacation and another person, same vacation, could have way more fun."
+
+## R37. How Socrates Reincarnated Into A White Girl
+https://www.youtube.com/watch?v=NdEzoHSIugw · about 6 months old · example used: the influencer "Woah Vicky"
+- **Main idea:** he uses a widely mocked influencer to argue that **labels and metrics (smart/dumb, IQ, fame) strip away people's humanity**. "The spirit is willing, the flesh is weak": what someone *is trying to become* matters more than their record.
+- **His thinking:**
+  - **Appreciation after death:** "Your life will only have mattered after you die." Artists and public figures get praised only once they're gone. "Men get flowers only when they die."
+  - **Real stories often don't have a happy ending:** "There are so many TED talks of people overcoming their addiction… but… many people die with problems they were never able to solve." Rarely, someone "breaks the curse" of a family pattern (her parents' alcoholism).
+  - **The urge to label people:** "there's this constant need to put labels on top of everyone. Are you smart? Are you dumb? What's your IQ?… to compare people based on numbers, labels, metrics is wrong."
+  - **Followers shaped by others:** he describes her online persona as built by people around her ("say the word in one of the videos, it'll go viral"; "tell them you're mixed"). "She just follows and follows… like a child following their parents."
+  - **Overthinking vs living:** the parable of a person analysing a beautiful tree through religion and science until it's too dark to rest under it. "It's never as important or as deep as you think it is. We want simple things… love… family."
+- *(It contains a paid "play games for cash" app ad.)*
+
+## R38. Feminism In 2026
+https://www.youtube.com/watch?v=kK-N0nMvTNg · about 10 months old
+> ⚠ *It contains antisemitic remarks about the adult industry, plus crude and sexist content. Recorded only for his argument about freedom and manipulation; do not quote.*
+- **Main idea:** some freedoms are a **disguised prison**: "The best way to keep a prisoner from escaping is to make sure he never knows he's in prison." He argues that **reframing** (exploitation sold as "empowerment" or "freedom of expression") changes what people accept.
+- **His thinking:**
+  - **Changing the label:** the move from studio porn to OnlyFans is marketed as "empowering… comfortable in your skin… socialism at its best", and he says the label makes the same thing feel like a free choice. He compares it to how swimsuits got smaller over decades under the language of freedom.
+  - **People follow what they're rewarded for early on:** attractive people "naturally lean towards" what they're rewarded for, so "you're not given the time to develop a personality."
+  - **Public statements may not be free either:** a former adult performer turned activist later returned to the industry. He asks whether her earlier statements, or her later ones, were ever truly her own choice.
+  - **Rival sabotage (a study he plays):** more competitive women advised similarly attractive rivals to cut off more of their hair. He uses this to say people "pull you down" to level the playing field. *(Presented as research; unchecked.)*
+
+## R39. Why Handsome Men Date Ugly Women (NO FILTER)
+https://www.youtube.com/watch?v=RhbLVsVW48g · about 3 months old · 174k views
+- **Main idea:** dating "hypergamy" videos target **insecure men** to sell supplements, dating courses and clicks. Ramboh explains dating imbalance with **supply and demand** and biology, then ends on cooperation: "survival of the friendliest".
+- **His thinking:**
+  - **Supply and demand:** he argues that more men are seeking than women, which gives women the stronger bargaining position. He compares this to drug companies charging high prices when people need a pill to live. *(His argument.)*
+  - **"Hypergamy" content is a grift on insecurity:** creators reuse the same script in different videos ("mind you boys, I'm 5'11") and "always offer to be sexier… buy my supplement… buy my dating course. It's all a grift to target your insecurities." "You are just a product… I am how they make money."
+  - **Fake content bullies people:** he says some "dating" clips are staged mockery of unattractive people.
+  - **Survival of the friendliest:** humans succeeded by cooperating (hunting mammoths together). He plays Milton Friedman's pencil story: thousands of strangers, who might hate each other, cooperate to make one pencil.
+
+## R40. Why Are Women Becoming Racist?
+https://www.youtube.com/watch?v=hbp_l6nsopc · about 4 months old
+> ⛔ *In this video Ramboh **himself repeats racist and antisemitic claims** (race and IQ, Jewish stereotypes). It must **not** be used as a source and must not be quoted. Only his general points about hate are noted below.*
+- **His general points about hate:**
+  - **Hate has become a profitable, "cool" online niche,** with creators "who make careers off of just pure hatred".
+  - **"Facts" are used to justify hatred:** "they use these statistics as a way to enhance their hatred… sheer negativity, but justified under 'the facts'."
+  - **Hatred comes from wanting to feel superior, and from feeling inferior:** "We feel superior when there are people below us… there are things and people… that will make you feel inferior."
+  - **Being right isn't worth it:** "holding all of this hatred in your heart is a waste of life… to be correct does not really matter… to feel better than someone else, is that all?"
+  - **Time forgives or forgets:** "to know all is to forgive all"; history even turns mass killers into admired figures.
+
+## R41–R42. Dating in Gen-Z makes absolutely no sense... / The Barely "Legal" OnlyFans Problem…
+https://www.youtube.com/watch?v=F_6ol-Ijqaw · https://www.youtube.com/watch?v=OLwuWL45UiQ · *Both skipped: no transcript available.*
+
+## R43. The Gen-Z Dating Market Is Cooked
+https://www.youtube.com/watch?v=VCYYSr1RiX0 · about 1 year old
+> ⚠ *It mocks individuals' looks and includes a clip of a man praising Nazi eugenics. Recorded only for his general point.*
+- **Main idea:** people who **fixate on one trait** (height, race, looks) as the reason their life fails create a **self-imposed handicap**, and creators profit by feeding that spiral.
+- **His thinking:**
+  - **Fixation on what you lack:** "people who lack romantic relationships… are the ones that overfixate and put this amount of importance towards the thing that they don't have… you're trapped by your own thoughts."
+  - **True statistics, too much weight:** "They attach their whole ideals and beliefs towards these statistics that, while true, isn't the entire game." He compares this to negative self-talk: "I'm dumb… I'm a loser."
+  - **Creators milk insecurity:** a creator "doesn't care… He's just there for content and clout. And all that does is fuel this negative cycle."
+  - **The judge in your head is you (a clip he plays):** "I don't actually know what you're thinking about me… I'm creating a mean and judgmental version of you in my head and then using it to think mean things about myself."
+  - **People notice and move on:** we skip over an imperfect tree or a stranger in a wheelchair, but the person who's insecure about it doesn't.
+  - **He admits the format:** "I have to play the YouTube game of being that type of influencer where I… put other people down."
+
+## R44. College in Gen-Z makes absolutely no sense...
+https://www.youtube.com/watch?v=U8eIuqBz_ms · about 11 months old
+- **Main idea:** college success is decided more by **who you know and how you present yourself** than by grades. Students **posture**, saying one thing while their actions say another.
+- **His thinking:**
+  - **"50% of college is struggling and the other 50% is pretending how good you are doing."** He says the pretending is useful, because "who you know is way more important."
+  - **Referrals and nepotism:** peers got into colleges through their parents, and a classmate's dad at Nvidia could open doors. He cites that "30 to 50% of all US hires come through employee referrals" and that employers rank referrals best. *(His figures.)* He says he got a job requiring a degree he didn't have through talking well and a recommendation.
+  - **Excuses vs accountability:** a student who blames COVID and social media for having no friends, after claiming "I take full accountability", isn't accountable. "It's easy to talk to people but difficult to make friends? People will say one thing, but their actions say another."
+  - **What can be counted gets valued:** grades count because they're "quantifiable", while social success isn't.
+  - **Everyone brags about prestige:** a professor on a cruise boasting about his son. "It is people's lifeblood in… educational systems… how much prestige do you have? Who do you know?"
