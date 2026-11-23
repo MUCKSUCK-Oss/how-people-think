@@ -1156,3 +1156,33 @@ https://www.youtube.com/watch?v=0yiP1kJy8NM · about 1 year old · a 42-minute c
   - **Guilt as the main lever of manipulation:** "a lot of people go through life living in guilt. So that's how you get manipulated… your mom… 'because I raised you'… your significant other… the company… 'because I pay you'."
   - **He fitted in on purpose:** "In high school… I purposely fit in, because I knew that if I didn't fit in I would be completely ostracized… I didn't feel free. I couldn't be myself."
   - **"Greed" is a label society uses for wanting:** a child who wants a toy "just wants the toy… [people are] guilted into believing… 'you're being greedy'… I don't believe it's greed."
+
+## R73. Private Tutor Interviews A High Schooler
+https://www.youtube.com/watch?v=Xh9pDP-dcF0 · about 11 months old · an 84-minute conversation with a high-school junior deciding about college *(the first part was read)*
+- **His thinking, in his own words:**
+  - **Free time shows who you are:** "everything is literally structured for your life by the hour… when it's time for breaks… it really tells you what you do as a person when there is no set schedule."
+  - **The big-decision trap:** "their assumption is that I need to make this big decision, and after they make the big decision of dropping out of college, all the momentum disappears."
+  - **Other people's opinions:** "the big thing that holds people back from making a decision… is what their peers think, what their family thinks."
+  - **Best case and worst case:** think through the worst case as well as the best, then ask which path builds the skill faster.
+  - **Why people ask the group:** "If you're going to make a big decision, you want everyone to make the same one, because if you fail, everyone else also fails… after a test you ask everyone else's score… if everyone else gets a bad score, I am not socially outcasted. There's this social programming where we want to know what other people do before we do things. The older you get… you realize that is a mistake."
+  - **Advice reflects the adviser:** "if you ask your parents, your teachers… they're going to say go to college… not because they're actually considering what you do. They're just considering what they did or what they should have done." He admits he's biased too, as a dropout.
+  - **"When you wake up, it's just you… when you die… it's just you."**
+  - **Doing good feels good:** "the reason why we do good is because it makes us feel good. We're not doing it for the sake of other people."
+  - **Copy, then go your own way:** "you just replicate and copy everything to a point where you know the rules… but… if you want to get to the top 1%, you don't copy other people." Big ideas "aren't from other people. They're distractions." His examples are Einstein walking and Newton's apple.
+
+## R74. College Dropout Interviews Confused Artist
+https://www.youtube.com/watch?v=dvfKZG9bV-A · about 11 months old · a 72-minute talk with a small creator and editor *(the first part was read; it's mostly YouTube craft talk)*
+- **His thinking, in his own words:**
+  - **"Passion" as a flex:** "people like to use it as like a flex. I'm very passionate about something. Look at my nice watch. It's like the same tier of 'I know what I have in life, so I figured it out'. I am not passionate about YouTube."
+  - **On courses:** "I'm not a hater of courses… if it's niche information… it just makes sense to charge a larger price."
+  - **Brand over polish:** "I don't want [effects] to be the selling point of my channel… I want the selling point to be my brand."
+  - **Manifestation (from a book he's reading):** manifesting exact end details is "an easy mistake… they might not be manifesting it for themselves." Instead, imagine the goal, then work out "what I should be doing the next day".
+  - **His videos are partly made for views:** "That isekai video was not out of passion. It was out of views."
+
+## R75. College Dropout Interviews Short Virgin Incel
+https://www.youtube.com/watch?v=4fEIzUA8e3Q · about 1 year old · an 84-minute live interview *(the first part was read; most of the talking is the guest's)*
+- **Ramboh's own points:**
+  - **Nature vs nurture / determinism:** he frames the guest's view as "determinism" (what you're born with decides your path), against creators who say anyone can change through effort.
+  - **Health claims he makes on air (unchecked):** running "grows… the mid-cingulate cortex… the seat of your willpower", and exercise "is 1.5 times more effective than SSRIs". He tells depressed viewers to start exercise before medicine. *(⚠ These are his medical claims, not checked. They should not be repeated as advice.)*
+  - **Does being mean raise value?** He asks whether being mean to someone made them more attracted ("it raised the perceived value… not desperate", as the guest answers).
+  - **Live trolling:** he warns the guest that viewers will mock him, and says he's glad the guest "didn't do anything bad to yourself".
