@@ -1709,3 +1709,22 @@ https://www.youtube.com/watch?v=H_zwyAzWzjk · ramboh^2
   - **Put a price on your time:** "you need to value your time a lot more… [give it] a dollar amount." His thought experiment: "would you die tomorrow for $1 billion? Everyone's saying no… your day tomorrow… is way more valuable."
   - **"Free work" costs the teacher:** training an unpaid intern who may then leave is wasted time. Companies think "I'm doing you a favour" even if they don't say it.
   - **Business as an ego play:** "it just feels great when people ask 'how's the business going?'… 'I just onboarded a new employee'… it's an ego play and it's a trap."
+
+---
+# His Community tab (title polls)
+https://www.youtube.com/@Ramboh/posts · the last ~20 posts, about 1 day to 1 month old
+**What's there (copied as shown, no comment added):** almost every post is a **poll asking viewers to pick between title versions** of an upcoming video.
+- "Why Smart People Are Obnoxious Retards" vs "Why Do Retards Love Science?"
+- "Everyone Hates GTA 6 Despite Positive Reviews" vs "Sadly, GTA 6 MIGHT be a masterpiece" *(the second was used, R49)*
+- "Sadly, GTA 6 disappointed the entire internet..." vs "Sadly, GTA 6 MIGHT be a masterpiece"
+- "Buying GTA 6 MIGHT Be For Retards" vs "Why GTA 6 hype is for retards" *(the first was used, R5)*
+- "I Don't Understand The GTA 6 Hype" vs "The GTA 6 Hype MIGHT Be Overrated" vs "Why I Don't Care About GTA 6 (as a gamer)"
+- "Why Ugly Men Hate Women" vs "Why Being Ugly MIGHT Be WORSE Than Death" vs "Why Ugly Men Are Obnoxious Retards" *(the second was used, R18)*
+- "Why 'Facts' Are For Retards" vs "How to Be More Lazy & Actually Happy"
+- "The Rise of 'Charlie Kirk' Copycats" vs "Why 'Facts' Are For Retards"
+- "why hard work is retarded" vs "Why Hard Work Might Be Retarded"
+- "Why David Goggins Might Be Retarded" vs "why hard work is retarded" *(the first was used)*
+- "Why protesting is retarded" vs "The France Protest Is Totally Out Of Control" vs "The French Protest Situation Is Retarded" *(the first was used, R9)*
+- "worst types of depressed people" vs "Why Everyone Becomes Suicidal During Winter" vs "Why Depression Is Worse Than Death"
+- "the problem with asians" vs "Why Everyone Is Obsessed With Asian Culture"
+- *(This fits his own statements that he uses rage-bait titles to pull people in, R50 and R7.)*
