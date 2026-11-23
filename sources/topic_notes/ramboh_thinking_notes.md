@@ -1950,3 +1950,21 @@ https://www.youtube.com/watch?v=-Pd1tR9mwm0 · about 3 years old
   - **Caring what others think can help:** "if I didn't care about what people think… I'd overindulge… 20, 30, 40 pounds heavier."
   - **A study he cites:** "two Stanford professors" studying immigrant groups found that more insecure groups succeeded more. *(His recollection; unchecked.)*
   - **Memories change with perception:** a humiliating comment about his acne is "ingrained… because it was embarrassing", and now it's funny "because I'm much more grateful."
+
+## O26. The Most Disgusting TikTok Trend (Lonely POV's)
+https://www.youtube.com/watch?v=ow-DQXCD5z0 · about 1 year old
+- **Main idea:** "doing it alone" POV videos **monetise loneliness** by normalising it. They're built for **self-insertion**, like faceless hands or generic anime heroes. Blaming sellers is weak, because **demand stays** while the underlying need is unmet.
+- **His thinking:**
+  - **How virality works here:** "it provides the human emotion to seek comfort in isolation and feel normal about the things they feel bad about… very easy to replicate, so there's a lot of people doing the exact same thing."
+  - **Designed for self-insertion:** "there is no face… it's just hands. We all have hands." There's a female copy too. The same goes for generic isekai heroes: "they want you to insert yourself into the world. It creates a natural investment."
+  - **It feels good, so it spreads:** "it justifies my lonely experiences… everything in life is created to make us feel good."
+  - **Blame vs demand:** "there is an overimportance of blaming drug dealers, content creators, companies… that way of thinking is weak, it gives you no control over your own life… a new one will always replace the previous, because the demand for the experience… still exists. The solution is to… live a life where you are internally satisfied."
+
+## O27. Annoying Videos…
+https://www.youtube.com/watch?v=UOXti64zoy4 · about 1 year old
+- **Main idea:** viral content sells **the seven deadly sins as entertainment** (gluttony in mukbangs, lust, greed in gambling and crypto). **Commentary hate channels combine pride, wrath and envy** while providing "no value".
+- **His thinking:**
+  - **Watching normalises it:** "rather than shaming these creators… recognize that watching this content normalizes bad habits… Sports guys watch sports. Fat people watch fat people eat… gambling addicts watch gamblers gamble."
+  - **Cut 80% of mindless content,** "because they are a representation of our thoughts, and our thoughts are our actions."
+  - **Hate channels pick easy targets** "that everyone would agree with" (alpha-male morning routines) and push viewers to a Patreon "of more hateful content". He calls one creator "insecure about people not… thinking he's an intellectual".
+  - **He names his own hypocrisy** as a commentary creator.
