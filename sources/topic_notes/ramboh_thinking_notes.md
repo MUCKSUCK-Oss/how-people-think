@@ -1134,3 +1134,25 @@ https://www.youtube.com/watch?v=ZkStYvHm-RY · about 11 months old
   - **Stuck between past and future:** "too many people are no longer in the present. They're stuck between… how good the past was or how bad the future is going to be."
   - **Nostalgia and doom as comfort:** "living in the past makes me feel comfortable… every single time I turn on YouTube, the news… the world is going to end… I don't want to think about my current problems." "Why do people want to watch this?… they want life to be worse."
   - **Content as pain relief:** content "makes us feel good… but I know deep down this isn't amounting to anything. It's only there to fulfil this quick momentary pain that I'm trying to run away from."
+
+## R71. Giving Alcohol to The Homeless Prank
+https://www.youtube.com/watch?v=h44jFW2t6Pg · about 1 year old
+- **Main idea:** viral "food or alcohol / food or lottery ticket" pranks on homeless people exist to **ease viewers' guilt** ("they choose this"). Each social class uses the **same excuse** not to help the class below it.
+- **His thinking:**
+  - **Pranks as paid content:** he says creators making these videos earn "5,000 to 30,000 a month", often sponsored by gambling companies. "They don't give a [damn] about any of you guys."
+  - **Guilt removal:** "the entire purpose of the content is not meant to be entertainment, but to remove the guilt from our conscience, because we could help these homeless people, but we don't want to… it's much better to tell ourselves that they're choosing this lifestyle." People who choose the food are "sidelined", because the negative version goes viral.
+  - **The class chain:** "no matter how poor, no matter how rich you are, each layer of class has a justification to not help the class beneath them." The rich say the same about the middle class ("given financial aid… they will find a way to [mess] it up"), which is how "people justify underpaying their employees".
+  - **Peter Singer's utilitarianism:** he says spending on luxuries like Starbucks makes you "morally a bad person" by that logic, and then admits he doesn't live by it ("I plan on becoming wealthy").
+  - **The lottery ticket logic:** homeless people who pick the ticket say food won't change their life but a ticket might. "It doesn't matter how low the chance is, it has the chance to change my life."
+  - **Mindset:** "he will never change unless he changes his mindset."
+  - **He says the pranks misread the *Squid Game* scene they copy.**
+
+## R72. Interviewing A Streamer With 0 Viewers
+https://www.youtube.com/watch?v=0yiP1kJy8NM · about 1 year old · a 42-minute conversation *(only the first part was read)*
+- **His thinking, in his own words during the interview:**
+  - **What happens when people find out:** when his channel jumped from 300 to 5,000 subscribers in high school and he told one person, "everyone… knew… and it really changed the dynamic of how people treat you."
+  - **Self-talk:** "I don't like it when I… speak bad upon myself. I don't like to give myself a vision that I don't believe in." He asks the guest, "why do it if you don't believe that you can make it?"
+  - **Big claims to look sorted:** college students announcing "I'm going to be a neurosurgeon… the only reason why they say that is to look better… I have my [stuff] figured out."
+  - **Guilt as the main lever of manipulation:** "a lot of people go through life living in guilt. So that's how you get manipulated… your mom… 'because I raised you'… your significant other… the company… 'because I pay you'."
+  - **He fitted in on purpose:** "In high school… I purposely fit in, because I knew that if I didn't fit in I would be completely ostracized… I didn't feel free. I couldn't be myself."
+  - **"Greed" is a label society uses for wanting:** a child who wants a toy "just wants the toy… [people are] guilted into believing… 'you're being greedy'… I don't believe it's greed."
