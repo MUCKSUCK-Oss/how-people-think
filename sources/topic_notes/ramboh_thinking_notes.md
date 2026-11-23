@@ -2149,3 +2149,16 @@ https://www.youtube.com/watch?v=E_zyE_YylIg · about 3 years old
   - **Villain of the week:** "nobody gives a [damn] about Logan Paul. He is the villain of the week… next season they'll hate on [someone else]… nothing ever happens to them… if anything it becomes better… there's more eyes on them."
   - **Skill outlasts scandal:** "these people are famous for a reason. They have a skill… if they keep on providing that skill they can maintain it."
   - **He calls himself a "hater"** and says he understands the emotion.
+
+---
+# Round 4: the race-titled videos (added because Maulik asked why they were skipped)
+> ⛔ **These videos contain racist generalisations and stereotypes, stated by Ramboh himself.** Only his **general points about how people think about groups** are noted. No stereotypes or slurs are repeated. **Do not use as a source; do not quote.**
+
+## X1. Why Does Everyone Hate Blacks?
+https://www.youtube.com/watch?v=DgkSVk3xlXE · about 2 weeks old · 41k views
+- **His general points about group thinking:**
+  - **Viral clips work as "confirmation":** people love clips that seem to show a group behaving badly "because it is all just confirmation of what you already believe but can't really prove… Nobody cares about statistics and numbers… but a video is so real. It's so visceral." He notes that children of every group did the same thing, but the clips of one group go viral.
+  - **The camera operator picks the story:** "I swear I did not set out to make a propaganda film," said by the person who posted the doorbell clips. Ramboh notes that comparing children this way is "such a shitty thing to do".
+  - **Stereotypes as expectations:** "no matter what race you are… there's always going to be expectations and stereotypes placed upon you… I am quite literally a stereotype. I have just lived up to the expectations." Members of a stereotyped group are "constantly… persecuted in this context of 'if you do anything bad, it's because you were just [that group]'."
+  - **Inherited trauma and expectations:** "the trauma of your past family has been slowly passed down… the same thing happens to how you were raised based on the race."
+  - **Culture reflects insecurities:** "culture is a representation of how the identities and race view themselves, or… their insecurities, their desires." *(He gives group-specific examples, omitted here.)*
