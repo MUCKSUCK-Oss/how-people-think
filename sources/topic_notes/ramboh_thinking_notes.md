@@ -1968,3 +1968,31 @@ https://www.youtube.com/watch?v=UOXti64zoy4 · about 1 year old
   - **Cut 80% of mindless content,** "because they are a representation of our thoughts, and our thoughts are our actions."
   - **Hate channels pick easy targets** "that everyone would agree with" (alpha-male morning routines) and push viewers to a Patreon "of more hateful content". He calls one creator "insecure about people not… thinking he's an intellectual".
   - **He names his own hypocrisy** as a commentary creator.
+
+## O28. Gen Z Insecurities Are Depressing
+https://www.youtube.com/watch?v=euO8nOXdoAA · about 2 years old
+- **His thinking:**
+  - **Social media as a multiplier:** "we suffer the same issues as every generation, but… social media… is a multiplier to our problems": looks, self-worth, job insecurity.
+  - **Shortcut culture moves effort onto others:** "instead of losing the weight… Gen Z will literally try to change… society's expectation… of beauty just to do less work." People improving themselves also have to avoid offending those who don't.
+  - **Insecurity drives desire (Maslow again):** "food insecure makes you more proactive to get food… once you solve your insecurity another one appears." In developed countries, most insecurities sit in the "intangible middle zone" (looks, how co-workers see you), which he calls "a privilege… to be so insecure."
+
+## O29. 3 Horrible Philosophy Opinions
+https://www.youtube.com/watch?v=TCZ5qXlZPH4 · *Skipped: no transcript available.*
+
+## O30. The Problem with Friends as Gen Z
+https://www.youtube.com/watch?v=CoVAbH3CwLY · about 2 years old
+- **His thinking:**
+  - **"Surround yourself with who you want to become"** fails in practice, because "those people don't want to be surrounded by me… I have nothing of value". He admits his own access came partly from luck (family and YouTuber contacts).
+  - **"You're so lucky" as an excuse:** "this is them… creating a limiting factor, an excuse as to why they're not successful… they always need a crutch… because it protects their ego."
+  - **Fear of trying hard and failing:** "what if you tried your hardest… and you fail? How will you cope?… her entire issue was just because she was not comfortable with failing… and how people will judge you after you try your hardest."
+  - **"Wanting to be saved"** is something he says he "heavily dislikes".
+
+## O31. Why men are crying, single, and alone..
+https://www.youtube.com/watch?v=Ju1uuALRpPo · about 2 years old
+- **Main idea:** confessional "I'm 27 and never had a girlfriend" videos and their supportive comments **feed confirmation bias**. He **clickbaited a fake version** to test the reaction.
+- **His thinking:**
+  - **He admits the lie:** "I made a video titled 'I'm 23 and never had a girlfriend'… I'm lying… why did I clickbait? Because I was hopping on a trend, I wanted views."
+  - **Comment sections console:** "it's okay… I'm in the same boat… what you are experiencing is normal… a secret subset… watch these videos for confirmation bias."
+  - **Like partisan news:** "you already know that what you're going to watch from [a partisan channel] is not going to be an accurate representation… why do people still watch it? Because they want to hear what they already believe… because change is very uncomfortable."
+  - **The reaction when expectations were broken:** threats, racism and "genuine confusion", which he reads as people being "so indoctrinated to believing that it is okay".
+  - **He blames creators as well as viewers:** he names a mental-health creator (Healthy Gamer GG) as knowing his "target audience" and making "confirmation biased content". *(His accusation.)*
