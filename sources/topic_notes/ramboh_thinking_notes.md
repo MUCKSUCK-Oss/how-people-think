@@ -527,3 +527,95 @@ https://www.youtube.com/watch?v=Dt1ZZPx2iVQ · about 1 year old
   - **Learned helplessness:** people who worked hard and found it "didn't mean as much as they thought… have been singed by the flames of their efforts", so they reject grades and money altogether.
   - **Environment beats IQ,** but outliers exist: "not a lot of people believe in themselves enough… They're so indoctrinated by society."
   - **He's honest about the trade-off:** "if I had the opportunity, [I] would 100% go to an Ivy League school… almost a guaranteed way of success."
+
+## R13. why college debt might be for retards
+https://www.youtube.com/watch?v=88Jt1PIcVTQ · about 2 weeks old
+- **Main idea:** in the US, college debt is often **avoidable** (scholarships, grants, community college, living at home). People take it on because of social pressure and poor money knowledge, not necessity. *(He says openly that his own family is well off, so "this video is not going to be relatable".)*
+- **His thinking:**
+  - **People don't apply for money that's there:** as a tutor he saw scholarships go unclaimed "because literally no one applies". He says middle-class students can get grants, and he got "$10,000 every single year".
+  - **"Americans are obsessed with moving out"** to be "independent" and "free", paying for dorms and food when they could live with "loving parents". He says it's normal in Asian culture to live with family as an adult, and he plans to look after his parents.
+  - **Relationships are two-way:** "If you don't like your parents, it's half of your fault." He contrasts families who "extract" from each other (charging rent, kicking a child out at 18) with families who share. In a couple, "his money and your money are not separated."
+  - **People misuse aid:** a counsellor told him students spend financial aid on "PS5s, concerts, vacations". "People are stupid. But can you blame them? It's not like they chose to be stupid."
+  - **Fear of looking like a "loser":** people avoid community college because of how it sounds.
+  - **Dropping out was still scary:** "Is this the right choice?… there's so much fear and insecurity", even with privilege. He says much of the pressure is "self-inflicted".
+- *(It contains a paid belt ad.)*
+
+## R14. Why Being Manly Is Gay
+https://www.youtube.com/watch?v=PqrEQrjypkY · about 3 months old
+- **Main idea:** "masculinity" is a **bought identity and a marketing scheme**. People buy products and ideas because "it makes them feel like they belong". The real theme: "how identities rule people's lives".
+- **His thinking:**
+  - **Masculinity changes over time:** he says Spartan and samurai warriors had accepted same-sex bonds, the opposite of today's online "manly" culture.
+  - **"Every man should own…" lists sell an identity:** "Most of the time, you don't buy a product because it's better or worse, but because it makes you feel something." Nike vs Adidas: "one shoe makes you feel superior. It gives you meaning… People buy into ideas… If you don't know where to belong, you buy an identity."
+  - **Priming:** he plays a clip on priming, and cites the warm-coffee study (holding a warm cup makes you judge a person as warmer). "The biggest logical fallacy people have is believing their own thoughts came from their own conclusion rather than… the environment."
+  - **Guilt-tripping drives people away:** loud activists ("if you don't support this, you're a bad person") make people resist, including on veganism. "People… can just sense when someone is trying to manipulate them, and it scares people away." Companies' Pride profile pictures stopped "because they don't make money anymore."
+  - **Living a stereotype isn't being yourself:** both the "obviously gay" and "obviously masculine" performer are "living up to the expectations people have given" them. The same goes for going to college "because the world has told them to". "You cling onto this idea of something you should be, but who you should be is not who you are."
+  - He plays a clip questioning gender identity from a "gender roles are socially constructed" angle, and says he's using it to make his identity point.
+
+## R15. How (Not) To Waste Your 20's
+https://www.youtube.com/watch?v=W--TUnVIpSA · about 1 year old
+- **Main idea:** people in their 20s "don't know what to actually care about, so they care about everything". **Fear, ultimately fear of death, sits behind all the "don't waste your 20s" content.** Guilt is what traps people.
+- **His thinking:**
+  - **Media manufactures caring:** "my job is to make you care about random stuff you would have never thought about." "Algorithms put you in this trance about random world-ending news. But that is not your life and that is not your problem."
+  - **Public grief is a social performance:** after a public figure's killing, some people cheered online and others felt they had to perform mourning. "Socially online, you have to put up the front that you do care… there's only so much empathy I could give… so you need to prioritize."
+  - **"You can't pour from an empty cup":** help yourself first, then you can help others at scale.
+  - **Fear of death behind everything (from *Reality Transurfing*):** death is "neutral until we load it with all this importance". Fear of death becomes a "pendulum that drains your energy". Money matters so much because not having it "links to your death". Being excluded socially feels like death too. "Every single one of these 'don't do this in your 20s' [videos] is related towards this fear… they're trying to capture your attention."
+  - **Guilt as the trap:** "the world will try to make you feel guilty for not caring." Old people and children are happy because they feel "zero guilt" about being themselves. Kids haven't been "beaten down by society".
+  - **"Be selfish" (in his sense):** "you don't live for anyone else", so don't do good "purely out of guilt". Helping others can be a selfish choice that feels good, and that's fine. People who live only for others' approval (parents' plans, fear of judgment) end up "miserable".
+
+## R16. The Moment Gen-Z Changed Forever...
+https://www.youtube.com/watch?v=zH679p0S3rs · about 1 year old · topic: COVID-19 lockdowns
+- **Main idea:** COVID taught him two things. First, **authority and morality can be used to control people**. Second, the lockdown was a test of what people do with unlimited time, and most people wasted it.
+- **His thinking:**
+  - **Authority fallacy and the vaccine:** "people will only listen to people in power", the health officials and the companies. He says effectiveness was "overly marketed" and that some US states are suing over it. "People felt the need to lie for the sake of other people. But them lying caused a lot of distrust." *(His claims about vaccine policy and lawsuits are unchecked.)*
+  - **"Morality as a basis to restricting and controlling others":** "You're a bad person if you don't take the vaccine." He says he lied about his vaccine status at school to avoid social judgment.
+  - **Nostalgia rewrites memory:** at the time people "loathed" lockdown. Now there are nostalgic edits. "You're missing the point."
+  - **The "no time" excuse:** lockdown gave everyone huge free time and most wasted it (he played Fortnite all day). So "I don't have enough time" is an excuse. "If people had the opportunity to waste their life, they would choose it."
+  - **Time management grows with responsibility:** adults manage more because they took on more. He describes juggling college, tutoring, an internship, YouTube, the gym and a relationship.
+  - **Free time made philosophers:** many were rich and had time to think.
+  - **Losing trust in the powerful:** his parents' pizza shop struggled, while he says some celebrities and business owners pocketed pandemic relief money (he plays a clip about Chris Brown's $10M). "I became a little bit more jaded and hateful of people in power."
+
+## R17. Why Gen-Z Is Being Left Behind...
+https://www.youtube.com/watch?v=IuQzAi76-TA · about 1 year old
+- **Main idea:** "Gen Z can't get jobs / AI will take your job" panic happens **to every generation**, with a new villain each time. **"People have control over you if they make you panic."**
+- **His thinking:**
+  - **The same story, a new generation:** he shows that articles about "lazy job-seekers who won't work for free" were written about millennials in 2013–2017, and similar complaints were made about boomers. "Every previous generation that enters the workforce struggles."
+  - **A new villain each generation:** self-checkout and automation for millennials, AI for Gen Z. He plays a clip saying new technology (electricity, the printing press, factories) always removes some jobs and creates new ones: "there is no finite number of jobs."
+  - **People need an excuse:** "Gen Z is afraid and… need an excuse to explain why they are not doing as well as they would have wanted." Childhood dreams meet reality, and "the market" takes the blame.
+  - **Panic means control:** jobs dominate political debates because "people find control over their lives through money. If they feel like they no longer have control over their money, they no longer have control over their lives… That's how you get taken advantage of."
+  - **True statistics, misleading picture:** facts about the worst graduate job market "while statistically true… make you feel panicked". Surveys of stress reflect what people have been told: "If everyone is telling them that they should be doing bad, they're going to report" badly. *(He also calls such statistics "fake lies", his words.)*
+  - **History protects you:** "everything that has happened in the past will repeat itself in a completely new coat of paint. If you're able to recognize that, you will no longer fall for fake chaos news."
+- *(Irony noted in the video itself: it's sponsored by a paid job-application service.)*
+
+## R18. Why Do Gen-Z Adults Hate Jobs?
+https://www.youtube.com/watch?v=A8LIMePbQXo · about 1 year old
+- **Main idea:** people say they hate their jobs, but **"humans derive pleasure, happiness, and joy from contributing to society"**. Many stay in low-wage jobs because they're **comfortable**, and change feels dangerous.
+- **His thinking:**
+  - **Comfort keeps people stuck:** 30-year-olds who've worked the same minimum-wage job for 10 years "like to pretend it sucks… but they still stay… because it is a very comfortable spot". Changing means "this mode of unpredictability… and that is scary."
+  - **Fear of change:** "People do not like things changing even if the change is for the better."
+  - **Contribution makes people happy:** retirees who don't need money still take jobs, and managers care about "the way you put the lettuce on the burger". "It is a form of empathy to care about your job." He contrasts Notch (Minecraft's creator), who said after becoming a billionaire that he had "never felt more isolated".
+  - **"Relatable" complaining:** commentators say "nobody wants a job" to be relatable, and he calls that wrong.
+  - **Playing the victim:** "a lot of people use their circumstances as a crutch… It is because of the world, not me." People hear about "limiting beliefs" but never ask "what are my limiting beliefs?"
+  - **His own risk:** he applied for a tutoring job that required a degree he didn't have, and got it.
+
+## R19. Why Kanye West MIGHT Be A Philosophy Genius...
+https://www.youtube.com/watch?v=iBGq6Mus7Hs · about 1 year old · 220k views
+> ⚠ *This video defends Kanye West's praise of Hitler as "Christian love for everyone", and contains antisemitic content in the clips. It's recorded here only as Ramboh's argument, not as evidence. Do not quote it.*
+- **Main idea:** he reads Kanye through **Schopenhauer**: speaking unfiltered "from the heart", pessimism about institutions, compassion as the highest virtue, and **distrust of mass movements as ego dressed up as compassion**.
+- **His thinking about people and society:**
+  - **Saying what everyone thinks but won't say:** after Hurricane Katrina, "many people in the black community felt" the response was slow because of race, but Kanye "was the only one with enough courage to say [it] publicly."
+  - **Schopenhauer on groups (his reading):** "human action, especially in groups, is driven by ego, vanity or self-interest rather than true compassion… Movements often become about power struggles, recognition, or ego, not genuine alleviation of suffering." He applies this to BLM and to celebrities' black-square posts ("they must participate because they are in the social game").
+  - **"Anti-false-compassion":** he argues Kanye attacks people who *pretend* to care, and slogans like "love everyone" that "collapse the moment politics or taboos are involved".
+  - **People reject proof that contradicts old beliefs:** "A lot of people can be proven wrong after watching this video, but they are so blinded by what they have previously believed they will choose actively to reject it."
+  - **Life as a test:** he plays Kanye: "If every time someone asks you a question, you try to say the right answer, your entire life is a test… People are controlled by… their perception of themselves. If you're taught you can't do anything, you won't do anything."
+
+## R20. Why IShowSpeed MIGHT Be A Philosophy Genius...
+https://www.youtube.com/watch?v=GmAB4jehzM4 · about 10 months old · 389k views
+> ⚠ *This video contains an antisemitic claim about influencers and money, and clips with racist and sexist remarks. Recorded only as his argument; do not quote.*
+- **Main idea:** IShowSpeed's success comes from **low inhibition and ignoring "herd morality"**, which Ramboh reads as **Nietzsche**: decide fast, own your fate (*amor fati*), and don't live by other people's approval.
+- **His thinking:**
+  - **Herd morality causes indecision:** "Nietzsche thinks a lot of indecision comes from living by other people's values, approval, safety, fitting in. If you're always checking what will they think, you can't move cleanly." He says comfort-seeking "turns life into risk avoidance instead of creation."
+  - **It isn't luck:** 8 years and "more than 10,000 hours" of streaming. People call success luck to avoid seeing the work.
+  - **Ignoring family pressure:** Speed's mother threatened to kick him out over streaming, and he kept going. "Who cares what other people think" is easy with strangers and "so much more powerful… when… we're talking about family." He also had no grudge afterwards (*amor fati*, "love your fate").
+  - **The downside of low inhibition:** acting without thinking gets him cancelled for racist and sexist remarks and causes relationship drama.
+  - **Don't idolise him:** "There should not be this praise and obsession over other celebrities… sometimes people don't want to hear the truth because they don't want their illusions destroyed."
+  - **His conclusion:** "You're constantly distracted by how other people think… that prevents you from making the right decisions."
