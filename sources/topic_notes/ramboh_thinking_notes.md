@@ -1006,3 +1006,47 @@ https://www.youtube.com/watch?v=zAxd_kcD_Y0 · about 1 year old
   - **Control what you can:** "You can't control [what you were born with], so who cares? The only thing you can control is how much you choose to like yourself."
   - **His questions:** "What are the things that I do on a consistent basis that I don't even like doing? How much of my identity was given to me?"
   - **Reading people:** he describes cutting the lunch line by greeting a quiet student, so others assumed they were friends. He says he predicted from "stereotypes… build… the way they looked" that the person calling him out "was not going to do anything".
+
+## R59. being fat is worse than death
+https://www.youtube.com/watch?v=9Q9CAG5TBeo · about 8 months old · 88k views
+> ⚠ *It contains harsh mockery of overweight people. Recorded only for his argument about choice and self-deception.*
+- **Main idea:** does someone stuck in a harmful habit (overeating, addiction) **have a choice**? He moves through **free will vs determinism** and lands on **self-deception** as the real danger.
+- **His thinking:**
+  - **Childhood sets habits:** "as a child, your brain is more malleable", so food and other habits formed young stick. One clip shows a child rewarded with dessert whenever he's hurt. "Those habits have been instilled for years on end."
+  - **Acceptance as giving up:** when people feel they can't escape, they say "this is who I am", which looks like acceptance (body positivity) but can be resignation. "Nobody chooses to be fat in a world where they absolutely hate fat people."
+  - **Coping:** "when bad things happen, people might smile creepily… it's their best way of coping." Eating is the coping habit here.
+  - **Schopenhauer:** "man can do what he wills, but he cannot will what he wills." You can act on your desires but not choose them. He says he personally thinks free will doesn't exist.
+  - **Dostoevsky on self-deception (a clip):** "the real danger in a human being isn't cruelty or ambition. It's self-deception… once a person can't face the truth, they lose respect for themselves."
+  - **The addict's story to themselves:** "I'm too far gone to change now. I've tried to quit before and failed. I'll just fail again. I don't deserve to get better."
+- *(It contains a paid skincare ad.)*
+
+## R60. being ugly is worse than death
+https://www.youtube.com/watch?v=fFE4WhZUxNE · about 9 months old · 271k views
+- **Main idea:** people judged as unattractive are **pulled between two realities**: harsh treatment in real life and lavish praise online. Others' opinions are unreliable because "people don't want the best for you. They want the best for themselves."
+- **His thinking:**
+  - **Mixed signals cause confusion:** an influencer goes from accepting "I know I'm ugly" to deleting those posts after praise floods in. "You'll never get the answer if you're constantly online looking for other people and their stupid opinions."
+  - **Hypocrisy in the "looks don't matter" crowd:** creators say looks don't matter, then mock people for looks. "Does looks matter or does it not?… obviously it does." He again cites Ulrich's 1984 study of patients with a nature view.
+  - **Changing your personality to be liked is manipulation:** "if you're changing your personality to attract other people, that isn't you improving yourself. You're manipulating other people."
+  - **The "trifecta":** he plays a clip ranking attraction by genes, wealth and status. "Everyone is chasing something. People are working at their jobs for money… fancy schools for status… looksmaxxers… to look better." Accepting that you're playing this game is when "you actually start to succeed."
+
+## R61. How Addictions (Mostly) Create Success.
+https://www.youtube.com/watch?v=pdZ3Ur4b_BA · about 1 year old
+- **Main idea:** much self-improvement content **invents or inflates a problem** ("you can't succeed because you're addicted to games or porn") **so it can sell you the fix**. What actually holds most people back is skill and priority, not their vice.
+- **His thinking:**
+  - **The manufactured problem:** "all those people telling you you can't do anything because of your addictions has a product to sell you… You can't do it unless you buy my product." He plays a creator saying "my degenerate gamer mind would win", and says this sets "mental restrictions… and guess what? He has a course to sell you." "Create this artificial problem… This big fake exaggerated problem so people can sell you a course."
+  - **Morning routines as fake progress:** 5 am cold showers and sunlight don't "move the needle" compared with hours of actual work on your goal.
+  - **Priorities:** "quitting is just as hard as accomplishing any of your other goals." People pick the comfortable path, fighting the addiction, "and… watch a bunch of videos that make me feel better… [as if] I'm finally making progress."
+  - **Swapping addictions:** after quitting social media, "a lot of people get addicted to YouTube… video games… just wasting their time."
+  - **Guilt drives negative self-talk:** "Oh, I ate a little donut. I feel so guilty… I'm not meant to have a good body." Successful people allow "a cheat meal… a vice. We are not perfect beings."
+  - **Quitting as status:** "this weird self-[congratulation] game where you're telling everyone else, 'Oh guys, I'm not on social media.'"
+
+## R62. You'll Never Watch P*RN Again After Learning What It Did to Me…
+https://www.youtube.com/watch?v=mR-lOQ2AoWE · about 1 year old
+- **Main idea:** most anti-addiction content uses **scare stories**, which work on prevention but **don't help actual addicts**, who already know the consequences. He treats addiction as a **habit built gradually** and **reinforced by triggers**.
+- **His thinking:**
+  - **Scare stories target the wrong people:** "actual addicts are the ones who know the consequences best and nonetheless still continue… it is significantly financially smarter… to stop people rather than help the ones who are addicted… the ones who struggle the most are the ones with the least resources."
+  - **Habit and triggers:** pleasure releases dopamine and makes you crave more. Cues ("specific chocolate, smells of sweets", a thumbnail) recall the past reward. "To stop coming back, you decrease the memory of what was so good."
+  - **Add friction instead of going cold turkey:** layer restrictions (greyscale screen, sound off, and so on) "that ruins the experience", the way the habit was built, "slowly". He says cold turkey depends on the substance and can be dangerous with alcohol.
+  - **Shame keeps it hidden:** "there is this air of shame with every addiction of admitting… it is not a problem."
+  - **Extreme over-corrections:** he calls "semen retention" promises ("day 30, women are magically more interested in you") fake. People "would like to feel like they have control and a choice in their life."
+  - **His test for addiction:** if you have a healthy alternative available and still don't choose it.
