@@ -1479,3 +1479,33 @@ https://www.youtube.com/watch?v=inyfroOfO9k · ramboh^2
   - **"Pity is another form of domination" (Nietzsche, again):** people like shy, insecure people because they can help them: "I'm better than this person because I'm the one giving help."
   - **Why people help:** "Why help the person? Because you feel good helping the person." He says his religious relatives help homeless people every week, and that it "makes it feel like you're making a difference."
   - **Others' success holds up a mirror:** when a confident person succeeds, "all it does is make people look in a mirror and think, 'I don't think of myself like that… He's the problem. You're too egotistical. You've got to tone it down.'" He mentions Steve Harvey's "act like a lady, think like a man" as the socially easier path.
+
+## S33. Just Accept You're a Lazy Piece of Sh*t
+https://www.youtube.com/watch?v=XIgRAhoFcNc · ramboh^2 · he reacts to a young viewer who swings between euphoria (motivational reels, day trading) and depression, and wants stimulants to beat "laziness"
+- **His thinking:**
+  - **Highs and lows are linked:** "if you're at such a low point, it's very easy to bounce all the way back up… you can feel amazing, but if recently you've been depressed, you can feel that depression creeping in."
+  - **The motivational feed shapes the young:** "this person is extremely impressionable… the reason why he's so into day trading is because it's… related to his addiction to… motivational reels… every other edit… flexing fancy cars… then 'buy my course'." He admits he sells a course too.
+  - **Looking for a pill:** wanting nootropics or Adderall "to become more motivated than everyone else" shows the impressionability. *(His reading; he doesn't give medical advice here.)*
+  - **He promises a coming video arguing that hard work as shown online (David Goggins) is misunderstood.**
+
+## S34. How I Help People By Doing Literally Nothing
+https://www.youtube.com/watch?v=dAtmLtNiiHw · ramboh^2 · he reads a member's post about his breaks
+- **His thinking:**
+  - **Breaks turn consumption into learning:** "hearing constant information… even great info, can become overwhelming and eventually becomes noise." His tutoring method is to take "time to breathe from all the information… so it really gets ingrained."
+  - **Consuming is not the same as learning:** the member's point, which he agrees with: "you were not learning, you were consuming his content". Only when the uploads stopped did the member start applying the advice.
+  - **An absence has more impact:** "when I said I'm going on a break or I'm quitting YouTube, it leaves a higher impact."
+
+## S35. What to Do If You Dropout
+https://www.youtube.com/watch?v=pSHecpICNm8 · ramboh^2
+- **His thinking:**
+  - **Limited creative hours:** he used to grind 12–16 hours a day, but now believes "there's only a set amount of hours that your brain can push before it just becomes repetitive work… maybe a maximum of four hours where I can genuinely create something."
+  - **Parents' fear of judgment:** a viewer's mother worried that "my friends are going to judge me". He says parents feel "seen as a failure… if your child did not go to university… 'Oh my kid went to Yale'… it becomes this [measuring] contest."
+  - **Constant comparison:** "you would assume over time you no longer feel the need to compare… but you will always be stuck in the social mode of constant comparing."
+  - **Your own path is lonely:** "Am I hanging out with these people because it's refreshing… or because they make me feel good and I can justify [it] because I kind of don't want to work right now?" He says peers who attend school "because their parents told them to" can "dilute your passions and goals".
+
+## S36. Oliver Tree Changed My Perspective
+https://www.youtube.com/watch?v=jlPezldUP0s · ramboh^2 *(he opens with a claim about the musician's death, presented without a source; unverified)*
+- **His thinking:**
+  - **The group follows its leader's taste:** in middle school "everyone hated [the song] too because [the group leader] hated the song."
+  - **Socially skilled bullies:** "most bullies… are not stupid… he naturally understood social cues, human dynamics, and takes advantage of it extremely well." He predicts such people will "have a chokehold" in workplaces too.
+  - **Cruelty then kindness builds loyalty:** "if you treat your enemies extremely poorly and then you give them earnest kindness, you make the most loyal followers." His example: a boy the leader had isolated later became his most devoted follower.
