@@ -1338,3 +1338,42 @@ https://www.youtube.com/watch?v=dASDsVWR1BY · ramboh^2
   - **Death brings belief back:** "You guys are going to care about religion the older you get… once you're facing the door of death… you cling on to the idea of… my mom was religious… the seeds that have been planted inside of you." He was raised around Buddhist temples.
   - **On balance:** he lists harms committed by religious institutions, but believes religions "provide more good than evil".
   - **Death as the universal motivator:** "you don't know someone's motivation… but one thing you can know about everyone is death. Everyone is motivated by death."
+
+## S17. Why is Nothing Original Anymore
+https://www.youtube.com/watch?v=RWAEIIpOfiE · ramboh^2
+- **Main idea:** "original ideas do not exist". **Trying to be different for its own sake (contrarianism) makes you predictable.** The only originality is expressing yourself honestly.
+- **His thinking:**
+  - **Contrarianism is a paradox:** "Everyone is an NPC… so I must be someone that does something different… for the sake of doing something different… all that does is make you predictable… so many people have done that before."
+  - **Originality comes from not trying:** "The only time something original ever does happen is when they're not trying to do something that is original. It's just out of pure soul."
+  - **Public image vs authenticity:** creators want to "look good" because looking bad "ruins their opportunities". He bets authenticity pays off in the long term.
+  - **"Personal experiences are not really personal":** nostalgia videos show shared experiences. "Every human has felt your emotion before."
+
+## S18. Why Philosophy Is Retarded
+https://www.youtube.com/watch?v=ZMV69YPX2d8 · ramboh^2
+- **Main idea:** philosophy YouTube is a **performed aesthetic** (clean, old, "dusty" visuals), while real philosophers were often **outsiders and provocateurs**. Much of the content exists **to make viewers feel superior**.
+- **His thinking:**
+  - **The aesthetic isn't the substance:** "it follows the same visual aesthetic… [like] Pinterest… That's not philosophy… a lot of them did not fit into the social mold." He compares it to students who sit in Starbucks "because it's a cool aesthetic".
+  - **Philosophers provoked people:** Diogenes and the plucked chicken ("behold, a man"), mocking Plato's definition of a human. "Philosophers were actually rage baiters."
+  - **Rich or poor, never in between:** "to be really good at philosophy… they just sit and think all day." Marcus Aurelius was the richest, and Diogenes chose poverty and ignored social expectations.
+  - **Superiority content:** popular "rat race" videos are "meant to make yourself feel superior over the average person while also being negative", and he says watching them doesn't mean you escape the rat race.
+
+## S19. How geniuses learn differently from you...
+https://www.youtube.com/watch?v=qQaoFRVC2RA · ramboh^2 · a 27-minute study-skills lesson
+- **Main idea:** school trains you to cram for tests and forget. Real learning comes from **pausing to digest, putting ideas into your own words, choosing to pay attention, and adopting a "learning persona"**.
+- **His thinking:**
+  - **Constant input stops you digesting:** "when you're constantly on TikTok… class, next class, next class… you're not allowed to give yourself time to sit with the information." He shows a source saying a brief pause to summarise or reflect "helps reinforce memories… improves decision-making accuracy". *(His source, unchecked.)*
+  - **Don't take teachers at face value:** translate lessons into "how you naturally think… not how you write essays".
+  - **Choosing to pay attention matters:** "When you're scrolling, there is no choice… when you're making the active decision to pay attention… there's a significant increase in understanding."
+  - **Personas for situations:** Kobe Bryant's "Black Mamba" and Eminem's "Slim Shady". "You yourself always play a persona": son, partner, friend. Learners "enter a mind state".
+  - **Worked example (Nietzsche):** "Pity is the most agreeable feeling among those who have little pride and no prospects of great conquest." He reads it as: people with no pride and no goals find it easiest to accept pity.
+
+## S20. How To Stop Doomscrolling
+https://www.youtube.com/watch?v=HL0_0QYPDS0 · ramboh^2 · he answers a viewer
+> ⚠ *It contains an Islamophobic remark. Not for quoting.*
+- **His thinking:**
+  - **Engagement tactics steal emotion:** a good viral video "is meant to target a specific emotion that riles it up… the more you feel on the screen, the less you will feel in real life."
+  - **Whether creators are "bad" depends on your moral framework.** "What people want most in life is to know what is good or bad. And that itself is its own fundamental flaw."
+  - **People are trained to borrow opinions:** "you're told what to believe in [at school]… your parents tell you… a lot of people become conditioned to listen and look for other people's opinion… everyone is just seeking for confirmation, validation."
+  - **Build the muscle to decide alone:** "look at something, come to [a] conclusion, and then not try to look around at other people's faces… to see if your reaction is justified… the more you look at other people for their validation, the more you choose to lose who you are."
+  - **Wants put into your head (again):** "Lamborghini… 9 to 5… hot girlfriend… that's what social media tells you you should have. But is that something you want?"
+  - **Being present (Buddhism):** "many people live in the past… a lot of people live in the future… they're not actually living here."
