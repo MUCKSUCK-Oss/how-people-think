@@ -1853,3 +1853,30 @@ https://www.youtube.com/watch?v=PEoYqO2NOEg · about 3 years old · about "corec
   - **Lazy and cowardly:** "they have the resources to solve the problem… [and] are too scared to confront the problem."
   - **Wanting to be different:** "everybody just wants to be individualistic… the more mysterious you are, the more unique… and the same thing applies to sadness, because we cannot pinpoint a reason why."
   - **He includes himself:** re-reading his old diary, "this is embarrassing… the solutions… are so easy."
+
+## O13. TikTok "Pranksters" Must Be STOPPED
+https://www.youtube.com/watch?v=X8D3U5xrcR0 · about 3 years old
+- **His thinking:**
+  - **Pranksters pick safe targets:** "he picks on the nerdy kid… the Asian lady that works at the supermarket… the ones that will not confront him." He says this undercuts the logic of views, since a bigger reaction would get more views. "They act out of insecurity."
+  - **Comments praise false confidence:** "all the TikTok comments [say] 'wow, Mr Prankster, you are so confident… such a savage'."
+  - **Prank-hate videos are popular because they boost self-esteem:** they're "like the generic motivational [video], except… malicious… they are there to make you feel good… by belittling others."
+
+## O14. Quitting Social Media Results (Dopamine Detox)
+https://www.youtube.com/watch?v=sTKTt6zRHdc · about 3 years old
+- **His thinking:**
+  - **Detox videos are full of placebo and bragging:** "full of placebo, confirmation bias". People quit Instagram and then binge TV, "it defeats the point… they're mainly here to brag about it."
+  - **The real cost is time, not envy:** social media is "exchange[ing] momentary pleasure for long-term consequences… the longer you are on the app, the app makes more money, so everything is developed to waste your time… are you trying to run away from something?"
+  - **Envy is normal:** "being jealous, envious is completely normal… if you look at some muscular dude and you want to be as muscular… that means you're thinking properly."
+  - **Night-time promises fade by morning:** "3 am… I'm gonna start a business… then you wake up… never mind."
+
+## O15. Listening to a Youtuber's Opinion
+https://www.youtube.com/watch?v=zgZLb-3182k · about 3 years old
+- **His thinking:**
+  - **Video essays make you feel smart:** "you're meant to feel smart after… they use big words to make themselves feel smarter, and you're thinking 'yeah, I belong here'… until you realize what they're saying is [nonsense]."
+  - **Bandwagon moralising:** during the Andrew Tate controversy, "every single YouTuber unrelated to him had to make a video about it for easy money, for easy views", telling viewers what they already know ("beating women is bad… thank you bro, I really needed to hear that").
+  - **Check ethos:** "ethos, pathos, logos… it is unbelievably important to look for people's ethos. Is this guy credible to tell me how to think?" He suspects the creator wanted "more views… to tickle his toes into the pot of controversy" rather than to change minds.
+  - **Credibility depends on who says it:** when respected directors criticise superhero films, "people lose their minds", yet critics' scores are trusted.
+  - **"If you want to get a new perspective, go outside."**
+
+## O16. Gen Z's Rising Autism & ADHD Problem
+https://www.youtube.com/watch?v=YGD3AeMoI5Y · *Skipped: no transcript available.*
