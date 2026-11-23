@@ -1412,3 +1412,38 @@ https://www.youtube.com/watch?v=ReTNk6y8td8 · ramboh^2
   - **Gift rather than lend:** when a relative asked for $100, he gave $200 and asked him not to ask again, because "the anxiety alone and constant reminders of 'give me my money' is going to cost me more than the hundred bucks." "The thoughts you have are extremely valuable."
   - **Parents' example carries over:** his parents gave leftover restaurant food to homeless people every night, and "that level of parenting… has trickled down to me", so he bought a homeless man food. He says this is "very anti… the character I have online."
   - **Learning by losing:** he says he lost money on meme coins: "a lesson learned."
+
+## S25. Why You'll Still Have The Same Problems In Your 30s
+https://www.youtube.com/watch?v=5CUVpsx6_0c · ramboh^2 · he analyses a coaching message from a viewer who says he's "burnt out" and has a "mental block"
+- **Main idea:** people describe their problems in **deliberately vague words** ("burnt out", "mental block", "I'm stupid") because **vague labels can excuse anything**. The problem is internal, and advice won't fix it until they look at why they use those words.
+- **His thinking:**
+  - **Read their words:** "you can tell this is something that he describes in his own speaking. This is how he speaks to himself."
+  - **Boasting as insecurity:** the viewer lists his looks, car and body unprompted. "This is like insecurity speaking… you just really have to analyze and pick out the things that would stand out."
+  - **"How do I solve this?" can mean nothing will change:** "it's really a sign that they don't want anything solved… me telling you the answers of the universe is not going to change anything."
+  - **Questions over answers:** "Why do you keep on using the idea of being burnt out? Why is this excuse so prevalent in your language? What are you choosing to avoid?"
+  - **Vague words protect you:** "It's purposely vague terminology that doesn't have a precise answer, so you can keep avoiding an internal problem… so it can apply to everything in case something never goes their way." His own example: calling himself "stupid", which "can apply in literally everything."
+  - **He says he would have been a therapist in another life,** because he has a "passion… to understand the psychology of people."
+
+## S26. This is Why You Don't Do Sh*t All Day
+https://www.youtube.com/watch?v=TIfTe1lPBpw · ramboh^2
+- **Main idea:** productivity isn't discipline but **systems and habits that make work automatic**, plus enjoying the work. Labelling yourself as someone who "gets nothing done" is a self-imposed stereotype you then have to fight.
+- **His thinking:**
+  - **Habits remove effort:** "It is easy to brush your teeth… if it just becomes a habit… you don't really try too hard to brush your teeth… once you have routines and systems in place, it becomes automatic." "Influencers will say 'I work so hard, I'm super disciplined'", but routine does the work.
+  - **Fun isn't hard:** "how could something be difficult if it's something I choose to do?"
+  - **Avoid burnout:** "maybe 4 to 6 hours a day of work… seven days a week… how could I possibly get burnt out when I make sure to not overwork myself?" He also delegates to an employee.
+  - **Self-labels:** "He's labelling himself as someone that just doesn't get [stuff] done… it takes extra effort to break through your own stereotypes."
+
+## S27. Why You Should Lie to Women
+https://www.youtube.com/watch?v=ZZks-FUMhwY · ramboh^2 · *(the title is bait; he's answering "are psychological games in dating bad?")*
+- **His thinking:**
+  - **He doesn't play games, for his own peace:** "if it works for you… [fine]… but… I don't do that just because I like to keep my mind at peace… I am a long-term guy." He told his partner upfront that long distance wouldn't work for him: "I don't play those games."
+  - **Drama keeps relationships "exciting":** he cites *The Art of Seduction* (Robert Greene) on routine killing relationships, and on-off breakups as "the most emotionally spiking type of relationship". He chooses not to, because of "the emotional and mental stress".
+  - **Creators pretend for money:** "so many YouTubers… talk about a specific genre… you're 25… making high school videos… because it pays the bills… They do so many things that are anti of what their content is." He compares it to acting differently at work: "You don't act like yourself when you're working your job at McDonald's."
+
+## S28. Why Your Friends Suck
+https://www.youtube.com/watch?v=VQOiJNmvAv0 · ramboh^2
+- **His thinking:**
+  - **Respond to disrespect openly:** "if you… let them slide or be subtle… most people who are sharks are going to take advantage of it… If you're disrespecting someone, what would you not want them to do?… be loud… stand up for themselves."
+  - **Friends by proxy:** "most people have friends, but not because they're actually friends… they're friends by hobbies… because you went to the same school… Doesn't mean you should still be friends. There are a lot of logical fallacies… that make people still be friends with people that should not be your friend."
+  - **Fitting in to avoid looking like a loser:** in high school he "would act normal… because I wouldn't want to eat alone at lunch… [people] there to entertain you and not make you look like a loser."
+  - **Some friendships are transactional:** he admits he is friends with some influencers "because they can make me more money… that's messed up to say."
