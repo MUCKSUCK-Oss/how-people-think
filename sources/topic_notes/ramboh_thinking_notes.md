@@ -2044,3 +2044,16 @@ https://www.youtube.com/watch?v=bS95KKkRnlM · about 3 years old
   - **Price anchors, or plain greed?** He tests the "price anchor" explanation (an expensive item exists to make deals look good) and rejects it when "all the products are still expensive".
   - **Inflation as cover for higher margins:** "inflation has allowed these companies to be greedy… they don't care if you buy less, because there are people out there that will still buy." He plays a news clip quoting company earnings calls: "consumers get used to it… when all prices go up it helps… inflation has been a positive for us". Record profits were "paid out to shareholders".
   - **Feeling betrayed by a favourite brand:** "it's like your friend… you've been with them for five years."
+
+## O38. The Satisfying Downfall of Gen-Z Romance
+https://www.youtube.com/watch?v=qDTDJJ3N880 · *Skipped: no transcript available.*
+
+## O39. A TikTok Ban Won't Stop Gen Z's Scrolling Addiction...
+https://www.youtube.com/watch?v=WV0DnHyU7gI · about 1 year old
+- **His thinking:**
+  - **Banning one app changes nothing:** "every other social media app is just as [much] a waste of time… when taken away I defaulted to… TV shows, video games… this addiction will not go away because I was internally dissatisfied."
+  - **Quitting has a cost:** "social media is so deeply integrated into our culture that you would be at an information disadvantage if you don't use it."
+  - **Entertainment is needed, so the issue is balance:** "the problem is not the damn phone but the balance."
+  - **His method:** add friction (greyscale, extra login steps), get comfortable with silence ("I was running away from my internal monologue"), then boredom pushes you to do things.
+  - **"Productivity is fake":** people who work more "receive so much more satisfaction… stronger fundamentals".
+  - **Withdrawal hurts:** "people who choose to overcome addiction face a physical pain… encouraging you to go to that Instagram."
