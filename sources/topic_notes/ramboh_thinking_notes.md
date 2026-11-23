@@ -619,3 +619,115 @@ https://www.youtube.com/watch?v=GmAB4jehzM4 · about 10 months old · 389k views
   - **The downside of low inhibition:** acting without thinking gets him cancelled for racist and sexist remarks and causes relationship drama.
   - **Don't idolise him:** "There should not be this praise and obsession over other celebrities… sometimes people don't want to hear the truth because they don't want their illusions destroyed."
   - **His conclusion:** "You're constantly distracted by how other people think… that prevents you from making the right decisions."
+
+## R21. MoistCr1TiKaL Is What Nietzsche Warned Us About
+https://www.youtube.com/watch?v=HhM2rjWPwbw · about 9 months old · 109k views
+- **Main idea:** **audiences pressure creators** into negativity and moral posturing. A creator who admits drama content makes him unhappy keeps making it, because it sells. The crowd also **punishes anyone who tries to change**.
+- **His thinking:**
+  - **The crowd wants a moral leader,** so famous people perform morality "because they're under obligation to… because you are famous". He calls this "the audience pressuring the artist".
+  - **Admitting it doesn't stop it:** he plays MoistCr1TiKaL saying drama coverage makes him unhappy and he'll pump the brakes, then shows the channel full of drama again. "Every person that does social media does it for the views and money… negativity… sells way better."
+  - **Nietzsche:** "We are so used to disguising ourselves from others that we end by disguising ourselves from ourselves." "Do you have enough courage to deny what people want out of you?"
+  - **Lost identity from pleasing everyone:** he says Moist is "not a liar" but "so lost and confused in his own identity, trying to play politics, trying to get everyone to like him". His example is demanding moderation from one platform while attacking another for moderating.
+  - **Audiences punish change:** Kai Cenat wanted to step away from streaming's expectations. "Once he tries to step outside of the mold, people will hate him for it, because you're not dancing the way I want you to dance." He plays Kai: "When you in the entertainment business, you can't change… I got to be the same as last year." Nietzsche's "become who you are": "key word become."
+  - **The crowd turns peaceful people bloodthirsty (Augustine's *Confessions*):** he tells the story of Alypius, who hated gladiator games, was dragged to the Colosseum, and became "a mindless drone that screams for death". "People deep down want to hate on something." Media always adds conflict (even the Super Bowl) "because that's what captures our attention". "Don't get swayed by the energy."
+  - **Even justified hate harms you:** "Even if the thing is objectively bad… it is not good for your soul."
+  - **He admits the trick:** people keep watching his video because "I'm hating on someone you really like or… someone you don't like."
+
+## R22. Logan Paul Is Finally Getting What He Deserved…
+https://www.youtube.com/watch?v=lyauVWAEYMg · *Skipped: no transcript available.*
+
+## R23. How Teenage Retards Make $10k A Month
+https://www.youtube.com/watch?v=zsiaJL7f9jI · about 1 month old
+- **Main idea:** young people making big money online aren't just "lucky scammers". They use **leverage**: one hour of effort that pays out many times over. People who earn by the hour can only grow their income in a straight line.
+- **His thinking:**
+  - **Calling it luck is a defence:** "what happens to those that are lucky? They are the most prepared." "The only real test of intelligence is if you get what you want out of life."
+  - **Leverage like a lever (Archimedes):** an hour at McDonald's is worth $20, and he plays a divorce lawyer billing $850 an hour who also earns from the staff under her. "An hour is an hour… How is there such a big difference? Because of leverage."
+  - **Three kinds of leverage:** **money** (compound interest; "$1M in the S&P 500" gives about $100k a year), **media** (one good song, video or movie "pays you till the day you die"), and **code** (it scales without limit). Warren Buffett beat a smarter classmate by investing in companies, where others work for you, rather than steel.
+  - **The story that "it's harder now" is wrong for online work:** in the 1900s you needed a bank loan and a restaurant; now "all you have to do… is create a website". He thinks "it's bad if you follow the path that was created for you, which is only created so you can be exploited."
+  - **"Everything's a scam" talk keeps people back:** "It's only a scam if you… can't make money… It would be a horrible shame… if they don't believe these ways of making money [are] possible."
+  - **The key condition: "it has to be good."**
+
+## R24. how to get invited to epsteins island...
+https://www.youtube.com/watch?v=0URu0OUe1ww · about 9 months old
+> ⚠ *The video is mostly **sarcastic**, and it plays many **conspiracy clips** (Pizzagate-style "code words", a "cannibalism" claim, "Epstein is alive in Tel Aviv"). None of this is evidence. Recorded only for his thinking about trust and about how people read information.*
+- **His thinking:**
+  - **Mutual blackmail builds trust among the powerful:** "When powerful men stay silent, they are considered safe because if they whistleblow, it would be mutual destruction. Both parties have nukes." He says the same happens in ordinary friendships: "if you want to deepen your bond… you tell them a secret, and… they equally reciprocate."
+  - **At the top, trust beats money:** "When you're at such a high level… money, power… don't make a difference. You need trust."
+  - **People find what they're looking for (his warning at the end):** "There's 3 million files… Nobody's actually consuming everything. They're reverse engineering the information they want to find… searching for specific names, specific keywords, and that will only give people a partial picture."
+  - **Creators use it for attention:** "as a content creator… it's more or less to grow and gain publicity."
+  - **Powerlessness:** "What are you going to do about it?… The government is not going to arrest people."
+
+## R25. Does Joe Rogan Deserve To Live?
+https://www.youtube.com/watch?v=9NWm5g15I6g · about 4 months old
+> ⚠ *It includes an antisemitic aside about Michael Jackson and the music industry, and COVID-vaccine claims from clips. Recorded only as his argument; do not quote.*
+- **Main idea:** hate channels make steady money attacking one celebrity. Ramboh says Rogan's content got "safer and more boring" **because he was publicly misrepresented during COVID**, not because he lost curiosity. The same clip gets opposite reactions depending on **framing**.
+- **His thinking:**
+  - **Hate as a business:** he says three channels each make about $10,000 a month on Rogan videos, with hundreds of uploads. "This borders on obsession… they make more than a doctor." They all have one theme: "he's too famous and not using it properly."
+  - **Being misrepresented makes people play it safe:** he cites the "horse dewormer" coverage. "You can no longer entertain a certain idea… because… news companies will go after you", so he books "comedians, MMA, the same political beliefs". "To be misunderstood is as if you are not respecting someone as a human being."
+  - **Independents get targeted:** "When you are an independent artist or creator, a lot of entities will try to take you down because you are not in their control." *(His opinion.)*
+  - **Framing decides the reaction:** Rogan's apology on a hate channel drew comments that he "deserves to die", while a plain re-upload of the same conversation drew positive comments. "The answer is perspective and framing."
+  - **Pile-ons as a hobby:** he plays a clip: "People have this ability to complain… and then people pile on… It's a good weapon… if you see a window and you got a rock, you feel like throwing that rock… you can find a justification."
+
+## R26. Do Twitch Streamers Deserve To Live?
+https://www.youtube.com/watch?v=NDoaR0dco4o · about 4 months old
+- **Main idea:** "no one can exist without stimulation anymore". Live streams and endless scrolling are **distractions people choose because they're running from something**, and companies compete to "colonize every minute of your life".
+- **His thinking:**
+  - **FOMO about time:** live streams feel valuable because "it's happening right now. You are one of the few people that get to experience it… I was there. I was one of the first." He plays a clip about anxiously channel-surfing for "something really good on another channel".
+  - **Distraction is chosen:** "Content doesn't make people distracted, because people would want to be distracted anyway. Everyone is running away from something." "It's way easier to blame companies… but you have self-agency."
+  - **The attention economy (a clip he plays):** public tech companies "have to grow… We colonized the entire earth… then they realized human attention… they are now trying to colonize every minute of your life."
+  - **Streamers are ad vessels:** they're paid so well "because they are a vessel to feed advertisements on your screen."
+  - **"Nobody is ever actually here":** phones and headphones everywhere, at the gym and in cafés. He calls phone addiction "a silent killer… It kills your humanity."
+  - **Wants put into your head:** "Most of the things that you want are constantly being told to you… Subconsciously, you assume, well, everyone wants this, so I must want it too."
+  - **Visceral reactions over art:** viral content must make you "feel something" (happy, shocked, angry). He plays a filmmaker saying Netflix asks for an action scene in the first 5 minutes and for the plot to be repeated "because people are on their phones". Constant emotional content means "nothing means anything anymore in the real life."
+  - **Overuse dulls feelings:** constant music and scrolling make "it all feel the same now… it slowly grays out your life."
+  - **Waiting keeps the dream safe (a clip):** "As long as the business never starts, it could still succeed… some people spend their whole lives there."
+
+## R27. Why Child Prodigies Are F*cking Idiots
+https://www.youtube.com/watch?v=hKmlZ0FpN28 · about 4 months old
+> ⚠ *It includes repeated mocking jokes about a former child prodigy being transgender, and stereotype jokes. Recorded only for his argument.*
+- **Main idea:** child prodigies (chess, maths, music, languages) are mostly **normal kids with a head start in "linear" skills** that have one right answer. Society and parents mistake **copying for intelligence**. His view: "The truest test of how intelligent you are is the ability to create."
+- **His thinking:**
+  - **Children's brains learn fast** (plasticity), so early starters dominate step-by-step skills. "They are just copying something."
+  - **The "prodigy" story sells:** TV shows repeat the same act ("compared to Mozart"), and audiences love "so much potential".
+  - **Luck of birth month (the relative age effect, from a clip he plays):** in Spanish football, many more players were born early in the year. School and league cut-off dates mean the oldest children look more talented, get picked, and the advantage builds all the way to professional level. He extends this to children born late in the year being diagnosed with ADHD more often "but in reality, they are just younger."
+  - **Titles aren't intelligence:** a "world's highest IQ" holder who he says paid for the title.
+  - **The world rewards creativity and flexibility:** good doctors and lawyers judge case by case, while memorisation is something "my phone" does better.
+  - **Pressure from parents and praise:** constant "you're smart" from TV and parents loads children with expectations. The children on stage "don't even know why they're doing it."
+
+## R28. Why Music Addiction Is For Retards
+https://www.youtube.com/watch?v=GsNnXa2R0mY · about 1 year old
+- **Main idea:** constant music, podcasts and scrolling are a way to **avoid silence**, because silence brings up insecurities and the lack of meaning. "Entertainment is not the enemy. Mindless consumption is."
+- **His thinking:**
+  - **Phone addiction is an everyone problem now,** not just a young person's problem.
+  - **Philosophers had time to think;** now every quiet moment "is interrupted with music, YouTube shorts, TikTok, a podcast".
+  - **Silence as a mirror:** "the silence is a mirror of how unsettled our minds are." People "pop in that AirPod" to drown out insecure thoughts ("that person looks better").
+  - **Scrolling trains a jumpy mind:** "every scroll is a completely different context". He links this to a rise in ADHD diagnoses. *(His claim.)*
+  - **Hunting for a feeling:** you keep scrolling "for that golden video that will give you the emotion you're seeking for" instead of finding it in real life.
+  - **No meaning leads to pleasure-seeking:** "When a man can't find a deep sense of meaning, they distract themselves with pleasure": binge-watching, short relationships, drugs, possessions.
+  - **Desire causes suffering (Buddhism, *The Power of Now*):** "Insecurity stems from what you don't have. Anxiety stems from what you want to be." But giving up all desire stops progress, so it's "a fine line".
+  - **His practical advice:** don't eat while watching videos, don't scroll while brushing your teeth, and remember "you are in the present and you can handle the present."
+
+## R29. Unemployed, Jobless, Bum Loser, Retard
+https://www.youtube.com/watch?v=fWx9AtCbIB4 · about 5 months old
+- **Main idea:** two ideas side by side. Philosophers said paid jobs "degrade the mind" and make you a slave to status. But **work itself gives people meaning**, and people who stop working (retirees, the laid-off) often fall apart. The problem is working **for status or to please others**.
+- **His thinking:**
+  - **The end-of-the-world story never stops:** COVID, inflation, tech layoffs, AI, war. "The question is, what are you going to do about it?"
+  - **Freedom as the human theme:** "there is always a suppressor… what enslaves you?" People risk six-figure jobs to become influencers "for the opportunity to be free".
+  - **Work gives meaning:** Japan creates light jobs for elderly people so they "feel needed by society", and he says the comments mock this. Retirees get depressed (he reads a comment from someone who regretted retiring). Notch went back to making games. "Our entire existence is to contribute… And that makes us happy." "Nobody wants to ever feel like a burden."
+  - **Status corrupts work:** "You're not working to actually contribute… but instead bigger number equals I am better than you."
+  - **Identity tied to pleasing parents:** a laid-off Google engineer says his whole identity was his job and making his immigrant parents proud. "How could you ever be a free human being if you are living for someone else?"
+  - **Robert Greene's *Mastery* (his reading):** the older you get, the harder it is to find your passion, so look young. *(The video then pushes his paid community and one-on-ones.)*
+  - **Deathbed regrets:** "I wish I had taken that risk… spent less time working for somebody else making their dreams a reality."
+
+## R30. You Should Work Less & Travel More Young
+https://www.youtube.com/watch?v=C_5D1iOGGqQ · about 2 months old
+- **Main idea:** people over-work out of **guilt and fear of looking uncommitted**, and chase goals they believe will change them. **Time feels faster with routine and slower with novelty**, so experiences matter. But a trip won't fix your character.
+- **His thinking:**
+  - **The martyr complex:** Americans leave paid vacation days unused ("800 million days… $65 billion lost", his figures) because staying "demonstrates higher dedication". "Too much work will pile up… you feel guilty… fear of looking uncommitted." "The work will always be there."
+  - **Promotions come from social skills, not hard work:** "socially climbing the ladder, talking to the right people… If you're taller, more attractive, you get paid more."
+  - **Ask what the goal is for:** "Why are you working so hard towards this goal? What will this goal give you?… Do not make the same mistake… of just being autonomous [on autopilot], going with the flow."
+  - **Vacation study (a clip):** recovery takes about 8 days, stress comes back within about a week, so take short breaks often. *(Presented as research; unchecked.)*
+  - **Time perception:** a year is a bigger share of a young child's life, so "half your life" feels like it's over by your 20s. "Novelty slows time down. Routine speeds it up."
+  - **No finish line:** "I so desperately wanted to be a YouTuber and I feel exactly the same." "Your goal is not going to change who you are… the whole journey is about the process."
+  - **Seneca (*Letters*):** "A change of character, not a change of air, is what you need." Many trips are "superficial", just photos for Instagram.
+  - **"If you have the privilege to watch my videos, you have the privilege to make time for yourself."**
