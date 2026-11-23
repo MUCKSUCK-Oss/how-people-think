@@ -1932,3 +1932,21 @@ https://www.youtube.com/watch?v=HE6kqDEAmAA · about 1 year old · 706k views *(
   - **Choosing goals by social acclaim:** "I want to become an influencer, a rapper, only because there is so much social acclaim… people think the general idea is the right idea."
   - **Natural strengths matter:** "this is not an anime where effort… will get you everything… someone will put in equal effort… but be naturally physically better." Pick three things you're naturally good at, then look at each market.
   - **Learning as procrastination:** "they never start but they feel like they've started because they're learning so much… action is the greatest way to learn."
+
+## O24. Gen Z "Double Standards" Must Be Stopped
+https://www.youtube.com/watch?v=2gD_52kXLBE · about 2 years old
+- **Main idea:** people notice "double standards" **only when they're on the losing side**, and **ignore the downsides of the other group**. That selective ignorance **excuses them from accountability**.
+- **His thinking:**
+  - **"Double standards… exist based on what you choose to be ignorant of":** men focus on the downsides of being a man and only the upsides of being a woman, and women do the same. "We nitpick the worst parts and then we look at the pretty outside [of the other box]."
+  - **Why people stay ignorant:** "because it excuses us of accountability… If I can't blame being a man anymore… what else can I blame it on?… at some point… you run out of excuses and you take accountability."
+  - **Luck as missing information:** "luck does not exist… a coin flip… is just the lack of information."
+  - **Only your own unfair treatment counts:** "people only recognize double standards when they are the one being treated unfairly." Helping people you pity is "already a double standard", but it makes sense from the helper's experience.
+
+## O25. Insecurity Upgraded My Life
+https://www.youtube.com/watch?v=-Pd1tR9mwm0 · about 3 years old
+- **Main idea:** insecurity, often called bad, **can drive improvement**. His acne gave fast feedback that stopped him overeating.
+- **His thinking:**
+  - **Fast feedback changes behaviour:** eating a whole tub of ice cream led to pimples the next day, so he "could correlate between the two", while weight gain is too slow to notice. *(His personal theory.)*
+  - **Caring what others think can help:** "if I didn't care about what people think… I'd overindulge… 20, 30, 40 pounds heavier."
+  - **A study he cites:** "two Stanford professors" studying immigrant groups found that more insecure groups succeeded more. *(His recollection; unchecked.)*
+  - **Memories change with perception:** a humiliating comment about his acne is "ingrained… because it was embarrassing", and now it's funny "because I'm much more grateful."
