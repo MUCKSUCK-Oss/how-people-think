@@ -1618,3 +1618,14 @@ https://www.youtube.com/watch?v=ghdNuKTB1OE · ramboh^2 · *(the title is bait; 
   - **Humiliation doesn't go away:** "humiliation isn't something that you overcome, because it will never leave… [get] humiliated more."
   - **What people pay for:** "you're paying for the time you are being saved" and for **accountability**. "With all those expectations and consequences in line, you start doing the things you should have been doing."
   - **Deadlines need consequences:** "the reason why it never happens is because you do not have enough consequences." His extreme thought experiment: with a gun to a loved one's head, anyone would meet the deadline.
+
+## S49. College Dropout Interviews Depressed UCLA Student
+https://www.youtube.com/watch?v=ZCce6hs_V9Q · ramboh^2 · a 69-minute talk with a childhood friend at UCLA *(the first part was read)*
+- **His thinking, in his own words, plus the friend's points he agrees with:**
+  - **People change when a camera turns on:** "a lot of people change their personalities very quickly [on camera]… there's a viewer component."
+  - **People-pleasing at college:** the friend admits he was "a people pleaser… I'm doing well, but like really I'm not." Ramboh says the friend takes on too many club roles to "impress them" instead of doing "what he wants to do".
+  - **Environment switches personality ("pendulums"):** "once they get to that college, they pretty much face a pendulum… this energy that takes over a person… a big personality switch, and then once they go back to their spot… 'oh my god, this is who I am'… they keep on rebounding every single time they change their environment."
+  - **Doing just enough for others:** "I didn't really care about my coding classes, but I cared enough to get an A. I didn't really care about my clubs, but I cared enough to… impress people."
+  - **Peers egg on bad decisions:** the friend's college friends encouraged a drunk apology plan that Ramboh thought was obviously bad. He uses this to explain why he keeps few friends.
+  - **Reaction matters more than events (the friend's line he agrees with):** "Everyone can experience the same [thing], but how you react… differentiates."
+  - **His view of psychology as a subject:** "it's not a real science… every single time I enter a classroom about psychology or philosophy, I don't learn anything new." *(His opinion.)*
