@@ -2233,3 +2233,38 @@ https://www.youtube.com/watch?v=42xHuo0wH9Y · *Skipped: no transcript available
 - NBC News, unverified "beheaded babies" claims: https://www.nbcnews.com/tech/internet/unverified-allegations-beheaded-babies-israel-hamas-war-inflame-social-rcna119902
 - PolitiFact editor's note: https://politifact.com/article/2023/nov/21/editors-note-politifacts-coverage-of-beheaded-babi/
 - Dawn: https://www.dawn.com/news/1780518
+
+---
+# Round 5: Shorts (@Ramboh/shorts, 48 Shorts listed)
+> Most of the 48 Shorts are **cut from long videos already noted** (the David Goggins series, the college-debt series, GTA 6 parts 1–7, AI slop, and 5 cruise travel clips with no ideas). Only the Shorts with a stand-alone idea about how people think were read. His thinking only.
+
+## SH1. Why you're racist even tho you know it's wrong (IStnzyjr1G4)
+- **Judging by category is a brain shortcut, not evil:** "we do this not because we're evil, but because the world is already complex and our brains would overload. So you need to simplify… even simplify human beings."
+- **That is why racism spreads:** "it simplifies someone and tells you how you should judge them without actually having to do an 8-hour long conversation about their traumas."
+- **The shortcut didn't go away; it moved to politics:** "it has changed into which political party do you believe in? Are you a Democrat? Are you a communist?"
+
+## SH2. Why we love discriminating (uBQR_JowWi4)
+- He reads a clip of someone saying they could never date a person from the other party, with "Republican" swapped for a race. **"He's just discriminating, but… not on race, but instead of political views. Everyone is craving to judge people based on a characteristic. And politics is the new way to do [it]."**
+
+## SH3. Politics crazed people crave this (wDVdzrfbjow)
+- **People obsessed with politics want certainty:** "they want to know that things are real truth… as if it's some mathematical equation."
+- His answer: "all I know is that I know nothing… everything comes and goes. Back then you couldn't fly. And now you can fly."
+
+## SH4. Why you love politics (Lw8UMRRNJYI)
+- **People buy what they feel they lack (a marketing rule):** "people gravitate towards a thing that you don't have." Politics sells the feeling of being an activist: "as if you're doing something for the world… You are someone that cares and matters." *(He opens with an insult towards political people.)*
+
+## SH5. Can people with messy rooms be good politicians? (OO0ZS6geqXE)
+- **Fix what is close before what is far:** "It's not even about immigrants… What about the city? What about your own home?… You should probably have a better relationship with your parents… But instead, you spend all day painting BLM… on your face because you're an activist."
+
+## SH6. Everything that is liked by everyone is not art (JPUc766FWUo)
+- **Made-to-please ≠ art:** a blockbuster "was created for it to be good… to be liked by everyone", so "it can never actually be anything more than just liking it."
+- **Value comes from who it was made for:** "Your mom's cooking is the best… because your mom made that meal for you."
+- A creator who "exists to just please people" using AI is unsurprising to him, because AI is "a tool that's only meant to be for everyone". *(Contains a homophobic jab; not repeated.)*
+
+## SH7. Americans maybe too obsessed with freedom and independence (hMzUtj55HVg)
+- **Independence as a cultural script:** students leave good homes and loving parents for worse, costlier housing because of "this obsession with being free… I don't want my parents near me."
+
+## SH8. Culture born out of poverty still culture? (ftphWW_GDYI)
+- A clip of X6 (struggle seen as maturity, which shapes ads). Same ⛔ warning as Round 4; already noted there.
+
+*Not readable:* "Bet you didn't know this about happiness" (no transcript). The Goggins and college Shorts are clips of long videos R-series / O-series already covered.
