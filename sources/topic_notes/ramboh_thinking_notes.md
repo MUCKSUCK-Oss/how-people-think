@@ -1509,3 +1509,34 @@ https://www.youtube.com/watch?v=jlPezldUP0s · ramboh^2 *(he opens with a claim 
   - **The group follows its leader's taste:** in middle school "everyone hated [the song] too because [the group leader] hated the song."
   - **Socially skilled bullies:** "most bullies… are not stupid… he naturally understood social cues, human dynamics, and takes advantage of it extremely well." He predicts such people will "have a chokehold" in workplaces too.
   - **Cruelty then kindness builds loyalty:** "if you treat your enemies extremely poorly and then you give them earnest kindness, you make the most loyal followers." His example: a boy the leader had isolated later became his most devoted follower.
+
+## S37. Why I Don't Have Any Friends
+https://www.youtube.com/watch?v=N_RBW5XCKaw · ramboh^2
+- **His thinking:**
+  - **Who you spend time with across life:** "when you're a kid, most of the time you spend is with your parents… then… friends… and then for… the rest of your life… your wife, your lover." So he puts a partner first and friends second. *(He presents this as statistics.)*
+  - **Missing the right person through fear:** "so many people are too scared to talk to people… and because of it, they ruin it for themselves."
+  - **People want you to win, but not by too much:** "people don't want you to grow and prosper… they want you to grow… but less than them… because it hurts people's ego." He describes a worker who announced he was going back to school and was resented at work for it.
+  - **His own path:** overfed as a child by immigrant parents for whom "food was very important", then lost weight and "had a lot of friends… trying to please other people… that's bad".
+
+## S38. The Time I Got Betrayed and Lost Everything
+https://www.youtube.com/watch?v=VKXH6QH_tqI · ramboh^2
+- **His thinking:**
+  - **Betrayal is inevitable when you trust:** "when you work in business long enough, people will burn you… it is inevitable that you will meet someone… friend, family member, lover… that will betray you… they take that vulnerability to their advantage."
+  - **Being burned makes people stop delegating:** his relative won't hire help, which holds her business back, "because she probably got burned".
+  - **Trust and vulnerability:** as a young boss he raised pay and gave bonuses because he "was not able to say no" and wanted to build trust. The editor overstated her hours and later deleted a shared account.
+  - **"People pretend they work more than they actually did."**
+
+## S39. Why My Fans Are Retarded
+https://www.youtube.com/watch?v=1zrmL0ftIBw · ramboh^2 · he replies to "your videos all say the same thing: be grateful, be yourself, improve"
+- **His thinking:**
+  - **Reminders, not new information:** "A lot of people know what to do, but they're not reminded or not kept accountable… Every single idea, opinion that's been stated has already been stated before." *(His videos are "entertainment first".)*
+  - **Not everything has to be productive:** "If everything you value is life-changing, productivity maxing, then that's not a life worth living." His most memorable times, like family camping by a fire, were "completely unproductive".
+  - **People want fixed truths:** "people love to cling to ideas as if it is truth… because… uncertainty… people don't like… It needs to be set in stone because if everything is constantly changing, I'm unable to adapt." "Be like water."
+
+## S40. Why Content Creation is Harder Than a 9-5
+https://www.youtube.com/watch?v=0_kwdz94o6g · ramboh^2 · recorded live
+- **His thinking:**
+  - **Influencers' humility is performed:** "every single influencer that says 'I have so much respect for the people working… normal jobs'… they're lying… Everyone is self-centered… people believe and feel their own struggles more than other people's, because you can only perceive your own world." He uses the drivers-above-average example again.
+  - **Fast-food jobs aren't as bad as people say:** "there's many people you meet at fast food where they're 30… 40… it's because it's a good job" (a 59-year McDonald's worker clip). "Do not shame people that work fast food."
+  - **Attention is scarce:** "everyone assumes watching a video is free, but… time is extremely limited… there's only a few slots left for people to make a lot of money doing social media."
+  - **Live streaming is mentally demanding:** "multiple layers of thinking all at once": making a point, holding a live audience, and recording for a later one.
