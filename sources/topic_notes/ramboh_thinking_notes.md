@@ -1782,3 +1782,23 @@ https://www.youtube.com/watch?v=Gldw9KlF8Ok · about 2 years old
   - **The word itself manipulates:** "people are trying to manipulate you by adding the negative connotation to manipulation… The definition: to handle or control in a skillful manner. Is it bad to want control?"
   - **Everyone seeks control:** through religion (control over vices), nihilism ("nothing matters" gives control), and animals competing for resources. "If you don't manipulate your innate desires, it will manipulate us… if you don't manipulate others, you will be manipulated." *(His claim.)*
   - **The paradox of control (Buddhism):** "if you want more control you have to let go of control over other things." His example is a classmate who refused to drive for fear of other drivers, giving up freedom for a feeling of control.
+
+## O5. Gaslighting is Awesome
+https://www.youtube.com/watch?v=j5G2qqZARoc · about 2 years old *(the title is bait; it's about placebo, expectation and social influence)*
+- **Main idea:** **expectations shape how we feel and act**, and they come from **association** (past experience) and **other people**. Statistics and labels about your group can become expectations that you then live out.
+- **His thinking:**
+  - **Placebo needs association plus expectation:** he cites a study where people injected with sumatriptan (which changes growth hormone and cortisol) later showed the same hormone changes when injected with saline. *(His summary; unchecked.)* So the TikTok "fake alcohol" videos with kids aren't true placebo, because the kids have no association with being drunk.
+  - **Peers set expectations:** the kids still act "drunk" because "they have expectations created by their peers". A baby cries after parents overreact to a fake bump: "the parents are gaslighting the child to feel a certain way."
+  - **Adults too:** he plays a Vsauce experiment where adults given flavoured water and told its side effects reported them, as "informational conformity or… contact high".
+  - **Statistics as expectations:** he quotes figures about young men's depression and suicidal thoughts *(his numbers, unchecked)*. "When you're statistically inclined to be depressed… you will start finding links in your life as to why you should feel that certain way… you are just abiding by the societal expectations thrust upon you." He says he isn't an outlier: "I do not allow the expectations… to apply to me."
+  - **Public images split people:** celebrity apologies say "I don't know who that was… that's not me", because "they've been propped up" as a nice image that differs from who they are.
+
+## O6. I learned a system for thinking logically
+https://www.youtube.com/watch?v=_Nadmkj4caw · about 2 years old
+- **His "three-filter" decision checklist:** (1) what is your real goal? (2) does this choice align with it? (3) can you "afford" it, which isn't about money but "who you become".
+- **His thinking:**
+  - **Goals set to impress others:** "all these pretentious adults have a script… to say grand ambitious goals not for themselves but to please other people… People would rather take a $10,000 pay cut to have their job titles sound more sophisticated." "Midlife crises occur because people chase the appearance and pleasure of other people's opinion."
+  - **Choices change you:** "choosing to hang around a group of thugs shapes who you are… Actions define you, not the words you use to describe yourself."
+  - **Fear of big goals:** "fear that… I would spend the rest of my life chasing something that isn't possible… if I try my absolute hardest it would have never been enough… that's embarrassing."
+  - **Cynicism looks smart but feels worse:** "a cynic… is actually seen to be more intelligent than the person who's ignorantly positive… but cynics… live a worse quality of life… if you're constantly judging the intentions of other people… that worldview bleeds to other parts of your life." "Seeming dumb and ignorant is what is required to believe in your grand dreams" (the Wright brothers).
+  - **Success can't be copied:** Warren Buffett's or an athlete's choices rest on judgment "impossible to articulate", so "there's no step-by-step plan."
