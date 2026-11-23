@@ -2134,3 +2134,18 @@ https://www.youtube.com/watch?v=J90Fek5Au54 · about 1 year old *(an earlier ver
   - **Every generation panics about new media:** he shows a 1907 complaint about families "silent, each… with his head buried in his favorite magazine". "Every generation likes to belittle the younger one."
   - **"Just because something makes us feel good does not mean it is bad"**, but unintentional, constant use is the problem. "There's nothing wrong with intentional brain rot."
   - **Tolerance like a drug:** constant music or podcasts "to the point where it's no longer meant to make you feel good but normal… without background noise something always feels off… the food no longer tastes as good." *(His dopamine explanation, unchecked.)*
+
+## O50. skills to learn before school 2025
+https://www.youtube.com/watch?v=8va5eFeqDzs · about 1 year old
+- **His thinking:**
+  - **"Skills to learn" videos target insecurity:** "the equivalent of doing insecure late-night push-ups… this self-improvement genre on YouTube targets the insecurities of men."
+  - **Intention first:** "the very first skill you must learn… is intention, and… distinguishing… other people's intention towards you." Ask why a creator listed those skills.
+  - **A quote he half-agrees with:** "the rich get richer because the poor think every opportunity is a scam." He also says most self-help books he read "were not worthy of my time… I got cheated."
+
+## O51. Logan Paul's Downfall Won't Ever Happen Again...
+https://www.youtube.com/watch?v=E_zyE_YylIg · about 3 years old
+- **His thinking:**
+  - **Hate keeps a celebrity relevant:** "if you hate on Logan Paul for being successful… he becomes more successful because he's based on relevancy… there's this trend of YouTubers making the exact same video."
+  - **Villain of the week:** "nobody gives a [damn] about Logan Paul. He is the villain of the week… next season they'll hate on [someone else]… nothing ever happens to them… if anything it becomes better… there's more eyes on them."
+  - **Skill outlasts scandal:** "these people are famous for a reason. They have a skill… if they keep on providing that skill they can maintain it."
+  - **He calls himself a "hater"** and says he understands the emotion.
