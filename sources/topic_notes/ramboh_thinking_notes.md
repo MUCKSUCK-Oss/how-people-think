@@ -1186,3 +1186,83 @@ https://www.youtube.com/watch?v=4fEIzUA8e3Q · about 1 year old · an 84-minute 
   - **Health claims he makes on air (unchecked):** running "grows… the mid-cingulate cortex… the seat of your willpower", and exercise "is 1.5 times more effective than SSRIs". He tells depressed viewers to start exercise before medicine. *(⚠ These are his medical claims, not checked. They should not be repeated as advice.)*
   - **Does being mean raise value?** He asks whether being mean to someone made them more attracted ("it raised the perceived value… not desperate", as the guest answers).
   - **Live trolling:** he warns the guest that viewers will mock him, and says he's glad the guest "didn't do anything bad to yourself".
+
+---
+# Round 3: his second channel, ramboh^2 (@ramboh1)
+https://www.youtube.com/@ramboh1 · about 4.5k subscribers, 131 videos, described as "background noise & Self Improvement". These videos are shorter and more personal. Same rules: his thinking only. Videos chosen by how well they fit "how people and society think".
+
+## S1. Why You're a B*tch for Fitting In
+https://www.youtube.com/watch?v=IKK0PMZtTLQ · ramboh^2 · he reacts to a viewer's post about lying constantly to fit in
+- **His thinking:**
+  - **Everyone feels pressure to fit in, and some fitting in is needed:** "Anyone who says they don't have the pressure to fit in [is lying]… That's a normal emotion." "There are levels you kind of need to fit in to function socially" (no neon outfit at a funeral).
+  - **Guilt about having feelings:** "there's always this guilt of having emotions as if you shouldn't be feeling them… 'I shouldn't feel the need to fit in.' Why?… It's normal."
+  - **Lying to be validated:** "Who lies for no reason? That's a lie. There's always a reason… he's lying to be validated socially." He recognises it in himself: in middle school he deliberately hid his ability to blend in, copying an anime character.
+  - **Agreeing automatically:** the viewer says "whenever someone disagrees with me, I instantly agree." His answer is *The Courage to Be Disliked*: "all that was required is a little bit of courage."
+  - **Obligation to parents and strangers:** a viewer with a millionaire father "has this obligation to live up to his parents' expectation… if you don't care about your parents, you feel the pressure with strangers." Impressing people is fine "but it needs to be the priority of you first."
+  - **Some limits are good:** responding to "people shouldn't be afraid to state what they believe", he says "a level of rules and… expectations to be normal and respectful is very important" (online anonymity brings out slurs).
+
+## S2. Why Debates Are For Retards
+https://www.youtube.com/watch?v=aY_nOISceVg · ramboh^2
+- **Main idea:** public debates aren't real conversations. **Both sides perform for the audience** and nobody changes their mind.
+- **His thinking:**
+  - **A conversation's purpose** is "to learn, change their mind, and progress together". A public debate becomes "this measuring contest of trying to prove to the viewer, not to the person you're talking to."
+  - **A debater admits it (a clip he plays):** "I don't do debates to try and change my opponent's minds. I do it to try and win the hearts and minds of the people watching."
+  - **"Change my mind" formats:** a well-prepared host versus unprepared students. As a middle-schooler, "I was like, man, this guy's so smart… [then] I slowly developed a consciousness where it feels like he never changes his mind."
+  - **Staged debate apps:** he says a viral debate app clip featured people who obviously knew each other. "The most fake, obvious content."
+  - **"The most performative thing you could do… pretending you're not performative… trying to prove how right you are to an audience they can't even see."**
+
+## S3. Why Free Will is Retarded
+https://www.youtube.com/watch?v=A4PUYBiYWgA · ramboh^2
+- **Main idea:** whether or not free will exists, **he chooses to believe in it because the belief is useful**. "My philosophy is quite simply based on whatever I choose to believe in that benefits me."
+- **His thinking:**
+  - **Belief shapes behaviour:** "If I believe everything has already happened… then… I will indulge in everything… [junk food]… because the universe has already decided. If I believe I can decide, I give myself accountability."
+  - **Luck is just what we can't predict:** "there are machines that can flip a coin and… tell you exactly if it lands on heads or tails… Luck is only the definition of things that you cannot predict."
+  - **A viewer's point he agrees with:** "even if you don't choose the experiences you have in life, you choose how you perceive and interact with them."
+  - **People live up to their stereotypes:** "you can just look at them and in some ways it tells a lot about who they are."
+
+## S4. Why Narcissists Are Happier Than You
+https://www.youtube.com/watch?v=uHY79TmJuG0 · ramboh^2
+- **Main idea:** everyone is somewhat narcissistic because we see everything from our own point of view. **A secret, private self-belief helps you act**, while pessimism feels safe because it's "correct".
+- **His thinking:**
+  - **The drivers statistic again:** "73 to 93%" think they're above average. "How could you not be narcissistic if everything you interpret… is from your own perspective?"
+  - **Empathy has a social purpose:** we evolved to put ourselves in others' shoes "so you don't get kicked out of the tribe."
+  - **"Be narcissistic but keep it a secret":** big risks (dropping out) need "a little bit delusional" self-belief. But "encouraging thoughts… make people insecure… someone will realize they might not have your thoughts and they want to pull you down."
+  - **Why people doubt themselves:** "because it's easy… those that are pessimistic… they're the ones that are the most correct… because you are not aiming for higher." Optimists are often wrong, but they aim higher and score higher (expecting 100% and getting 89%, against a pessimist's B). "Being correct makes people feel at ease mentally."
+  - **Fear of embarrassment:** "if you do nothing at all, your potential is unlimited."
+
+## S5. Why Losers Love Science
+https://www.youtube.com/watch?v=JYbRJ6RNT7c · ramboh^2 · he reacts to posts in his community
+- **His thinking:**
+  - **Science and religion meet the same need:** "people like religion because it gives answers to the unknown… many people lean towards science because science seems like the more factual mathematic way to find answers… humans have this fear of [the] unknown… they need explanations."
+  - **Everyone is an atheist to other gods** (he cites Neil deGrasse Tyson): "your religion would be mathematics, science." Religion "provides faith… community, and a higher being… most people need religion to push them forward."
+  - **Not knowing politics:** he says he doesn't know the difference between socialism and communism, and that "it doesn't matter… it doesn't change my life unless I'm affected."
+
+## S6. Why Pessimism Is For Retards
+https://www.youtube.com/watch?v=EOIHiN49BNI · ramboh^2
+- **Main idea:** pessimists are often **more accurate**, and optimists are often wrong but **achieve more**. So ask "what belief benefits me?" rather than "what's correct?"
+- **His thinking:**
+  - **"Pessimism is a form of realism":** people who judge their abilities negatively are usually right, because the belief limits the attempt. Over-optimistic people "are almost always wrong… but… are more successful. They do more with their life. So what actually matters? Is it being correct?"
+  - **Self-talk and strength:** he searches live and finds support for positive cues ("yes", "push") raising force output during training. *(His search, unchecked.)*
+  - **"Everything is water. Nothing is ever true."** He credits Bruce Lee and Robert Greene, and gives flight as an example: "it was impossible… some… brothers… believed it was possible."
+  - **Why people want to be right:** "because we already know life is uncertain… that scares people."
+  - **Relationships:** "if you believe it's not going to work out, it's definitely not going to work out. But all you need is one."
+  - **"If you're a pessimist, you are the most correct person in the world. But I will never ask for your advice."**
+
+## S7. Why Social Media Prevents True Love
+https://www.youtube.com/watch?v=eoHQn3wkSZA · ramboh^2
+- **Main idea:** relationship content online ("if he wanted to, he would") makes people **compare their partner to the screen** and **copy gestures that aren't theirs**, which builds "a thin layer… of just fakeness".
+- **His thinking:**
+  - **Comparison:** "there are just so disgustingly [many] videos bragging about how awesome of a boyfriend or girlfriend people are, what your bare minimum should be… you start comparing… your significant other to the screen."
+  - **Copied affection isn't expression:** he once felt he had to do grand gestures because the videos said so. "How is it that copying the style of someone else… is going to show who you are?"
+  - **Keeping score:** "you do… fake action[s]… and they're not doing the same thing… 'they suck'."
+  - **He changed what he watches:** he and his partner agreed to change their algorithms.
+  - **"Everything influences you."** "I watched it, but it didn't influence me" is false.
+
+## S8. Why Nobody Cares About Suicide
+https://www.youtube.com/watch?v=xIh12n06rtE · ramboh^2 · ⚠ *suicide topic*
+- **Main idea:** after a passenger went overboard on his cruise, he describes how **people around a tragedy carry on with their own concerns**, and why **struggling people often can't tell those closest to them**.
+- **His thinking:**
+  - **Self-interest in a crisis:** in the cruise's Facebook group during the emergency, people complained about missed spa and dinner bookings. "You could blame them for being insensitive, but… nobody on vacation wants their vacation to be interrupted." "It's a business… everyone has to move on."
+  - **People tell strangers what they hide from friends:** he recalls a podcast about a hitchhiker who heard confessions from drivers "because you will never see that person again."
+  - **The closest people hear last:** "you can't share your problems with… your friends because there's the fear they'll judge you… the people that are very close to you… might be the last people to hear someone struggling the most."
+  - **His response to his struggling editor:** telling him he could quit and could talk freely, putting the person before the work.
