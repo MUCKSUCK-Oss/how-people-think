@@ -1266,3 +1266,75 @@ https://www.youtube.com/watch?v=xIh12n06rtE · ramboh^2 · ⚠ *suicide topic*
   - **People tell strangers what they hide from friends:** he recalls a podcast about a hitchhiker who heard confessions from drivers "because you will never see that person again."
   - **The closest people hear last:** "you can't share your problems with… your friends because there's the fear they'll judge you… the people that are very close to you… might be the last people to hear someone struggling the most."
   - **His response to his struggling editor:** telling him he could quit and could talk freely, putting the person before the work.
+
+## S9. Nothing You Do Will Make Your Life Meaningful
+https://www.youtube.com/watch?v=tp-HuHzDWZk · ramboh^2 · he responds to a 17-year-old member who feels his days are empty
+- **Main idea:** days feel empty when **everything you do is out of obligation**: school because parents expect it, the gym because of social pressure. "Your days feel like nothing because you are doing nothing you truly want to do."
+- **His thinking:**
+  - **Obligation vs want:** "Are you just going to school because your parents expect you to, society expects you… Are you going to the gym not because you want to but because you feel the social pressure to look [your] best?"
+  - **No guilt:** "If you want to play the video games, why feel shame and guilt for something you want to do?"
+  - **Superficial goals:** "The only reason why things can be unfulfilling is because your goals are more superficial than you think."
+  - **Inherited goals:** the member wants a future child "more successful than I am". Ramboh reads this as obligation coming from not feeling successful himself.
+  - **A conversation tip:** "you make an assumption… either you're right… or… they choose to correct you", which keeps a conversation going better than firing questions.
+
+## S10. Why So Much Sh*t Makes You Unhappy
+https://www.youtube.com/watch?v=d9zseMEFZhE · ramboh^2
+- **Main idea:** **every want is a source of unhappiness** until it's met (Buddhism). So have **fewer, focused goals**, and pick the labels that help you.
+- **His thinking:**
+  - **Wanting creates unhappiness:** "the commitment and goal you have created for yourself will give you internal unhappiness… I want a million dollars… you will not be happy until you reach your goal."
+  - **Too many small wants:** "Oh man, the weather isn't good enough… my coffee isn't hot enough… because you have so many things you want that are not going your way, that just makes you less happy."
+  - **One goal gives focus:** "because that's the only thing I actually want, I'm more focused."
+  - **Labels as tools:** "Would it help me if I call myself a dumb… idiot all day, or… if I believe I'm smart?… It allows you to take more risk." A commenter calls this "self-perspective as a tool to achieve goals", and he agrees.
+
+## S11. Why Using Your Brain is Retarded
+https://www.youtube.com/watch?v=zmsa5APEMw0 · ramboh^2 · he reviews a viewer's video idea, "why you can't think without ChatGPT anymore"
+- **His thinking:**
+  - **Forgotten sources (cryptomnesia):** the viewer pitched an idea Ramboh had already made. "People think they have come up with a genuine unique idea, but in reality it was indirectly copied… they forgot about [the source], so in their own mind they created it."
+  - **Moral panic over new tools repeats:** "one of them [Plato]… never liked writing… you're not thinking for yourself, you're just reading ideas… they said that to Google… the newspaper… If you're… able to have a little bit of pattern recognition, this is just generic… fear-mongering."
+  - **Generic ideas appeal to "normal people":** "normal people love eating [it] up… it has no nuance because it's so generic."
+  - **Not knowing how things work is fine:** he cites the Yale study where students overestimated how well they understood zippers (the "illusion of explanatory depth"; he doesn't use the term). "You don't need to know how zippers work… society has changed… things become much more specific… You are standing on top of giants… your role… is to become the new frontier."
+
+## S12. Creativity Is Retarded
+https://www.youtube.com/watch?v=RsfFiRTAyyE · ramboh^2
+- **Main idea:** success **turns art into chasing numbers**. Ideas "aren't yours" but come to whoever leaves room for boredom. People agree with him because **many people already share the same thoughts**.
+- **His thinking:**
+  - **Numbers replace motive:** "If you get mild success, you no longer drive to create art, but instead the thing that's driving you is the numbers… 'numbers equals good'… that has zero correlation." Creators "lose the artistic vision… it feels soulless."
+  - **Make what you'd want to watch,** "like a shirt that doesn't exist yet."
+  - **Ideas are given, not invented (Rick Rubin, *The Creative Act*):** "You don't come up with things. Things are given to you… Many people have thought of Uber… but never acted on it."
+  - **Boredom makes room for ideas:** "you force boredom upon yourself because when you're forced to be bored… your mind thinks for you." Scrolling or gaming means "robbing yourself of the opportunity to do nothing."
+  - **Why people agree with him:** "they're not my ideas… It's many people's ideas… 'he's saying exactly what I think'… we all think what I say."
+  - **Mixing with different groups:** in high school he chose five different sports "to not just hang out with the group of Asians that has good grades", because "specific sports attract a different type of demographic."
+
+## S13. Why Hard Work is Retarded
+https://www.youtube.com/watch?v=pO4ONMWVe54 · ramboh^2
+- **Main idea:** "a lot of people self-inflict pain upon themselves". Remove friction from your work and **pick your struggle**. Preparation first, then you can "fly like a bird".
+- **His thinking:**
+  - **Pick your own struggle:** "you get to pick your job… your lover… what I do as a genre."
+  - **Preparation, then fluency:** he compares dribbling a basketball or riding a bike, and preparing for conversations.
+  - **Cutting friction:** writing scripts took him "3 days up to a week", so he dropped scripts because "talking is fun for me… if I make it more enjoyable, the videos would be better."
+  - **New tools and jobs (again):** before spreadsheets, accounting was full-time manual work. He calls his own video "pro AI".
+
+## S14. Having a Mentor is Holding You Back
+https://www.youtube.com/watch?v=Q4JEXMdtKRY · ramboh^2 · a live Q&A
+- **His thinking:**
+  - **Mentors vs a "treaded path":** a mentor is usually best, but "you could be putting a ceiling onto your growth if you are following a treaded path". Productive people aren't paid in proportion to their output in a job, which is "why so many businesses exist."
+  - **People cling to what they didn't earn:** "People love clinging on to the ideas of things they never actually worked for: IQ, looks… 'my parents are so rich'… it doesn't matter." He says *Forrest Gump* "breaks down the stereotype that if you are stupid, you're guaranteed to fail."
+  - **He's sceptical of studies:** checking live a meta-analysis claiming each year of education raises IQ by 1–5 points (42 datasets, 600,000+ people), he asks whether there was a no-education comparison group and concludes the result is "extremely biased". "I'm also not a believer in just raw studies." *(His reading.)*
+
+## S15. Why What You Like is Not Retarded
+https://www.youtube.com/watch?v=FNU61i5vRdc · ramboh^2
+- **Main idea:** **liking "weird" things openly filters your relationships**. Some people will find it off-putting and some endearing, and the second group are the right people.
+- **His thinking:**
+  - **He doesn't watch his own genre:** "the last thing I should do is… watch self-improvement content, because then I'll just be regurgitating what everyone else says."
+  - **Being judged for taste:** he was bullied in middle school for liking a certain musician.
+  - **"Being yourself… detracts others that were never meant for you… There will be people that find it weird but endearing."** "If you can't stay true to yourself, you're never going to be happy with your relationships… It's not about choosing the people, but who you choose to be in front of people."
+  - **Perspective changes enjoyment:** a "bad" game today is far beyond *Pong*. "Just because you've seen thousands of sunsets… does not mean it's something you cannot appreciate."
+
+## S16. Why There Are No Retarded Religions
+https://www.youtube.com/watch?v=dASDsVWR1BY · ramboh^2
+- **Main idea:** what matters about a belief isn't whether it's provably true but **whether it benefits the believer and the world**. Respecting others' beliefs is for **your own peace of mind**.
+- **His thinking:**
+  - **Respect for your own sake:** "You should respect the other person, not for the other person's sake, but for your own peace of mind… because someone believes in that thing, should you go out of your way to say you're stupid?… It's not going to make you a happier person."
+  - **Death brings belief back:** "You guys are going to care about religion the older you get… once you're facing the door of death… you cling on to the idea of… my mom was religious… the seeds that have been planted inside of you." He was raised around Buddhist temples.
+  - **On balance:** he lists harms committed by religious institutions, but believes religions "provide more good than evil".
+  - **Death as the universal motivator:** "you don't know someone's motivation… but one thing you can know about everyone is death. Everyone is motivated by death."
