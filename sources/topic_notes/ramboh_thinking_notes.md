@@ -147,3 +147,145 @@ https://www.youtube.com/watch?v=TGPkp7QnEzY · about 1 year old · examples used
 - **Other points:**
   - Calling companies evil "just because they're successful" is lazy. By the same logic, living in America or owning a lithium battery makes you complicit.
   - Empathy is limited, so "it should be applied for yourself… you cannot give what you have to others but yourself first."
+
+## 11. Cops Are Rage Baiting Citizens Now
+https://www.youtube.com/watch?v=-rr4bcL2vEA · about 1 year old · examples used: "First Amendment auditors" filming police, a fake health inspector, the Long Island Auditor
+- **Main idea:** people obey **authority and titles** without thinking, and large organisations fill up with **managers who protect each other**. Annoying, unqualified "auditors" and "snitches" are the ones who keep power in check.
+- **Why people act this way (his view):**
+  - **Sympathy for cops:** they see people at their worst moments, are hated, and he says they are "more likely to die by suicide than being killed on duty". Many join without knowing how hard the job is, feel stuck, "so they begin to abuse their power."
+  - **"Appeal to authority" is a fallacy.** People dismiss auditors because they have no law degree ("they just Google"), but "people who are unqualified make the most progress" (his example: Elon Musk). "We must listen to authority, and authority is a large problem."
+  - **Bureaucracy grows:** manufacturing jobs moved away while government and administrator jobs rose. He plays a clip with charts claiming manager numbers grew while engineer and teacher numbers stayed flat, and that paperwork rose while significant rules fell. Managers "keep giving busy work" so they look busy, and real workers can't do their job.
+  - **People in power look out for each other.** The judge throws out the auditor's case, and the Epstein list "never came out". The same rule works at a small scale: in school or gangs nobody snitches, because "you are going to be socially blackmailed". Whistleblowers' lives are ruined (Snowden).
+  - **His own culture:** "I was raised by Asian parents where… you don't stand out… you let things slide." So his first instinct was "why are they causing such a hassle?"
+- **His question:** "should you become a snitch for the sake of society, or become the managers… protected 100% until everything runs to the ground?" He says snitches and auditors "are great for society".
+
+## 12. How To Get Rich From The Iran War (URGENTLY)
+https://www.youtube.com/watch?v=RMDtWApXnjI · about 8 months old
+- **Main idea:** "Money comes from knowing the future." The title promises a get-rich method, but the video says most "copy the insider" methods are a scam.
+- **His thinking:**
+  - "War happens because… someone gets to win", and you either "watch it or you profit".
+  - **Politicians' stock trades:** he lists US lawmakers on armed-services committees who he says bought defence stocks before military action. But they report trades 45 days later, so copying them is useless: "the information… is no longer usable because everyone else is using it." **Copy-trading apps are "a scam".**
+  - **"Simple game theory":** "if everyone is running the same build… the method no longer works." Sharing a tip dilutes it.
+  - **"Weeks away from a bomb":** he plays clips of US leaders saying Iran is a month or a year from a nuclear bomb, and says "America's been saying this for the past 10 years."
+  - **Leaders benefit from war:** he plays a clip saying Netanyahu, under indictment and never winning more than 27% of the vote, has an interest in a long war, because a country at war can't easily remove its leader.
+  - He credits Predictive History (the "Chinese professor") for predicting the war *(flagged channel, see video 4)*.
+  - **He says openly he'd sell out:** "if prediction market apps pay me… I will completely sell my soul." He also calls profiting from war "morally super evil" and says he doesn't invest.
+  - His answer to "what do I do in World War 3" is to avoid the draft.
+
+## 13. The MoistCr1TiKaL Fence-Sitting Issue
+https://www.youtube.com/watch?v=deQnv54n408 · about 1 year old · example used: the YouTuber MoistCr1TiKaL (Charlie)
+- **Main idea:** some hugely popular creators have no real opinions of their own. They repeat whatever is popular, and fans watch them **to have their own views confirmed**, not to learn.
+- **Why people act this way (his view):**
+  - **"We judge people… also on what they support."** Why someone supports Trump or Kamala, and who they're a fan of, says something about them.
+  - **Winning an exchange creates "NPC opinions".** When a creator "wins" a public clash (here, against Sneako), fans take that as proof he's right about everything: "because this is the big popular thing, then they must be right."
+  - **Clout looks like wisdom:** money and fame make a creator think he "knows the answers", and fans believe it.
+  - **Opinions that follow the trend:** "His opinions constantly flip and flop… based on what the current popular trend is." If he strays, there are apology or "I changed my mind" videos. He says this isn't deliberate manipulation; "he's just literally an NPC".
+  - **Ego validation:** "Everything he says is the same opinion that validates people's own ego." Pranks are bad, red-pillers are stupid: things the audience already believes, made long for entertainment.
+  - **Fans who put all their meaning into one celebrity** (K-pop fans, superfans) do it "because their life has no meaning."
+  - **Everyone stereotypes:** "It's a matter of how well you stereotype." What you value shows in what you consume.
+  - **Violence as the final judge:** "everything is settled through physical violence"; countries kill over disagreements, and "the victors write" history.
+- **The rule he takes from Rick Rubin's *The Creative Act*:** only consume high-quality art. His "golden chair" story: one good thing raises your standards for everything else. People consume low-quality "slop" "because people are not conscious".
+- "Your responsibility… is to think for yourself, not to regurgitate the opinions of other people." He admits his own fans will do the same thing one day.
+
+## 14. Why Does Gen-Z Hate Religion?
+https://www.youtube.com/watch?v=eatFx5Tiysg · about 10 months old
+- **Main idea:** people adopt a belief system, whether religion, science, a fandom or now AI, because it **answers frightening questions** (meaning, death, suffering). That comfort is real and mostly good, but religion also uses **the same manipulation tactics** people already see in marketing.
+- **His points:**
+  - **Why young people are leaving religion:** general pessimism. "We don't trust companies. We don't trust governments. Why would we trust religions?" (He says religious belief fell "33%" in ten years.)
+  - **The contradictions don't matter to believers.** Scriptures shift with the social climate (his "ship of Theseus" point, on teachings about gay people) because "the more people you have in your religion, the more powerful you become." What matters to believers is "the answers the religion provides".
+  - **Fear of death drives it,** and it grows with age.
+  - **Everyone puts faith somewhere:** Neil deGrasse Tyson "is as religious as any other" because he dedicates himself to science's truth. People find meaning in identity groups, religion, science, K-pop, or AI. He plays a doctor crying about how kind GPT-4 is ("modern AI is us building God").
+  - **Things that don't physically exist still steer people:** God, like love, "exists enough for it to influence the actions of other people".
+  - **"Religion is the OG self-improvement YouTuber":** be kind, don't lie, treat others as you'd want to be treated.
+  - **The manipulation part:**
+    - The pitch is "you must donate or else… hell; if you don't listen, you'll suffer". He says that's the same pressure as marketing and abusive relationships, set alongside a clip on abusers' "financial control".
+    - His example is the Mormon 10% tithe, paid "before taxes".
+    - Missionary religions must convert others.
+    - "People are very aware of companies'… marketing schemes… but this line of thinking is not applied towards religion."
+  - **"People are a product of their environment."** He shows a pastor and a KKK leader each telling the other they're "deceived": "a deceived person doesn't know they've been deceived."
+  - **"Meant to happen" thinking** ("God has a plan") is a real comfort when bad things happen.
+  - **Why people grab answers:** "we are insecure… instead of trying to solve the problem or be okay that there is no possible answer, we try to find an answer… to keep us more comfortable… to remove the anxiety."
+- **His conclusion:** "Respect what people choose to believe in, but also understand why they choose to believe them, not blindly."
+
+## 15. How Self Improvement Is Retarded
+https://www.youtube.com/watch?v=4er3qibP1A0 · about 3 months old
+- **Main idea:** self-improvement content (Hamza and others) "died" because it was **built on making people feel insecure**. Its advice is often right (less porn, less phone, more money), but "they fix it on the insecurities to make you watch".
+- **Why it works on people (his view):**
+  - **Fuelling insecurity:** "you're on your phone too much… you won't be able to compete with men". The constant grind is towards someone else's idea of "what a man is", and he says masculinity is "a social construct".
+  - **"Self-improvement is revenge porn":** the videos tell bullied-childhood stories and invite you to imagine "all the people that doubted you". So "every single action… is motivated by trying to prove someone wrong… to make other people feel inferior". He calls it a poison that makes people "vindictive and hateful".
+  - **Comparing turns improvement into status:** he gives book-count bragging as an example and plays Naval Ravikant saying reading lots of books is "a vanity metric… a signaling thing". "Why do you feel the need to show it off?"
+  - **Fear of losing:** people who rise obsess over "I'm better" because they're "scared to lose it all".
+  - **"Success is a multiplier":** if you haven't worked on yourself inside, money makes things worse. His example is Hamza (steroid denial, broken relationships).
+  - **Carl Jung:** "No tree can grow to heaven unless its roots reach down to hell." Real growth means admitting the bad you're capable of. He shows a locksmith whose one kind video went viral, when all his others are angry. "Being a good human guarantees you understand what it takes to be a bad person."
+  - **Why people chase all this: fear of death.** "With life, there is always a fire… we're going to die," so people "scramble to find so much meaning: at least I was rich or had a good body." He also shows a Chinese worker with work-caused lung disease (pneumoconiosis) as a reminder that life is hard.
+  - **His alternative is Buddhist:** let go of what causes suffering, understand your own mind, take responsibility (karma), and "hatred ceases by love".
+- **Note:** the video contains a paid ad for a porn-addiction app, "Urge". He announces at the end that he's quitting YouTube; he came back later.
+
+## 16. Gen Z Depression Is For Loser Retards
+https://www.youtube.com/watch?v=7eyW94J8x98 · about 8 months old · 389k views
+- **Main idea:** "Gen Z is cooked" videos (no house, no job, no kids, debt) are **group thinking**. They feel good because they "make you feel good in your failures". He says you're an individual, not a statistic.
+- **Why people act this way (his view):**
+  - **"A person's algorithm is a glimmer into their soul."** What you watch represents you, and doom content becomes your mindset.
+  - **"Everything he said is factually correct but… no original thoughts. He's not thinking for himself. He's thinking as the group."**
+  - **Statistically correct vs individually correct:** an interviewer told young Tiger Woods he couldn't expect to win. Tom Brady kept fighting when he was down in the Super Bowl. Exceptions exist ("the exception proves the rule"), so choose to be the exception rather than repeat the average.
+  - **Complaining comes from fear under pressure.** He plays a clip on "transient hypofrontality": under strain, the judging part of the brain goes quiet and performance flows. He links this to *Reality Transurfing* and *The Power of Now* ("flow state").
+  - **Good and evil depend on where you stand:** "If you're weak, young… powerless… then everything oppressing you is the evil." He plays a clip saying "not being strong enough is the original sin". People want ready-made answers, which is "where religion comes in".
+  - **Desire and repetition:** he plays a trader's clip saying the only thing separating you from Tiger Woods is "desire and repetition", and that "you can't be taught anything; you have to desire to teach yourself."
+  - **Who you spend time with matters:** top performers would "kick you out of the room" for that negativity.
+  - **"The meaning of life is whatever you're doing that prevents you from killing yourself"**, meaning what you choose to do every day. If that's doom videos, gaming or porn, that's your meaning.
+- *(It ends with his free community "will be paid in around 3 months".)*
+
+## 17. Addictions Worse Than Death
+https://www.youtube.com/watch?v=W7htry6BFng · about 7 months old · examples used: crack and cocaine addicts' stories, food addiction, porn addiction, *Euphoria*, *13 Reasons Why*
+- **Main idea:** addicts show how strong **desire** is. They solve "impossible, herculean problems" every day just to get high. The same energy, aimed somewhere else, is "untapped potential". "It makes me slowly realize I don't want it enough."
+- **His thinking:**
+  - **Desire drives problem-solving:** a broke, homeless addict still "finds a way". Someone spending $700 a week on food finds the money. "This is a conversation about desire."
+  - **Media makes addiction look cool:** depressing song edits, *Euphoria*, and *13 Reasons Why* (he claims suicides rose "30%" after it aired, unchecked) "glorify" it, which "reinforces the idea [that] everyone else is addicted… so this is completely okay". He calls this "addiction is propaganda". In real life many addicts are "high-functioning" and hide it.
+  - **"Everyone is addicted to something; we're just really good at keeping secrets."**
+  - **People want to feel unique through their struggle:** students exaggerate how hard a class is, and people say "you never grew up in the hood". "Every emotion you feel… has been felt before by another person." What matters is "a psychology game", not "the mathematics of how bad your life is".
+  - **The fixation moves; it doesn't disappear.** After quitting, the same obsessive energy moves to a new thing (fitness, religion). His example is a man who credits religion with ending his porn addiction and his gay identity. Ramboh says people often "overcompensate" out of shame and "live a life that's not true to yourself". "Beating addiction is not the final boss; it's what you do afterwards."
+  - **Personal responsibility:** "No one's going to help you. You have to do it yourself."
+- **Note:** the video has a paid ad for the porn-blocking app "Quitter".
+
+## 18. Why Being Ugly MIGHT Be WORSE Than Death
+https://www.youtube.com/watch?v=a3KVewk2UJc · about 10 days old · 137k views
+- **Main idea:** everyone, including people chasing looks, money and fame, is really chasing **love**. He uses **Maslow's hierarchy of needs** to explain it. Ugly men get **no empathy** from society, and without love they can't build confidence.
+- **His thinking:**
+  - **Maslow's ladder:** food, water and shelter come first, then safety, then **love/belonging**, then self-esteem and confidence, then **self-actualisation**. If you're watching YouTube, your basic needs are mostly met, so "the very next level… is love".
+  - **A double standard:** when an unattractive woman is called ugly, people defend her, but an ugly man is told "you aren't owed a girlfriend" and mocked. "Where's the empathy for this guy?"
+  - **Looks decide first impressions:** he plays a clip saying people judge "in a millisecond" by your clothes, grooming and posture, and "put you in a box". The clip says dressing well is also a message to yourself ("evidence" that you value yourself).
+  - **Why people chase looks, money and fame:** "Everyone is obsessed with grind culture because everyone is just working towards finding love." People believe being remembered means being loved, and being loved gives confidence.
+  - **Confidence needs love first:** "How can you be confident if there has never been… family, friends, a lover that likes you for who you are?" So "just be confident" is useless advice to an unloved person.
+  - **Relationship weight:** he cites a 2013 study of 169 newlywed couples, where happier couples gained more weight. Once you have love, the effort to attract stops. *(He presents this as research; unchecked.)*
+  - **Money doesn't fill the gap:** he plays a founder who sold a company for $42M and found he had no hobbies and had lost his best friend. "Rich people feel the exact same emotions as you."
+  - **Plan B and self-actualisation:** he plays Eddie Murphy saying a Plan B sets you up to fall back. Ramboh says people only keep "one foot in, one foot out" because their lower needs (food, safety, love, self-esteem) aren't met yet. So "don't copy what a billionaire does"; first be loved and build self-esteem.
+  - **Social media makes it worse** (he mentions the jury verdict against Meta and YouTube over addictive design).
+  - **"Everyone's evil because they feel like that's how they're going to get loved."**
+- **Notes:**
+  - The video contains a paid ad recruiting people for social-media-harm lawsuits.
+  - He also says, contradicting himself, "if you're a good-looking girl, don't give the ugly guy a chance… most likely because he doesn't love himself."
+
+## 19. can society just burn & collapse already?
+https://www.youtube.com/watch?v=uSIi1tZ9HSY · about 5 months old · examples used: news coverage of a hantavirus scare on a cruise ship, the Doomsday Clock, *All Quiet on the Western Front*
+- **Main idea:** disaster news is huge **because, secretly, people want disasters**. They are a form of entertainment that breaks up boring lives.
+- **His thinking:**
+  - **The scare doesn't match the risk:** he argues this virus kills hosts too fast to spread widely ("if you've ever played Plague Inc."), yet the media covers it as world-ending. "This is so popular because secretly, deep down, people want it to be real."
+  - **Disaster as entertainment:** war, 9/11, COVID and school shootings are terrible, "and at the same time it is some sort of sick entertainment for everyone to tune in". "Our lives are so boring." Protests and riots are "fun to participate [in] and feel like you're a part of something."
+  - **War as a game:** kids play war games and adults still do. In *All Quiet on the Western Front*, boys imagine heroics and find brutal reality instead. His lesson: "don't fall in the propaganda", because you can't truly comprehend war from a screen.
+  - **The Doomsday Clock:** he plays a clip calling it "unitless storytelling… a useless number with vibes". He says it began as art meant to represent humanity's position, but now it's "used as a machine to get clicks and views" and fundraising.
+  - **Social media has drained art of meaning.** Art exists "for you to think, ponder, and get closer to your understanding of yourself". Now it's slop.
+  - **Audiences are responsible:** "people like to blame… content creators for creating the slop. But it only exists because… the people watching, myself included, want it to exist." He admits "I have fallen into the trap of making dumb stupid videos."
+  - **Conclusion:** "It's important and good to be aware of… news cycles. But… it doesn't help you. All it does is scare you."
+
+## 20. Why Gen-Z STOPPED Reading to LEARN
+https://www.youtube.com/watch?v=HWgW1LfCO3o · about 1 year old
+- **Main idea:** much of today's reading (and gym-going) is **for bragging, not learning**. Behind the bragging is **insecurity and a "perfectionism trap"**, not pride.
+- **His thinking:**
+  - **"Reading to brag":** people count books ("I read 70 books this year"). Ask yourself whether you do something "for yourself, or… to brag and feel superior".
+  - **The perfectionism trap:** people show the world that they "have their life together" (for example, "$130,000 in a month" posts). "People make the assumption that if I purport my ideal life onto others, I might indirectly live that life myself."
+  - **Bragging comes from insecurity, not ego:** "they're deeply insecure and they're trying to find confidence by overexerting [what] they're actually lacking". The same goes for people who put others down to feel better.
+  - **Why Gen Z specifically:** "insecurity comes with age". Children don't know enough to be insecure, and young adults are trying to prove "I know what I want", and "most of the time people lie."
+  - **The learning cycle:** learn, then act, then repeat. Some people only consume (always preparing, never acting), and some only act and never step back to analyse. Sports teams review game footage, while academics "read, read, read". Faster cycles mean exponential improvement.
+  - **Envy and excuses:** "fundamentally, everyone is narcissistic". When others are better, people explain it away ("they're more talented"), when really those people "are better at the learning process".
+  - **Confidence about your future, not just social confidence:** many people don't know what skill they want, so they "enter this cycle of just trying to please other people".
+- *(It ends by offering a free call to the first Patreon member to reply, plus "tutor $250 an hour".)*
