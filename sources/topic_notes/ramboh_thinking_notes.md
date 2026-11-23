@@ -2107,3 +2107,20 @@ https://www.youtube.com/watch?v=w0lFbhvuVLM · about 1 year old
   - **Negative statistics keep people down:** facts like "three times more men on dating apps… top 33%… while true, benefit no one… relying on studies… doesn't inform people but keeps them down."
   - **The negativity bias:** "we value negativity at around 2 to 5 times… the more you consume about the news cycle the more you think the world will end, but year by year we only become more peaceful, get more rich… our biology can't have a positive mindset."
   - **Excuses that protect against accountability:** viewers blame "the economy… your rich parents". He says his parents were immigrants who didn't speak English. "Everything relies on perspective… they're right, people do struggle… but the problem is this hyperfixation of what I don't [have] and others do… creating this false reality, because it's all built on facts, but facts are built on more negativity than positivity."
+
+## O46. Why Gen-Z Needs to Cheat 98% More..
+https://www.youtube.com/watch?v=S2Nkug3-JEo · about 1 year old *(the title is bait)*
+- **His thinking:**
+  - **Everyone is a hypocrite, and that's growth:** "everyone lives the life of saying one thing and then doing the opposite… it represents the intention to grow, and that requires humility. But society… [says] changing your mind is bad."
+  - **Why people demand consistency:** "it stems from a deep insecurity of unpredictability… they tell everyone to not be a hypocrite… because all they want is more predictability from you… if everyone is changing their minds it becomes a liability… become predictable for my sake."
+  - **"Fairness is a lie":** some "games you have to play" (he mentions Steve Harvey's *Act Like a Lady, Think Like a Man*).
+  - **Avoidance leads to midlife crisis:** "people choose to be ignorant of love, health, education because they are not good at it… it is more convenient to not address a problem."
+  - **Not one piece of information:** "people always seek for… the exact thing that I need to do… but everything is dependent on you."
+
+## O47. Gambling my future on 7 Lessons
+https://www.youtube.com/watch?v=rTtIa7EAe7o · about 2 years old (made at age 19)
+> ⚠ *His summary of Andrew Huberman's dopamine podcasts; unchecked.*
+- **His thinking:**
+  - **Dopamine, motivation and personality:** he plays Huberman saying baseline dopamine shapes drive and is partly genetic, but says it's "at least controllable". "Treat dopamine as a resource."
+  - **Peaks then dips:** pleasurable activities raise dopamine above baseline (chocolate "1.5×", sex "2×", Huberman's figures as he quotes them), followed by an equal dip below baseline. He uses this to explain procrastination.
+  - **His aim:** to beat procrastination "other than just saying to do more work… to be more motivated… without exerting more effort".
