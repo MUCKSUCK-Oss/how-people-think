@@ -1447,3 +1447,35 @@ https://www.youtube.com/watch?v=VQOiJNmvAv0 · ramboh^2
   - **Friends by proxy:** "most people have friends, but not because they're actually friends… they're friends by hobbies… because you went to the same school… Doesn't mean you should still be friends. There are a lot of logical fallacies… that make people still be friends with people that should not be your friend."
   - **Fitting in to avoid looking like a loser:** in high school he "would act normal… because I wouldn't want to eat alone at lunch… [people] there to entertain you and not make you look like a loser."
   - **Some friendships are transactional:** he admits he is friends with some influencers "because they can make me more money… that's messed up to say."
+
+## S29. Why Celebrating Birthdays is Retarded
+https://www.youtube.com/watch?v=Rw5_TN-Qgpo · ramboh^2
+- **His thinking:**
+  - **Special days as permission:** "for a birthday… they do something they normally would not do… I eat whatever I want… If I want to go on a vacation, it's not because I need… a special occasion… I'm not restricted in this context of I need a day so I can give permission to finally do what I want." His cousin: "every day is a celebration."
+  - **Social events he skips:** he never wanted a birthday party as a child ("extremely awkward… embarrassing") and avoids college parties.
+  - **"I do not subscribe to things that do not benefit me."** People have assumed he's an only child or "neurodivergent" because he acts differently from what's expected.
+
+## S30. How Touching Grass Keeps You Alive
+https://www.youtube.com/watch?v=LPSNXkKSAhU · ramboh^2 · topic: "grounding" (standing barefoot on earth) wellness claims
+> ⚠ *Health claims from TikTok clips. Recorded only as what he said; unchecked.*
+- **His thinking:**
+  - **He uses it but notices nothing:** "I've had this grounding mat for like a year now, and honestly, I don't notice a difference." He also takes vitamin D3/K2 because he's indoors most of the time.
+  - **First reaction was scepticism:** "when I first heard of this, I thought, dude, this sounds stupid."
+  - **Knowing the claimed benefits triggers placebo:** "once you know what the actual positive effects are of something you're doing… placebo kicks in and you start feeling the benefits even more."
+  - **The TikTok clips he reacts to** claim that earth electrons act as antioxidants and reduce inflammation, and that "alkaline water is the biggest marketing myth". He laughs at the stack of claims ("Is TikTok a bad source?") while saying grounding is "scientifically proven to be very effective" *(his words, contradicting his own experience)*.
+
+## S31. Why You Suck At Talking
+https://www.youtube.com/watch?v=ihozktTzInQ · ramboh^2 · a short story
+- **His thinking:**
+  - **Clubs are for access:** "it's not just for the resume, but actually for the networking, because there's always some kid in the club that has a way in."
+  - **Practice transfers:** in a mock interview in front of 50–100 peers, he says he won because "I speak in front of a camera… I wasn't speaking as if I was in an interview… I was loud, I was enunciating… and talked about how awesome my resume is."
+  - **Sunk cost as motivation:** "if I paid to be in this club, I better get my money's worth."
+
+## S32. Why I Am So Egotistical
+https://www.youtube.com/watch?v=inyfroOfO9k · ramboh^2
+- **Main idea:** much of what people call "ego" is **open self-belief**, and others **pull it down because it makes them insecure**. Pity and helping can also be about **feeling superior**.
+- **His thinking:**
+  - **Pulling others down is competitive:** "people feel the need to pull you down because you believe in yourself… because they're insecure and it's a competitive social tactic… someone who believes in themselves… is an advantage versus… someone who is deeply insecure and shy."
+  - **"Pity is another form of domination" (Nietzsche, again):** people like shy, insecure people because they can help them: "I'm better than this person because I'm the one giving help."
+  - **Why people help:** "Why help the person? Because you feel good helping the person." He says his religious relatives help homeless people every week, and that it "makes it feel like you're making a difference."
+  - **Others' success holds up a mirror:** when a confident person succeeds, "all it does is make people look in a mirror and think, 'I don't think of myself like that… He's the problem. You're too egotistical. You've got to tone it down.'" He mentions Steve Harvey's "act like a lady, think like a man" as the socially easier path.
