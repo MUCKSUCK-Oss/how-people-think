@@ -905,3 +905,68 @@ https://www.youtube.com/watch?v=UHeBebAu-Eg · about 1 year old
   - **"Nobody cares about you" (until you give them a reason):** videos that open with "my last video got 30 views" fail, because viewers came for the topic, not the creator.
   - **Why people compliment you:** "People will compliment you… not because they actually do, but because… if you do succeed, they are the ones who get to hold the anchor that 'I was your number one supporter'." When he got 5,000 subscribers in high school, "everyone suddenly became my friend."
   - **Honest feedback vs comfort:** praise from peers kept him small. "I'm small for a reason… maybe because the videos are actually not good."
+
+## R49. Sadly, GTA 6 MIGHT be a masterpiece
+https://www.youtube.com/watch?v=TTNQabupQiA · about 3 days old
+- **Main idea:** after GTA 6's launch he doesn't care about the game, but every creator, including him, **is forced to make content about it** because "this is a generational moment… you could be missing out on… millions". The hype brings **grifts**.
+- **His thinking:**
+  - **Contrarianism vs real opinion:** "maybe it's… contrarianism where I just want to have an opposite opinion for the sake of being unique."
+  - **People want big things to fail:** clips of bugs spread "as if the game is horrible".
+  - **Streamers play for money, not fun:** "this is kind of my job. I'm not playing this out of enjoyment."
+  - **FOMO pushes everyone onto the same topic:** "I do not want to see my For You page full of [stuff] I don't care about… And guess what? I'm doing the same thing."
+  - **Hype scams:** a fake "GTA 6 cryptocurrency" promoted by influencers ("throw in $100… walk away with seven figures"), and courses on "how to get rich playing GTA 6" before the game was out. "It's a scam."
+  - **Overnight success is an illusion:** "to you it's overnight. But to them, they spent months grinding." "Luck is only given to those who are prepared."
+- *(It contains the same paid social-media-lawsuit ad as R18.)*
+
+## R50. Why I'm Quitting YouTube & Following My Passion
+https://www.youtube.com/watch?v=O2A_yMguKhM · about 3 months old *(he returned later)*
+- **Main idea:** he says he's quitting to start a business, for **freedom**. He explains his own method: **rage-bait at the start to "spike people's emotions", then a positive message by the end.**
+- **His thinking:**
+  - **His own formula, stated openly:** "I use rage bait at the very introduction of the video to spike people's emotions, really get them invested, and then by the end of it all, ideally, I have helped someone." The titles and thumbnails "are not indicative of what the videos actually are."
+  - **Emotional control means releasing, not suppressing:** "Many people… try to restrict their emotions as a way to… show off that I have emotional control. But emotional control doesn't come from restricting yourself, but instead releasing and understanding the emotion." He sees his channel as art that expresses feelings, like a sad song or an angry song.
+  - **The audience and platform as a boss:** "with YouTube and the algorithm and the fans… if I say the wrong thing… I will get in trouble." He says YouTube declined his 100k plaque.
+  - **Failure as training:** "I am very used to failure… if you brute force it… you're going to win somehow."
+  - **"It doesn't matter what Joe Schmo… thinks about me. I just want to express myself to the people that matter."**
+
+## R51. The "Horrible" Jim Carrey Movie Changed My Life…
+https://www.youtube.com/watch?v=98-oLtqPFXI · about 11 months old · film discussed: *Yes Man* (2008)
+- **Main idea:** a critically panned comedy is meaningful to him because of its **lesson**: saying "no" to everything closes your life off, and saying "yes" opens it up, while the film admits the risks.
+- **His thinking:**
+  - **What makes a good story:** "how the audience is meant to interpret and change after watching… what is the moral of the story?" He says critics judged it as a plain comedy.
+  - **Spoilers:** he says studies show spoilers help people appreciate a story more. *(His claim.)*
+  - **Habitual "no":** the character turns down friends and opportunities "because he's not letting life come to him."
+  - **An honest message:** the film shows saying yes to everything also gets you exploited (a man takes all his money), "and they don't shy away from that."
+  - **Outlook:** "even though there are consequences… there's still always a positive outlook to it. And the key word is outlook… your perspective on everything." As a child, "you treat the world as if it's a playground."
+
+## R52. Watch This If You're Broke And Don't Know What To Do…
+https://www.youtube.com/watch?v=7Csm-0BpwWE · about 1 year old
+- **Main idea:** money pressure creates **paralysis from too many "opportunities"**. Your feed turns into get-rich schemes, and anxiety leads to bad decisions. Experience teaches more than being told.
+- **His thinking:**
+  - **The feed follows your fear:** "my For You page slowly changing from funny… videos into people trying to scam me out of money" (TikTok Shop, meme coins, supplement pitches).
+  - **Indecision from too many options:** "this world of indecision because everywhere I look is this new shiny opportunity. And all this fear, the pressure is amplified to where I might make a bad decision."
+  - **The rich worry too, and using that as an excuse:** a clip of a rich person saying they work harder now. Ramboh says looking for the downsides of wealth so you can "mentally give up" is "a coward's way of thinking."
+  - **The Buddha's path:** he experienced luxury and extreme hardship before finding the middle. "Being told what to believe in life will never be as impactful as experiencing it."
+  - **Money limits belief:** "while you can believe anything, you're only allowed to believe in what your environment tells you to believe."
+  - **His choice:** stick with what he's already invested in (YouTube), because "nothing is guaranteed."
+
+## R53. Why I Walk 25,000 Steps Daily
+https://www.youtube.com/watch?v=MZWBawr8CTM · about 1 year old
+- **Main idea:** instead of fighting screen addiction, **build it into a healthy habit**: play games and watch shows on a cheap treadmill-desk setup. "Choose your addiction and learn to integrate it into your lifestyle."
+- **His thinking:**
+  - **People deny addiction:** "the biggest problem with addiction is that people like to pretend it doesn't exist." "We all have a screen time addiction."
+  - **Successful people are addicted to something.** The answer is "not to remove all addictions, but to enjoy the things that you love… without any guilt."
+  - **A habit, not a challenge:** "Everything you see online… is meant to be a challenge… Zero difficulty… It's just something I do now."
+  - **Time has value:** if you value your time at "$20 an hour", stacking walking onto screen time "wins everything back".
+
+## R54. Philosopher Reacts To Kai Cenat & Reggie Drama
+https://www.youtube.com/watch?v=YJkg3bpmKXI · about 1 month old
+> ⚠ *It involves clips of streamers joking about a person's disclosed childhood sexual abuse. Recorded only for his argument; do not quote the clips.*
+- **Main idea:** when a streamer had a public mental-health crisis, others **profited from reacting while performing concern**. Viewers are the cause: "every single core aspect of human entertainment is to watch another man suffer."
+- **His thinking:**
+  - **Performed morality:** reactors say "mental health should be taken seriously" on "this metaphorical stage pretending to be a good person… but then when it's actually real, they're not checking up on the person."
+  - **Suffering as entertainment:** the Roman Colosseum, action movies, live streams. "Don't you find it a little bit entertaining?… if you say no, you're a liar."
+  - **Viewers feel superior:** people click "to feel superior… over [him] because even though he has a lot of money… he has mental health issues", or over the "morally bad" rich streamers. "All you are is sheep and cattle used to farm and make money off of this situation."
+  - **Creators aren't free:** "they're doing it because you, the people, the audience wants it to happen… These guys are so rich, so free… but are they really free?"
+  - **Dialectical thinking (a clip he plays):** "You can love someone and know you shouldn't be with them… Most people need one side to be wrong so the other side can be right."
+  - **Caring costs something:** "if you have the time to be invested in all of this drama, then you would seriously have the money to show you care." He quotes Seneca: people guard money but give away their hours "like they're worthless".
+  - **Successful people tune out:** a clip: "the most successful people I ever met… are painfully unaware of what's going on."
