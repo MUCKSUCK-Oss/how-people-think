@@ -970,3 +970,39 @@ https://www.youtube.com/watch?v=YJkg3bpmKXI · about 1 month old
   - **Dialectical thinking (a clip he plays):** "You can love someone and know you shouldn't be with them… Most people need one side to be wrong so the other side can be right."
   - **Caring costs something:** "if you have the time to be invested in all of this drama, then you would seriously have the money to show you care." He quotes Seneca: people guard money but give away their hours "like they're worthless".
   - **Successful people tune out:** a clip: "the most successful people I ever met… are painfully unaware of what's going on."
+
+## R55. Porn Addiction Is Worse Than Death
+https://www.youtube.com/watch?v=ynuwSzm_1Gg · *Skipped: no transcript available.*
+
+## R56. The True Cost of the Asian Performative Aesthetic
+https://www.youtube.com/watch?v=T87K2Q4Kadk · about 1 year old · 94k views
+- **Main idea:** **branding that signals a desirable culture lets sellers charge more for the same or worse product.** Then he reveals **he made up parts of the video** to show how easily viewers believe a confident speaker.
+- **His thinking:**
+  - **Status signalling:** people pay extra for matcha, boba and Labubus because "whatever is seen as higher class, everyone will mindlessly flock towards it, as a way to signal to others that yes, I am of this class."
+  - **The foreign-name trick:** Häagen-Dazs was made by a man in New York, but given a made-up Scandinavian-sounding name "so he could sell normal tasting ice cream… because of the branding… he could charge a more expensive price." Korean skincare "marketed in words you can't read… so it must be better".
+  - **Scarcity and luxury marketing:** "cute kawaii pastel" aesthetics spread into luxury brands, and "Gen Z is easily eating up this marketing that Asian equals luxury."
+  - **The reveal:** "I made everything up. This entire video is mixed with half truths and half lies." He also says he once claimed to be Korean in a viral clip "and people simply believed the lie… hundreds of thousands of people."
+  - **Why people believe:** "there is this implicit trust that because it comes from this authority… if I have to do research on every single little thing I consume, I would never actually live my life." People think they can spot a suspicious brand or YouTuber "but you can't do that. Humans are fundamentally narcissistic", repeating the drivers-above-average example. "You can trick anyone just because… you are seen as charismatic enough."
+
+## R57. Isekai Stories Are Ruining Anime
+https://www.youtube.com/watch?v=cCV9gpkjF2c · about 1 year old
+- **Main idea:** mass-produced "isekai" anime (a loser is reborn as an overpowered hero) is **designed to sell escapism to people who feel inadequate**. What you consume reveals **what problem you're trying to solve**.
+- **His thinking:**
+  - **Same structure, different quality:** *Alice in Wonderland* and the hero's journey share the structure. "What makes a good story is the problems the main character has to overcome."
+  - **Built for its audience:** the near-identical, personality-less heroes are "done on purpose", made for people who are "lonely, underachieving, socially isolated". "They are trying to solve the feeling of being inadequate… in a completely other world, you have a chance."
+  - **Stories that agree with you:** "instead of confronting that reality, the story validates their misery by making the fantasy world agree with them… What if the world finally gave me everything I wanted for doing nothing?" In the good ones, the hero is sometimes wrong and grows.
+  - **He admits he used to be the target audience:** "I fell down the whole escapism pill… but I've changed."
+  - **People change only when they choose to:** "people who have a certain opinion will stick with it until they are the ones willing to change."
+  - **Reading people through their media:** "people watch different types of media and they solve different problems… I could easily narrow down a person [from what they watch]."
+
+## R58. Asian Stereotypes Make No Sense
+https://www.youtube.com/watch?v=zAxd_kcD_Y0 · about 1 year old
+- **Main idea:** stereotypes **become self-fulfilling**: "people live up to the expectations that are given to them." Identity drives action, and much of our identity was **assigned, not chosen**.
+- **His thinking:**
+  - **Assigned identity:** "how you view yourself today is not based on your life experiences… but what has been assigned to you… by your race, family, gender, religion."
+  - **He conformed himself:** after learning the "Asians know karate" and "good at math" stereotypes, he took karate and became the good student, having been "a very bad kid in elementary". He says the positive pressures "made my life better", while negative expectations push children towards bad actions.
+  - **Belonging pulls behaviour:** he says many people he knows go to raves "not because everyone just loves those activities, but because I've associated myself in this group… so I must do what this group does."
+  - **Change the identity, not just the action:** for addiction, "the best way… is not to stop the action, but… change how you view yourself. You're no longer an addict." He claims that most people who grow up fat stay fat because "they can't see themselves as skinny". *(His claim.)*
+  - **Control what you can:** "You can't control [what you were born with], so who cares? The only thing you can control is how much you choose to like yourself."
+  - **His questions:** "What are the things that I do on a consistent basis that I don't even like doing? How much of my identity was given to me?"
+  - **Reading people:** he describes cutting the lunch line by greeting a quiet student, so others assumed they were friends. He says he predicted from "stereotypes… build… the way they looked" that the person calling him out "was not going to do anything".
