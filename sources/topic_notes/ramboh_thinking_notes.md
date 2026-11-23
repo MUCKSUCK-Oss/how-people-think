@@ -863,3 +863,45 @@ https://www.youtube.com/watch?v=U8eIuqBz_ms · about 11 months old
   - **Excuses vs accountability:** a student who blames COVID and social media for having no friends, after claiming "I take full accountability", isn't accountable. "It's easy to talk to people but difficult to make friends? People will say one thing, but their actions say another."
   - **What can be counted gets valued:** grades count because they're "quantifiable", while social success isn't.
   - **Everyone brags about prestige:** a professor on a cruise boasting about his son. "It is people's lifeblood in… educational systems… how much prestige do you have? Who do you know?"
+
+## R45. Why Ugly People Are More Attractive Than You
+https://www.youtube.com/watch?v=9dt_nBK32uQ · about 1 year old
+- **Main idea:** people *are* shallow, because it's biology. "The problem isn't that we are shallow. The problem is pretending we are not." **"Anti-shallowness"** ("I want to be loved for me") is often a **cop-out to avoid effort and risk**. Status, wealth and personality can outweigh looks.
+- **His thinking:**
+  - **Looks matter biologically:** he cites the 1984 study where hospital patients with a window view of trees healed faster and needed fewer painkillers than those facing a brick wall (Ulrich 1984; he gives no name). "It is wired into our brains to like things that look better."
+  - **Status and wealth are easy to compare** ("followers… net worth"), so they matter in attraction. Personality is subjective and depends on culture.
+  - **Personality can't be faked for long:** "if you want to attract someone that's really meant for you, why put up a facade? You will attract the person [who likes] who you pretend to be." "People don't just stay in your life because of how good you look. They stay… because of what you make them feel."
+  - **Power doesn't guarantee loyalty:** he uses a rapper caught cheating to say status doesn't make partners "submissive".
+  - **The excuse:** "you convince yourself that trying is shallow, that wanting to be seen is weak, that ambition is vanity… Lying to yourself so you don't have to change. That is the real weakness."
+
+## R46. worst types of people (introverts)
+https://www.youtube.com/watch?v=OWB26KIXV2U · about 1 year old
+- **Main idea:** "introvert" is often used as an **identity shield** for being bad at, or scared of, social situations. **Labels become self-fulfilling**: "Identity is the thing that leads you towards your actions."
+- **His thinking:**
+  - **Excuse-labels:** "because I can't talk to other people, that means I am an introvert by default." It's the same pattern as "I hate rich people because I'm poor" or "I don't like working out cause it hurts". "It is a skill issue, and he's actively avoiding it by hiding under the shield."
+  - **The contradiction:** saying "I don't want to talk to people" while wanting a partner and friends who check in.
+  - **Social skill pays off:** he says studies show extroverts get promoted and paid more and are judged better "not [for] how good you are at the job, but just how good your social skills are". *(His summary.)*
+  - **You can only reject what you've mastered:** the Buddha renounced wealth *after* having it. "You cannot denounce social situations if you yourself are not even good at it."
+  - **Labels set expectations:** "if I view myself as an Asian person, I will have this weird gravitational pull to [do the stereotyped things]… if you label yourself as an introvert, you give yourself expectations… I will act this way."
+  - **He describes himself as an introvert** who practised public speaking (tongue twisters, competitions) because it was uncomfortable.
+  - **Reciprocity:** "What if you were the person that checks up on other people, and maybe they will reciprocate the same energy?"
+
+## R47. Hamza Couldn't Handle Falling Off...
+https://www.youtube.com/watch?v=02UtjccBbRQ · about 1 year old
+- **Main idea:** a self-help guru reacts to criticism with **emotional appeals and victim stories**, which Ramboh calls manipulation. He uses it to show how to handle hate badly versus well.
+- **His thinking:**
+  - **Emotional anchoring:** reading a text from his dad ("mortgage paid off… proud of you") during a defence video "is already using manipulative tactics, trying to appeal to your emotions, because that is the most effective way to sway an audience." "He's trying to put yourself in his position. Your family's being attacked."
+  - **The pressure to look perfect:** "there is this weird pressure in his head that he must be seen as perfect… trustworthy, so every little thing in his video sounds good."
+  - **Each video sounds right on its own,** but over time "within the span of two weeks, he'll say one thing then do the exact opposite" (he preaches positivity, then mocks someone's weight). "At some point there will be a mountain of hypocrisy."
+  - **Making yourself the victim:** casting critics as villains and yourself as "the little victim". Ramboh says some of the claims were simply invented. *(His claims.)*
+  - **Blaming others to avoid the mirror:** "he's trying to pinpoint the flaws of others as a way to avoid looking into the mirror."
+  - **Who it works on:** he says it only works on audiences who don't check.
+
+## R48. When Your Favorite Youtuber Hates Me...
+https://www.youtube.com/watch?v=UHeBebAu-Eg · about 1 year old
+- **Main idea:** a small creator asked him for advice, got honest criticism, and turned his Discord against Ramboh. Ramboh's lesson is about **why people praise you**.
+- **His thinking:**
+  - **Everyone wants something:** "when you are a YouTuber… everyone is just trying to take and waste your time."
+  - **"Nobody cares about you" (until you give them a reason):** videos that open with "my last video got 30 views" fail, because viewers came for the topic, not the creator.
+  - **Why people compliment you:** "People will compliment you… not because they actually do, but because… if you do succeed, they are the ones who get to hold the anchor that 'I was your number one supporter'." When he got 5,000 subscribers in high school, "everyone suddenly became my friend."
+  - **Honest feedback vs comfort:** praise from peers kept him small. "I'm small for a reason… maybe because the videos are actually not good."
