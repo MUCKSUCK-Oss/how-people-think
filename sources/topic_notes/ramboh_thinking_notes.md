@@ -2057,3 +2057,21 @@ https://www.youtube.com/watch?v=WV0DnHyU7gI · about 1 year old
   - **His method:** add friction (greyscale, extra login steps), get comfortable with silence ("I was running away from my internal monologue"), then boredom pushes you to do things.
   - **"Productivity is fake":** people who work more "receive so much more satisfaction… stronger fundamentals".
   - **Withdrawal hurts:** "people who choose to overcome addiction face a physical pain… encouraging you to go to that Instagram."
+
+## O40. How I Accidentally Learned Charisma Thanks To "Bad" Advice
+https://www.youtube.com/watch?v=fty2nXdgNYc · about 2 years old
+- **His thinking:**
+  - **Adults' rules vs adults' behaviour:** children are told "always tell the truth" and then "catch them in a lie".
+  - **People don't know what they want** (Ford's "faster horses"; people resisted cars and Teslas "until there was undeniable proof"). Influence needs charisma.
+  - **The bystander gap:** "people like to believe that they would help a person in need… but in reality many people do not help… believing you are the exception without having to put in the work… is arrogant."
+  - **Charisma isn't goodness:** "being charismatic does not mean you have to be a good person… the person who started World War II was praised… because he was charismatic. People put a lot of morality onto specific forms of success."
+  - **Charisma builds from small things:** "not a series of actions but the accumulation of little things… accentuate what is best with me."
+
+## O41. The Problem With Gen-Z Friendships
+https://www.youtube.com/watch?v=IytwrdOTomk · about 1 year old
+- **His thinking (a "tier list" of friends):**
+  - **Your environment sets your standards:** "all my friends are fast food eating gamers, and naturally my standards warped to what my environment was."
+  - **Friend-zoning as free validation:** "they keep you trapped on purpose because the friend zone is free validation… that's why celebrities end up in crews where it's only yes-men… this is human psychology."
+  - **Competitive friends are good:** don't feel threatened, because "a competitive friend is the person you wish and yearn for. They will make you better."
+  - **Activity-based friendships:** "are you friends with that person because you like their… perspective… or is it the video game… the drugs… the partying?… most people don't have [goals]… and are more easily influenced by people… leading them to a path they actually would not like."
+  - **The "scarcity" friend** (extreme penny-pinching) "builds anxiety", and he says it's linked to a lower quality of life.
