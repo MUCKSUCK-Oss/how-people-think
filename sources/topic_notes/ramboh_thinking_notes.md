@@ -1540,3 +1540,35 @@ https://www.youtube.com/watch?v=0_kwdz94o6g · ramboh^2 · recorded live
   - **Fast-food jobs aren't as bad as people say:** "there's many people you meet at fast food where they're 30… 40… it's because it's a good job" (a 59-year McDonald's worker clip). "Do not shame people that work fast food."
   - **Attention is scarce:** "everyone assumes watching a video is free, but… time is extremely limited… there's only a few slots left for people to make a lot of money doing social media."
   - **Live streaming is mentally demanding:** "multiple layers of thinking all at once": making a point, holding a live audience, and recording for a later one.
+
+## S41. Success: Young, Broke, No Money
+https://www.youtube.com/watch?v=Z_EfN_nDfKY · ramboh^2 · he replies to a viewer in Europe (formerly working in South America) who envies Americans' opportunities
+- **His thinking:**
+  - **Comparing to people online:** "you're looking online… at people your age and you're comparing yourself."
+  - **Envy dismisses your own achievement:** "it makes it feel as if what I have done… doesn't amount to anything because I was born in America." He grants the viewer has a point about birthplace. *(He also makes a disparaging remark about another country, recorded only as his.)*
+  - **Comparison is relative all the way up:** a billionaire telling him his life is great would feel just as dismissive. He says "80% of the entire global population have never [flown]" *(his figure)*, so the viewer's own trips are a privilege.
+  - **"Envy is one of the greatest thieves of joy"** (the viewer's line, which he agrees with). He praises the viewer's climb from $0.73 to €10 an hour.
+
+## S42. My Biggest Regret in Life
+https://www.youtube.com/watch?v=GDozh0tYVyA · ramboh^2
+- **His thinking:**
+  - **Regret means you dislike the present:** "if I do regret anything, that is a confession that I don't like my life right now… If you were to change something that did happen in your past, what else would change? What do you have now that would disappear?"
+  - **His example:** as a middle-schooler he nearly bought crypto early but found it too hard (no card, a hardware wallet). Getting rich then "would be kind of bad… because I kind of like my life now."
+  - **Look inward:** "if I were to have regrets, then I am unhappy with myself, and I need to look inward rather than [at] what has happened."
+
+## S43. Why Being Retarded is Actually Awesome
+https://www.youtube.com/watch?v=fSLQDPAFju8 · ramboh^2 · he responds to "if everyone was smart the world would be better; does this justify eugenics?" and disagrees
+- **His thinking:**
+  - **The intelligence fallacy:** "people love to have [the belief] that if you are smart, all of your problems would be solved… But life does not work that way."
+  - **Why he avoided an IQ test for years:** "if I got an 80 IQ… that would just be the perfect excuse… to prevent myself from growing." "People have pre-prepared excuses for when things don't go well… as a way to avoid the lesson of growth."
+  - ***Forrest Gump*:** "you can be dumb… but if you are honest, if you are earnest, if you live… you feel your emotions, you will live life."
+  - **Most films' lessons feel obvious** ("friendship, don't be racist"), while this one "spoke to me in a spiritual context".
+
+## S44. How to Goon and Doomscroll Productively
+https://www.youtube.com/watch?v=bKF4a-TGPpo · ramboh^2
+> ⚠ *His simplified "dopamine baseline" model; unchecked.*
+- **His thinking:**
+  - **Background noise drains motivation:** he draws a daily "dopamine baseline" that drops with each cheap pleasure (porn, junk food, reels) and resets with sleep. Background music or videos are "this slow burn that slowly takes away the dopamine you have throughout the day… it decreases your motivation."
+  - **Music as a tool:** he only listens to music when running, to push harder.
+  - **Willpower studies conflict:** "there's two people just… beefing with each other in the scientific community… willpower is this limited resource… [or] unlimited… who knows… believe what you want to believe." Asked why not believe it's unlimited, he answers that "you could hurt yourself", after running on a sprained ankle.
+  - **Hard exercise carries over:** pushing himself physically makes him "more motivated to come to the desk and work even harder".
