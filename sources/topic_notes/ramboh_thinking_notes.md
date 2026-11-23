@@ -1833,3 +1833,20 @@ https://www.youtube.com/watch?v=5PFn6yTmbF0 · about 1 year old
   - **Plato:** shows built on excitement, fame and money are "superficial imitations that draw viewers away from… genuine knowledge and virtue". MrBeast "is the king of brain rot", even when teaching others to make more of it.
   - **Aristotle:** asks whether content builds virtue. A show that rewards "greed, lying, betrayal, manipulation" teaches viewers "I would totally lie and betray my team for $1 million", at the cost of "dignity".
   - **Ethical egoism:** creators who don't support him still appear with him "because long term it quantifiably benefits their career".
+
+## O11. This TikTok Trend Destroyed MILLIONS of People...
+https://www.youtube.com/watch?v=EgpRwoDpVes · about 3 years old · about the viral anime quote "I have no enemies" (*Vinland Saga*)
+- **His thinking:**
+  - **Vague quotes go viral because everyone reads their own meaning into them:** video essays interpret it as "you are your own enemy", "love everyone" and so on. "There is no consistency because they're looking for something deep when fundamentally the quote itself is extremely shallow."
+  - **Stories' messages are plot devices:** fiction uses its message "to explain the unreasonable reasonably" ("friendship, that's how we did it").
+  - **If you have goals, you have obstacles:** obstacles "actively oppose" you, so "by definition we have enemies". Pretending otherwise lets problems "pile up". *(He says the quote fits only people who have already got everything, as a warning against endless "moving the goalposts".)*
+
+## O12. TikTok Trend Creating Depression...
+https://www.youtube.com/watch?v=PEoYqO2NOEg · about 3 years old · about "corecore" sad-edit videos
+- **Main idea:** sad edit trends **don't create sadness so much as feed a desire to be sad**. People seek sadness as **a justification for laziness**, to avoid problems, and to feel **unique and mysterious**.
+- **His thinking:**
+  - **Edited to persuade:** a "rhythm telling you to pay attention… pause, introspect… editing stimulation to your brain… you can't really realize that it's all [nonsense]."
+  - **Sadness excuses avoidance:** "the times that I sought sadness were the times when I wanted to be lazy. I had life problems… and I didn't want to identify myself as the lazy [one]… Instead I'm sad. I have a justification." *(He separates this from real grief, like losing a parent, where "you cannot do anything about it".)*
+  - **Lazy and cowardly:** "they have the resources to solve the problem… [and] are too scared to confront the problem."
+  - **Wanting to be different:** "everybody just wants to be individualistic… the more mysterious you are, the more unique… and the same thing applies to sadness, because we cannot pinpoint a reason why."
+  - **He includes himself:** re-reading his old diary, "this is embarrassing… the solutions… are so easy."
