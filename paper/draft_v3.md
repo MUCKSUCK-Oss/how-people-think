@@ -11,7 +11,6 @@
 **How this paper was made**
 - **What I decided:** the question and the topics, and which topics to drop; the rule to research each topic before simulating it; the idea of simulating people who make their own choices; adding US childbirth costs and private equity to the healthcare study; many of the sources.
 - **What an AI assistant (Claude) did:** searched and summarised sources, wrote and ran the simulation code under my direction, and drafted the text.
-- **Opinion drafts:** some "My view" paragraphs were drafted by the AI from the YouTuber Ramboh's videos, whose thinking I share, and are marked for me to rewrite.
 - **What I am doing now:** writing the parts marked [TO WRITE], rewriting the introduction and conclusion in my own words, and checking the key sources.
 
 ---
@@ -125,7 +124,7 @@ Bernays, often called the father of public relations, wrote openly that a small 
 
 *Is Bernays right that some "invisible government" of opinion is unavoidable in a big society?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: Partly yes. In a big society nobody can check everything, so someone always narrows the picture. But that doesn't make it harmless. It is almost always the people in power who decide what gets amplified, and it works in rich democracies, not just dictatorships. What has changed is that the media now makes every problem *your* problem. The brain isn't built to handle the world's emergencies in real time, and the guilt of not caring enough becomes a lever. So some invisible government is unavoidable, but how much power you hand it depends partly on what you choose to pay attention to.
+**My view:** Partly yes. In a big society nobody can check everything, so someone always narrows the picture. But that doesn't make it harmless. It is almost always the people in power who decide what gets amplified, and it works in rich democracies, not just dictatorships. What has changed is that the media now makes every problem *your* problem. The brain isn't built to handle the world's emergencies in real time, and the guilt of not caring enough becomes a lever. So some invisible government is unavoidable, but how much power you hand it depends partly on what you choose to pay attention to.
 
 ### 2.3 Lippmann and Plato: the picture in our heads
 Lippmann's key line is that "we define first and then see". We meet most of the world second-hand, through reports, and our stereotypes decide what we notice. Plato's cave makes the same point as a story: whoever controls the shadows controls what the prisoners think is real. Both ideas feed the confirmation-bias part of the simulation (Section 4.4).
@@ -135,7 +134,7 @@ Machiavelli advised that a ruler need not *be* good, only *appear* good, because
 
 *Was Machiavelli describing rulers, or advising them?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: I think he was describing it, and it still holds, which is why it matters. Online, appearing good often beats being good: people who fake, perform or even play dumb tend to win, because the audience only sees the surface. Celebrities posting a black square and moving on is Machiavelli in practice. One correction: appearance alone doesn't last forever. People with a real skill survive scandals because they keep delivering that skill, so reality catches up, just slowly.
+**My view:** I think he was describing it, and it still holds, which is why it matters. Online, appearing good often beats being good: people who fake, perform or even play dumb tend to win, because the audience only sees the surface. Celebrities posting a black square and moving on is Machiavelli in practice. One correction: appearance alone doesn't last forever. People with a real skill survive scandals because they keep delivering that skill, so reality catches up, just slowly.
 
 ---
 
@@ -251,7 +250,7 @@ A standard textbook version of the model (NDlib's Deffuant model) shows the same
 
 *Is confirmation bias a flaw or a defence?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: Both. Sorting people and ideas into boxes isn't evil; the world is too complex and the brain would overload without shortcuts. In that sense it is a defence, as the simulation shows. But the same shortcut makes stereotypes and political tribes feel natural. A viral clip works because it confirms what you already believe but can't prove: nobody cares about statistics, but a video feels real. And when society says one kind of judging is wrong, the shortcut doesn't disappear; it moves to a new label, such as which party someone votes for. It protects you from far-off ideas but locks you into the box you started in.
+**My view:** Both. Sorting people and ideas into boxes isn't evil; the world is too complex and the brain would overload without shortcuts. In that sense it is a defence, as the simulation shows. But the same shortcut makes stereotypes and political tribes feel natural. A viral clip works because it confirms what you already believe but can't prove: nobody cares about statistics, but a video feels real. And when society says one kind of judging is wrong, the shortcut doesn't disappear; it moves to a new label, such as which party someone votes for. It protects you from far-off ideas but locks you into the box you started in.
 
 ### 4.5 Who is affected, and what protects people
 **By thinking style, all tricks on:**
@@ -414,7 +413,7 @@ The *Predictive History* channel is useful as a **case study of persuasion techn
 
 *Why do millions watch this channel?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: People drawn to politics and big-picture theories want certainty: they want the world to work like a maths equation. A channel that "connects the dots" sells that certainty, and it makes the listener feel smart, one of the few who see the truth. Marketing works by selling what people feel they lack, and this sells the feeling of understanding. The same need is why grievance and hate content pays so well online.
+**My view:** People drawn to politics and big-picture theories want certainty: they want the world to work like a maths equation. A channel that "connects the dots" sells that certainty, and it makes the listener feel smart, one of the few who see the truth. Marketing works by selling what people feel they lack, and this sells the feeling of understanding. The same need is why grievance and hate content pays so well online.
 
 **[TO WRITE]** What did *you* find convincing before you knew the techniques?
 
@@ -437,7 +436,7 @@ This is a large-scale "default" too: a belief everyone grows up with and rarely 
 
 *If an AI finds the exact words that move you, is that persuasion or manipulation?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: It becomes manipulation when the words are chosen to please you rather than to be true or useful. Something made to be liked by everyone, or tuned to be liked by *you*, can only ever be liked; it can't really challenge you. Even if the conclusion is true, you accepted it because it fit inside your box, not because you understood it. My test: would you still agree if the same point came in words you dislike?
+**My view:** It becomes manipulation when the words are chosen to please you rather than to be true or useful. Something made to be liked by everyone, or tuned to be liked by *you*, can only ever be liked; it can't really challenge you. Even if the conclusion is true, you accepted it because it fit inside your box, not because you understood it. My test: would you still agree if the same point came in words you dislike?
 
 ### 6.10 Balance check
 The cases come from people across the spectrum: Trump supporters (Chamath Palihapitiya), centre-right leaders (Christopher Luxon), an anti-elite commentator who is hard to place on left or right (Jiang), business leaders, a Gulf government minister and pharma executives. Manipulation is not a left or right habit. But this list still leans one way, because of who appears on these two channels: it has no clear case from the left and no Indian political case from either side.
@@ -488,7 +487,7 @@ Rulers needed people to obey, fight, pay and believe long before there were adve
 
 *Which old trick works better today?*
 
-**My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: Making a group less than human. War propaganda ("savages, barbarians") and today's online hate accounts use the same move, and today it pays, because outrage is rewarded with attention and attention is money. It works better now because a vivid clip spreads faster than any statistic, and one clip of one person feels like proof about a whole group. The second trick that works better today is guilt: being shown every tragedy in the world, all day, makes people anxious and easy to steer.
+**My view:** Making a group less than human. War propaganda ("savages, barbarians") and today's online hate accounts use the same move, and today it pays, because outrage is rewarded with attention and attention is money. It works better now because a vivid clip spreads faster than any statistic, and one clip of one person feels like proof about a whole group. The second trick that works better today is guilt: being shown every tragedy in the world, all day, makes people anxious and easy to steer.
 
 ### 7.2 Then and now: the same moves, 2,000 years apart
 *(Added 6 Nov 2026 from five Predictive History lectures on ancient history; see `sources/topic_notes/ph_old_history_notes.md`. The history column uses what historians generally agree on, not only the lecturer's interpretation.)*
@@ -881,7 +880,7 @@ They rated their trust in the military, their interest in joining and their supp
 ### 12.2 What this means for real life
 - **For individuals:** when you see "only 2 left", a countdown, a pre-ticked box *and* "10,000 people bought this" together, that's a stack. Slow down. When a decision is about someone you love, be extra careful: that is when both AI people and real families were easiest to push.
 - **For regulators:** look at combinations and defaults, not just single claims. India's Uniform Code for Pharmaceutical Marketing Practices (UCPMP), issued in March 2024, bans gifts, travel, hospitality and cash to doctors and their families ✔. It targets exactly the authority channel, though critics say enforcement is weak. The AI-people results support rules that make disclosure **concrete and personal**: the CCPA's 2024 coaching rules (honest results in the same font as the claims), stent prices printed on hospital bills, and requirements to tell customers when a price is personalised. "Others pay $279" moved people far more than any general warning.
-- **For schools:** teaching the tricks (prebunking) helps a little. Teaching people to *pause* may help more. **My view** *(drafted from Ramboh's videos, which I share; to rewrite in my own words)*: schools should also teach that not every problem in the news is yours to carry. Constant negative news keeps people anxious and guilty, which makes them easier to steer. Learning to fix what is close first (your work, your family, your city) before the far-off fight is a kind of pause too.
+- **For schools:** teaching the tricks (prebunking) helps a little. Teaching people to *pause* may help more. **My view:** schools should also teach that not every problem in the news is yours to carry. Constant negative news keeps people anxious and guilty, which makes them easier to steer. Learning to fix what is close first (your work, your family, your city) before the far-off fight is a kind of pause too.
 
 ### 12.3 Reconciling with "persuasion is weak"
 The rule-based simulation's big effects come from choices where people start at 50/50 and don't care much. The real experiments in Section 3 support the claim that this is where manipulation is strongest: sign-up forms, organ-donor forms and product pages, as opposed to elections, where people care and hear competing messages. (The rule-based model itself can't show this; see Section 4.6.) The AI-people experiments add a second exception: **high-stakes choices can be steered too, if the push comes through a trusted person or meets someone desperate.** A ₹30 lakh mortgage and a heart procedure are not low-stakes choices. The paper's claim is therefore limited: **manipulation is strongest in low-stakes, fast, one-sided choices**, and many daily choices are exactly like that.
@@ -1037,7 +1036,7 @@ The rule-based simulation's big effects come from choices where people start at 
 ---
 
 ## Your to-do list for this draft
-1. **Fill in every [TO WRITE].** The opinion questions now have "My view" drafts from Ramboh's videos (24 Nov): rewrite them in your own words. The personal-experience ones (Johnson vs the doctor, what convinced you, India's exam system, bias in the cases, the then-vs-now surprise, the conclusion) are still blank.
+1. **Fill in every [TO WRITE].** The opinion questions now have "My view" drafts (24 Nov): rewrite them in your own words. The personal-experience ones (Johnson vs the doctor, what convinced you, India's exam system, bias in the cases, the then-vs-now surprise, the conclusion) are still blank.
 2. **Edit the "How this paper was made" note** at the top so every sentence is true.
 3. **Check the [CHECK] items**, especially Maron 2020 (ISCHEMIA), Open Science Collaboration 2015, and the Milgram/Asch replication papers.
 4. **Rewrite Sections 1, 12 and 14 in your own words.**
